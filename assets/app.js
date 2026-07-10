@@ -4,6 +4,7 @@ const state = {
   index: [],
   facets: {},
   detailCache: new Map(),
+  detailBundleCache: new Map(),
   detailErrors: new Map(),
   selectedId: null,
   frame: 0,
@@ -252,11 +253,23 @@ async function loadGameDetail(game) {
   if (!game?.id) return null;
   if (state.detailCache.has(game.id)) return state.detailCache.get(game.id);
   state.detailErrors.delete(game.id);
-  const response = await fetch(detailUrl(game));
+  const url = detailUrl(game);
+  if (state.detailBundleCache.has(url)) {
+    const cached = state.detailCache.get(game.id);
+    if (cached) return cached;
+  }
+  const response = await fetch(url);
   if (!response.ok) throw new Error(`detail fetch failed: ${response.status}`);
-  const detail = await response.json();
-  state.detailCache.set(game.id, detail);
-  return detail;
+  const detailOrBundle = await response.json();
+  state.detailBundleCache.set(url, detailOrBundle);
+  if (Array.isArray(detailOrBundle.games)) {
+    for (const detail of detailOrBundle.games) {
+      if (detail?.id) state.detailCache.set(detail.id, detail);
+    }
+  } else if (detailOrBundle?.id) {
+    state.detailCache.set(detailOrBundle.id, detailOrBundle);
+  }
+  return state.detailCache.get(game.id) || null;
 }
 
 function checkedSetHtml(name, values, selected, labeler = (value) => value) {
