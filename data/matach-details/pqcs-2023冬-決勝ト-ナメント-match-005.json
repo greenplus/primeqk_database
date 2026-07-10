@@ -1,0 +1,619 @@
+{
+  "match_id": "pqcs-2023冬-決勝ト-ナメント-match-005",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "決勝トーナメント",
+  "stage_order": 40,
+  "match_no": 5,
+  "match_label": "決勝第5試合",
+  "players": [
+    "3TK",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "3TK",
+      "second_player": "マリン",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx | game 1 | 3TK vs マリン | start=pqcs-set-rule\n3TK:(2334778TJKX)\nマリン:(AA22448TQKK)\n3TK:347\nマリン:D(9)449\n3TK:D(T)KTJ\nマリン:D(Q)KQK\n3TK:D(A)%\nマリン:D(Q)2Q2A\n3TK:D(7)8XTA|X=Q\nマリン:D(4)8QAT,P(399Q)\n3TK:7723#",
+      "initial_hands": {
+        "3TK": "2334778TJKX",
+        "マリン": "AA22448TQKK"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "347",
+          "revolution": false,
+          "draw": null,
+          "action": "347",
+          "action_kind": "prime-or-special",
+          "represented_action": "347",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)449",
+          "revolution": false,
+          "draw": "9",
+          "action": "449",
+          "action_kind": "prime-or-special",
+          "represented_action": "449",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(T)KTJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "KTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)KQK",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)2Q2A",
+          "revolution": false,
+          "draw": "Q",
+          "action": "2Q2A",
+          "action_kind": "prime-or-special",
+          "represented_action": "2Q2A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(7)8XTA|X=Q",
+          "revolution": false,
+          "draw": "7",
+          "action": "8XTA",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTA",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)8QAT,P(399Q)",
+          "revolution": false,
+          "draw": "4",
+          "action": "8QAT",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QAT",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "399Q",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "7723#",
+          "revolution": false,
+          "draw": null,
+          "action": "7723",
+          "action_kind": "prime-or-special",
+          "represented_action": "7723",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第5試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "3TK",
+        "マリン"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-005",
+      "match_no": 5,
+      "match_label": "決勝第5試合",
+      "match_players": [
+        "3TK",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "マリン",
+      "second_player": "3TK",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx | game 2 | マリン vs 3TK | start=pqcs-set-rule\nマリン:(3356678889Q)\n3TK:(AA269TTJQKX)\nマリン:D(3)Q3335668889\n3TK:D(5)9652TTJXQKA|X=3,P(223677JJQKK)\nマリン:7#",
+      "initial_hands": {
+        "マリン": "3356678889Q",
+        "3TK": "AA269TTJQKX"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(3)Q3335668889",
+          "revolution": false,
+          "draw": "3",
+          "action": "Q3335668889",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q3335668889",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(5)9652TTJXQKA|X=3,P(223677JJQKK)",
+          "revolution": false,
+          "draw": "5",
+          "action": "9652TTJXQKA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9652TTJ3QKA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "223677JJQKK",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "7#",
+          "revolution": false,
+          "draw": null,
+          "action": "7",
+          "action_kind": "prime-or-special",
+          "represented_action": "7",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q3335668889",
+          "represented_action": "Q3335668889",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 123335668889,
+          "digit_count": 12,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q3335668889",
+            "represented_action": "Q3335668889",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 123335668889,
+            "digit_count": 12,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第5試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "マリン",
+        "3TK"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-005",
+      "match_no": 5,
+      "match_label": "決勝第5試合",
+      "match_players": [
+        "3TK",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "3TK",
+      "second_player": "マリン",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx | game 3 | 3TK vs マリン | start=pqcs-set-rule\n3TK:(A334899TJJX)\nマリン:(A3467778QKK)\n3TK:D(Q)9348A3,P(5569TK)\nマリン:D(8)QKKA34688777#",
+      "initial_hands": {
+        "3TK": "A334899TJJX",
+        "マリン": "A3467778QKK"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(Q)9348A3,P(5569TK)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "9348A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9348A3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5569TK",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)QKKA34688777#",
+          "revolution": false,
+          "draw": "8",
+          "action": "QKKA34688777",
+          "action_kind": "prime-or-special",
+          "represented_action": "QKKA34688777",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "3TK",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "9348A3",
+            "represented_action": "9348A3",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "5569TK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 934813,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第5試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "3TK",
+        "マリン"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-005",
+      "match_no": 5,
+      "match_label": "決勝第5試合",
+      "match_players": [
+        "3TK",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 4,
+      "first_player": "マリン",
+      "second_player": "3TK",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx | game 4 | マリン vs 3TK | start=pqcs-set-rule\nマリン:(A2335778JKX)\n3TK:(A255668999K)\nマリン:D(8)883\n3TK:D(X)9KX=A255*66899|X=T,P(26779TTTJQQK)\nマリン:57[GC]\nマリン:7A2JKX3|X=A#",
+      "initial_hands": {
+        "マリン": "A2335778JKX",
+        "3TK": "A255668999K"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(8)883",
+          "revolution": false,
+          "draw": "8",
+          "action": "883",
+          "action_kind": "prime-or-special",
+          "represented_action": "883",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(X)9KX=A255*66899|X=T,P(26779TTTJQQK)",
+          "revolution": false,
+          "draw": "X",
+          "action": "9KX=A255*66899",
+          "action_kind": "composite",
+          "represented_action": "9KT",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": "26779TTTJQQK",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "7A2JKX3|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "7A2JKX3",
+          "action_kind": "prime-or-special",
+          "represented_action": "7A2JKA3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "小さい先手から大きい残りで上がるブラフ候補",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": "bluff-candidate",
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "883",
+            "represented_action": "883",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 883,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 4,
+            "turn_index": 4,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "7A2JKX3",
+            "represented_action": "7A2JKA3",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 712111313,
+            "digit_count": 9,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第5試合-pqcs2023冬-数譜-docx-004",
+      "players": [
+        "マリン",
+        "3TK"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-005",
+      "match_no": 5,
+      "match_label": "決勝第5試合",
+      "match_players": [
+        "3TK",
+        "マリン"
+      ],
+      "match_game_no": 4
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "match_id": "pqcs-2023冬-予選aブロック-match-001",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "予選Aブロック",
+  "stage_order": 10,
+  "match_no": 1,
+  "match_label": "予選A第1試合",
+  "players": [
+    "ささら",
+    "さしみ"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "ささら",
+      "second_player": "さしみ",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx | game 1 | ささら vs さしみ | start=pqcs-set-rule\nささら:(5624A9Q7QAK)\nさしみ:(2T8KJ75336X)\nささら:D(5)57[GC]\nささら:KQ=2^5*4A\nさしみ:D(Q)KX=TJQ*2335678|X=K,P(JAJTKJ489X96)\nささら:6Q9A#",
+      "initial_hands": {
+        "ささら": "5624A9Q7QAK",
+        "さしみ": "2T8KJ75336X"
+      },
+      "events": [
+        {
+          "player": "ささら",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "KQ=2^5*4A",
+          "revolution": false,
+          "draw": null,
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)KX=TJQ*2335678|X=K,P(JAJTKJ489X96)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KX=TJQ*2335678",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "JAJTKJ489X96",
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "6Q9A#",
+          "revolution": false,
+          "draw": null,
+          "action": "6Q9A",
+          "action_kind": "prime-or-special",
+          "represented_action": "6Q9A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "ささら",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 2,
+          "player": "ささら",
+          "winner": "ささら",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "KQ=2^5*4A",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "ささら",
+        "winner": "ささら",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 2,
+            "player": "ささら",
+            "winner": "ささら",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "KQ=2^5*4A",
+            "represented_action": "KQ",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第1試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "ささら",
+        "さしみ"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-001",
+      "match_no": 1,
+      "match_label": "予選A第1試合",
+      "match_players": [
+        "ささら",
+        "さしみ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "さしみ",
+      "second_player": "ささら",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx | game 2 | さしみ vs ささら | start=pqcs-set-rule\nさしみ:(A66Q534KJ28)\nささら:(A7T89JQ572A)\nさしみ:D(3)Q6A264J5K383,P(984TK98X4337)\nささら:D(K)987752KQJATA,P(J26QT92JT74X)\nさしみ:D(K)57[GC]\nさしみ:D(Q)TA33899,P(655A57)\nささら:57[GC]\nささら:D(5)57[GC]\nささら:A729[RR]\nさしみ:AXA3|X=0\nささら:D(7)%\nさしみ:D(5)57[GC]\nさしみ:Q4Q4568568K9K93233KT5468J,P(7A729AXA357)\nささら:%\nさしみ:57[GC]\nさしみ:57[GC]\nさしみ:K6789,P(5757)\nささら:TTT89,P()\nさしみ:57[GC]\nさしみ:57[GC]\nさしみ:8AK,P(575)\nささら:T8TT9\nさしみ:D(7)25643\nささら:AX247|X=0\nさしみ:AXA33|X=0\nささら:%\nさしみ:D(T)A9\nささら:D(8)%\nさしみ:998876654432KKQTQJ\nささら:D(T)%\nさしみ:57[GC]\nさしみ:57[GC]\nさしみ:8TK#",
+      "initial_hands": {
+        "さしみ": "A66Q534KJ28",
+        "ささら": "A7T89JQ572A"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(3)Q6A264J5K383,P(984TK98X4337)",
+          "revolution": false,
+          "draw": "3",
+          "action": "Q6A264J5K383",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q6A264J5K383",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "984TK98X4337",
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "D(K)987752KQJATA,P(J26QT92JT74X)",
+          "revolution": false,
+          "draw": "K",
+          "action": "987752KQJATA",
+          "action_kind": "prime-or-special",
+          "represented_action": "987752KQJATA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J26QT92JT74X",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)57[GC]",
+          "revolution": false,
+          "draw": "K",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)TA33899,P(655A57)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "TA33899",
+          "action_kind": "prime-or-special",
+          "represented_action": "TA33899",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "655A57",
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "AXA3|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "Q4Q4568568K9K93233KT5468J,P(7A729AXA357)",
+          "revolution": false,
+          "draw": null,
+          "action": "Q4Q4568568K9K93233KT5468J",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q4Q4568568K9K93233KT5468J",
+          "play_count": 25,
+          "consumed_count": 25,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7A729AXA357",
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "K6789,P(5757)",
+          "revolution": false,
+          "draw": null,
+          "action": "K6789",
+          "action_kind": "prime-or-special",
+          "represented_action": "K6789",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5757",
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "TTT89,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "TTT89",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTT89",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "8AK,P(575)",
+          "revolution": false,
+          "draw": null,
+          "action": "8AK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8AK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "575",
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "T8TT9",
+          "revolution": false,
+          "draw": null,
+          "action": "T8TT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8TT9",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)25643",
+          "revolution": false,
+          "draw": "7",
+          "action": "25643",
+          "action_kind": "prime-or-special",
+          "represented_action": "25643",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "AX247|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX247",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0247",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "AXA33|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA33",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A33",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)A9",
+          "revolution": false,
+          "draw": "T",
+          "action": "A9",
+          "action_kind": "prime-or-special",
+          "represented_action": "A9",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "998876654432KKQTQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "998876654432KKQTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "998876654432KKQTQJ",
+          "play_count": 18,
+          "consumed_count": 18,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "8TK#",
+          "revolution": false,
+          "draw": null,
+          "action": "8TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8TK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q6A264J5K383",
+          "represented_action": "Q6A264J5K383",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "984TK98X4337",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 126126411513383,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 11,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "Q4Q4568568K9K93233KT5468J",
+          "represented_action": "Q4Q4568568K9K93233KT5468J",
+          "play_count": 25,
+          "consumed_count": 25,
+          "hand_before": 25,
+          "hand_after_draw": 25,
+          "draw": null,
+          "penalty": "7A729AXA357",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12412456856813913932331310546811,
+          "digit_count": 32,
+          "digit_gain": 7
+        },
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 27,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "998876654432KKQTQJ",
+          "represented_action": "998876654432KKQTQJ",
+          "play_count": 18,
+          "consumed_count": 18,
+          "hand_before": 25,
+          "hand_after_draw": 25,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 998876654432131312101211,
+          "digit_count": 24,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q6A264J5K383",
+            "represented_action": "Q6A264J5K383",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "984TK98X4337",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 126126411513383,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第1試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "さしみ",
+        "ささら"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-001",
+      "match_no": 1,
+      "match_label": "予選A第1試合",
+      "match_players": [
+        "ささら",
+        "さしみ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "ささら",
+      "second_player": "さしみ",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx | game 3 | ささら vs さしみ | start=pqcs-set-rule\nささら:(878K9647QJX)\nさしみ:(85447QATJAX)\nささら:D(5)57[GC]\nささら:D(5)4567889JQKX|X=K,P(4665J83QQ3K)\nさしみ:D(3)A34Q4T7J85XA|X=A#",
+      "initial_hands": {
+        "ささら": "878K9647QJX",
+        "さしみ": "85447QATJAX"
+      },
+      "events": [
+        {
+          "player": "ささら",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ささら",
+          "raw": "D(5)4567889JQKX|X=K,P(4665J83QQ3K)",
+          "revolution": false,
+          "draw": "5",
+          "action": "4567889JQKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "4567889JQKK",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "4665J83QQ3K",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(3)A34Q4T7J85XA|X=A#",
+          "revolution": false,
+          "draw": "3",
+          "action": "A34Q4T7J85XA",
+          "action_kind": "prime-or-special",
+          "represented_action": "A34Q4T7J85AA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 2,
+          "player": "ささら",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "4567889JQKX",
+          "represented_action": "4567889JQKK",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "5",
+          "penalty": "4665J83QQ3K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 456788911121313,
+          "digit_count": 15,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "ささら",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 2,
+            "player": "ささら",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "4567889JQKX",
+            "represented_action": "4567889JQKK",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "5",
+            "penalty": "4665J83QQ3K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 456788911121313,
+            "digit_count": 15,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第1試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "ささら",
+        "さしみ"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-001",
+      "match_no": 1,
+      "match_label": "予選A第1試合",
+      "match_players": [
+        "ささら",
+        "さしみ"
+      ],
+      "match_game_no": 3
+    }
+  ]
+}

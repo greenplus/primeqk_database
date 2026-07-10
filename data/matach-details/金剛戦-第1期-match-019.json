@@ -1,0 +1,3280 @@
+{
+  "match_id": "金剛戦-第1期-match-019",
+  "tournament": "金剛戦",
+  "season": "第1期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 19,
+  "match_label": "第19試合",
+  "players": [
+    "さしみ",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 1 | マリン vs さしみ | start=marker\nマリン:(48473JA6AJ8)\nさしみ:(35TA25QQ9JJ)\nマリン:D(K)J8J8K4A34A67,P(9X4Q787Q93X8)\nさしみ:D(T)T5T5J2JAQ3Q9#",
+      "initial_hands": {
+        "マリン": "48473JA6AJ8",
+        "さしみ": "35TA25QQ9JJ"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(K)J8J8K4A34A67,P(9X4Q787Q93X8)",
+          "revolution": false,
+          "draw": "K",
+          "action": "J8J8K4A34A67",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8J8K4A34A67",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9X4Q787Q93X8",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)T5T5J2JAQ3Q9#",
+          "revolution": false,
+          "draw": "T",
+          "action": "T5T5J2JAQ3Q9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T5T5J2JAQ3Q9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "J8J8K4A34A67",
+          "represented_action": "J8J8K4A34A67",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "9X4Q787Q93X8",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 118118134134167,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "J8J8K4A34A67",
+            "represented_action": "J8J8K4A34A67",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "9X4Q787Q93X8",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 118118134134167,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-001",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 2 | さしみ vs マリン | start=marker\nさしみ:(TT379J2KX93)\nマリン:(A4X8JQ98A63)\nさしみ:D(2)TTJKX2233799|X=0,P(72K754AAQK64)\nマリン:D(5)J8AA8Q5X6439|X=Q,P(8QK6269Q57J4)\nさしみ:774A\nマリン:D(T)8QTJ\nさしみ:KKKQ=2^4*3*273569\nマリン:D(T)%\nさしみ:9A2XTTJ|X=Q#",
+      "initial_hands": {
+        "さしみ": "TT379J2KX93",
+        "マリン": "A4X8JQ98A63"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(2)TTJKX2233799|X=0,P(72K754AAQK64)",
+          "revolution": false,
+          "draw": "2",
+          "action": "TTJKX2233799",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJK02233799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "72K754AAQK64",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)J8AA8Q5X6439|X=Q,P(8QK6269Q57J4)",
+          "revolution": false,
+          "draw": "5",
+          "action": "J8AA8Q5X6439",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8AA8Q5Q6439",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": "8QK6269Q57J4",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "774A",
+          "revolution": false,
+          "draw": null,
+          "action": "774A",
+          "action_kind": "prime-or-special",
+          "represented_action": "774A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)8QTJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "8QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKKQ=2^4*3*273569",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQ=2^4*3*273569",
+          "action_kind": "composite",
+          "represented_action": "KKKQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9A2XTTJ|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "9A2XTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A2QTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TTJKX2233799",
+          "represented_action": "TTJK02233799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "72K754AAQK64",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1010111302233799,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TTJKX2233799",
+            "represented_action": "TTJK02233799",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "72K754AAQK64",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1010111302233799,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-002",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 3 | マリン vs さしみ | start=marker\nマリン:(3873Q4JJK83)\nさしみ:(3AJ99Q6T64A)\nマリン:D(4)JJQ43334887,P(2A7TQT69Q86)\nさしみ:D(5)T6J6A39Q954A#",
+      "initial_hands": {
+        "マリン": "3873Q4JJK83",
+        "さしみ": "3AJ99Q6T64A"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(4)JJQ43334887,P(2A7TQT69Q86)",
+          "revolution": false,
+          "draw": "4",
+          "action": "JJQ43334887",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJQ43334887",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2A7TQT69Q86",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)T6J6A39Q954A#",
+          "revolution": false,
+          "draw": "5",
+          "action": "T6J6A39Q954A",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6J6A39Q954A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JJQ43334887",
+          "represented_action": "JJQ43334887",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "2A7TQT69Q86",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11111243334887,
+          "digit_count": 14,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JJQ43334887",
+            "represented_action": "JJQ43334887",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "2A7TQT69Q86",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 11111243334887,
+            "digit_count": 14,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-003",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 4 | さしみ vs マリン | start=marker\nさしみ:(5QA354K6X36)\nマリン:(TTT64T84KAQ)\nさしみ:D(9)A35K56Q634X9|X=3,P(K27J6A98Q9KJ)\nマリン:D(7)T4T4T6T7QK8A,P(A279QJ352345)\nさしみ:6659\nマリン:D(J)2TT9\nさしみ:KKJQ=2^3*A64A389\nマリン:D(8)%\nさしみ:57[GC]\nさしみ:9QKJX|X=J#",
+      "initial_hands": {
+        "さしみ": "5QA354K6X36",
+        "マリン": "TTT64T84KAQ"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(9)A35K56Q634X9|X=3,P(K27J6A98Q9KJ)",
+          "revolution": false,
+          "draw": "9",
+          "action": "A35K56Q634X9",
+          "action_kind": "prime-or-special",
+          "represented_action": "A35K56Q63439",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "K27J6A98Q9KJ",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)T4T4T6T7QK8A,P(A279QJ352345)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T4T4T6T7QK8A",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4T4T6T7QK8A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A279QJ352345",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "6659",
+          "revolution": false,
+          "draw": null,
+          "action": "6659",
+          "action_kind": "prime-or-special",
+          "represented_action": "6659",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)2TT9",
+          "revolution": false,
+          "draw": "J",
+          "action": "2TT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "2TT9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJQ=2^3*A64A389",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQ=2^3*A64A389",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9QKJX|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "9QKJX",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QKJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A35K56Q634X9",
+          "represented_action": "A35K56Q63439",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "K27J6A98Q9KJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13513561263439,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 8,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "9QKJX",
+          "represented_action": "9QKJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 5,
+          "hand_after_draw": 5,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 912131111,
+          "digit_count": 9,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A35K56Q634X9",
+            "represented_action": "A35K56Q63439",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "K27J6A98Q9KJ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13513561263439,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-004",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 5 | マリン vs さしみ | start=marker\nマリン:(7K93XA26T3A)\nさしみ:(494839X7K7Q)\nマリン:D(J)2J\nさしみ:D(8)KQ=3447*78899X|X=9,P(65J642T9276T)\nマリン:KX=TA*A3|X=K\nさしみ:D(8)%\nマリン:7963#",
+      "initial_hands": {
+        "マリン": "7K93XA26T3A",
+        "さしみ": "494839X7K7Q"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(J)2J",
+          "revolution": false,
+          "draw": "J",
+          "action": "2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "2J",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)KQ=3447*78899X|X=9,P(65J642T9276T)",
+          "revolution": false,
+          "draw": "8",
+          "action": "KQ=3447*78899X",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "65J642T9276T",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KX=TA*A3|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KX=TA*A3",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "7963#",
+          "revolution": false,
+          "draw": null,
+          "action": "7963",
+          "action_kind": "prime-or-special",
+          "represented_action": "7963",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241226金剛戦数譜-docx-005",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 6 | さしみ vs マリン | start=marker\nさしみ:(5437A8J84Q3)\nマリン:(385K3662KQ9)\nさしみ:D(K)K4A358Q8J347,P(XXJ2862TQ6J9)\nマリン:D(5)QKK552863369,P(QT27479T7AA5)\nさしみ:98876654432KA3TJQQXJ|X=T\nマリン:D(J)%%\nさしみ:2\nマリン:D(T)K\nさしみ:X[IN]\nさしみ:8J#",
+      "initial_hands": {
+        "さしみ": "5437A8J84Q3",
+        "マリン": "385K3662KQ9"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(K)K4A358Q8J347,P(XXJ2862TQ6J9)",
+          "revolution": false,
+          "draw": "K",
+          "action": "K4A358Q8J347",
+          "action_kind": "prime-or-special",
+          "represented_action": "K4A358Q8J347",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XXJ2862TQ6J9",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)QKK552863369,P(QT27479T7AA5)",
+          "revolution": false,
+          "draw": "5",
+          "action": "QKK552863369",
+          "action_kind": "prime-or-special",
+          "represented_action": "QKK552863369",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QT27479T7AA5",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "98876654432KA3TJQQXJ|X=T",
+          "revolution": false,
+          "draw": null,
+          "action": "98876654432KA3TJQQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98876654432KA3TJQQTJ",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)%%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%%",
+          "action_kind": "prime-or-special",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "2",
+          "revolution": false,
+          "draw": null,
+          "action": "2",
+          "action_kind": "prime-or-special",
+          "represented_action": "2",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)K",
+          "revolution": false,
+          "draw": "T",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "8J#",
+          "revolution": false,
+          "draw": null,
+          "action": "8J",
+          "action_kind": "prime-or-special",
+          "represented_action": "8J",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "K4A358Q8J347",
+          "represented_action": "K4A358Q8J347",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "XXJ2862TQ6J9",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 134135812811347,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "98876654432KA3TJQQXJ",
+          "represented_action": "98876654432KA3TJQQTJ",
+          "play_count": 20,
+          "consumed_count": 20,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 988766544321313101112121011,
+          "digit_count": 27,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "K4A358Q8J347",
+            "represented_action": "K4A358Q8J347",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "XXJ2862TQ6J9",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 134135812811347,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-006",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 7 | マリン vs さしみ | start=marker\nマリン:(A55X7JK3J88)\nさしみ:(T6897722XJ6)\nマリン:KJXJ|X=Q\nさしみ:D(A)%\nマリン:57[GC]\nマリン:885A3#",
+      "initial_hands": {
+        "マリン": "A55X7JK3J88",
+        "さしみ": "T6897722XJ6"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KJXJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KJXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "885A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "885A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "885A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJQJ",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJXJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJXJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-007",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 8 | さしみ vs マリン | start=marker\nさしみ:(2434XQ6TTA2)\nマリン:(A7458327Q43)\nさしみ:D(8)T2T4Q6A24X83|X=3,P(KKJ987X32KK5)\nマリン:D(A)57[GC]\nマリン:D(J)J4Q4A38A237#",
+      "initial_hands": {
+        "さしみ": "2434XQ6TTA2",
+        "マリン": "A7458327Q43"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(8)T2T4Q6A24X83|X=3,P(KKJ987X32KK5)",
+          "revolution": false,
+          "draw": "8",
+          "action": "T2T4Q6A24X83",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2T4Q6A24383",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "KKJ987X32KK5",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)J4Q4A38A237#",
+          "revolution": false,
+          "draw": "J",
+          "action": "J4Q4A38A237",
+          "action_kind": "prime-or-special",
+          "represented_action": "J4Q4A38A237",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T2T4Q6A24X83",
+          "represented_action": "T2T4Q6A24383",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "KKJ987X32KK5",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 102104126124383,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T2T4Q6A24X83",
+            "represented_action": "T2T4Q6A24383",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "KKJ987X32KK5",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 102104126124383,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-008",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 9 | マリン vs さしみ | start=marker\nマリン:(46Q79AK2XKK)\nさしみ:(33A9TX637T9)\nマリン:D(2)Q7\nさしみ:D(J)TJ=XA3*T336799|X=K,P(TQ367292QAQ8)\nマリン:KK=XA*K|X=T\nさしみ:D(5)%\nマリン:46229#",
+      "initial_hands": {
+        "マリン": "46Q79AK2XKK",
+        "さしみ": "33A9TX637T9"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(2)Q7",
+          "revolution": false,
+          "draw": "2",
+          "action": "Q7",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q7",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(J)TJ=XA3*T336799|X=K,P(TQ367292QAQ8)",
+          "revolution": false,
+          "draw": "J",
+          "action": "TJ=XA3*T336799",
+          "action_kind": "composite",
+          "represented_action": "TJ",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "TQ367292QAQ8",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KK=XA*K|X=T",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=XA*K",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "46229#",
+          "revolution": false,
+          "draw": null,
+          "action": "46229",
+          "action_kind": "prime-or-special",
+          "represented_action": "46229",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "two-kk-factor",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKK合成数",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "two-kk-factor"
+          ],
+          "contexts": [],
+          "action": "KK=XA*K",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 5,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "two-kk-factor",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "Q7",
+            "represented_action": "Q7",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 127,
+            "digit_count": 3,
+            "digit_gain": 1
+          },
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "two-kk-factor"
+            ],
+            "contexts": [],
+            "action": "KK=XA*K",
+            "represented_action": "KK",
+            "play_count": 2,
+            "consumed_count": 5,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-009",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 10 | さしみ vs マリン | start=marker\nさしみ:(3822845A3QX)\nマリン:(K74T28K95T6)\nさしみ:D(T)8854A3TQX|X=J\nマリン:D(8)8982TK4TK,P(A63JK5566)\nさしみ:223#",
+      "initial_hands": {
+        "さしみ": "3822845A3QX",
+        "マリン": "K74T28K95T6"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(T)8854A3TQX|X=J",
+          "revolution": false,
+          "draw": "T",
+          "action": "8854A3TQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "8854A3TQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)8982TK4TK,P(A63JK5566)",
+          "revolution": false,
+          "draw": "8",
+          "action": "8982TK4TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8982TK4TK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A63JK5566",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "223#",
+          "revolution": false,
+          "draw": null,
+          "action": "223",
+          "action_kind": "prime-or-special",
+          "represented_action": "223",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "8854A3TQX",
+          "represented_action": "8854A3TQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 885413101211,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "8854A3TQX",
+            "represented_action": "8854A3TQJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 885413101211,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-010",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 11 | マリン vs さしみ | start=marker\nマリン:(K7KX23586T6)\nさしみ:(AJJA63QKTT9)\nマリン:KXTK|X=J\nさしみ:D(6)KJQJ\nマリン:%\nさしみ:6AA3\nマリン:D(2)8663\nさしみ:T6T9#",
+      "initial_hands": {
+        "マリン": "K7KX23586T6",
+        "さしみ": "AJJA63QKTT9"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KXTK|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KXTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(6)KJQJ",
+          "revolution": false,
+          "draw": "6",
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "6AA3",
+          "revolution": false,
+          "draw": null,
+          "action": "6AA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6AA3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(2)8663",
+          "revolution": false,
+          "draw": "2",
+          "action": "8663",
+          "action_kind": "prime-or-special",
+          "represented_action": "8663",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "T6T9#",
+          "revolution": false,
+          "draw": null,
+          "action": "T6T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6T9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJTK",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KXTK",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111013,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KXTK",
+            "represented_action": "KJTK",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111013,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-011",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 12 | さしみ vs マリン | start=marker\nさしみ:(89TA5J786Q3)\nマリン:(8J97K35TAXK)\nさしみ:D(3)6789TJQA3\nマリン:D(K)987A3KXTJ|X=Q\nさしみ:%\nマリン:K5K#",
+      "initial_hands": {
+        "さしみ": "89TA5J786Q3",
+        "マリン": "8J97K35TAXK"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(3)6789TJQA3",
+          "revolution": false,
+          "draw": "3",
+          "action": "6789TJQA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6789TJQA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(K)987A3KXTJ|X=Q",
+          "revolution": false,
+          "draw": "K",
+          "action": "987A3KXTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "987A3KQTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "K5K#",
+          "revolution": false,
+          "draw": null,
+          "action": "K5K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K5K",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "6789TJQA3",
+          "represented_action": "6789TJQA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 678910111213,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "6789TJQA3",
+            "represented_action": "6789TJQA3",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 678910111213,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-012",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 13 | マリン vs さしみ | start=marker\nマリン:(573963QJ87A)\nさしみ:(7A45T49T24T)\nマリン:D(K)JQKA38753679,P(2T26QK88A59J)\nさしみ:D(X)T4T4T5A247X9|X=A,P(Q8Q9AJK4633X)\nマリン:D(7)57[GC]\nマリン:D(K)868A23\nさしみ:D(2)9876T3\nマリン:98A2TJ\nさしみ:D(6)KXXQQJ|X=K|X=K\nマリン:%\nさしみ:D(J)96T32544A\nマリン:D(5)963KKKQQJ,P(57868A239)\nさしみ:T4A24J,P(876T39)\nマリン:866A23\nさしみ:D(8)889TTJ=7*A23446,P(A2TJKXXQQJ96T)\nマリン:KKKQQJ\nさしみ:D(3)%\nマリン:57[GC]\nマリン:57[GC]\nマリン:57[GC]\nマリン:9839#",
+      "initial_hands": {
+        "マリン": "573963QJ87A",
+        "さしみ": "7A45T49T24T"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(K)JQKA38753679,P(2T26QK88A59J)",
+          "revolution": false,
+          "draw": "K",
+          "action": "JQKA38753679",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQKA38753679",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2T26QK88A59J",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)T4T4T5A247X9|X=A,P(Q8Q9AJK4633X)",
+          "revolution": false,
+          "draw": "X",
+          "action": "T4T4T5A247X9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4T4T5A247A9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "Q8Q9AJK4633X",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(K)868A23",
+          "revolution": false,
+          "draw": "K",
+          "action": "868A23",
+          "action_kind": "prime-or-special",
+          "represented_action": "868A23",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(2)9876T3",
+          "revolution": false,
+          "draw": "2",
+          "action": "9876T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9876T3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "98A2TJ",
+          "revolution": false,
+          "draw": null,
+          "action": "98A2TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98A2TJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(6)KXXQQJ|X=K|X=K",
+          "revolution": false,
+          "draw": "6",
+          "action": "KXXQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(J)96T32544A",
+          "revolution": false,
+          "draw": "J",
+          "action": "96T32544A",
+          "action_kind": "prime-or-special",
+          "represented_action": "96T32544A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)963KKKQQJ,P(57868A239)",
+          "revolution": false,
+          "draw": "5",
+          "action": "963KKKQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "963KKKQQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "57868A239",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "T4A24J,P(876T39)",
+          "revolution": false,
+          "draw": null,
+          "action": "T4A24J",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4A24J",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "876T39",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "866A23",
+          "revolution": false,
+          "draw": null,
+          "action": "866A23",
+          "action_kind": "prime-or-special",
+          "represented_action": "866A23",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)889TTJ=7*A23446,P(A2TJKXXQQJ96T)",
+          "revolution": false,
+          "draw": "8",
+          "action": "889TTJ=7*A23446",
+          "action_kind": "composite",
+          "represented_action": "889TTJ",
+          "play_count": 6,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A2TJKXXQQJ96T",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKKQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9839#",
+          "revolution": false,
+          "draw": null,
+          "action": "9839",
+          "action_kind": "prime-or-special",
+          "represented_action": "9839",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JQKA38753679",
+          "represented_action": "JQKA38753679",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "2T26QK88A59J",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111213138753679,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 10,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "963KKKQQJ",
+          "represented_action": "963KKKQQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 12,
+          "hand_after_draw": 13,
+          "draw": "5",
+          "penalty": "57868A239",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 963131313121211,
+          "digit_count": 15,
+          "digit_gain": 6
+        },
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 14,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JQKA38753679",
+            "represented_action": "JQKA38753679",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "2T26QK88A59J",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 111213138753679,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-013",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 14 | さしみ vs マリン | start=marker\nさしみ:(JTK3373822X)\nマリン:(T49K6556T26)\nさしみ:D(5)57[GC]\nさしみ:D(7)T2233378JKX|X=3,P(4KJAJ26JK9T)\nマリン:D(Q)TTK2455666Q9,P(3974XQQ8845A)\nさしみ:D(8)X[IN]\nさしみ:D(9)T2T2383\nマリン:QQTQTK8,P(QAA757X)\nさしみ:KKKJJJJ\nマリン:D(T)%\nさしみ:99873624A#",
+      "initial_hands": {
+        "さしみ": "JTK3373822X",
+        "マリン": "T49K6556T26"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)T2233378JKX|X=3,P(4KJAJ26JK9T)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T2233378JKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2233378JK3",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "4KJAJ26JK9T",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)TTK2455666Q9,P(3974XQQ8845A)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "TTK2455666Q9",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTK2455666Q9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3974XQQ8845A",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)X[IN]",
+          "revolution": false,
+          "draw": "8",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(9)T2T2383",
+          "revolution": false,
+          "draw": "9",
+          "action": "T2T2383",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2T2383",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "QQTQTK8,P(QAA757X)",
+          "revolution": false,
+          "draw": null,
+          "action": "QQTQTK8",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQTQTK8",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QAA757X",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKKJJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKJJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKJJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "99873624A#",
+          "revolution": false,
+          "draw": null,
+          "action": "99873624A",
+          "action_kind": "prime-or-special",
+          "represented_action": "99873624A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 2,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "T2233378JKX",
+          "represented_action": "T2233378JK3",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "7",
+          "penalty": "4KJAJ26JK9T",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10223337811133,
+          "digit_count": 14,
+          "digit_gain": 3
+        },
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 7,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKJJJJ",
+          "represented_action": "KKKJJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131311111111,
+          "digit_count": 14,
+          "digit_gain": 7
+        },
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 9,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "99873624A",
+          "represented_action": "99873624A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 998736241,
+          "digit_count": 9,
+          "digit_gain": 0
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 2,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "T2233378JKX",
+            "represented_action": "T2233378JK3",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "7",
+            "penalty": "4KJAJ26JK9T",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10223337811133,
+            "digit_count": 14,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-014",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "マリン",
+      "second_player": "さしみ",
+      "raw_block": "### 241226金剛戦数譜.docx | game 15 | マリン vs さしみ | start=marker\nマリン:(5XA8TKJQQ36)\nさしみ:(7957397KA39)\nマリン:KXQQTJ|X=K\nさしみ:D(8)%\nマリン:8653A#",
+      "initial_hands": {
+        "マリン": "5XA8TKJQQ36",
+        "さしみ": "7957397KA39"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KXQQTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "8653A#",
+          "revolution": false,
+          "draw": null,
+          "action": "8653A",
+          "action_kind": "prime-or-special",
+          "represented_action": "8653A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241226金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KXQQTJ",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121011,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KXQQTJ",
+            "represented_action": "KKQQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131312121011,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "K",
+          "face_count": 1,
+          "next_draw": "8",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241226金剛戦数譜-docx-015",
+      "players": [
+        "マリン",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "241226金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "さしみ",
+      "second_player": "マリン",
+      "raw_block": "### 241226金剛戦数譜.docx | game 16 | さしみ vs マリン | start=marker\nさしみ:(8J7QK3T797T)\nマリン:(2436K9XAX8K)\nさしみ:D(J)377987,P(T8AT52)\nマリン:K\nさしみ:D(Q)%\nマリン:K\nさしみ:D(6)%\nマリン:98X6432AX|X=7|X=A#",
+      "initial_hands": {
+        "さしみ": "8J7QK3T797T",
+        "マリン": "2436K9XAX8K"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(J)377987,P(T8AT52)",
+          "revolution": false,
+          "draw": "J",
+          "action": "377987",
+          "action_kind": "prime-or-special",
+          "represented_action": "377987",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T8AT52",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "98X6432AX|X=7|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "98X6432AX",
+          "action_kind": "prime-or-special",
+          "represented_action": "9876432AA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "7",
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "さしみ",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241226金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "377987",
+            "represented_action": "377987",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "T8AT52",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 377987,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "241226金剛戦数譜-docx-016",
+      "players": [
+        "さしみ",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "さしみ",
+        "マリン"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

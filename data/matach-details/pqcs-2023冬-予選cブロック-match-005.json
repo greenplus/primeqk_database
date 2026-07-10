@@ -1,0 +1,987 @@
+{
+  "match_id": "pqcs-2023冬-予選cブロック-match-005",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "予選Cブロック",
+  "stage_order": 30,
+  "match_no": 5,
+  "match_label": "予選C第5試合",
+  "players": [
+    "はち",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx | game 1 | はち vs マリン | start=pqcs-set-rule\nはち:(TX6QK2493J9)\nマリン:(7K72TJ2A3T9)\nはち:D(5)9KJQTX|X=J,P(X665JK)\nマリン:D(3)TTJKA3279732,P(7AQ9K84TQ6A7)\nはち:D(3)965423\nマリン:D(A)9QQTTJ\nはち:KKQTJJ\nマリン:D(5)%\nはち:5X|X=7[GC]\nはち:X6369|X=A#",
+      "initial_hands": {
+        "はち": "TX6QK2493J9",
+        "マリン": "7K72TJ2A3T9"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(5)9KJQTX|X=J,P(X665JK)",
+          "revolution": false,
+          "draw": "5",
+          "action": "9KJQTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KJQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "X665JK",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)TTJKA3279732,P(7AQ9K84TQ6A7)",
+          "revolution": false,
+          "draw": "3",
+          "action": "TTJKA3279732",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJKA3279732",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7AQ9K84TQ6A7",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(3)965423",
+          "revolution": false,
+          "draw": "3",
+          "action": "965423",
+          "action_kind": "prime-or-special",
+          "represented_action": "965423",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)9QQTTJ",
+          "revolution": false,
+          "draw": "A",
+          "action": "9QQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKQTJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "5X|X=7[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "X6369|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "X6369",
+          "action_kind": "prime-or-special",
+          "represented_action": "A6369",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 5,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQTJJ",
+          "represented_action": "KKQTJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 13,
+          "hand_after_draw": 13,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312101111,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "9KJQTX",
+            "represented_action": "9KJQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "X665JK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91311121011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選cブロック-第5試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Cブロック",
+      "stage_order": 30,
+      "match_id": "pqcs-2023冬-予選cブロック-match-005",
+      "match_no": 5,
+      "match_label": "予選C第5試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx | game 2 | マリン vs はち | start=pqcs-set-rule\nマリン:(44K956338A7)\nはち:(76K24Q6AKJ8)\nマリン:D(5)KA3434556789,P(J973AT4JTQJ7)\nはち:D(X)8642A67JQKKX|X=A,P(3282T8A96XK9)\nマリン:D(5)9645A\nはち:D(2)9784A\nマリン:D(Q)9TQTJ\nはち:KKQKJ\nマリン:D(T)%\nはち:8=2^3\nマリン:D(5)J\nはち:D(Q)X[IN]\nはち:D(9)8=2*2*2\nマリン:D(6)J\nはち:X[IN]\nはち:6Q6T996A,P(45A9784A)\nマリン:8TKQA3\nはち:D(9)%\nマリン:57[GC]\nマリン:57[GC]\nマリン:57[GC]\nマリン:64433#",
+      "initial_hands": {
+        "マリン": "44K956338A7",
+        "はち": "76K24Q6AKJ8"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(5)KA3434556789,P(J973AT4JTQJ7)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KA3434556789",
+          "action_kind": "prime-or-special",
+          "represented_action": "KA3434556789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J973AT4JTQJ7",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(X)8642A67JQKKX|X=A,P(3282T8A96XK9)",
+          "revolution": false,
+          "draw": "X",
+          "action": "8642A67JQKKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "8642A67JQKKA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "3282T8A96XK9",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)9645A",
+          "revolution": false,
+          "draw": "5",
+          "action": "9645A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9645A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(2)9784A",
+          "revolution": false,
+          "draw": "2",
+          "action": "9784A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9784A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)9TQTJ",
+          "revolution": false,
+          "draw": "Q",
+          "action": "9TQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKQKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "8=2^3",
+          "revolution": false,
+          "draw": null,
+          "action": "8=2^3",
+          "action_kind": "composite",
+          "represented_action": "8",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)J",
+          "revolution": false,
+          "draw": "5",
+          "action": "J",
+          "action_kind": "prime-or-special",
+          "represented_action": "J",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)X[IN]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)8=2*2*2",
+          "revolution": false,
+          "draw": "9",
+          "action": "8=2*2*2",
+          "action_kind": "composite",
+          "represented_action": "8",
+          "play_count": 1,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)J",
+          "revolution": false,
+          "draw": "6",
+          "action": "J",
+          "action_kind": "prime-or-special",
+          "represented_action": "J",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "6Q6T996A,P(45A9784A)",
+          "revolution": false,
+          "draw": null,
+          "action": "6Q6T996A",
+          "action_kind": "prime-or-special",
+          "represented_action": "6Q6T996A",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "45A9784A",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "8TKQA3",
+          "revolution": false,
+          "draw": null,
+          "action": "8TKQA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8TKQA3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "64433#",
+          "revolution": false,
+          "draw": null,
+          "action": "64433",
+          "action_kind": "prime-or-special",
+          "represented_action": "64433",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KA3434556789",
+          "represented_action": "KA3434556789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "J973AT4JTQJ7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313434556789,
+          "digit_count": 13,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KA3434556789",
+            "represented_action": "KA3434556789",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "J973AT4JTQJ7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313434556789,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選cブロック-第5試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Cブロック",
+      "stage_order": 30,
+      "match_id": "pqcs-2023冬-予選cブロック-match-005",
+      "match_no": 5,
+      "match_label": "予選C第5試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx | game 3 | はち vs マリン | start=pqcs-set-rule\nはち:(JQ83787X4J3)\nマリン:(3A76T6A449K)\nはち:D(J)378378JJJ4QX|X=9,P(T5685X22K529)\nマリン:D(5)TAAK44359766,P(3A4J9QT6KQ2A)\nはち:D(7)863\nマリン:D(Q)KKJ\nはち:XKQ=2^4*29*283|X=K\nマリン:D(8)%\nはち:57[GC]\nはち:57[GC]\nはち:57[GC]\nはち:8XJTJJ|X=K#",
+      "initial_hands": {
+        "はち": "JQ83787X4J3",
+        "マリン": "3A76T6A449K"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(J)378378JJJ4QX|X=9,P(T5685X22K529)",
+          "revolution": false,
+          "draw": "J",
+          "action": "378378JJJ4QX",
+          "action_kind": "prime-or-special",
+          "represented_action": "378378JJJ4Q9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "T5685X22K529",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)TAAK44359766,P(3A4J9QT6KQ2A)",
+          "revolution": false,
+          "draw": "5",
+          "action": "TAAK44359766",
+          "action_kind": "prime-or-special",
+          "represented_action": "TAAK44359766",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3A4J9QT6KQ2A",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(7)863",
+          "revolution": false,
+          "draw": "7",
+          "action": "863",
+          "action_kind": "prime-or-special",
+          "represented_action": "863",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)KKJ",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "XKQ=2^4*29*283|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XKQ=2^4*29*283",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "8XJTJJ|X=K#",
+          "revolution": false,
+          "draw": null,
+          "action": "8XJTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KJTJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "378378JJJ4QX",
+          "represented_action": "378378JJJ4Q9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "T5685X22K529",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 3783781111114129,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 5,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "XKQ=2^4*29*283",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "hand_before": 22,
+          "hand_after_draw": 22,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131312,
+          "digit_count": 6,
+          "digit_gain": 3
+        },
+        {
+          "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 10,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "8XJTJJ",
+          "represented_action": "8KJTJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJJ",
+          "numeric_value": 81311101111,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Cブロック 第5試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "378378JJJ4QX",
+            "represented_action": "378378JJJ4Q9",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "T5685X22K529",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 3783781111114129,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選cブロック-第5試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Cブロック",
+      "stage_order": 30,
+      "match_id": "pqcs-2023冬-予選cブロック-match-005",
+      "match_no": 5,
+      "match_label": "予選C第5試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 3
+    }
+  ]
+}

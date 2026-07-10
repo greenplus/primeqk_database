@@ -1,0 +1,3084 @@
+{
+  "match_id": "金剛戦-第1期-match-016",
+  "tournament": "金剛戦",
+  "season": "第1期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 16,
+  "match_label": "第16試合",
+  "players": [
+    "nishimura",
+    "さしみ"
+  ],
+  "games": [
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 1 | さしみ vs nishimura | start=marker\nさしみ:(Q5232J5A96Q)\nnishimura:(Q456T2T93TX)\nさしみ:D(K)Q5Q52J2A369\nnishimura:D(K)9X53642QTTK|X=8\nさしみ:%\nnishimura:D(7)T7#",
+      "initial_hands": {
+        "さしみ": "Q5232J5A96Q",
+        "nishimura": "Q456T2T93TX"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(K)Q5Q52J2A369",
+          "revolution": false,
+          "draw": "K",
+          "action": "Q5Q52J2A369",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q5Q52J2A369",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(K)9X53642QTTK|X=8",
+          "revolution": false,
+          "draw": "K",
+          "action": "9X53642QTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9853642QTTK",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)T7#",
+          "revolution": false,
+          "draw": "7",
+          "action": "T7",
+          "action_kind": "prime-or-special",
+          "represented_action": "T7",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q5Q52J2A369",
+          "represented_action": "Q5Q52J2A369",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12512521121369,
+          "digit_count": 14,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q5Q52J2A369",
+            "represented_action": "Q5Q52J2A369",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 12512521121369,
+            "digit_count": 14,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-001",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 2 | nishimura vs さしみ | start=marker\nnishimura:(53XKQ6XT3AT)\nさしみ:(J8K23T4Q74A)\nnishimura:536XTTXQKA3|X=3|X=J#",
+      "initial_hands": {
+        "nishimura": "53XKQ6XT3AT",
+        "さしみ": "J8K23T4Q74A"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "536XTTXQKA3|X=3|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "536XTTXQKA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "5363TTJQKA3",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "3",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "dual-wield-inferred",
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "536XTTXQKA3",
+          "represented_action": "5363TTJQKA3",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 5363101011121313,
+          "digit_count": 16,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "dual-wield-inferred",
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "536XTTXQKA3",
+            "represented_action": "5363TTJQKA3",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 5363101011121313,
+            "digit_count": 16,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-002",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 3 | さしみ vs nishimura | start=marker\nさしみ:(6QJQ575X48A)\nnishimura:(3A49289Q395)\nさしみ:D(4)Q5Q54J46A8X7|X=A,P(KT5726T9K77K)\nnishimura:D(J)Q3A23958949J,P(23T423A68XAT)\nさしみ:D(Q)57[GC]\nさしみ:9446867\nnishimura:D(6)96TQJA3\nさしみ:KKKQQQJ\nnishimura:D(J)%\nさしみ:57[GC]\nさしみ:57[GC]\nさしみ:A2TTX|X=3#",
+      "initial_hands": {
+        "さしみ": "6QJQ575X48A",
+        "nishimura": "3A49289Q395"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(4)Q5Q54J46A8X7|X=A,P(KT5726T9K77K)",
+          "revolution": false,
+          "draw": "4",
+          "action": "Q5Q54J46A8X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q5Q54J46A8A7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "KT5726T9K77K",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(J)Q3A23958949J,P(23T423A68XAT)",
+          "revolution": false,
+          "draw": "J",
+          "action": "Q3A23958949J",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q3A23958949J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "23T423A68XAT",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9446867",
+          "revolution": false,
+          "draw": null,
+          "action": "9446867",
+          "action_kind": "prime-or-special",
+          "represented_action": "9446867",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)96TQJA3",
+          "revolution": false,
+          "draw": "6",
+          "action": "96TQJA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "96TQJA3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKKQQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "A2TTX|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "A2TTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2TT3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q5Q54J46A8X7",
+          "represented_action": "Q5Q54J46A8A7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "KT5726T9K77K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 125125411461817,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 6,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQQJ",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121211,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q5Q54J46A8X7",
+            "represented_action": "Q5Q54J46A8A7",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "KT5726T9K77K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 125125411461817,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-003",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 4 | nishimura vs さしみ | start=marker\nnishimura:(K36JK5X2538)\nさしみ:(K72TX288JQ4)\nnishimura:823\nさしみ:D(5)887\nnishimura:KKJ\nさしみ:D(4)KXQ=2^4*245TJ|X=K,P(TAJAQA8Q62)\nnishimura:X[IN]\nnishimura:5653#",
+      "initial_hands": {
+        "nishimura": "K36JK5X2538",
+        "さしみ": "K72TX288JQ4"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "823",
+          "revolution": false,
+          "draw": null,
+          "action": "823",
+          "action_kind": "prime-or-special",
+          "represented_action": "823",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)887",
+          "revolution": false,
+          "draw": "5",
+          "action": "887",
+          "action_kind": "prime-or-special",
+          "represented_action": "887",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)KXQ=2^4*245TJ|X=K,P(TAJAQA8Q62)",
+          "revolution": false,
+          "draw": "4",
+          "action": "KXQ=2^4*245TJ",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "TAJAQA8Q62",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "5653#",
+          "revolution": false,
+          "draw": null,
+          "action": "5653",
+          "action_kind": "prime-or-special",
+          "represented_action": "5653",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "823",
+            "represented_action": "823",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 823,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 3,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-004",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 5 | さしみ vs nishimura | start=marker\nさしみ:(J7QK6K48373)\nnishimura:(255AA292QT6)\nさしみ:Q37\nnishimura:D(4)9TQ=A2A2*24556,P(7QTJ8K639A84)\nさしみ:KKJ\nnishimura:D(7)%\nさしみ:87643#",
+      "initial_hands": {
+        "さしみ": "J7QK6K48373",
+        "nishimura": "255AA292QT6"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "Q37",
+          "revolution": false,
+          "draw": null,
+          "action": "Q37",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q37",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)9TQ=A2A2*24556,P(7QTJ8K639A84)",
+          "revolution": false,
+          "draw": "4",
+          "action": "9TQ=A2A2*24556",
+          "action_kind": "composite",
+          "represented_action": "9TQ",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7QTJ8K639A84",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "87643#",
+          "revolution": false,
+          "draw": null,
+          "action": "87643",
+          "action_kind": "prime-or-special",
+          "represented_action": "87643",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "Q37",
+            "represented_action": "Q37",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1237,
+            "digit_count": 4,
+            "digit_gain": 1
+          },
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 3,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-005",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 6 | nishimura vs さしみ | start=marker\nnishimura:(344X9KA58T9)\nさしみ:(72JKQ6T8J5X)\nnishimura:D(K)99X4354TK|X=2\nさしみ:D(5)8567J2TQK\nnishimura:D(6)%\nさしみ:5JX|X=3#",
+      "initial_hands": {
+        "nishimura": "344X9KA58T9",
+        "さしみ": "72JKQ6T8J5X"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(K)99X4354TK|X=2",
+          "revolution": false,
+          "draw": "K",
+          "action": "99X4354TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9924354TK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)8567J2TQK",
+          "revolution": false,
+          "draw": "5",
+          "action": "8567J2TQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8567J2TQK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "5JX|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "5JX",
+          "action_kind": "prime-or-special",
+          "represented_action": "5J3",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "99X4354TK",
+          "represented_action": "9924354TK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 99243541013,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "99X4354TK",
+            "represented_action": "9924354TK",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 99243541013,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-006",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 7 | さしみ vs nishimura | start=marker\nさしみ:(Q76A4X828KJ)\nnishimura:(92J3374XK86)\nさしみ:864A\nnishimura:D(T)KJTX|X=K\nさしみ:KJQX|X=J\nnishimura:D(4)%\nさしみ:827#",
+      "initial_hands": {
+        "さしみ": "Q76A4X828KJ",
+        "nishimura": "92J3374XK86"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "864A",
+          "revolution": false,
+          "draw": null,
+          "action": "864A",
+          "action_kind": "prime-or-special",
+          "represented_action": "864A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(T)KJTX|X=K",
+          "revolution": false,
+          "draw": "T",
+          "action": "KJTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KJQX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "827#",
+          "revolution": false,
+          "draw": null,
+          "action": "827",
+          "action_kind": "prime-or-special",
+          "represented_action": "827",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KJQX",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "864A",
+            "represented_action": "864A",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8641,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 3,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "KJQX",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-007",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 8 | nishimura vs さしみ | start=marker\nnishimura:(3KX7Q8629JA)\nさしみ:(Q56A3J43292)\nnishimura:K\nさしみ:D(A)%\nnishimura:X[IN]\nnishimura:978A623QJ#",
+      "initial_hands": {
+        "nishimura": "3KX7Q8629JA",
+        "さしみ": "Q56A3J43292"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "978A623QJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "978A623QJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "978A623QJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 4,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "978A623QJ",
+          "represented_action": "978A623QJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 97816231211,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 4,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [],
+            "action": "978A623QJ",
+            "represented_action": "978A623QJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 97816231211,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-008",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 9 | さしみ vs nishimura | start=marker\nさしみ:(ATK8J93J3QK)\nnishimura:(3A2X6K85256)\nさしみ:A3KKJTQJ\nnishimura:D(2)%\nさしみ:983#",
+      "initial_hands": {
+        "さしみ": "ATK8J93J3QK",
+        "nishimura": "3A2X6K85256"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "A3KKJTQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "A3KKJTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3KKJTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "983#",
+          "revolution": false,
+          "draw": null,
+          "action": "983",
+          "action_kind": "prime-or-special",
+          "represented_action": "983",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "A3KKJTQJ",
+          "represented_action": "A3KKJTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131311101211,
+          "digit_count": 14,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "A3KKJTQJ",
+            "represented_action": "A3KKJTQJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13131311101211,
+            "digit_count": 14,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "nishimura",
+          "face_cards": "XK",
+          "face_count": 2,
+          "next_draw": "2",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241220金剛戦数譜-docx-009",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 10 | nishimura vs さしみ | start=marker\nnishimura:(QK45AX532J6)\nさしみ:(AJ56K3A8T73)\nnishimura:5653\nさしみ:D(Q)8363\nnishimura:KXQJ|X=J\nさしみ:D(T)KQTJ=TA*A57,P(88968QJ52)\nnishimura:42A#",
+      "initial_hands": {
+        "nishimura": "QK45AX532J6",
+        "さしみ": "AJ56K3A8T73"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "5653",
+          "revolution": false,
+          "draw": null,
+          "action": "5653",
+          "action_kind": "prime-or-special",
+          "represented_action": "5653",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)8363",
+          "revolution": false,
+          "draw": "Q",
+          "action": "8363",
+          "action_kind": "prime-or-special",
+          "represented_action": "8363",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KXQJ|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)KQTJ=TA*A57,P(88968QJ52)",
+          "revolution": false,
+          "draw": "T",
+          "action": "KQTJ=TA*A57",
+          "action_kind": "composite",
+          "represented_action": "KQTJ",
+          "play_count": 4,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "88968QJ52",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "42A#",
+          "revolution": false,
+          "draw": null,
+          "action": "42A",
+          "action_kind": "prime-or-special",
+          "represented_action": "42A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KXQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "5653",
+            "represented_action": "5653",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5653,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 3,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "KXQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-010",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 11 | さしみ vs nishimura | start=marker\nさしみ:(8T2J742A258)\nnishimura:(5386J84K94X)\nさしみ:D(T)T8T8J2A22457,P(697AQ9332TA7)\nnishimura:D(5)JXK344556889|X=0,P(KJ66JQ973AKT)\nさしみ:D(K)57[GC]\nさしみ:D(5)A729[RR]\nnishimura:D(Q)%\nさしみ:D(4)T2342348AA2579\nnishimura:A3344556667899,P(QX57A729)\nさしみ:68KTTQJ#",
+      "initial_hands": {
+        "さしみ": "8T2J742A258",
+        "nishimura": "5386J84K94X"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(T)T8T8J2A22457,P(697AQ9332TA7)",
+          "revolution": false,
+          "draw": "T",
+          "action": "T8T8J2A22457",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8T8J2A22457",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "697AQ9332TA7",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(5)JXK344556889|X=0,P(KJ66JQ973AKT)",
+          "revolution": false,
+          "draw": "5",
+          "action": "JXK344556889",
+          "action_kind": "prime-or-special",
+          "represented_action": "J0K344556889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "KJ66JQ973AKT",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)57[GC]",
+          "revolution": false,
+          "draw": "K",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)A729[RR]",
+          "revolution": false,
+          "draw": "5",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)T2342348AA2579",
+          "revolution": false,
+          "draw": "4",
+          "action": "T2342348AA2579",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2342348AA2579",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A3344556667899,P(QX57A729)",
+          "revolution": false,
+          "draw": null,
+          "action": "A3344556667899",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3344556667899",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QX57A729",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "68KTTQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "68KTTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "68KTTQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T8T8J2A22457",
+          "represented_action": "T8T8J2A22457",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "697AQ9332TA7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 108108112122457,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 6,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "T2342348AA2579",
+          "represented_action": "T2342348AA2579",
+          "play_count": 14,
+          "consumed_count": 14,
+          "hand_before": 20,
+          "hand_after_draw": 21,
+          "draw": "4",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 102342348112579,
+          "digit_count": 15,
+          "digit_gain": 1
+        },
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 8,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "68KTTQJ",
+          "represented_action": "68KTTQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 681310101211,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T8T8J2A22457",
+            "represented_action": "T8T8J2A22457",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "697AQ9332TA7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 108108112122457,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-011",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 12 | nishimura vs さしみ | start=marker\nnishimura:(K3T55Q7X48Q)\nさしみ:(366AT496KJ2)\nnishimura:D(Q)KTQQQX|X=J\nさしみ:D(T)%\nnishimura:57[GC]\nnishimura:8543#",
+      "initial_hands": {
+        "nishimura": "K3T55Q7X48Q",
+        "さしみ": "366AT496KJ2"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(Q)KTQQQX|X=J",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KTQQQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "8543#",
+          "revolution": false,
+          "draw": null,
+          "action": "8543",
+          "action_kind": "prime-or-special",
+          "represented_action": "8543",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KTQQQX",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131012121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KTQQQX",
+            "represented_action": "KTQQQJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131012121211,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "TKJT",
+          "face_count": 4,
+          "next_draw": "T",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241220金剛戦数譜-docx-012",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 13 | さしみ vs nishimura | start=marker\nさしみ:(2A9KJK32765)\nnishimura:(3AA8952JKQA)\nさしみ:223\nnishimura:D(7)983\nさしみ:KKJ\nnishimura:D(4)%\nさしみ:57[GC]\nさしみ:69A#",
+      "initial_hands": {
+        "さしみ": "2A9KJK32765",
+        "nishimura": "3AA8952JKQA"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "223",
+          "revolution": false,
+          "draw": null,
+          "action": "223",
+          "action_kind": "prime-or-special",
+          "represented_action": "223",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)983",
+          "revolution": false,
+          "draw": "7",
+          "action": "983",
+          "action_kind": "prime-or-special",
+          "represented_action": "983",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "69A#",
+          "revolution": false,
+          "draw": null,
+          "action": "69A",
+          "action_kind": "prime-or-special",
+          "represented_action": "69A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "223",
+            "represented_action": "223",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 223,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 3,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-013",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 14 | nishimura vs さしみ | start=marker\nnishimura:(K23K2A89J92)\nさしみ:(534346XKA27)\nnishimura:99A\nさしみ:D(Q)KQX|X=K\nnishimura:KKJ\nさしみ:D(4)%\nnishimura:82223#",
+      "initial_hands": {
+        "nishimura": "K23K2A89J92",
+        "さしみ": "534346XKA27"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "99A",
+          "revolution": false,
+          "draw": null,
+          "action": "99A",
+          "action_kind": "prime-or-special",
+          "represented_action": "99A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)KQX|X=K",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "82223#",
+          "revolution": false,
+          "draw": null,
+          "action": "82223",
+          "action_kind": "prime-or-special",
+          "represented_action": "82223",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "99A",
+            "represented_action": "99A",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 991,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 3,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-014",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### 241220金剛戦数譜.docx | game 15 | さしみ vs nishimura | start=marker\nさしみ:(9AQX2875865)\nnishimura:(9JJ495T4Q22)\nさしみ:D(9)57[GC]\nさしみ:D(4)Q8A2894596X|X=9#",
+      "initial_hands": {
+        "さしみ": "9AQX2875865",
+        "nishimura": "9JJ495T4Q22"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)Q8A2894596X|X=9#",
+          "revolution": false,
+          "draw": "4",
+          "action": "Q8A2894596X",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q8A28945969",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 2,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "Q8A2894596X",
+          "represented_action": "Q8A28945969",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "4",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 128128945969,
+          "digit_count": 12,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 2,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "Q8A2894596X",
+            "represented_action": "Q8A28945969",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "4",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 128128945969,
+            "digit_count": 12,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-015",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "241220金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### 241220金剛戦数譜.docx | game 16 | nishimura vs さしみ | start=marker\nnishimura:(X2Q7697JT54)\nさしみ:(K73A6AJ5X27)\nnishimura:57[GC]\nnishimura:9647X2TQJ|X=A#",
+      "initial_hands": {
+        "nishimura": "X2Q7697JT54",
+        "さしみ": "K73A6AJ5X27"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "9647X2TQJ|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "9647X2TQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9647A2TQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241220金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 2,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "9647X2TQJ",
+          "represented_action": "9647A2TQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 964712101211,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241220金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 2,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "9647X2TQJ",
+            "represented_action": "9647A2TQJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 964712101211,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241220金剛戦数譜-docx-016",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-016",
+      "match_no": 16,
+      "match_label": "第16試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

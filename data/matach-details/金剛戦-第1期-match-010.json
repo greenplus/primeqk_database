@@ -1,0 +1,3467 @@
+{
+  "match_id": "金剛戦-第1期-match-010",
+  "tournament": "金剛戦",
+  "season": "第1期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 10,
+  "match_label": "第10試合",
+  "players": [
+    "さしみ",
+    "もりしー"
+  ],
+  "games": [
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 1 | もりしー vs さしみ | start=marker\nもりしー:(K2389X56J67)\nさしみ:(A25Q9J53QT6)\nもりしー:863\nさしみ:D(4)5TA\nもりしー:KXJ|X=K\nさしみ:D(K)%\nもりしー:57[GC]\nもりしー:269#",
+      "initial_hands": {
+        "もりしー": "K2389X56J67",
+        "さしみ": "A25Q9J53QT6"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "863",
+          "revolution": false,
+          "draw": null,
+          "action": "863",
+          "action_kind": "prime-or-special",
+          "represented_action": "863",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)5TA",
+          "revolution": false,
+          "draw": "4",
+          "action": "5TA",
+          "action_kind": "prime-or-special",
+          "represented_action": "5TA",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KXJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "269#",
+          "revolution": false,
+          "draw": null,
+          "action": "269",
+          "action_kind": "prime-or-special",
+          "represented_action": "269",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KXJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "863",
+            "represented_action": "863",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 863,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 3,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KXJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-001",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 2 | さしみ vs もりしー | start=marker\nさしみ:(QQTA5K4773J)\nもりしー:(58342726398)\nさしみ:54JQTQK7\nもりしー:%\nさしみ:A37#",
+      "initial_hands": {
+        "さしみ": "QQTA5K4773J",
+        "もりしー": "58342726398"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "54JQTQK7",
+          "revolution": false,
+          "draw": null,
+          "action": "54JQTQK7",
+          "action_kind": "prime-or-special",
+          "represented_action": "54JQTQK7",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "A37#",
+          "revolution": false,
+          "draw": null,
+          "action": "A37",
+          "action_kind": "prime-or-special",
+          "represented_action": "A37",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "54JQTQK7",
+          "represented_action": "54JQTQK7",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 5411121012137,
+          "digit_count": 13,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "54JQTQK7",
+            "represented_action": "54JQTQK7",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5411121012137,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "",
+          "face_count": 0,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241107金剛戦数譜-docx-002",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 3 | もりしー vs さしみ | start=marker\nもりしー:(5Q5T9T278Q5)\nさしみ:(A36238J5AAK)\nもりしー:D(J)85QQTTJ\nさしみ:D(Q)%\nもりしー:D(3)57[GC]\nもりしー:3259#",
+      "initial_hands": {
+        "もりしー": "5Q5T9T278Q5",
+        "さしみ": "A36238J5AAK"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(J)85QQTTJ",
+          "revolution": false,
+          "draw": "J",
+          "action": "85QQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "85QQTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "3259#",
+          "revolution": false,
+          "draw": null,
+          "action": "3259",
+          "action_kind": "prime-or-special",
+          "represented_action": "3259",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "85QQTTJ",
+          "represented_action": "85QQTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 851212101011,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "85QQTTJ",
+            "represented_action": "85QQTTJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 851212101011,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "JKQ",
+          "face_count": 3,
+          "next_draw": "Q",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241107金剛戦数譜-docx-003",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 4 | さしみ vs もりしー | start=marker\nさしみ:(4K2J4579K32)\nもりしー:(2X875687JX3)\nさしみ:449\nもりしー:D(3)XXJ|X=K|X=K\nさしみ:%\nもりしー:57[GC]\nもりしー:2836837,P(96J5A83)\nさしみ:KKJ\nもりしー:%\nさしみ:57[GC]\nさしみ:223#",
+      "initial_hands": {
+        "さしみ": "4K2J4579K32",
+        "もりしー": "2X875687JX3"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "449",
+          "revolution": false,
+          "draw": null,
+          "action": "449",
+          "action_kind": "prime-or-special",
+          "represented_action": "449",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)XXJ|X=K|X=K",
+          "revolution": false,
+          "draw": "3",
+          "action": "XXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "2836837,P(96J5A83)",
+          "revolution": false,
+          "draw": null,
+          "action": "2836837",
+          "action_kind": "prime-or-special",
+          "represented_action": "2836837",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "96J5A83",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "223#",
+          "revolution": false,
+          "draw": null,
+          "action": "223",
+          "action_kind": "prime-or-special",
+          "represented_action": "223",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 6,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 6,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "449",
+            "represented_action": "449",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 449,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 6,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-004",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 5 | もりしー vs さしみ | start=marker\nもりしー:(2A4A7JKQQ44)\nさしみ:(3822X742A86)\nもりしー:D(Q)QQQA2444A7JK,P(TKAKTJ6958KT)\nさしみ:76822=384AX*2|X=A,P(56J87J59533)\nもりしー:D(Q)57[GC]\nもりしー:D(6)44T468A,P(9X97T35)\nさしみ:D(7)X[IN]\nさしみ:D(X)57[GC]\nさしみ:D(5)98876654X32A2J|X=4\nもりしー:D(7)%%\nさしみ:57[GC]\nさしみ:J25833#",
+      "initial_hands": {
+        "もりしー": "2A4A7JKQQ44",
+        "さしみ": "3822X742A86"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(Q)QQQA2444A7JK,P(TKAKTJ6958KT)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "QQQA2444A7JK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQA2444A7JK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TKAKTJ6958KT",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "76822=384AX*2|X=A,P(56J87J59533)",
+          "revolution": false,
+          "draw": null,
+          "action": "76822=384AX*2",
+          "action_kind": "composite",
+          "represented_action": "76822",
+          "play_count": 5,
+          "consumed_count": 11,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "56J87J59533",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(6)44T468A,P(9X97T35)",
+          "revolution": false,
+          "draw": "6",
+          "action": "44T468A",
+          "action_kind": "prime-or-special",
+          "represented_action": "44T468A",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9X97T35",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)X[IN]",
+          "revolution": false,
+          "draw": "7",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)98876654X32A2J|X=4",
+          "revolution": false,
+          "draw": "5",
+          "action": "98876654X32A2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "98876654432A2J",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)%%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%%",
+          "action_kind": "prime-or-special",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "J25833#",
+          "revolution": false,
+          "draw": null,
+          "action": "J25833",
+          "action_kind": "prime-or-special",
+          "represented_action": "J25833",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "QQQA2444A7JK",
+          "represented_action": "QQQA2444A7JK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "TKAKTJ6958KT",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12121212444171113,
+          "digit_count": 17,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "QQQA2444A7JK",
+            "represented_action": "QQQA2444A7JK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "TKAKTJ6958KT",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 12121212444171113,
+            "digit_count": 17,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-005",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 6 | さしみ vs もりしー | start=marker\nさしみ:(8467T24658A)\nもりしー:(Q2JJ8K3K659)\nさしみ:D(K)TA244566788K,P(Q6A79T2J379X)\nもりしー:826K\nさしみ:D(2)85T9\nもりしー:KJQJ\nさしみ:D(T)KQTJ=TA*A63*797\nもりしー:%\nさしみ:2846X67|X=8\nもりしー:%\nさしみ:4=2*2#",
+      "initial_hands": {
+        "さしみ": "8467T24658A",
+        "もりしー": "Q2JJ8K3K659"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(K)TA244566788K,P(Q6A79T2J379X)",
+          "revolution": false,
+          "draw": "K",
+          "action": "TA244566788K",
+          "action_kind": "prime-or-special",
+          "represented_action": "TA244566788K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q6A79T2J379X",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "826K",
+          "revolution": false,
+          "draw": null,
+          "action": "826K",
+          "action_kind": "prime-or-special",
+          "represented_action": "826K",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(2)85T9",
+          "revolution": false,
+          "draw": "2",
+          "action": "85T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "85T9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)KQTJ=TA*A63*797",
+          "revolution": false,
+          "draw": "T",
+          "action": "KQTJ=TA*A63*797",
+          "action_kind": "composite",
+          "represented_action": "KQTJ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "2846X67|X=8",
+          "revolution": false,
+          "draw": null,
+          "action": "2846X67",
+          "action_kind": "prime-or-special",
+          "represented_action": "2846867",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "4=2*2#",
+          "revolution": false,
+          "draw": null,
+          "action": "4=2*2",
+          "action_kind": "composite",
+          "represented_action": "4",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TA244566788K",
+          "represented_action": "TA244566788K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "Q6A79T2J379X",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10124456678813,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 5,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KQTJ=TA*A63*797",
+          "represented_action": "KQTJ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "hand_before": 21,
+          "hand_after_draw": 22,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 13121011,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TA244566788K",
+            "represented_action": "TA244566788K",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "Q6A79T2J379X",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10124456678813,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-006",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 7 | もりしー vs さしみ | start=marker\nもりしー:(AJ8T529JX8J)\nさしみ:(AJT38QQ3966)\nもりしー:8A2XTJJJ|X=Q,P(ATQKA429)\nさしみ:D(T)T6T6Q3Q3A8J9,P(57X7Q7425259)\nもりしー:D(K)J45899\nさしみ:D(8)8QT923\nもりしー:%%\nさしみ:987654A3QTQXJ|X=3\nもりしー:D(7)KKTTJJQX8A2AA|X=A,P(K6K36443J4589)\nさしみ:57[GC]\nさしみ:6257#",
+      "initial_hands": {
+        "もりしー": "AJ8T529JX8J",
+        "さしみ": "AJT38QQ3966"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "8A2XTJJJ|X=Q,P(ATQKA429)",
+          "revolution": false,
+          "draw": null,
+          "action": "8A2XTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8A2QTJJJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": "ATQKA429",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)T6T6Q3Q3A8J9,P(57X7Q7425259)",
+          "revolution": false,
+          "draw": "T",
+          "action": "T6T6Q3Q3A8J9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6T6Q3Q3A8J9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "57X7Q7425259",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)J45899",
+          "revolution": false,
+          "draw": "K",
+          "action": "J45899",
+          "action_kind": "prime-or-special",
+          "represented_action": "J45899",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)8QT923",
+          "revolution": false,
+          "draw": "8",
+          "action": "8QT923",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QT923",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%%",
+          "revolution": false,
+          "draw": null,
+          "action": "%%",
+          "action_kind": "prime-or-special",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "987654A3QTQXJ|X=3",
+          "revolution": false,
+          "draw": null,
+          "action": "987654A3QTQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654A3QTQ3J",
+          "play_count": 13,
+          "consumed_count": 13,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)KKTTJJQX8A2AA|X=A,P(K6K36443J4589)",
+          "revolution": false,
+          "draw": "7",
+          "action": "KKTTJJQX8A2AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKTTJJQA8A2AA",
+          "play_count": 13,
+          "consumed_count": 13,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "K6K36443J4589",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "6257#",
+          "revolution": false,
+          "draw": null,
+          "action": "6257",
+          "action_kind": "prime-or-special",
+          "represented_action": "6257",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 7,
+          "player": "もりしー",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKTTJJQX8A2AA",
+          "represented_action": "KKTTJJQA8A2AA",
+          "play_count": 13,
+          "consumed_count": 13,
+          "hand_before": 14,
+          "hand_after_draw": 15,
+          "draw": "7",
+          "penalty": "K6K36443J4589",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131010111112181211,
+          "digit_count": 20,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8A2XTJJJ",
+            "represented_action": "8A2QTJJJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": "ATQKA429",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8121210111111,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-007",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 8 | さしみ vs もりしー | start=marker\nさしみ:(JA92T682KA5)\nもりしー:(2TQ57438QX7)\nさしみ:D(9)A2A256899TJK,P(4KQ5AJT59386)\nもりしー:D(4)57X728QT44Q3|X=5,P(TJ8K47QXJ792)\nさしみ:D(A)AAAA22345556688999TTJJQK,P(633K6)\nもりしー:57[GC]\nもりしー:D(5)8844377\nさしみ:D(7)986TJ53\nもりしー:KQJTQTJ,P()\nさしみ:66T9\nもりしー:QQQJ\nさしみ:KKJQ=2^3*A64A389\nもりしー:%\nさしみ:57[GC]\nさしみ:5AA2K#",
+      "initial_hands": {
+        "さしみ": "JA92T682KA5",
+        "もりしー": "2TQ57438QX7"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(9)A2A256899TJK,P(4KQ5AJT59386)",
+          "revolution": false,
+          "draw": "9",
+          "action": "A2A256899TJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2A256899TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4KQ5AJT59386",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(4)57X728QT44Q3|X=5,P(TJ8K47QXJ792)",
+          "revolution": false,
+          "draw": "4",
+          "action": "57X728QT44Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "575728QT44Q3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": "TJ8K47QXJ792",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(A)AAAA22345556688999TTJJQK,P(633K6)",
+          "revolution": false,
+          "draw": "A",
+          "action": "AAAA22345556688999TTJJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAAA22345556688999TTJJQK",
+          "play_count": 24,
+          "consumed_count": 24,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "633K6",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)8844377",
+          "revolution": false,
+          "draw": "5",
+          "action": "8844377",
+          "action_kind": "prime-or-special",
+          "represented_action": "8844377",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)986TJ53",
+          "revolution": false,
+          "draw": "7",
+          "action": "986TJ53",
+          "action_kind": "prime-or-special",
+          "represented_action": "986TJ53",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KQJTQTJ,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "KQJTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQJTQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "66T9",
+          "revolution": false,
+          "draw": null,
+          "action": "66T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "66T9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "QQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJQ=2^3*A64A389",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQ=2^3*A64A389",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "5AA2K#",
+          "revolution": false,
+          "draw": null,
+          "action": "5AA2K",
+          "action_kind": "prime-or-special",
+          "represented_action": "5AA2K",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A2A256899TJK",
+          "represented_action": "A2A256899TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "4KQ5AJT59386",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121256899101113,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "AAAA22345556688999TTJJQK",
+          "represented_action": "AAAA22345556688999TTJJQK",
+          "play_count": 24,
+          "consumed_count": 24,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "A",
+          "penalty": "633K6",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111122345556688999101011111213,
+          "digit_count": 30,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A2A256899TJK",
+            "represented_action": "A2A256899TJK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "4KQ5AJT59386",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 121256899101113,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-008",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 9 | もりしー vs さしみ | start=marker\nもりしー:(K45Q5396728)\nさしみ:(9J73A76A882)\nもりしー:D(4)987654Q5423,P(2T9KQQKA644)\nさしみ:D(X)J8AA8729736X|X=A#",
+      "initial_hands": {
+        "もりしー": "K45Q5396728",
+        "さしみ": "9J73A76A882"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(4)987654Q5423,P(2T9KQQKA644)",
+          "revolution": false,
+          "draw": "4",
+          "action": "987654Q5423",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654Q5423",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2T9KQQKA644",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)J8AA8729736X|X=A#",
+          "revolution": false,
+          "draw": "X",
+          "action": "J8AA8729736X",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8AA8729736A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "987654Q5423",
+          "represented_action": "987654Q5423",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "2T9KQQKA644",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 987654125423,
+          "digit_count": 12,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "987654Q5423",
+            "represented_action": "987654Q5423",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "2T9KQQKA644",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 987654125423,
+            "digit_count": 12,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-009",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 10 | さしみ vs もりしー | start=marker\nさしみ:(ATKJ2X45QT3)\nもりしー:(49X5738JQJ3)\nさしみ:D(A)KTQA2JTX|X=J\nもりしー:D(2)%\nさしみ:54A3#",
+      "initial_hands": {
+        "さしみ": "ATKJ2X45QT3",
+        "もりしー": "49X5738JQJ3"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(A)KTQA2JTX|X=J",
+          "revolution": false,
+          "draw": "A",
+          "action": "KTQA2JTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQA2JTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "54A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "54A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "54A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KTQA2JTX",
+          "represented_action": "KTQA2JTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13101212111011,
+          "digit_count": 14,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KTQA2JTX",
+            "represented_action": "KTQA2JTJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13101212111011,
+            "digit_count": 14,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "XJQJ",
+          "face_count": 4,
+          "next_draw": "2",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241107金剛戦数譜-docx-010",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 11 | もりしー vs さしみ | start=marker\nもりしー:(877476K5X87)\nさしみ:(3T96ATK6K24)\nもりしー:D(K)777KKX456887|X=7,P(T82896QQ92J2)\nさしみ:D(J)T6T6K2K349AJ,P(4AXJ9355QTQ5)\nもりしー:889=7*Q7\nさしみ:D(4)954=343*TTT,P(AAJ337Q7)\nもりしー:D(8)887\nさしみ:D(8)6QJ\nもりしー:D(9)7TJ\nさしみ:KKJ\nもりしー:KKQ=2^4*29*28X|X=3\nさしみ:D(2)%\nもりしー:6569#",
+      "initial_hands": {
+        "もりしー": "877476K5X87",
+        "さしみ": "3T96ATK6K24"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(K)777KKX456887|X=7,P(T82896QQ92J2)",
+          "revolution": false,
+          "draw": "K",
+          "action": "777KKX456887",
+          "action_kind": "prime-or-special",
+          "represented_action": "777KK7456887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": "T82896QQ92J2",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(J)T6T6K2K349AJ,P(4AXJ9355QTQ5)",
+          "revolution": false,
+          "draw": "J",
+          "action": "T6T6K2K349AJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6T6K2K349AJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4AXJ9355QTQ5",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "889=7*Q7",
+          "revolution": false,
+          "draw": null,
+          "action": "889=7*Q7",
+          "action_kind": "composite",
+          "represented_action": "889",
+          "play_count": 3,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)954=343*TTT,P(AAJ337Q7)",
+          "revolution": false,
+          "draw": "4",
+          "action": "954=343*TTT",
+          "action_kind": "composite",
+          "represented_action": "954",
+          "play_count": 3,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "AAJ337Q7",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)887",
+          "revolution": false,
+          "draw": "8",
+          "action": "887",
+          "action_kind": "prime-or-special",
+          "represented_action": "887",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)6QJ",
+          "revolution": false,
+          "draw": "8",
+          "action": "6QJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)7TJ",
+          "revolution": false,
+          "draw": "9",
+          "action": "7TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7TJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KKQ=2^4*29*28X|X=3",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQ=2^4*29*28X",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "6569#",
+          "revolution": false,
+          "draw": null,
+          "action": "6569",
+          "action_kind": "prime-or-special",
+          "represented_action": "6569",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "777KKX456887",
+          "represented_action": "777KK7456887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "T82896QQ92J2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 77713137456887,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 9,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KKQ=2^4*29*28X",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "hand_before": 14,
+          "hand_after_draw": 14,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131312,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "777KKX456887",
+            "represented_action": "777KK7456887",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "T82896QQ92J2",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 77713137456887,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-011",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 12 | さしみ vs もりしー | start=marker\nさしみ:(Q9958T67JJ3)\nもりしー:(K3X5Q95K2AT)\nさしみ:D(K)9875J3QTJ\nもりしー:D(8)%%\nさしみ:96K#",
+      "initial_hands": {
+        "さしみ": "Q9958T67JJ3",
+        "もりしー": "K3X5Q95K2AT"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(K)9875J3QTJ",
+          "revolution": false,
+          "draw": "K",
+          "action": "9875J3QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9875J3QTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)%%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%%",
+          "action_kind": "prime-or-special",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "96K#",
+          "revolution": false,
+          "draw": null,
+          "action": "96K",
+          "action_kind": "prime-or-special",
+          "represented_action": "96K",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "9875J3QTJ",
+          "represented_action": "9875J3QTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9875113121011,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "9875J3QTJ",
+            "represented_action": "9875J3QTJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9875113121011,
+            "digit_count": 13,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-012",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 13 | もりしー vs さしみ | start=marker\nもりしー:(AK36TJ5QQAX)\nさしみ:(33AQ8265T9X)\nもりしー:KXQQTJ|X=K\nさしみ:D(9)%\nもりしー:56A3A#",
+      "initial_hands": {
+        "もりしー": "AK36TJ5QQAX",
+        "さしみ": "33AQ8265T9X"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "KXQQTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "56A3A#",
+          "revolution": false,
+          "draw": null,
+          "action": "56A3A",
+          "action_kind": "prime-or-special",
+          "represented_action": "56A3A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KXQQTJ",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121011,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KXQQTJ",
+            "represented_action": "KKQQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131312121011,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "QTX",
+          "face_count": 3,
+          "next_draw": "9",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241107金剛戦数譜-docx-013",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 14 | さしみ vs もりしー | start=marker\nさしみ:(3X7649JQTQ9)\nもりしー:(JJ99352AJT7)\nさしみ:97JTQQX|X=K\nもりしー:D(A)%\nさしみ:3469#",
+      "initial_hands": {
+        "さしみ": "3X7649JQTQ9",
+        "もりしー": "JJ99352AJT7"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "97JTQQX|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "97JTQQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "97JTQQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "3469#",
+          "revolution": false,
+          "draw": null,
+          "action": "3469",
+          "action_kind": "prime-or-special",
+          "represented_action": "3469",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "97JTQQX",
+          "represented_action": "97JTQQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 971110121213,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "97JTQQX",
+            "represented_action": "97JTQQK",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 971110121213,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "JJJT",
+          "face_count": 4,
+          "next_draw": "A",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241107金剛戦数譜-docx-014",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "もりしー",
+      "second_player": "さしみ",
+      "raw_block": "### 241107金剛戦数譜.docx | game 15 | もりしー vs さしみ | start=marker\nもりしー:(JJQ3AA295K5)\nさしみ:(69X59TQ9788)\nもりしー:5239,P(KA52)\nさしみ:D(8)T869859Q987X|X=9,P(8T7T66A4TQQ2)\nもりしー:D(3)AAA55533922JKQJK,P(74447K32JJ6XK3)\nさしみ:X[IN]\nさしみ:D(X)9689688647,P()\nもりしー:76524A3\nさしみ:8868529\nもりしー:9A2QA3K\nさしみ:QQTTA79\nもりしー:KKKJJJJ\nさしみ:%\nもりしー:D(7)57[GC]\nもりしー:57[GC]\nもりしー:33442X|X=A#",
+      "initial_hands": {
+        "もりしー": "JJQ3AA295K5",
+        "さしみ": "69X59TQ9788"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "5239,P(KA52)",
+          "revolution": false,
+          "draw": null,
+          "action": "5239",
+          "action_kind": "prime-or-special",
+          "represented_action": "5239",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KA52",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)T869859Q987X|X=9,P(8T7T66A4TQQ2)",
+          "revolution": false,
+          "draw": "8",
+          "action": "T869859Q987X",
+          "action_kind": "prime-or-special",
+          "represented_action": "T869859Q9879",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "8T7T66A4TQQ2",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)AAA55533922JKQJK,P(74447K32JJ6XK3)",
+          "revolution": false,
+          "draw": "3",
+          "action": "AAA55533922JKQJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAA55533922JKQJK",
+          "play_count": 16,
+          "consumed_count": 16,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "74447K32JJ6XK3",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)9689688647,P()",
+          "revolution": false,
+          "draw": "X",
+          "action": "9689688647",
+          "action_kind": "prime-or-special",
+          "represented_action": "9689688647",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "76524A3",
+          "revolution": false,
+          "draw": null,
+          "action": "76524A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "76524A3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "8868529",
+          "revolution": false,
+          "draw": null,
+          "action": "8868529",
+          "action_kind": "prime-or-special",
+          "represented_action": "8868529",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "9A2QA3K",
+          "revolution": false,
+          "draw": null,
+          "action": "9A2QA3K",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A2QA3K",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "QQTTA79",
+          "revolution": false,
+          "draw": null,
+          "action": "QQTTA79",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQTTA79",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KKKJJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKJJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKJJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "33442X|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "33442X",
+          "action_kind": "prime-or-special",
+          "represented_action": "33442A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "AAA55533922JKQJK",
+          "represented_action": "AAA55533922JKQJK",
+          "play_count": 16,
+          "consumed_count": 16,
+          "hand_before": 15,
+          "hand_after_draw": 16,
+          "draw": "3",
+          "penalty": "74447K32JJ6XK3",
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 111555339221113121113,
+          "digit_count": 21,
+          "digit_gain": 5
+        },
+        {
+          "source": "241107金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 10,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKJJJJ",
+          "represented_action": "KKKJJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131311111111,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241107金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "5239",
+            "represented_action": "5239",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": "KA52",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5239,
+            "digit_count": 4,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "241107金剛戦数譜-docx-015",
+      "players": [
+        "もりしー",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "241107金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "さしみ",
+      "second_player": "もりしー",
+      "raw_block": "### 241107金剛戦数譜.docx | game 16 | さしみ vs もりしー | start=marker\nさしみ:(QA6A8485QTT)\nもりしー:(K6896AJ7J24)\nさしみ:D(7)8645AA\nもりしー:D(9)8KA2JJ,P(4A6379)\nさしみ:8QTTQ7#",
+      "initial_hands": {
+        "さしみ": "QA6A8485QTT",
+        "もりしー": "K6896AJ7J24"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(7)8645AA",
+          "revolution": false,
+          "draw": "7",
+          "action": "8645AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "8645AA",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)8KA2JJ,P(4A6379)",
+          "revolution": false,
+          "draw": "9",
+          "action": "8KA2JJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KA2JJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4A6379",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "8QTTQ7#",
+          "revolution": false,
+          "draw": null,
+          "action": "8QTTQ7",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTTQ7",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241107金剛戦数譜-docx-016",
+      "players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-010",
+      "match_no": 10,
+      "match_label": "第10試合",
+      "match_players": [
+        "さしみ",
+        "もりしー"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

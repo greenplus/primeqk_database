@@ -1,0 +1,3838 @@
+{
+  "match_id": "金剛戦-第2期-match-008",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 8,
+  "match_label": "第8試合",
+  "players": [
+    "dilsh",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 1 | dilsh vs マリン | start=spreadsheet\ndilsh:(QJ55X63A764)\nマリン:(TKT9A49Q4X4)\ndilsh:D(2)57263J5X46QA|X=0,P(6K83T9J9Q287)\nマリン:D(A)TTAA444KQX99|X=6,P(772835JKQJK2)\ndilsh:D(A)57[GC]\ndilsh:D(3)57[GC]\ndilsh:D(8)9988664X33A3KQQJJT2628A|X=4,P(5T65757)\nマリン:983447\ndilsh:9KTQTJ\nマリン:9KQKTJ\ndilsh:%\nマリン:KQ=2^5*4A\ndilsh:D(9)%\nマリン:7A2TXJ|X=Q#",
+      "initial_hands": {
+        "dilsh": "QJ55X63A764",
+        "マリン": "TKT9A49Q4X4"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(2)57263J5X46QA|X=0,P(6K83T9J9Q287)",
+          "revolution": false,
+          "draw": "2",
+          "action": "57263J5X46QA",
+          "action_kind": "prime-or-special",
+          "represented_action": "57263J5046QA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "6K83T9J9Q287",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)TTAA444KQX99|X=6,P(772835JKQJK2)",
+          "revolution": false,
+          "draw": "A",
+          "action": "TTAA444KQX99",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTAA444KQ699",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "772835JKQJK2",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)9988664X33A3KQQJJT2628A|X=4,P(5T65757)",
+          "revolution": false,
+          "draw": "8",
+          "action": "9988664X33A3KQQJJT2628A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9988664433A3KQQJJT2628A",
+          "play_count": 23,
+          "consumed_count": 23,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": "5T65757",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "983447",
+          "revolution": false,
+          "draw": null,
+          "action": "983447",
+          "action_kind": "prime-or-special",
+          "represented_action": "983447",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "9KTQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9KTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9KQKTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9KQKTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KQKTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KQ=2^5*4A",
+          "revolution": false,
+          "draw": null,
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "7A2TXJ|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "7A2TXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7A2TQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "57263J5X46QA",
+          "represented_action": "57263J5046QA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "6K83T9J9Q287",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 57263115046121,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 5,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "9988664X33A3KQQJJT2628A",
+          "represented_action": "9988664433A3KQQJJT2628A",
+          "play_count": 23,
+          "consumed_count": 23,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "8",
+          "penalty": "5T65757",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 99886644331313121211111026281,
+          "digit_count": 29,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 7,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "9KTQTJ",
+          "represented_action": "9KTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 91310121011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "57263J5X46QA",
+            "represented_action": "57263J5046QA",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "6K83T9J9Q287",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57263115046121,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-001",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 2 | マリン vs dilsh | start=spreadsheet\nマリン:(K6K539474JQ)\ndilsh:(9QJ2T23684A)\nマリン:643\ndilsh:D(7)QT9=2^342678JA,P(55XQ9782Q8K5)\nマリン:57[GC]\nマリン:4Q9KKJ#",
+      "initial_hands": {
+        "マリン": "K6K539474JQ",
+        "dilsh": "9QJ2T23684A"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "643",
+          "revolution": false,
+          "draw": null,
+          "action": "643",
+          "action_kind": "prime-or-special",
+          "represented_action": "643",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)QT9=2^342678JA,P(55XQ9782Q8K5)",
+          "revolution": false,
+          "draw": "7",
+          "action": "QT9=2^342678JA",
+          "action_kind": "composite",
+          "represented_action": "QT9",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "55XQ9782Q8K5",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "4Q9KKJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "4Q9KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "4Q9KKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 4,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "4Q9KKJ",
+          "represented_action": "4Q9KKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 4129131311,
+          "digit_count": 10,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 4,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "4Q9KKJ",
+            "represented_action": "4Q9KKJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 4129131311,
+            "digit_count": 10,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-002",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 3 | dilsh vs マリン | start=spreadsheet\ndilsh:(55AT88X92Q4)\nマリン:(K8X4T465Q27)\ndilsh:XQ=2^5*4A|X=K\nマリン:%\ndilsh:5T889#",
+      "initial_hands": {
+        "dilsh": "55AT88X92Q4",
+        "マリン": "K8X4T465Q27"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "XQ=2^5*4A|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "5T889#",
+          "revolution": false,
+          "draw": null,
+          "action": "5T889",
+          "action_kind": "prime-or-special",
+          "represented_action": "5T889",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "trumps",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が合成数切り札 KQ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "XQ=2^5*4A",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "XQ=2^5*4A",
+            "represented_action": "KQ",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-003",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 4 | マリン vs dilsh | start=spreadsheet\nマリン:(ATQ2K332T46)\ndilsh:(K94T8K59575)\nマリン:D(7)7TQTA3K\ndilsh:D(5)%\nマリン:64223#",
+      "initial_hands": {
+        "マリン": "ATQ2K332T46",
+        "dilsh": "K94T8K59575"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(7)7TQTA3K",
+          "revolution": false,
+          "draw": "7",
+          "action": "7TQTA3K",
+          "action_kind": "prime-or-special",
+          "represented_action": "7TQTA3K",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "64223#",
+          "revolution": false,
+          "draw": null,
+          "action": "64223",
+          "action_kind": "prime-or-special",
+          "represented_action": "64223",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-004",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 5 | dilsh vs マリン | start=spreadsheet\ndilsh:(27X4KQQ76T3)\nマリン:(A865K386554)\ndilsh:D(6)476Q6Q3TKX27|X=0,P(Q2524QXK47A7)\nマリン:D(A)AAK555668843,P(8TJTJ39JAK98)\ndilsh:D(T)57[GC]\ndilsh:D(J)726TA27\nマリン:D(9)8A3JTJJ\ndilsh:D(9)96KQJQK\nマリン:%\ndilsh:D(3)24443\nマリン:98459\ndilsh:QXQTX|X=J|X=K\nマリン:%\ndilsh:37#",
+      "initial_hands": {
+        "dilsh": "27X4KQQ76T3",
+        "マリン": "A865K386554"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(6)476Q6Q3TKX27|X=0,P(Q2524QXK47A7)",
+          "revolution": false,
+          "draw": "6",
+          "action": "476Q6Q3TKX27",
+          "action_kind": "prime-or-special",
+          "represented_action": "476Q6Q3TK027",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "Q2524QXK47A7",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)AAK555668843,P(8TJTJ39JAK98)",
+          "revolution": false,
+          "draw": "A",
+          "action": "AAK555668843",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAK555668843",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8TJTJ39JAK98",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(T)57[GC]",
+          "revolution": false,
+          "draw": "T",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(J)726TA27",
+          "revolution": false,
+          "draw": "J",
+          "action": "726TA27",
+          "action_kind": "prime-or-special",
+          "represented_action": "726TA27",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)8A3JTJJ",
+          "revolution": false,
+          "draw": "9",
+          "action": "8A3JTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8A3JTJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(9)96KQJQK",
+          "revolution": false,
+          "draw": "9",
+          "action": "96KQJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "96KQJQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(3)24443",
+          "revolution": false,
+          "draw": "3",
+          "action": "24443",
+          "action_kind": "prime-or-special",
+          "represented_action": "24443",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "98459",
+          "revolution": false,
+          "draw": null,
+          "action": "98459",
+          "action_kind": "prime-or-special",
+          "represented_action": "98459",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "QXQTX|X=J|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "QXQTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "QJQTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "J",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "37#",
+          "revolution": false,
+          "draw": null,
+          "action": "37",
+          "action_kind": "prime-or-special",
+          "represented_action": "37",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "476Q6Q3TKX27",
+          "represented_action": "476Q6Q3TK027",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "Q2524QXK47A7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 4761261231013027,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 6,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "96KQJQK",
+          "represented_action": "96KQJQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 17,
+          "hand_after_draw": 18,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 961312111213,
+          "digit_count": 12,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 10,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "QXQTX",
+          "represented_action": "QJQTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1211121013,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "476Q6Q3TKX27",
+            "represented_action": "476Q6Q3TK027",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "Q2524QXK47A7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 4761261231013027,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-005",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 6 | マリン vs dilsh | start=spreadsheet\nマリン:(J6793A55825)\ndilsh:(3TK2442X95T)\nマリン:D(A)JA2A3555689,P(3J4767K8K83)\ndilsh:D(8)5493T4T2X82K|X=0,P(796XQJ64T9TJ)\nマリン:D(A)57[GC]\nマリン:D(Q)883A\ndilsh:D(Q)8QTJ\nマリン:KKJQ=2^3*A64A389\ndilsh:D(A)%\nマリン:57[GC]\nマリン:765J#",
+      "initial_hands": {
+        "マリン": "J6793A55825",
+        "dilsh": "3TK2442X95T"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(A)JA2A3555689,P(3J4767K8K83)",
+          "revolution": false,
+          "draw": "A",
+          "action": "JA2A3555689",
+          "action_kind": "prime-or-special",
+          "represented_action": "JA2A3555689",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3J4767K8K83",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)5493T4T2X82K|X=0,P(796XQJ64T9TJ)",
+          "revolution": false,
+          "draw": "8",
+          "action": "5493T4T2X82K",
+          "action_kind": "prime-or-special",
+          "represented_action": "5493T4T2082K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "796XQJ64T9TJ",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)883A",
+          "revolution": false,
+          "draw": "Q",
+          "action": "883A",
+          "action_kind": "prime-or-special",
+          "represented_action": "883A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(Q)8QTJ",
+          "revolution": false,
+          "draw": "Q",
+          "action": "8QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKJQ=2^3*A64A389",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQ=2^3*A64A389",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "765J#",
+          "revolution": false,
+          "draw": null,
+          "action": "765J",
+          "action_kind": "prime-or-special",
+          "represented_action": "765J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JA2A3555689",
+          "represented_action": "JA2A3555689",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": "3J4767K8K83",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111213555689,
+          "digit_count": 12,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JA2A3555689",
+            "represented_action": "JA2A3555689",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": "3J4767K8K83",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 111213555689,
+            "digit_count": 12,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-006",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 7 | dilsh vs マリン | start=spreadsheet\ndilsh:(46QT6AJT359)\nマリン:(XQ7JT585982)\ndilsh:D(K)964563TTJAQK,P(A25KX22K8QJ4)\nマリン:D(6)885257\ndilsh:D(3)KKQQTJ\nマリン:D(7)%\ndilsh:D(6)2624A3T53,P(84A397J4Q)\nマリン:69QTJX7|X=K#",
+      "initial_hands": {
+        "dilsh": "46QT6AJT359",
+        "マリン": "XQ7JT585982"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(K)964563TTJAQK,P(A25KX22K8QJ4)",
+          "revolution": false,
+          "draw": "K",
+          "action": "964563TTJAQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "964563TTJAQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A25KX22K8QJ4",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)885257",
+          "revolution": false,
+          "draw": "6",
+          "action": "885257",
+          "action_kind": "prime-or-special",
+          "represented_action": "885257",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(3)KKQQTJ",
+          "revolution": false,
+          "draw": "3",
+          "action": "KKQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(6)2624A3T53,P(84A397J4Q)",
+          "revolution": false,
+          "draw": "6",
+          "action": "2624A3T53",
+          "action_kind": "prime-or-special",
+          "represented_action": "2624A3T53",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "84A397J4Q",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "69QTJX7|X=K#",
+          "revolution": false,
+          "draw": null,
+          "action": "69QTJX7",
+          "action_kind": "prime-or-special",
+          "represented_action": "69QTJK7",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "964563TTJAQK",
+          "represented_action": "964563TTJAQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "A25KX22K8QJ4",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 96456310101111213,
+          "digit_count": 17,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 3,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKQQTJ",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121011,
+          "digit_count": 12,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 5,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "2624A3T53",
+          "represented_action": "2624A3T53",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 19,
+          "hand_after_draw": 20,
+          "draw": "6",
+          "penalty": "84A397J4Q",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2624131053,
+          "digit_count": 10,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "964563TTJAQK",
+            "represented_action": "964563TTJAQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "A25KX22K8QJ4",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 96456310101111213,
+            "digit_count": 17,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-007",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 8 | マリン vs dilsh | start=spreadsheet\nマリン:(Q84A98KKT23)\ndilsh:(5QK39K65699)\nマリン:8TA\ndilsh:D(J)KKJ\nマリン:D(7)KKQ=234*978,P(7J4864337)\ndilsh:569569Q93,P(TJA5T6Q24)\nマリン:JQKK23334446777889,P(T2XA2857XAJQ8TAKKJ)\ndilsh:T5T5Q6Q69J9A234569,P()\nマリン:94847\ndilsh:96659,P()\nマリン:864T7\ndilsh:D(9)95T59\nマリン:KQJJJ\ndilsh:D(4)%\nマリン:KKKTQ=2^2*328X8X753|X=2|X=2\ndilsh:D(8)%\nマリン:A37AA#",
+      "initial_hands": {
+        "マリン": "Q84A98KKT23",
+        "dilsh": "5QK39K65699"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "8TA",
+          "revolution": false,
+          "draw": null,
+          "action": "8TA",
+          "action_kind": "prime-or-special",
+          "represented_action": "8TA",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(J)KKJ",
+          "revolution": false,
+          "draw": "J",
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)KKQ=234*978,P(7J4864337)",
+          "revolution": false,
+          "draw": "7",
+          "action": "KKQ=234*978",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7J4864337",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "569569Q93,P(TJA5T6Q24)",
+          "revolution": false,
+          "draw": null,
+          "action": "569569Q93",
+          "action_kind": "prime-or-special",
+          "represented_action": "569569Q93",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TJA5T6Q24",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "JQKK23334446777889,P(T2XA2857XAJQ8TAKKJ)",
+          "revolution": false,
+          "draw": null,
+          "action": "JQKK23334446777889",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQKK23334446777889",
+          "play_count": 18,
+          "consumed_count": 18,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T2XA2857XAJQ8TAKKJ",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "T5T5Q6Q69J9A234569,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "T5T5Q6Q69J9A234569",
+          "action_kind": "prime-or-special",
+          "represented_action": "T5T5Q6Q69J9A234569",
+          "play_count": 18,
+          "consumed_count": 18,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "94847",
+          "revolution": false,
+          "draw": null,
+          "action": "94847",
+          "action_kind": "prime-or-special",
+          "represented_action": "94847",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "96659,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "96659",
+          "action_kind": "prime-or-special",
+          "represented_action": "96659",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "864T7",
+          "revolution": false,
+          "draw": null,
+          "action": "864T7",
+          "action_kind": "prime-or-special",
+          "represented_action": "864T7",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(9)95T59",
+          "revolution": false,
+          "draw": "9",
+          "action": "95T59",
+          "action_kind": "prime-or-special",
+          "represented_action": "95T59",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KQJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KQJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQJJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKKTQ=2^2*328X8X753|X=2|X=2",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKTQ=2^2*328X8X753",
+          "action_kind": "composite",
+          "represented_action": "KKKTQ",
+          "play_count": 5,
+          "consumed_count": 16,
+          "joker_values": [
+            "2",
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "A37AA#",
+          "revolution": false,
+          "draw": null,
+          "action": "A37AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "A37AA",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKQ=234*978",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 9,
+          "hand_before": 8,
+          "hand_after_draw": 9,
+          "draw": "7",
+          "penalty": "7J4864337",
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131312,
+          "digit_count": 6,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 5,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "JQKK23334446777889",
+          "represented_action": "JQKK23334446777889",
+          "play_count": 18,
+          "consumed_count": 18,
+          "hand_before": 18,
+          "hand_after_draw": 18,
+          "draw": null,
+          "penalty": "T2XA2857XAJQ8TAKKJ",
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 1112131323334446777889,
+          "digit_count": 22,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 11,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KQJJJ",
+          "represented_action": "KQJJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 26,
+          "hand_after_draw": 26,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312111111,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "KKQ=234*978",
+            "represented_action": "KKQ",
+            "play_count": 3,
+            "consumed_count": 9,
+            "hand_before": 8,
+            "hand_after_draw": 9,
+            "draw": "7",
+            "penalty": "7J4864337",
+            "immediate_win": false,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 131312,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-008",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 9 | dilsh vs マリン | start=spreadsheet\ndilsh:(Q8K287396J3)\nマリン:(TA7829A5643)\ndilsh:D(X)8JQ6X8393K27|X=0,P(T2K4K43JJ4X5)\nマリン:D(9)AAT234567899#",
+      "initial_hands": {
+        "dilsh": "Q8K287396J3",
+        "マリン": "TA7829A5643"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(X)8JQ6X8393K27|X=0,P(T2K4K43JJ4X5)",
+          "revolution": false,
+          "draw": "X",
+          "action": "8JQ6X8393K27",
+          "action_kind": "prime-or-special",
+          "represented_action": "8JQ608393K27",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "T2K4K43JJ4X5",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)AAT234567899#",
+          "revolution": false,
+          "draw": "9",
+          "action": "AAT234567899",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAT234567899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "8JQ6X8393K27",
+          "represented_action": "8JQ608393K27",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "X",
+          "penalty": "T2K4K43JJ4X5",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 811126083931327,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "8JQ6X8393K27",
+            "represented_action": "8JQ608393K27",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "X",
+            "penalty": "T2K4K43JJ4X5",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 811126083931327,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-009",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 10 | マリン vs dilsh | start=spreadsheet\nマリン:(JKQ69524T58)\ndilsh:(KAK53QA7976)\nマリン:D(X)625=5^4\ndilsh:D(X)KKX|X=J\nマリン:D(2)KXQ=82*9TJ|X=K,P(4AJ9T9QT)\ndilsh:D(J)57[GC]\ndilsh:JAAQ3679,P(85263K78)\nマリン:9KQQTTTJJ\ndilsh:D(Q)%\nマリン:84A=29*X9|X=2#",
+      "initial_hands": {
+        "マリン": "JKQ69524T58",
+        "dilsh": "KAK53QA7976"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(X)625=5^4",
+          "revolution": false,
+          "draw": "X",
+          "action": "625=5^4",
+          "action_kind": "composite",
+          "represented_action": "625",
+          "play_count": 3,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(X)KKX|X=J",
+          "revolution": false,
+          "draw": "X",
+          "action": "KKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(2)KXQ=82*9TJ|X=K,P(4AJ9T9QT)",
+          "revolution": false,
+          "draw": "2",
+          "action": "KXQ=82*9TJ",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 8,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "4AJ9T9QT",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(J)57[GC]",
+          "revolution": false,
+          "draw": "J",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "JAAQ3679,P(85263K78)",
+          "revolution": false,
+          "draw": null,
+          "action": "JAAQ3679",
+          "action_kind": "prime-or-special",
+          "represented_action": "JAAQ3679",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "85263K78",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9KQQTTTJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9KQQTTTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KQQTTTJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "84A=29*X9|X=2#",
+          "revolution": false,
+          "draw": null,
+          "action": "84A=29*X9",
+          "action_kind": "composite",
+          "represented_action": "84A",
+          "play_count": 3,
+          "consumed_count": 7,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KXQ=82*9TJ",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 8,
+          "hand_before": 7,
+          "hand_after_draw": 8,
+          "draw": "2",
+          "penalty": "4AJ9T9QT",
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131312,
+          "digit_count": 6,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 6,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "9KQQTTTJJ",
+          "represented_action": "9KQQTTTJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJJ",
+          "numeric_value": 91312121010101111,
+          "digit_count": 17,
+          "digit_gain": 8
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "KXQ=82*9TJ",
+            "represented_action": "KKQ",
+            "play_count": 3,
+            "consumed_count": 8,
+            "hand_before": 7,
+            "hand_after_draw": 8,
+            "draw": "2",
+            "penalty": "4AJ9T9QT",
+            "immediate_win": false,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 131312,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-010",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 11 | dilsh vs マリン | start=spreadsheet\ndilsh:(73KK4J35A9A)\nマリン:(78T69X83823)\ndilsh:D(8)33A\nマリン:D(9)9T8=88*2X^96337|X=J,P(62AJXT546Q5A)\ndilsh:KKJ\nマリン:D(T)%\ndilsh:57[GC]\ndilsh:A489#",
+      "initial_hands": {
+        "dilsh": "73KK4J35A9A",
+        "マリン": "78T69X83823"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(8)33A",
+          "revolution": false,
+          "draw": "8",
+          "action": "33A",
+          "action_kind": "prime-or-special",
+          "represented_action": "33A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)9T8=88*2X^96337|X=J,P(62AJXT546Q5A)",
+          "revolution": false,
+          "draw": "9",
+          "action": "9T8=88*2X^96337",
+          "action_kind": "composite",
+          "represented_action": "9T8",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "62AJXT546Q5A",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "A489#",
+          "revolution": false,
+          "draw": null,
+          "action": "A489",
+          "action_kind": "prime-or-special",
+          "represented_action": "A489",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 3,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "33A",
+            "represented_action": "33A",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 331,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 3,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-011",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 12 | マリン vs dilsh | start=spreadsheet\nマリン:(4TTTA7497K9)\ndilsh:(K6JKX76A452)\nマリン:D(Q)A44779\ndilsh:D(4)646KKJ,P(9J3QJ5)\nマリン:9TQTTK#",
+      "initial_hands": {
+        "マリン": "4TTTA7497K9",
+        "dilsh": "K6JKX76A452"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(Q)A44779",
+          "revolution": false,
+          "draw": "Q",
+          "action": "A44779",
+          "action_kind": "prime-or-special",
+          "represented_action": "A44779",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(4)646KKJ,P(9J3QJ5)",
+          "revolution": false,
+          "draw": "4",
+          "action": "646KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "646KKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9J3QJ5",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9TQTTK#",
+          "revolution": false,
+          "draw": null,
+          "action": "9TQTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TQTTK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "9TQTTK",
+          "represented_action": "9TQTTK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 91012101013,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "9TQTTK",
+            "represented_action": "9TQTTK",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 91012101013,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "dilsh",
+          "face_cards": "KJKXJQJ",
+          "face_count": 7,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-012",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 13 | dilsh vs マリン | start=spreadsheet\ndilsh:(435JQK68K4Q)\nマリン:(799Q6Q3XA94)\ndilsh:D(J)4Q5K684JJQ3K,P(KTA625375726)\nマリン:D(8)Q9Q99876X43A|X=5,P(TX4AJ72J59KA)\ndilsh:D(3)57[GC]\ndilsh:D(8)57[GC]\ndilsh:866324A3,P(T2T85757)\nマリン:A729[RR]\ndilsh:A223\nマリン:AA63\ndilsh:%\nマリン:D(A)57[GC]\nマリン:D(7)9QKJJ\ndilsh:D(2)86453=2^455,P(9A223AA63)\nマリン:D(5)QT9\ndilsh:A25=5^3\nマリン:AX9|X=0\ndilsh:D(7)%\nマリン:57[GC]\nマリン:844X|X=3#",
+      "initial_hands": {
+        "dilsh": "435JQK68K4Q",
+        "マリン": "799Q6Q3XA94"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(J)4Q5K684JJQ3K,P(KTA625375726)",
+          "revolution": false,
+          "draw": "J",
+          "action": "4Q5K684JJQ3K",
+          "action_kind": "prime-or-special",
+          "represented_action": "4Q5K684JJQ3K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KTA625375726",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)Q9Q99876X43A|X=5,P(TX4AJ72J59KA)",
+          "revolution": false,
+          "draw": "8",
+          "action": "Q9Q99876X43A",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q9Q99876543A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": "TX4AJ72J59KA",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "866324A3,P(T2T85757)",
+          "revolution": false,
+          "draw": null,
+          "action": "866324A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "866324A3",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T2T85757",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "A223",
+          "revolution": false,
+          "draw": null,
+          "action": "A223",
+          "action_kind": "prime-or-special",
+          "represented_action": "A223",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "AA63",
+          "revolution": false,
+          "draw": null,
+          "action": "AA63",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA63",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)9QKJJ",
+          "revolution": false,
+          "draw": "7",
+          "action": "9QKJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QKJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(2)86453=2^455,P(9A223AA63)",
+          "revolution": false,
+          "draw": "2",
+          "action": "86453=2^455",
+          "action_kind": "composite",
+          "represented_action": "86453",
+          "play_count": 5,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9A223AA63",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)QT9",
+          "revolution": false,
+          "draw": "5",
+          "action": "QT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "QT9",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "A25=5^3",
+          "revolution": false,
+          "draw": null,
+          "action": "A25=5^3",
+          "action_kind": "composite",
+          "represented_action": "A25",
+          "play_count": 3,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "AX9|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX9",
+          "action_kind": "prime-or-special",
+          "represented_action": "A09",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "844X|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "844X",
+          "action_kind": "prime-or-special",
+          "represented_action": "8443",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "4Q5K684JJQ3K",
+          "represented_action": "4Q5K684JJQ3K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "KTA625375726",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 412513684111112313,
+          "digit_count": 18,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "4Q5K684JJQ3K",
+            "represented_action": "4Q5K684JJQ3K",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "KTA625375726",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 412513684111112313,
+            "digit_count": 18,
+            "digit_gain": 6
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-013",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 14 | マリン vs dilsh | start=spreadsheet\nマリン:(Q547AQ2K9XT)\ndilsh:(885AQ93KJK6)\nマリン:KQ=2^5*4A\ndilsh:D(T)KK=A3^56889TJQ,P(566T7J928847)\nマリン:9TXQ7|X=J#",
+      "initial_hands": {
+        "マリン": "Q547AQ2K9XT",
+        "dilsh": "885AQ93KJK6"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KQ=2^5*4A",
+          "revolution": false,
+          "draw": null,
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(T)KK=A3^56889TJQ,P(566T7J928847)",
+          "revolution": false,
+          "draw": "T",
+          "action": "KK=A3^56889TJQ",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "566T7J928847",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9TXQ7|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "9TXQ7",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TJQ7",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "trumps",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が合成数切り札 KQ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KQ=2^5*4A",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KQ=2^5*4A",
+            "represented_action": "KQ",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-014",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "dilsh",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 15 | dilsh vs マリン | start=spreadsheet\ndilsh:(3AT78T32QQ5)\nマリン:(59T8452472J)\ndilsh:D(K)QTQTKA3\nマリン:%\ndilsh:57[GC]\ndilsh:823#",
+      "initial_hands": {
+        "dilsh": "3AT78T32QQ5",
+        "マリン": "59T8452472J"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(K)QTQTKA3",
+          "revolution": false,
+          "draw": "K",
+          "action": "QTQTKA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTKA3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "823#",
+          "revolution": false,
+          "draw": null,
+          "action": "823",
+          "action_kind": "prime-or-special",
+          "represented_action": "823",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "QTQTKA3",
+          "represented_action": "QTQTKA3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121012101313,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "QTQTKA3",
+            "represented_action": "QTQTKA3",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 121012101313,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "マリン",
+          "face_cards": "TJ",
+          "face_count": 2,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-015",
+      "players": [
+        "dilsh",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "マリン",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第8試合 251004金剛戦数譜.docx | game 16 | マリン vs dilsh | start=spreadsheet\nマリン:(764K79XQ8A4)\ndilsh:(J5J3QT2428Q)\nマリン:D(3)QKA34468779X|X=9,P(T78K2K9A759K)\ndilsh:D(A)2Q3Q4582TJJA,P(6XJ6Q243J9T6)\nマリン:D(3)57[GC]\nマリン:D(A)8689\ndilsh:D(5)XJQJ|X=K\nマリン:D(5)KQKK,P(T857)\ndilsh:D(8)9Q23Q48364T5256682TJJA,P(689XJQJ)\nマリン:4259\ndilsh:XJQJ|X=K\nマリン:KQKK=3*4X7377A|X=3\ndilsh:D(3)%\nマリン:57[GC]\nマリン:98TKTAA#",
+      "initial_hands": {
+        "マリン": "764K79XQ8A4",
+        "dilsh": "J5J3QT2428Q"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(3)QKA34468779X|X=9,P(T78K2K9A759K)",
+          "revolution": false,
+          "draw": "3",
+          "action": "QKA34468779X",
+          "action_kind": "prime-or-special",
+          "represented_action": "QKA344687799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "T78K2K9A759K",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(A)2Q3Q4582TJJA,P(6XJ6Q243J9T6)",
+          "revolution": false,
+          "draw": "A",
+          "action": "2Q3Q4582TJJA",
+          "action_kind": "prime-or-special",
+          "represented_action": "2Q3Q4582TJJA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6XJ6Q243J9T6",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)8689",
+          "revolution": false,
+          "draw": "A",
+          "action": "8689",
+          "action_kind": "prime-or-special",
+          "represented_action": "8689",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(5)XJQJ|X=K",
+          "revolution": false,
+          "draw": "5",
+          "action": "XJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)KQKK,P(T857)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KQKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQKK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T857",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)9Q23Q48364T5256682TJJA,P(689XJQJ)",
+          "revolution": false,
+          "draw": "8",
+          "action": "9Q23Q48364T5256682TJJA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9Q23Q48364T5256682TJJA",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "689XJQJ",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "4259",
+          "revolution": false,
+          "draw": null,
+          "action": "4259",
+          "action_kind": "prime-or-special",
+          "represented_action": "4259",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "XJQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KQKK=3*4X7377A|X=3",
+          "revolution": false,
+          "draw": null,
+          "action": "KQKK=3*4X7377A",
+          "action_kind": "composite",
+          "represented_action": "KQKK",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "98TKTAA#",
+          "revolution": false,
+          "draw": null,
+          "action": "98TKTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "98TKTAA",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "QKA34468779X",
+          "represented_action": "QKA344687799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "T78K2K9A759K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12131344687799,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第8試合 251004金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "QKA34468779X",
+            "represented_action": "QKA344687799",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "T78K2K9A759K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 12131344687799,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第8試合-251004金剛戦数譜-docx-016",
+      "players": [
+        "マリン",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-008",
+      "match_no": 8,
+      "match_label": "第8試合",
+      "match_players": [
+        "dilsh",
+        "マリン"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

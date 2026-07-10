@@ -1,0 +1,807 @@
+{
+  "match_id": "pqcs-2023冬-予選aブロック-match-010",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "予選Aブロック",
+  "stage_order": 10,
+  "match_no": 10,
+  "match_label": "予選A第10試合",
+  "players": [
+    "nishimura",
+    "さしみ"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx | game 1 | nishimura vs さしみ | start=pqcs-set-rule\nnishimura:(8K276A55352)\nさしみ:(62KQ9J97TJA)\nnishimura:D(K)AKK223555687,P(KQA3X7Q2TJA8)\nさしみ:D(6)J6J6A29Q9TK7,P(4T387Q39J564)\nnishimura:D(X)57[GC]\nnishimura:D(9)57[GC]\nnishimura:D(4)32986542A\nさしみ:987643QTJ\nnishimura:KKKA3A2TJ\nさしみ:9J9JT2Q6K\nnishimura:D(4)%\nさしみ:57[GC]\nさしみ:346A#",
+      "initial_hands": {
+        "nishimura": "8K276A55352",
+        "さしみ": "62KQ9J97TJA"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(K)AKK223555687,P(KQA3X7Q2TJA8)",
+          "revolution": false,
+          "draw": "K",
+          "action": "AKK223555687",
+          "action_kind": "prime-or-special",
+          "represented_action": "AKK223555687",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KQA3X7Q2TJA8",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(6)J6J6A29Q9TK7,P(4T387Q39J564)",
+          "revolution": false,
+          "draw": "6",
+          "action": "J6J6A29Q9TK7",
+          "action_kind": "prime-or-special",
+          "represented_action": "J6J6A29Q9TK7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4T387Q39J564",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)32986542A",
+          "revolution": false,
+          "draw": "4",
+          "action": "32986542A",
+          "action_kind": "prime-or-special",
+          "represented_action": "32986542A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "987643QTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "987643QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "987643QTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKKA3A2TJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKA3A2TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKA3A2TJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9J9JT2Q6K",
+          "revolution": false,
+          "draw": null,
+          "action": "9J9JT2Q6K",
+          "action_kind": "prime-or-special",
+          "represented_action": "9J9JT2Q6K",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "346A#",
+          "revolution": false,
+          "draw": null,
+          "action": "346A",
+          "action_kind": "prime-or-special",
+          "represented_action": "346A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "AKK223555687",
+          "represented_action": "AKK223555687",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "KQA3X7Q2TJA8",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11313223555687,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 5,
+          "player": "nishimura",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "32986542A",
+          "represented_action": "32986542A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "4",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 329865421,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 7,
+          "player": "nishimura",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKA3A2TJ",
+          "represented_action": "KKKA3A2TJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 14,
+          "hand_after_draw": 14,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131313121011,
+          "digit_count": 14,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "AKK223555687",
+            "represented_action": "AKK223555687",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "KQA3X7Q2TJA8",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 11313223555687,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第10試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-010",
+      "match_no": 10,
+      "match_label": "予選A第10試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "さしみ",
+      "second_player": "nishimura",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx | game 2 | さしみ vs nishimura | start=pqcs-set-rule\nさしみ:(J6253KJ8K5A)\nnishimura:(954X7QQ97K5)\nさしみ:D(6)A2355668JJKK,P(7934T8T66T22)\nnishimura:D(3)XQQK34557799|X=A,P(J9TAA8X4JAQK)\nさしみ:D(4)98876654432KKJA2T63TT,P(Q2837)\nnishimura:998754A4X3|X=2\nさしみ:T236236587,P()\nnishimura:9XKKQQQTJJ|X=K\nさしみ:D(9)%\nnishimura:57[GC]\nnishimura:AA#",
+      "initial_hands": {
+        "さしみ": "J6253KJ8K5A",
+        "nishimura": "954X7QQ97K5"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(6)A2355668JJKK,P(7934T8T66T22)",
+          "revolution": false,
+          "draw": "6",
+          "action": "A2355668JJKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2355668JJKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7934T8T66T22",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(3)XQQK34557799|X=A,P(J9TAA8X4JAQK)",
+          "revolution": false,
+          "draw": "3",
+          "action": "XQQK34557799",
+          "action_kind": "prime-or-special",
+          "represented_action": "AQQK34557799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "J9TAA8X4JAQK",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)98876654432KKJA2T63TT,P(Q2837)",
+          "revolution": false,
+          "draw": "4",
+          "action": "98876654432KKJA2T63TT",
+          "action_kind": "prime-or-special",
+          "represented_action": "98876654432KKJA2T63TT",
+          "play_count": 21,
+          "consumed_count": 21,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q2837",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "998754A4X3|X=2",
+          "revolution": false,
+          "draw": null,
+          "action": "998754A4X3",
+          "action_kind": "prime-or-special",
+          "represented_action": "998754A423",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "T236236587,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "T236236587",
+          "action_kind": "prime-or-special",
+          "represented_action": "T236236587",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "9XKKQQQTJJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "9XKKQQQTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KKKQQQTJJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "AA#",
+          "revolution": false,
+          "draw": null,
+          "action": "AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A2355668JJKK",
+          "represented_action": "A2355668JJKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "7934T8T66T22",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1235566811111313,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "98876654432KKJA2T63TT",
+          "represented_action": "98876654432KKJA2T63TT",
+          "play_count": 21,
+          "consumed_count": 21,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "4",
+          "penalty": "Q2837",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 988766544321313111210631010,
+          "digit_count": 27,
+          "digit_gain": 6
+        },
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 5,
+          "player": "さしみ",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "T236236587",
+          "represented_action": "T236236587",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": "",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10236236587,
+          "digit_count": 11,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A2355668JJKK",
+            "represented_action": "A2355668JJKK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "7934T8T66T22",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1235566811111313,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第10試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "さしみ",
+        "nishimura"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-010",
+      "match_no": 10,
+      "match_label": "予選A第10試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "nishimura",
+      "second_player": "さしみ",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx | game 3 | nishimura vs さしみ | start=pqcs-set-rule\nnishimura:(37K922A3JJT)\nさしみ:(Q59X7KA7JT6)\nnishimura:D(A)7KA2A2JTJ\nさしみ:96TQK7JXA|X=K,P(QK483562X)\nnishimura:9=3*3#",
+      "initial_hands": {
+        "nishimura": "37K922A3JJT",
+        "さしみ": "Q59X7KA7JT6"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(A)7KA2A2JTJ",
+          "revolution": false,
+          "draw": "A",
+          "action": "7KA2A2JTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7KA2A2JTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "96TQK7JXA|X=K,P(QK483562X)",
+          "revolution": false,
+          "draw": null,
+          "action": "96TQK7JXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "96TQK7JKA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "QK483562X",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "9=3*3#",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3*3",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "7KA2A2JTJ",
+          "represented_action": "7KA2A2JTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 7131212111011,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第10試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "7KA2A2JTJ",
+            "represented_action": "7KA2A2JTJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 7131212111011,
+            "digit_count": 13,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第10試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-010",
+      "match_no": 10,
+      "match_label": "予選A第10試合",
+      "match_players": [
+        "nishimura",
+        "さしみ"
+      ],
+      "match_game_no": 3
+    }
+  ]
+}

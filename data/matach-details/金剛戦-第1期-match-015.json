@@ -1,0 +1,2829 @@
+{
+  "match_id": "金剛戦-第1期-match-015",
+  "tournament": "金剛戦",
+  "season": "第1期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 15,
+  "match_label": "第15試合",
+  "players": [
+    "3TK",
+    "mickey"
+  ],
+  "games": [
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 1 | 3TK vs mickey | start=marker\n3TK:(3K982752JA9)\nmickey:(363XQ4T76KJ)\n3TK:D(6)9K83J57A2269,P(9824X65T83A4)\nmickey:D(7)3673674XTJQK|X=9,P(4Q72AQK5KTT9)\n3TK:D(J)468A23456789J2A95TJX2K|X=A\nmickey:D(Q)97766TTJQQQQTKK442A353,P(J58A)\n3TK:983#",
+      "initial_hands": {
+        "3TK": "3K982752JA9",
+        "mickey": "363XQ4T76KJ"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(6)9K83J57A2269,P(9824X65T83A4)",
+          "revolution": false,
+          "draw": "6",
+          "action": "9K83J57A2269",
+          "action_kind": "prime-or-special",
+          "represented_action": "9K83J57A2269",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9824X65T83A4",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)3673674XTJQK|X=9,P(4Q72AQK5KTT9)",
+          "revolution": false,
+          "draw": "7",
+          "action": "3673674XTJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "36736749TJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "4Q72AQK5KTT9",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(J)468A23456789J2A95TJX2K|X=A",
+          "revolution": false,
+          "draw": "J",
+          "action": "468A23456789J2A95TJX2K",
+          "action_kind": "prime-or-special",
+          "represented_action": "468A23456789J2A95TJA2K",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)97766TTJQQQQTKK442A353,P(J58A)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "97766TTJQQQQTKK442A353",
+          "action_kind": "prime-or-special",
+          "represented_action": "97766TTJQQQQTKK442A353",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J58A",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "983#",
+          "revolution": false,
+          "draw": null,
+          "action": "983",
+          "action_kind": "prime-or-special",
+          "represented_action": "983",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "9K83J57A2269",
+          "represented_action": "9K83J57A2269",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "9824X65T83A4",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 91383115712269,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 3,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "468A23456789J2A95TJX2K",
+          "represented_action": "468A23456789J2A95TJA2K",
+          "play_count": 22,
+          "consumed_count": 22,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 46812345678911219510111213,
+          "digit_count": 26,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "9K83J57A2269",
+            "represented_action": "9K83J57A2269",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "9824X65T83A4",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91383115712269,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-001",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 2 | mickey vs 3TK | start=marker\nmickey:(KA6864AQX9T)\n3TK:(377TQ9TJK57)\nmickey:98646KXQTAA|X=7#",
+      "initial_hands": {
+        "mickey": "KA6864AQX9T",
+        "3TK": "377TQ9TJK57"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "98646KXQTAA|X=7#",
+          "revolution": false,
+          "draw": null,
+          "action": "98646KXQTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "98646K7QTAA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "98646KXQTAA",
+          "represented_action": "98646K7QTAA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 98646137121011,
+          "digit_count": 14,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "98646KXQTAA",
+            "represented_action": "98646K7QTAA",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 98646137121011,
+            "digit_count": 14,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-002",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 3 | 3TK vs mickey | start=marker\n3TK:(Q772X27K9J8)\nmickey:(3X7A6K88564)\n3TK:9277\nmickey:D(6)887K=66X*4356A|X=5,P(K3JQ9ATA3TK6)\n3TK:278KJQX|X=J#",
+      "initial_hands": {
+        "3TK": "Q772X27K9J8",
+        "mickey": "3X7A6K88564"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "9277",
+          "revolution": false,
+          "draw": null,
+          "action": "9277",
+          "action_kind": "prime-or-special",
+          "represented_action": "9277",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)887K=66X*4356A|X=5,P(K3JQ9ATA3TK6)",
+          "revolution": false,
+          "draw": "6",
+          "action": "887K=66X*4356A",
+          "action_kind": "composite",
+          "represented_action": "887K",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": "K3JQ9ATA3TK6",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "278KJQX|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "278KJQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "278KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 3,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "278KJQX",
+          "represented_action": "278KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 27813111211,
+          "digit_count": 11,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "9277",
+            "represented_action": "9277",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9277,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 3,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "278KJQX",
+            "represented_action": "278KJQJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 27813111211,
+            "digit_count": 11,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-003",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 4 | mickey vs 3TK | start=marker\nmickey:(JJ73AK3J2J7)\n3TK:(86X25438TQ8)\nmickey:JJKJA3J\n3TK:D(9)%\nmickey:7723#",
+      "initial_hands": {
+        "mickey": "JJ73AK3J2J7",
+        "3TK": "86X25438TQ8"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "JJKJA3J",
+          "revolution": false,
+          "draw": null,
+          "action": "JJKJA3J",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJKJA3J",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "7723#",
+          "revolution": false,
+          "draw": null,
+          "action": "7723",
+          "action_kind": "prime-or-special",
+          "represented_action": "7723",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "JJKJA3J",
+          "represented_action": "JJKJA3J",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111113111311,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "JJKJA3J",
+            "represented_action": "JJKJA3J",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 111113111311,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "3TK",
+          "face_cards": "XTQ",
+          "face_count": 3,
+          "next_draw": "9",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241215金剛戦数譜-docx-004",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 5 | 3TK vs mickey | start=marker\n3TK:(A297835J2KX)\nmickey:(AQTQJ9QTAX2)\n3TK:827\nmickey:D(T)QT9\n3TK:KXJ|X=K\nmickey:%\n3TK:9523A#",
+      "initial_hands": {
+        "3TK": "A297835J2KX",
+        "mickey": "AQTQJ9QTAX2"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "827",
+          "revolution": false,
+          "draw": null,
+          "action": "827",
+          "action_kind": "prime-or-special",
+          "represented_action": "827",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)QT9",
+          "revolution": false,
+          "draw": "T",
+          "action": "QT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "QT9",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KXJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "9523A#",
+          "revolution": false,
+          "draw": null,
+          "action": "9523A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9523A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 3,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KXJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "827",
+            "represented_action": "827",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 827,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 3,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KXJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-005",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 6 | mickey vs 3TK | start=marker\nmickey:(625735X23K6)\n3TK:(7QT63ATA784)\nmickey:D(J)57[GC]\nmickey:D(X)6=2*3\n3TK:D(T)Q=36478*AA7TTT,P(9Q62KQ3TAJ87)\nmickey:K\n3TK:D(8)%\nmickey:X[IN]\nmickey:5X|X=7[GC]\nmickey:632J#",
+      "initial_hands": {
+        "mickey": "625735X23K6",
+        "3TK": "7QT63ATA784"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)57[GC]",
+          "revolution": false,
+          "draw": "J",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)6=2*3",
+          "revolution": false,
+          "draw": "X",
+          "action": "6=2*3",
+          "action_kind": "composite",
+          "represented_action": "6",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(T)Q=36478*AA7TTT,P(9Q62KQ3TAJ87)",
+          "revolution": false,
+          "draw": "T",
+          "action": "Q=36478*AA7TTT",
+          "action_kind": "composite",
+          "represented_action": "Q",
+          "play_count": 1,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9Q62KQ3TAJ87",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "5X|X=7[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "632J#",
+          "revolution": false,
+          "draw": null,
+          "action": "632J",
+          "action_kind": "prime-or-special",
+          "represented_action": "632J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241215金剛戦数譜-docx-006",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 7 | 3TK vs mickey | start=marker\n3TK:(J8T2K5AQ89Q)\nmickey:(X326374A296)\n3TK:D(5)KTA2QQJ\nmickey:D(6)%\n3TK:55889#",
+      "initial_hands": {
+        "3TK": "J8T2K5AQ89Q",
+        "mickey": "X326374A296"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(5)KTA2QQJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "KTA2QQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTA2QQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "55889#",
+          "revolution": false,
+          "draw": null,
+          "action": "55889",
+          "action_kind": "prime-or-special",
+          "represented_action": "55889",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KTA2QQJ",
+          "represented_action": "KTA2QQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131012121211,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KTA2QQJ",
+            "represented_action": "KTA2QQJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131012121211,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "X",
+          "face_count": 1,
+          "next_draw": "6",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241215金剛戦数譜-docx-007",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 8 | mickey vs 3TK | start=marker\nmickey:(74X8T968397)\n3TK:(JATKT233876)\nmickey:D(5)789789TX4653|X=A#",
+      "initial_hands": {
+        "mickey": "74X8T968397",
+        "3TK": "JATKT233876"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(5)789789TX4653|X=A#",
+          "revolution": false,
+          "draw": "5",
+          "action": "789789TX4653",
+          "action_kind": "prime-or-special",
+          "represented_action": "789789TA4653",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "789789TX4653",
+          "represented_action": "789789TA4653",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 7897891014653,
+          "digit_count": 13,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "789789TX4653",
+            "represented_action": "789789TA4653",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 7897891014653,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-008",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 9 | 3TK vs mickey | start=marker\n3TK:(3TK94TA53XJ)\nmickey:(26687J426X7)\n3TK:5KTXTJ|X=Q\nmickey:D(2)%\n3TK:439A3#",
+      "initial_hands": {
+        "3TK": "3TK94TA53XJ",
+        "mickey": "26687J426X7"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "5KTXTJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "5KTXTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "5KTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "439A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "439A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "439A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "5KTXTJ",
+          "represented_action": "5KTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 51310121011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "5KTXTJ",
+            "represented_action": "5KTQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 51310121011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "JX",
+          "face_count": 2,
+          "next_draw": "2",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241215金剛戦数譜-docx-009",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 10 | mickey vs 3TK | start=marker\nmickey:(X879TJ23A2T)\n3TK:(87J756695JA)\nmickey:D(9)T2T2JA3X7899|X=5,P(5X489242KT6K)\n3TK:D(4)5675678J9J4A,P(KAAT73Q6J33K)\nmickey:T48576=2^4*2^8*2^2^3\n3TK:D(8)A3QJJJ\nmickey:KKXTTJ|X=K\n3TK:D(5)%\nmickey:999XA|X=9#",
+      "initial_hands": {
+        "mickey": "X879TJ23A2T",
+        "3TK": "87J756695JA"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(9)T2T2JA3X7899|X=5,P(5X489242KT6K)",
+          "revolution": false,
+          "draw": "9",
+          "action": "T2T2JA3X7899",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2T2JA357899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": "5X489242KT6K",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(4)5675678J9J4A,P(KAAT73Q6J33K)",
+          "revolution": false,
+          "draw": "4",
+          "action": "5675678J9J4A",
+          "action_kind": "prime-or-special",
+          "represented_action": "5675678J9J4A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KAAT73Q6J33K",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "T48576=2^4*2^8*2^2^3",
+          "revolution": false,
+          "draw": null,
+          "action": "T48576=2^4*2^8*2^2^3",
+          "action_kind": "composite",
+          "represented_action": "T48576",
+          "play_count": 6,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(8)A3QJJJ",
+          "revolution": false,
+          "draw": "8",
+          "action": "A3QJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3QJJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKXTTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "999XA|X=9#",
+          "revolution": false,
+          "draw": null,
+          "action": "999XA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9999A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T2T2JA3X7899",
+          "represented_action": "T2T2JA357899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "5X489242KT6K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 102102111357899,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXTTJ",
+          "represented_action": "KKKTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313101011,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T2T2JA3X7899",
+            "represented_action": "T2T2JA357899",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "5X489242KT6K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 102102111357899,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-010",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 11 | 3TK vs mickey | start=marker\n3TK:(T7687A9QJQQ)\nmickey:(K45X5T399XJ)\n3TK:D(K)768A97\nmickey:9KXXTJ|X=Q|X=K\n3TK:KTQQQJ#",
+      "initial_hands": {
+        "3TK": "T7687A9QJQQ",
+        "mickey": "K45X5T399XJ"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(K)768A97",
+          "revolution": false,
+          "draw": "K",
+          "action": "768A97",
+          "action_kind": "prime-or-special",
+          "represented_action": "768A97",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9KXXTJ|X=Q|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "9KXXTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KQKTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KTQQQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KTQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 3,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KTQQQJ",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 131012121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "768A97",
+            "represented_action": "768A97",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 768197,
+            "digit_count": 6,
+            "digit_gain": 0
+          },
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 3,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "KTQQQJ",
+            "represented_action": "KTQQQJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 131012121211,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-011",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 12 | mickey vs 3TK | start=marker\nmickey:(3X95J6T8277)\n3TK:(A68A5K3J5AA)\nmickey:D(4)57[GC]\nmickey:986437X2TJ|X=A#",
+      "initial_hands": {
+        "mickey": "3X95J6T8277",
+        "3TK": "A68A5K3J5AA"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "986437X2TJ|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "986437X2TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "986437A2TJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "986437X2TJ",
+          "represented_action": "986437A2TJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 986437121011,
+          "digit_count": 12,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "986437X2TJ",
+            "represented_action": "986437A2TJ",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 986437121011,
+            "digit_count": 12,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-012",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 13 | 3TK vs mickey | start=marker\n3TK:(84J66J39K86)\nmickey:(XT22T5Q7T35)\n3TK:D(K)34666889JJKK,P(Q47AJK2A3367)\nmickey:D(7)T2T2Q7X755T3|X=Q,P(9Q8J482QA9TK)\n3TK:4663\nmickey:D(A)TTT9=9*8,P(54X95)\n3TK:8677\nmickey:KTQJ\n3TK:KKJQ=2^3*A64A389\nmickey:D(4)%\n3TK:KJJ#",
+      "initial_hands": {
+        "3TK": "84J66J39K86",
+        "mickey": "XT22T5Q7T35"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(K)34666889JJKK,P(Q47AJK2A3367)",
+          "revolution": false,
+          "draw": "K",
+          "action": "34666889JJKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "34666889JJKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q47AJK2A3367",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)T2T2Q7X755T3|X=Q,P(9Q8J482QA9TK)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T2T2Q7X755T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2T2Q7Q755T3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": "9Q8J482QA9TK",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "4663",
+          "revolution": false,
+          "draw": null,
+          "action": "4663",
+          "action_kind": "prime-or-special",
+          "represented_action": "4663",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(A)TTT9=9*8,P(54X95)",
+          "revolution": false,
+          "draw": "A",
+          "action": "TTT9=9*8",
+          "action_kind": "composite",
+          "represented_action": "TTT9",
+          "play_count": 4,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "54X95",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "8677",
+          "revolution": false,
+          "draw": null,
+          "action": "8677",
+          "action_kind": "prime-or-special",
+          "represented_action": "8677",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KTQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KKJQ=2^3*A64A389",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQ=2^3*A64A389",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KJJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "34666889JJKK",
+          "represented_action": "34666889JJKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "Q47AJK2A3367",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 3466688911111313,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 9,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KJJ",
+          "represented_action": "KJJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 3,
+          "hand_after_draw": 3,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJJ",
+          "numeric_value": 131111,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "34666889JJKK",
+            "represented_action": "34666889JJKK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "Q47AJK2A3367",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 3466688911111313,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-013",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 14 | mickey vs 3TK | start=marker\nmickey:(5KXTAJ44QA2)\n3TK:(9TQJK536J88)\nmickey:D(2)442A\n3TK:85T9\nmickey:J5XQ=2^T*AK|X=7#",
+      "initial_hands": {
+        "mickey": "5KXTAJ44QA2",
+        "3TK": "9TQJK536J88"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(2)442A",
+          "revolution": false,
+          "draw": "2",
+          "action": "442A",
+          "action_kind": "prime-or-special",
+          "represented_action": "442A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "85T9",
+          "revolution": false,
+          "draw": null,
+          "action": "85T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "85T9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "J5XQ=2^T*AK|X=7#",
+          "revolution": false,
+          "draw": null,
+          "action": "J5XQ=2^T*AK",
+          "action_kind": "composite",
+          "represented_action": "J57Q",
+          "play_count": 4,
+          "consumed_count": 8,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241215金剛戦数譜-docx-014",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 241215金剛戦数譜.docx | game 15 | 3TK vs mickey | start=marker\n3TK:(2XQTA2J56K4)\nmickey:(AA89ATTX64K)\n3TK:642A\nmickey:D(5)54TA\n3TK:KJQX|X=J\nmickey:D(3)%\n3TK:T=5*2#",
+      "initial_hands": {
+        "3TK": "2XQTA2J56K4",
+        "mickey": "AA89ATTX64K"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "642A",
+          "revolution": false,
+          "draw": null,
+          "action": "642A",
+          "action_kind": "prime-or-special",
+          "represented_action": "642A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)54TA",
+          "revolution": false,
+          "draw": "5",
+          "action": "54TA",
+          "action_kind": "prime-or-special",
+          "represented_action": "54TA",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KJQX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "T=5*2#",
+          "revolution": false,
+          "draw": null,
+          "action": "T=5*2",
+          "action_kind": "composite",
+          "represented_action": "T",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 3,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KJQX",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "642A",
+            "represented_action": "642A",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 6421,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 3,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "KJQX",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-015",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "241215金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 241215金剛戦数譜.docx | game 16 | mickey vs 3TK | start=marker\nmickey:(T76A3K28J28)\n3TK:(5XJ76Q2JT3Q)\nmickey:D(5)TJA2K2356887,P(2ATATQAK7993)\n3TK:D(6)6=2*3\nmickey:D(7)K\n3TK:X[IN]\n3TK:57[GC]\n3TK:6QTQJJ#",
+      "initial_hands": {
+        "mickey": "T76A3K28J28",
+        "3TK": "5XJ76Q2JT3Q"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(5)TJA2K2356887,P(2ATATQAK7993)",
+          "revolution": false,
+          "draw": "5",
+          "action": "TJA2K2356887",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJA2K2356887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2ATATQAK7993",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(6)6=2*3",
+          "revolution": false,
+          "draw": "6",
+          "action": "6=2*3",
+          "action_kind": "composite",
+          "represented_action": "6",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)K",
+          "revolution": false,
+          "draw": "7",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "6QTQJJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "6QTQJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QTQJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241215金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "3TK",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TJA2K2356887",
+          "represented_action": "TJA2K2356887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "2ATATQAK7993",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101112132356887,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "3TK",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241215金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "3TK",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TJA2K2356887",
+            "represented_action": "TJA2K2356887",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "2ATATQAK7993",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101112132356887,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241215金剛戦数譜-docx-016",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-015",
+      "match_no": 15,
+      "match_label": "第15試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

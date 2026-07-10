@@ -1,0 +1,610 @@
+{
+  "match_id": "pqcs-2023冬-予選bブロック-match-001",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "予選Bブロック",
+  "stage_order": 20,
+  "match_no": 1,
+  "match_label": "予選B第1試合",
+  "players": [
+    "3TK",
+    "dilsh"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "3TK",
+      "second_player": "dilsh",
+      "raw_block": "### PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx | game 1 | 3TK vs dilsh | start=pqcs-set-rule\n3TK:(23456668TQQ)\ndilsh:(A233378TJKK)\n3TK:D(8)8T6856Q624Q3#",
+      "initial_hands": {
+        "3TK": "23456668TQQ",
+        "dilsh": "A233378TJKK"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(8)8T6856Q624Q3#",
+          "revolution": false,
+          "draw": "8",
+          "action": "8T6856Q624Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T6856Q624Q3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "8T6856Q624Q3",
+          "represented_action": "8T6856Q624Q3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 810685612624123,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "8T6856Q624Q3",
+            "represented_action": "8T6856Q624Q3",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 810685612624123,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選bブロック-第1試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "3TK",
+        "dilsh"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Bブロック",
+      "stage_order": 20,
+      "match_id": "pqcs-2023冬-予選bブロック-match-001",
+      "match_no": 1,
+      "match_label": "予選B第1試合",
+      "match_players": [
+        "3TK",
+        "dilsh"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "dilsh",
+      "second_player": "3TK",
+      "raw_block": "### PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx | game 2 | dilsh vs 3TK | start=pqcs-set-rule\ndilsh:(5667889QKKK)\n3TK:(AAA335589KX)\ndilsh:D(X)57[GC]\ndilsh:86869\n3TK:D(A)9K8XA|X=K\ndilsh:KKQKX|X=J#",
+      "initial_hands": {
+        "dilsh": "5667889QKKK",
+        "3TK": "AAA335589KX"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "86869",
+          "revolution": false,
+          "draw": null,
+          "action": "86869",
+          "action_kind": "prime-or-special",
+          "represented_action": "86869",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(A)9K8XA|X=K",
+          "revolution": false,
+          "draw": "A",
+          "action": "9K8XA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9K8KA",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "KKQKX|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 4,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQKX",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 5,
+          "hand_after_draw": 5,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 1313121311,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 2,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "86869",
+            "represented_action": "86869",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 86869,
+            "digit_count": 5,
+            "digit_gain": 0
+          },
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 4,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "KKQKX",
+            "represented_action": "KKQKJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 5,
+            "hand_after_draw": 5,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 1313121311,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選bブロック-第1試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "dilsh",
+        "3TK"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Bブロック",
+      "stage_order": 20,
+      "match_id": "pqcs-2023冬-予選bブロック-match-001",
+      "match_no": 1,
+      "match_label": "予選B第1試合",
+      "match_players": [
+        "3TK",
+        "dilsh"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "3TK",
+      "second_player": "dilsh",
+      "raw_block": "### PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx | game 3 | 3TK vs dilsh | start=pqcs-set-rule\n3TK:(A2447899TJJ)\ndilsh:(A3556699QQX)\n3TK:D(7)A24477899TJJ,P(A355677JJKKK)\ndilsh:D(3)5566993Q3QXA|X=T,P(2234688TTTQK)\n3TK:D(A)57[GC]\n3TK:4782969=3^A4\ndilsh:D(8)QQQTTTX|X=J,P(23457QX)\n3TK:KKKJJJJ\ndilsh:D(A)XXKQQQT|X=K|X=K,P(2446789)\n3TK:57[GC]\n3TK:7TAA#",
+      "initial_hands": {
+        "3TK": "A2447899TJJ",
+        "dilsh": "A3556699QQX"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(7)A24477899TJJ,P(A355677JJKKK)",
+          "revolution": false,
+          "draw": "7",
+          "action": "A24477899TJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A24477899TJJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A355677JJKKK",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(3)5566993Q3QXA|X=T,P(2234688TTTQK)",
+          "revolution": false,
+          "draw": "3",
+          "action": "5566993Q3QXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "5566993Q3QTA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": "2234688TTTQK",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "4782969=3^A4",
+          "revolution": false,
+          "draw": null,
+          "action": "4782969=3^A4",
+          "action_kind": "composite",
+          "represented_action": "4782969",
+          "play_count": 7,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)QQQTTTX|X=J,P(23457QX)",
+          "revolution": false,
+          "draw": "8",
+          "action": "QQQTTTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQTTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "23457QX",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KKKJJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKJJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKJJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(A)XXKQQQT|X=K|X=K,P(2446789)",
+          "revolution": false,
+          "draw": "A",
+          "action": "XXKQQQT",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQQT",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "2446789",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "7TAA#",
+          "revolution": false,
+          "draw": null,
+          "action": "7TAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "7TAA",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A24477899TJJ",
+          "represented_action": "A24477899TJJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "A355677JJKKK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 124477899101111,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 6,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKJJJJ",
+          "represented_action": "KKKJJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 13,
+          "hand_after_draw": 13,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131311111111,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A24477899TJJ",
+            "represented_action": "A24477899TJJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "A355677JJKKK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 124477899101111,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選bブロック-第1試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "3TK",
+        "dilsh"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Bブロック",
+      "stage_order": 20,
+      "match_id": "pqcs-2023冬-予選bブロック-match-001",
+      "match_no": 1,
+      "match_label": "予選B第1試合",
+      "match_players": [
+        "3TK",
+        "dilsh"
+      ],
+      "match_game_no": 3
+    }
+  ]
+}
