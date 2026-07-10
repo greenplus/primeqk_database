@@ -3,6 +3,8 @@ const state = {
   games: [],
   index: [],
   facets: {},
+  detailCache: new Map(),
+  detailErrors: new Map(),
   selectedId: null,
   frame: 0,
   filters: {
@@ -16,6 +18,8 @@ const state = {
     number: "",
   },
   sortDirection: "asc",
+  page: 1,
+  pageSize: 100,
 };
 
 const SOSU_SAISEI_URL = "https://searial.web.fc2.com/tools/sosusaisei.html";
@@ -92,14 +96,15 @@ function actionOutcomeBadgeHtml(event) {
 }
 
 function routeHtml(game) {
-  const events = game.events || [];
+  const events = game.preview_events || game.events || [];
   if (!events.length) return '<span class="pill">記録なし</span>';
   const visible = events.slice(0, 4);
   const tokens = visible.map((event, index) => `
     ${index ? "<span>→</span>" : ""}
     <span class="move-token"><span class="turn-badge">${esc(turnSideLabel(event, game))}</span>${esc(event.action || event.represented_action || "%")}${actionOutcomeBadgeHtml(event)}</span>
   `);
-  if (events.length > visible.length) tokens.push('<span class="route-more">…</span>');
+  const totalTurns = Number(game.turn_count ?? events.length);
+  if (totalTurns > visible.length) tokens.push('<span class="route-more">…</span>');
   return `<div class="route">${tokens.join("")}</div>`;
 }
 
@@ -239,6 +244,21 @@ async function loadData() {
   render();
 }
 
+function detailUrl(game) {
+  return `data/${game.detail_path || `game-details/${game.id}.json`}`;
+}
+
+async function loadGameDetail(game) {
+  if (!game?.id) return null;
+  if (state.detailCache.has(game.id)) return state.detailCache.get(game.id);
+  state.detailErrors.delete(game.id);
+  const response = await fetch(detailUrl(game));
+  if (!response.ok) throw new Error(`detail fetch failed: ${response.status}`);
+  const detail = await response.json();
+  state.detailCache.set(game.id, detail);
+  return detail;
+}
+
 function checkedSetHtml(name, values, selected, labeler = (value) => value) {
   return `<div class="filter-body compact-checks">${values.map((value) => `
     <label class="check-row">
@@ -370,6 +390,9 @@ function docMatchesPlayer(doc) {
 function docMatchesQuery(doc, query) {
   if (!query) return true;
   const normalized = query.trim().toLowerCase();
+  if (doc.played_terms) {
+    return doc.played_terms.some((term) => String(term || "").toLowerCase() === normalized);
+  }
   return (doc.played_entries || []).some((entry) => (
     String(entry.number || "").toLowerCase() === normalized
     || String(entry.cards || "").toLowerCase() === normalized
@@ -382,7 +405,7 @@ function filteredRows() {
   const query = state.filters.number;
   const rows = state.index
     .map((doc, index) => ({ doc, game: state.games[index] }))
-    .filter(({ doc }) => docMatchesQuery(doc, query) && docMatchesHierarchy(doc) && docMatchesPlayer(doc));
+    .filter(({ doc, game }) => docMatchesQuery(doc, query) && docMatchesHierarchy(game) && docMatchesPlayer(game));
   const sort = $("#sortSelect").value;
   const direction = state.sortDirection === "desc" ? -1 : 1;
   const gameOrderCompare = (a, b) => (
@@ -402,7 +425,7 @@ function filteredRows() {
         || Number(a.game.game_no) - Number(b.game.game_no)
         || gameOrderCompare(a, b);
     } else if (sort === "turns") {
-      result = (a.game.events?.length || 0) - (b.game.events?.length || 0)
+      result = Number(a.game.turn_count || 0) - Number(b.game.turn_count || 0)
         || gameOrderCompare(a, b);
     } else {
       result = gameOrderCompare(a, b);
@@ -412,9 +435,15 @@ function filteredRows() {
   return rows;
 }
 
-function renderResults(rows) {
-  $("#resultMeta").textContent = `${rows.length} / ${state.games.length} 局`;
-  if (!rows.length) {
+function renderResults(rows, totalRows) {
+  const totalPages = Math.max(1, Math.ceil(totalRows / state.pageSize));
+  const start = totalRows ? (state.page - 1) * state.pageSize + 1 : 0;
+  const end = Math.min(totalRows, state.page * state.pageSize);
+  $("#resultMeta").textContent = totalRows
+    ? `${start}-${end} / ${totalRows} 局（全${state.games.length}局）`
+    : `0 / ${state.games.length} 局`;
+  renderPager(totalPages, totalRows);
+  if (!totalRows) {
     $("#resultsList").innerHTML = '<div class="empty-results">該当する数譜がありません。</div>';
     return;
   }
@@ -430,13 +459,50 @@ function renderResults(rows) {
   `).join("");
 }
 
+function renderPager(totalPages, totalRows) {
+  if (totalRows <= state.pageSize) {
+    $("#resultPager").innerHTML = "";
+    return;
+  }
+  $("#resultPager").innerHTML = `
+    <button type="button" data-page-step="-1" ${state.page <= 1 ? "disabled" : ""}>前へ</button>
+    <span>${state.page} / ${totalPages}</span>
+    <button type="button" data-page-step="1" ${state.page >= totalPages ? "disabled" : ""}>次へ</button>
+  `;
+}
+
 function selectedGame() {
   return state.games.find((game) => game.id === state.selectedId) || state.games[0];
 }
 
 function renderDetail() {
-  const game = selectedGame();
-  if (!game) return;
+  const selected = selectedGame();
+  if (!selected) return;
+  const cached = state.detailCache.get(selected.id);
+  if (!cached) {
+    if (state.detailErrors.has(selected.id)) {
+      $("#detailPanel").innerHTML = `<article class="detail-card">
+        <h2>${esc(gameHeading(selected))}</h2>
+        <div class="empty-detail">詳細データを読み込めませんでした。</div>
+      </article>`;
+      return;
+    }
+    $("#detailPanel").innerHTML = `<article class="detail-card">
+      <h2>${esc(gameHeading(selected))}</h2>
+      <div class="empty-detail">詳細データを読み込み中です。</div>
+    </article>`;
+    loadGameDetail(selected)
+      .then(() => {
+        if (state.selectedId === selected.id) renderDetail();
+      })
+      .catch((error) => {
+        console.error(error);
+        state.detailErrors.set(selected.id, error);
+        if (state.selectedId === selected.id) renderDetail();
+      });
+    return;
+  }
+  const game = { ...selected, ...cached };
   const frames = buildReplayFrames(game);
   state.frame = Math.min(state.frame, Math.max(0, frames.length - 1));
   const frame = frames[state.frame];
@@ -518,26 +584,34 @@ function render() {
     renderFilters();
   }
   const rows = filteredRows();
+  const totalPages = Math.max(1, Math.ceil(rows.length / state.pageSize));
+  state.page = Math.max(1, Math.min(totalPages, state.page));
   if (!rows.some(({ game }) => game.id === state.selectedId)) {
     state.selectedId = rows[0]?.game.id || state.games[0]?.id || null;
     state.frame = 0;
   }
+  const pagedRows = rows.slice((state.page - 1) * state.pageSize, state.page * state.pageSize);
   $("#statusText").textContent = `${state.games.length}局 / ${state.facets.hierarchy?.length || 0}カテゴリ`;
   $("#sortDirectionButton").textContent = state.sortDirection === "asc" ? "▲" : "▼";
   $("#sortDirectionButton").setAttribute("aria-label", state.sortDirection === "asc" ? "昇順" : "降順");
   renderDetail();
-  renderResults(rows);
+  renderResults(pagedRows, rows.length);
 }
 
-$("#sortSelect").addEventListener("change", render);
+$("#sortSelect").addEventListener("change", () => {
+  state.page = 1;
+  render();
+});
 $("#sortDirectionButton").addEventListener("click", () => {
   state.sortDirection = state.sortDirection === "asc" ? "desc" : "asc";
+  state.page = 1;
   render();
 });
 $("#filters").addEventListener("change", (event) => {
   const target = event.target;
   if (target.matches("[data-filter]")) {
     updateSetFilter(target.dataset.filter, target.value, target.checked);
+    state.page = 1;
     render();
     return;
   }
@@ -550,12 +624,14 @@ $("#filters").addEventListener("change", (event) => {
   if (target.id === "opponentSelect") state.filters.opponent = target.value;
   if (target.id === "roleSelect") state.filters.role = target.value;
   if (target.id === "resultSelect") state.filters.result = target.value;
+  state.page = 1;
   render();
 });
 $("#filters").addEventListener("input", (event) => {
   const target = event.target;
   if (target.id !== "numberInput") return;
   state.filters.number = target.value;
+  state.page = 1;
   render();
 });
 $("#resultsList").addEventListener("click", (event) => {
@@ -565,10 +641,17 @@ $("#resultsList").addEventListener("click", (event) => {
   state.frame = 0;
   render();
 });
+$("#resultPager").addEventListener("click", (event) => {
+  const button = event.target.closest("[data-page-step]");
+  if (!button) return;
+  state.page += Number(button.dataset.pageStep || 0);
+  render();
+});
 $("#detailPanel").addEventListener("click", async (event) => {
   const stepButton = event.target.closest("[data-step]");
   if (stepButton) {
-    const game = selectedGame();
+    const game = state.detailCache.get(state.selectedId);
+    if (!game) return;
     const frames = buildReplayFrames(game);
     const max = Math.max(0, frames.length - 1);
     state.frame = Math.max(0, Math.min(max, state.frame + Number(stepButton.dataset.step || 0)));
@@ -577,7 +660,8 @@ $("#detailPanel").addEventListener("click", async (event) => {
   }
   const copyButton = event.target.closest("[data-copy-kifu]");
   if (!copyButton) return;
-  const game = selectedGame();
+  const game = state.detailCache.get(state.selectedId);
+  if (!game) return;
   try {
     await navigator.clipboard.writeText(displayRawBlock(game.raw_block || ""));
     $("#copyStatus").textContent = "コピーしました";

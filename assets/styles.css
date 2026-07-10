@@ -227,6 +227,25 @@ a.button-link {
   gap: 10px;
 }
 
+.result-pager {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.result-pager button {
+  min-width: 76px;
+}
+
+.result-pager button:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
 .result-card,
 .detail-card {
   border: 1px solid var(--line);
