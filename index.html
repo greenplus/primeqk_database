@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>素数大富豪 数譜データベース</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>素数大富豪 数譜データベース</h1>
+      <p id="statusText">読み込み中</p>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="filters" id="filters"></aside>
+    <section class="workspace">
+      <section class="detail" id="detailPanel">
+        <div class="empty-detail">検索結果から数譜を選択してください。</div>
+      </section>
+      <section class="results">
+        <div class="result-head">
+          <div class="result-meta" id="resultMeta"></div>
+          <select id="sortSelect" aria-label="並び替え">
+            <option value="game">ゲーム順</option>
+            <option value="turns">手数順</option>
+            <option value="win">勝敗順</option>
+            <option value="updated">更新順</option>
+          </select>
+          <button id="sortDirectionButton" class="sort-dir-button" type="button" aria-label="昇順">▲</button>
+        </div>
+        <div id="resultsList" class="results-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
