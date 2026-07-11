@@ -1,0 +1,3702 @@
+{
+  "match_id": "金剛戦-第2期-match-006",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 6,
+  "match_label": "第6試合",
+  "players": [
+    "nishimura",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 1 | nishimura vs マリン | start=spreadsheet\nnishimura:(3T7J52T674Q)\nマリン:(9KKK435AJ62)\nnishimura:D(6)57[GC]\nnishimura:D(7)T7T7J6Q6243,P(T54A9QATJ24)\nマリン:D(A)JAA2345KKK96,P(9383828Q75JX)\nnishimura:D(K)TQAA2234445677,P(9X68Q57)\nマリン:J2A3\nnishimura:KJQJ\nマリン:KKQK=3*379*J549\nnishimura:D(3)%\nマリン:X[IN]\nマリン:886852A#",
+      "initial_hands": {
+        "nishimura": "3T7J52T674Q",
+        "マリン": "9KKK435AJ62"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)T7T7J6Q6243,P(T54A9QATJ24)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T7T7J6Q6243",
+          "action_kind": "prime-or-special",
+          "represented_action": "T7T7J6Q6243",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T54A9QATJ24",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)JAA2345KKK96,P(9383828Q75JX)",
+          "revolution": false,
+          "draw": "A",
+          "action": "JAA2345KKK96",
+          "action_kind": "prime-or-special",
+          "represented_action": "JAA2345KKK96",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9383828Q75JX",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(K)TQAA2234445677,P(9X68Q57)",
+          "revolution": false,
+          "draw": "K",
+          "action": "TQAA2234445677",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQAA2234445677",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9X68Q57",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "J2A3",
+          "revolution": false,
+          "draw": null,
+          "action": "J2A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKQK=3*379*J549",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQK=3*379*J549",
+          "action_kind": "composite",
+          "represented_action": "KKQK",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "886852A#",
+          "revolution": false,
+          "draw": null,
+          "action": "886852A",
+          "action_kind": "prime-or-special",
+          "represented_action": "886852A",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 2,
+          "player": "nishimura",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "T7T7J6Q6243",
+          "represented_action": "T7T7J6Q6243",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "7",
+          "penalty": "T54A9QATJ24",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 107107116126243,
+          "digit_count": 15,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 4,
+          "player": "nishimura",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "TQAA2234445677",
+          "represented_action": "TQAA2234445677",
+          "play_count": 14,
+          "consumed_count": 14,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "K",
+          "penalty": "9X68Q57",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012112234445677,
+          "digit_count": 16,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 6,
+          "player": "nishimura",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "nishimura",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 2,
+            "player": "nishimura",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "T7T7J6Q6243",
+            "represented_action": "T7T7J6Q6243",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "7",
+            "penalty": "T54A9QATJ24",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 107107116126243,
+            "digit_count": 15,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-001",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 2 | マリン vs nishimura | start=spreadsheet\nマリン:(83AJ6KQK359)\nnishimura:(KT779446QQ2)\nマリン:D(8)8Q3\nnishimura:D(5)QQT=K24*456779,P(A3TK5AJ827AT)\nマリン:KKJ\nnishimura:D(6)%\nマリン:9856A3#",
+      "initial_hands": {
+        "マリン": "83AJ6KQK359",
+        "nishimura": "KT779446QQ2"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(8)8Q3",
+          "revolution": false,
+          "draw": "8",
+          "action": "8Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8Q3",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(5)QQT=K24*456779,P(A3TK5AJ827AT)",
+          "revolution": false,
+          "draw": "5",
+          "action": "QQT=K24*456779",
+          "action_kind": "composite",
+          "represented_action": "QQT",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A3TK5AJ827AT",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9856A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "9856A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9856A3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "8Q3",
+            "represented_action": "8Q3",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8123,
+            "digit_count": 4,
+            "digit_gain": 1
+          },
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-002",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 3 | nishimura vs マリン | start=spreadsheet\nnishimura:(8X96A9738A5)\nマリン:(3273JQ54463)\nnishimura:D(T)TXAA35678899|X=0,P(6J694TQ8X5T2)\nマリン:D(J)JQ244333567J,P(K5KA2QJ7K24T)\nnishimura:D(K)A729[RR]\nマリン:A222,P(87AQ)\nnishimura:96TQTKJ\nマリン:A446422,P(9A729)\nnishimura:AX58683|X=0\nマリン:%\nnishimura:5X|X=7[GC]\nnishimura:84T69#",
+      "initial_hands": {
+        "nishimura": "8X96A9738A5",
+        "マリン": "3273JQ54463"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(T)TXAA35678899|X=0,P(6J694TQ8X5T2)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TXAA35678899",
+          "action_kind": "prime-or-special",
+          "represented_action": "T0AA35678899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "6J694TQ8X5T2",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)JQ244333567J,P(K5KA2QJ7K24T)",
+          "revolution": false,
+          "draw": "J",
+          "action": "JQ244333567J",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQ244333567J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K5KA2QJ7K24T",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(K)A729[RR]",
+          "revolution": false,
+          "draw": "K",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "A222,P(87AQ)",
+          "revolution": false,
+          "draw": null,
+          "action": "A222",
+          "action_kind": "prime-or-special",
+          "represented_action": "A222",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "87AQ",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "96TQTKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "96TQTKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "96TQTKJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "A446422,P(9A729)",
+          "revolution": false,
+          "draw": null,
+          "action": "A446422",
+          "action_kind": "prime-or-special",
+          "represented_action": "A446422",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9A729",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "AX58683|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX58683",
+          "action_kind": "prime-or-special",
+          "represented_action": "A058683",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "5X|X=7[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "84T69#",
+          "revolution": false,
+          "draw": null,
+          "action": "84T69",
+          "action_kind": "prime-or-special",
+          "represented_action": "84T69",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TXAA35678899",
+          "represented_action": "T0AA35678899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "6J694TQ8X5T2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1001135678899,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 5,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "96TQTKJ",
+          "represented_action": "96TQTKJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 21,
+          "hand_after_draw": 21,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 961012101311,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TXAA35678899",
+            "represented_action": "T0AA35678899",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "6J694TQ8X5T2",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1001135678899,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-003",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 4 | マリン vs nishimura | start=spreadsheet\nマリン:(2787K6Q5355)\nnishimura:(T42874A93J8)\nマリン:D(Q)Q5Q5K8775623,P(3A6X29T4QT26)\nnishimura:D(3)TJA233447889,P(KJTJKAJ8A547)\nマリン:D(6)6QT9\nnishimura:D(K)8JTJ\nマリン:KQTQ=2^2*67*A73*283\nnishimura:D(X)KKTJ=3A*42358A\nマリン:%\nnishimura:947\nマリン:D(Q)6Q5=5*456X|X=5,P(992267A7)\nnishimura:XKJ|X=K\nマリン:%\nnishimura:A487#",
+      "initial_hands": {
+        "マリン": "2787K6Q5355",
+        "nishimura": "T42874A93J8"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(Q)Q5Q5K8775623,P(3A6X29T4QT26)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "Q5Q5K8775623",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q5Q5K8775623",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3A6X29T4QT26",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(3)TJA233447889,P(KJTJKAJ8A547)",
+          "revolution": false,
+          "draw": "3",
+          "action": "TJA233447889",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJA233447889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KJTJKAJ8A547",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)6QT9",
+          "revolution": false,
+          "draw": "6",
+          "action": "6QT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QT9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(K)8JTJ",
+          "revolution": false,
+          "draw": "K",
+          "action": "8JTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8JTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KQTQ=2^2*67*A73*283",
+          "revolution": false,
+          "draw": null,
+          "action": "KQTQ=2^2*67*A73*283",
+          "action_kind": "composite",
+          "represented_action": "KQTQ",
+          "play_count": 4,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(X)KKTJ=3A*42358A",
+          "revolution": false,
+          "draw": "X",
+          "action": "KKTJ=3A*42358A",
+          "action_kind": "composite",
+          "represented_action": "KKTJ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "947",
+          "revolution": false,
+          "draw": null,
+          "action": "947",
+          "action_kind": "prime-or-special",
+          "represented_action": "947",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)6Q5=5*456X|X=5,P(992267A7)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "6Q5=5*456X",
+          "action_kind": "composite",
+          "represented_action": "6Q5",
+          "play_count": 3,
+          "consumed_count": 8,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": "992267A7",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "XKJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A487#",
+          "revolution": false,
+          "draw": null,
+          "action": "A487",
+          "action_kind": "prime-or-special",
+          "represented_action": "A487",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q5Q5K8775623",
+          "represented_action": "Q5Q5K8775623",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "3A6X29T4QT26",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 125125138775623,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q5Q5K8775623",
+            "represented_action": "Q5Q5K8775623",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "3A6X29T4QT26",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 125125138775623,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-004",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 5 | nishimura vs マリン | start=spreadsheet\nnishimura:(7469A44TQQ3)\nマリン:(A79867K3Q5A)\nnishimura:D(9)TQQA34446799,P(8JJ4QX2AK228)\nマリン:D(6)AAQK35766978,P(6TJ25375T3KK)\nnishimura:D(9)4432447899TJ,P(T8XJ5)\nマリン:66863\nnishimura:%\nマリン:D(6)96323\nnishimura:KXQXJ|X=K|X=K\nマリン:%\nnishimura:9494848A2TA2J\nマリン:D(6)6AA555777TTJK,P(86396323KXQXJ)\nnishimura:57[GC]\nnishimura:632849QTQJ#",
+      "initial_hands": {
+        "nishimura": "7469A44TQQ3",
+        "マリン": "A79867K3Q5A"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(9)TQQA34446799,P(8JJ4QX2AK228)",
+          "revolution": false,
+          "draw": "9",
+          "action": "TQQA34446799",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQQA34446799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8JJ4QX2AK228",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)AAQK35766978,P(6TJ25375T3KK)",
+          "revolution": false,
+          "draw": "6",
+          "action": "AAQK35766978",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAQK35766978",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6TJ25375T3KK",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)4432447899TJ,P(T8XJ5)",
+          "revolution": false,
+          "draw": "9",
+          "action": "4432447899TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "4432447899TJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T8XJ5",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "66863",
+          "revolution": false,
+          "draw": null,
+          "action": "66863",
+          "action_kind": "prime-or-special",
+          "represented_action": "66863",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)96323",
+          "revolution": false,
+          "draw": "6",
+          "action": "96323",
+          "action_kind": "prime-or-special",
+          "represented_action": "96323",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KXQXJ|X=K|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "9494848A2TA2J",
+          "revolution": false,
+          "draw": null,
+          "action": "9494848A2TA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "9494848A2TA2J",
+          "play_count": 13,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)6AA555777TTJK,P(86396323KXQXJ)",
+          "revolution": false,
+          "draw": "6",
+          "action": "6AA555777TTJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "6AA555777TTJK",
+          "play_count": 13,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "86396323KXQXJ",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "632849QTQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "632849QTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "632849QTQJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TQQA34446799",
+          "represented_action": "TQQA34446799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "8JJ4QX2AK228",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101212134446799,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "4432447899TJ",
+          "represented_action": "4432447899TJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "9",
+          "penalty": "T8XJ5",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 44324478991011,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 7,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KXQXJ",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121311,
+          "digit_count": 10,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 9,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "9494848A2TA2J",
+          "represented_action": "9494848A2TA2J",
+          "play_count": 13,
+          "consumed_count": 13,
+          "hand_before": 25,
+          "hand_after_draw": 25,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 949484812101211,
+          "digit_count": 15,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 12,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "632849QTQJ",
+          "represented_action": "632849QTQJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 63284912101211,
+          "digit_count": 14,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TQQA34446799",
+            "represented_action": "TQQA34446799",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "8JJ4QX2AK228",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101212134446799,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-005",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 6 | マリン vs nishimura | start=spreadsheet\nマリン:(6864K53K86Q)\nnishimura:(A3J8QJKT99X)\nマリン:D(5)QKK886665543,P(KT395A6QA2J9)\nnishimura:D(A)AXTAJJQK3899|X=0,P(22XJ274775T4)\nマリン:D(T)864T66A269\nnishimura:D(3)%\nマリン:55589\nnishimura:D(4)KXQXJ|X=K|X=K\nマリン:%\nnishimura:D(8)57[GC]\nnishimura:D(Q)A729[RR]\nマリン:D(7)%\nnishimura:D(8)A23479\nマリン:D(6)%\nnishimura:88844Q3\nマリン:D(4)TA33467\nnishimura:%\nマリン:KKKQQJ#",
+      "initial_hands": {
+        "マリン": "6864K53K86Q",
+        "nishimura": "A3J8QJKT99X"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(5)QKK886665543,P(KT395A6QA2J9)",
+          "revolution": false,
+          "draw": "5",
+          "action": "QKK886665543",
+          "action_kind": "prime-or-special",
+          "represented_action": "QKK886665543",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KT395A6QA2J9",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(A)AXTAJJQK3899|X=0,P(22XJ274775T4)",
+          "revolution": false,
+          "draw": "A",
+          "action": "AXTAJJQK3899",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0TAJJQK3899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "22XJ274775T4",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)864T66A269",
+          "revolution": false,
+          "draw": "T",
+          "action": "864T66A269",
+          "action_kind": "prime-or-special",
+          "represented_action": "864T66A269",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "55589",
+          "revolution": false,
+          "draw": null,
+          "action": "55589",
+          "action_kind": "prime-or-special",
+          "represented_action": "55589",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)KXQXJ|X=K|X=K",
+          "revolution": false,
+          "draw": "4",
+          "action": "KXQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(Q)A729[RR]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)A23479",
+          "revolution": false,
+          "draw": "8",
+          "action": "A23479",
+          "action_kind": "prime-or-special",
+          "represented_action": "A23479",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "88844Q3",
+          "revolution": false,
+          "draw": null,
+          "action": "88844Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "88844Q3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)TA33467",
+          "revolution": false,
+          "draw": "4",
+          "action": "TA33467",
+          "action_kind": "prime-or-special",
+          "represented_action": "TA33467",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKKQQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "QKK886665543",
+          "represented_action": "QKK886665543",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "KT395A6QA2J9",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121313886665543,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "864T66A269",
+          "represented_action": "864T66A269",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 86410661269,
+          "digit_count": 11,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 16,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "QKK886665543",
+            "represented_action": "QKK886665543",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "KT395A6QA2J9",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 121313886665543,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-006",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 7 | nishimura vs マリン | start=spreadsheet\nnishimura:(7T9A48J6K4K)\nマリン:(93XQ7QKJ6AT)\nnishimura:D(3)9876434TK,P(8JT254JQ6)\nマリン:KXQQTJ|X=K\nnishimura:D(6)%\nマリン:976A3#",
+      "initial_hands": {
+        "nishimura": "7T9A48J6K4K",
+        "マリン": "93XQ7QKJ6AT"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(3)9876434TK,P(8JT254JQ6)",
+          "revolution": false,
+          "draw": "3",
+          "action": "9876434TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9876434TK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8JT254JQ6",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KXQQTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "976A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "976A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "976A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "9876434TK",
+          "represented_action": "9876434TK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "8JT254JQ6",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 98764341013,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "nishimura",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "9876434TK",
+            "represented_action": "9876434TK",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "8JT254JQ6",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 98764341013,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-007",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 8 | マリン vs nishimura | start=spreadsheet\nマリン:(72358T853AA)\nnishimura:(J44K3J9J67Q)\nマリン:D(Q)57[GC]\nマリン:D(6)TQAA2588363,P(JAK2Q548T72)\nnishimura:D(9)JJJQK3446799,P(796T4QKK6X2A)\nマリン:D(5)AAA22234556888TTJQ3,P(83XT957)\nnishimura:96496432A\nマリン:6789TJQ4K\nnishimura:KKKQTJQJJ\nマリン:%\nnishimura:X7|X=5[GC]\nnishimura:9467#",
+      "initial_hands": {
+        "マリン": "72358T853AA",
+        "nishimura": "J44K3J9J67Q"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)TQAA2588363,P(JAK2Q548T72)",
+          "revolution": false,
+          "draw": "6",
+          "action": "TQAA2588363",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQAA2588363",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "JAK2Q548T72",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)JJJQK3446799,P(796T4QKK6X2A)",
+          "revolution": false,
+          "draw": "9",
+          "action": "JJJQK3446799",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJJQK3446799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "796T4QKK6X2A",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)AAA22234556888TTJQ3,P(83XT957)",
+          "revolution": false,
+          "draw": "5",
+          "action": "AAA22234556888TTJQ3",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAA22234556888TTJQ3",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "83XT957",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "96496432A",
+          "revolution": false,
+          "draw": null,
+          "action": "96496432A",
+          "action_kind": "prime-or-special",
+          "represented_action": "96496432A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "6789TJQ4K",
+          "revolution": false,
+          "draw": null,
+          "action": "6789TJQ4K",
+          "action_kind": "prime-or-special",
+          "represented_action": "6789TJQ4K",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKKQTJQJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQTJQJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQTJQJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "9467#",
+          "revolution": false,
+          "draw": null,
+          "action": "9467",
+          "action_kind": "prime-or-special",
+          "represented_action": "9467",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 2,
+          "player": "マリン",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "TQAA2588363",
+          "represented_action": "TQAA2588363",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "6",
+          "penalty": "JAK2Q548T72",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012112588363,
+          "digit_count": 13,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 4,
+          "player": "マリン",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "AAA22234556888TTJQ3",
+          "represented_action": "AAA22234556888TTJQ3",
+          "play_count": 19,
+          "consumed_count": 19,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "5",
+          "penalty": "83XT957",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11122234556888101011123,
+          "digit_count": 23,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 6,
+          "player": "マリン",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "6789TJQ4K",
+          "represented_action": "6789TJQ4K",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 6789101112413,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 2,
+            "player": "マリン",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "TQAA2588363",
+            "represented_action": "TQAA2588363",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "6",
+            "penalty": "JAK2Q548T72",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1012112588363,
+            "digit_count": 13,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-008",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 9 | nishimura vs マリン | start=spreadsheet\nnishimura:(235KJA2X389)\nマリン:(2967488TA7T)\nnishimura:353\nマリン:D(A)TT8=2*9^AA46787,P(4TQJQ7KK9TKX)\nnishimura:98A2X2KJ|X=A#",
+      "initial_hands": {
+        "nishimura": "235KJA2X389",
+        "マリン": "2967488TA7T"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "353",
+          "revolution": false,
+          "draw": null,
+          "action": "353",
+          "action_kind": "prime-or-special",
+          "represented_action": "353",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)TT8=2*9^AA46787,P(4TQJQ7KK9TKX)",
+          "revolution": false,
+          "draw": "A",
+          "action": "TT8=2*9^AA46787",
+          "action_kind": "composite",
+          "represented_action": "TT8",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4TQJQ7KK9TKX",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "98A2X2KJ|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "98A2X2KJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98A2A2KJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "小さい先手から大きい残りで上がるブラフ候補",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": "bluff-candidate",
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "353",
+            "represented_action": "353",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 353,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 3,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [],
+            "action": "98A2X2KJ",
+            "represented_action": "98A2A2KJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 9812121311,
+            "digit_count": 10,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-009",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 10 | マリン vs nishimura | start=spreadsheet\nマリン:(X8AA8TJ4249)\nnishimura:(T95974763J5)\nマリン:D(Q)8844XTQJ|X=K\nnishimura:D(7)%\nマリン:A29A#",
+      "initial_hands": {
+        "マリン": "X8AA8TJ4249",
+        "nishimura": "T95974763J5"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(Q)8844XTQJ|X=K",
+          "revolution": false,
+          "draw": "Q",
+          "action": "8844XTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8844KTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "A29A#",
+          "revolution": false,
+          "draw": null,
+          "action": "A29A",
+          "action_kind": "prime-or-special",
+          "represented_action": "A29A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-010",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 11 | nishimura vs マリン | start=spreadsheet\nnishimura:(92T65J2Q893)\nマリン:(TJK844A9683)\nnishimura:D(T)TTJQ22356899,P(T42XJ477J2AQ)\nマリン:D(3)TJKA34348689#",
+      "initial_hands": {
+        "nishimura": "92T65J2Q893",
+        "マリン": "TJK844A9683"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(T)TTJQ22356899,P(T42XJ477J2AQ)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TTJQ22356899",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJQ22356899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T42XJ477J2AQ",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)TJKA34348689#",
+          "revolution": false,
+          "draw": "3",
+          "action": "TJKA34348689",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJKA34348689",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TTJQ22356899",
+          "represented_action": "TTJQ22356899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "T42XJ477J2AQ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1010111222356899,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TTJQ22356899",
+            "represented_action": "TTJQ22356899",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "T42XJ477J2AQ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1010111222356899,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-011",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 12 | マリン vs nishimura | start=spreadsheet\nマリン:(2A93KQJ4564)\nnishimura:(T7998582XA6)\nマリン:D(Q)96443\nnishimura:D(J)9682A\nマリン:D(A)KQQAA=J^25,P(X536K6Q7)\nnishimura:57[GC]\nnishimura:98XTJ|X=Q#",
+      "initial_hands": {
+        "マリン": "2A93KQJ4564",
+        "nishimura": "T7998582XA6"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(Q)96443",
+          "revolution": false,
+          "draw": "Q",
+          "action": "96443",
+          "action_kind": "prime-or-special",
+          "represented_action": "96443",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(J)9682A",
+          "revolution": false,
+          "draw": "J",
+          "action": "9682A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9682A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)KQQAA=J^25,P(X536K6Q7)",
+          "revolution": false,
+          "draw": "A",
+          "action": "KQQAA=J^25",
+          "action_kind": "composite",
+          "represented_action": "KQQAA",
+          "play_count": 5,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X536K6Q7",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "98XTJ|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "98XTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98QTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "KQQAA=J^25",
+            "represented_action": "KQQAA",
+            "play_count": 5,
+            "consumed_count": 8,
+            "hand_before": 7,
+            "hand_after_draw": 8,
+            "draw": "A",
+            "penalty": "X536K6Q7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13121211,
+            "digit_count": 8,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-012",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 13 | nishimura vs マリン | start=spreadsheet\nnishimura:(9A9A45372J6)\nマリン:(4Q2K4J826TT)\nnishimura:D(A)7423596JAA,P(6238K5475K)\nマリン:D(Q)TT22448J6QQK,P(75T8KX938A36)\nnishimura:D(Q)57[GC]\nnishimura:D(Q)57[GC]\nnishimura:D(9)98963\nマリン:D(J)TQTTJ\nnishimura:%\nマリン:888J\nnishimura:D(X)96JQ=QA2*AXK44*2A35K|X=0,P(J7T575798963TQTTJ)\nマリン:KKXQ=2^4*3*273569|X=K\nnishimura:D(8)%\nマリン:64A#",
+      "initial_hands": {
+        "nishimura": "9A9A45372J6",
+        "マリン": "4Q2K4J826TT"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(A)7423596JAA,P(6238K5475K)",
+          "revolution": false,
+          "draw": "A",
+          "action": "7423596JAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "7423596JAA",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6238K5475K",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)TT22448J6QQK,P(75T8KX938A36)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "TT22448J6QQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "TT22448J6QQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "75T8KX938A36",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)98963",
+          "revolution": false,
+          "draw": "9",
+          "action": "98963",
+          "action_kind": "prime-or-special",
+          "represented_action": "98963",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)TQTTJ",
+          "revolution": false,
+          "draw": "J",
+          "action": "TQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "888J",
+          "revolution": false,
+          "draw": null,
+          "action": "888J",
+          "action_kind": "prime-or-special",
+          "represented_action": "888J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(X)96JQ=QA2*AXK44*2A35K|X=0,P(J7T575798963TQTTJ)",
+          "revolution": false,
+          "draw": "X",
+          "action": "96JQ=QA2*AXK44*2A35K",
+          "action_kind": "composite",
+          "represented_action": "96JQ",
+          "play_count": 4,
+          "consumed_count": 17,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "J7T575798963TQTTJ",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKXQ=2^4*3*273569|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQ=2^4*3*273569",
+          "action_kind": "composite",
+          "represented_action": "KKKQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "64A#",
+          "revolution": false,
+          "draw": null,
+          "action": "64A",
+          "action_kind": "prime-or-special",
+          "represented_action": "64A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が10枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "7423596JAA",
+          "represented_action": "7423596JAA",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": "6238K5475K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 74235961111,
+          "digit_count": 11,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "nishimura",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "7423596JAA",
+            "represented_action": "7423596JAA",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": "6238K5475K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 74235961111,
+            "digit_count": 11,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-013",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 14 | マリン vs nishimura | start=spreadsheet\nマリン:(9A24QQX592Q)\nnishimura:(936AA38Q7A3)\nマリン:D(7)57[GC]\nマリン:D(9)9A99\nnishimura:D(J)9733\nマリン:QQQX|X=J\nnishimura:D(8)%\nマリン:4=2*2#",
+      "initial_hands": {
+        "マリン": "9A24QQX592Q",
+        "nishimura": "936AA38Q7A3"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)9A99",
+          "revolution": false,
+          "draw": "9",
+          "action": "9A99",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A99",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(J)9733",
+          "revolution": false,
+          "draw": "J",
+          "action": "9733",
+          "action_kind": "prime-or-special",
+          "represented_action": "9733",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "QQQX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "QQQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "4=2*2#",
+          "revolution": false,
+          "draw": null,
+          "action": "4=2*2",
+          "action_kind": "composite",
+          "represented_action": "4",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 4,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [],
+          "action": "QQQX",
+          "represented_action": "QQQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12121211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 4,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [],
+            "action": "QQQX",
+            "represented_action": "QQQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 12121211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-014",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "nishimura",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 15 | nishimura vs マリン | start=spreadsheet\nnishimura:(XA9A3T96849)\nマリン:(74K465K62TT)\nnishimura:D(Q)XATQ34689|X=2\nマリン:D(3)2K44766T3,P(TJJA8Q425)\nnishimura:99A#",
+      "initial_hands": {
+        "nishimura": "XA9A3T96849",
+        "マリン": "74K465K62TT"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(Q)XATQ34689|X=2",
+          "revolution": false,
+          "draw": "Q",
+          "action": "XATQ34689",
+          "action_kind": "prime-or-special",
+          "represented_action": "2ATQ34689",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)2K44766T3,P(TJJA8Q425)",
+          "revolution": false,
+          "draw": "3",
+          "action": "2K44766T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "2K44766T3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TJJA8Q425",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "99A#",
+          "revolution": false,
+          "draw": null,
+          "action": "99A",
+          "action_kind": "prime-or-special",
+          "represented_action": "99A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "XATQ34689",
+          "represented_action": "2ATQ34689",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 21101234689,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "XATQ34689",
+            "represented_action": "2ATQ34689",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 21101234689,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-015",
+      "players": [
+        "nishimura",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "マリン",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第6試合 250929金剛戦数譜.docx | game 16 | マリン vs nishimura | start=spreadsheet\nマリン:(KT976A2K56Q)\nnishimura:(95A23AQ329T)\nマリン:D(2)TQA2KK276659,P(473K45Q37K5X)\nnishimura:D(4)TAAQ22334599#",
+      "initial_hands": {
+        "マリン": "KT976A2K56Q",
+        "nishimura": "95A23AQ329T"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(2)TQA2KK276659,P(473K45Q37K5X)",
+          "revolution": false,
+          "draw": "2",
+          "action": "TQA2KK276659",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQA2KK276659",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "473K45Q37K5X",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)TAAQ22334599#",
+          "revolution": false,
+          "draw": "4",
+          "action": "TAAQ22334599",
+          "action_kind": "prime-or-special",
+          "represented_action": "TAAQ22334599",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TQA2KK276659",
+          "represented_action": "TQA2KK276659",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "473K45Q37K5X",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012121313276659,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第6試合 250929金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TQA2KK276659",
+            "represented_action": "TQA2KK276659",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "473K45Q37K5X",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1012121313276659,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第6試合-250929金剛戦数譜-docx-016",
+      "players": [
+        "マリン",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-006",
+      "match_no": 6,
+      "match_label": "第6試合",
+      "match_players": [
+        "nishimura",
+        "マリン"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

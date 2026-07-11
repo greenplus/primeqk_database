@@ -1,0 +1,2934 @@
+{
+  "match_id": "金剛戦-第2期-match-020",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 20,
+  "match_label": "第20試合",
+  "players": [
+    "はち",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 1 | マリン vs はち | start=spreadsheet\nマリン:(53Q6J7TA75K)\nはち:(9J3Q664AKK8)\nマリン:57[GC]\nマリン:57[GC]\nマリン:6A3KTQJ#",
+      "initial_hands": {
+        "マリン": "53Q6J7TA75K",
+        "はち": "9J3Q664AKK8"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "6A3KTQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "6A3KTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6A3KTQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "6A3KTQJ",
+          "represented_action": "6A3KTQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 61313101211,
+          "digit_count": 11,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 2,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "6A3KTQJ",
+            "represented_action": "6A3KTQJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 61313101211,
+            "digit_count": 11,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-001",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 2 | はち vs マリン | start=spreadsheet\nはち:(A823A77J759)\nマリン:(284736TQ6JT)\nはち:D(A)A729[RR]\nマリン:D(A)A236=76^48TTJQ,P(39J43T6Q8K82)\nはち:AA3\nマリン:D(Q)%\nはち:57[GC]\nはち:8J7#",
+      "initial_hands": {
+        "はち": "A823A77J759",
+        "マリン": "284736TQ6JT"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(A)A729[RR]",
+          "revolution": false,
+          "draw": "A",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(A)A236=76^48TTJQ,P(39J43T6Q8K82)",
+          "revolution": false,
+          "draw": "A",
+          "action": "A236=76^48TTJQ",
+          "action_kind": "composite",
+          "represented_action": "A236",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "39J43T6Q8K82",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "AA3",
+          "revolution": false,
+          "draw": null,
+          "action": "AA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA3",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "8J7#",
+          "revolution": false,
+          "draw": null,
+          "action": "8J7",
+          "action_kind": "prime-or-special",
+          "represented_action": "8J7",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-002",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 3 | マリン vs はち | start=spreadsheet\nマリン:(A474X992TTJ)\nはち:(4QKJK9T5QX7)\nマリン:D(3)97423\nはち:KKQTJ\nマリン:%\nはち:57[GC]\nはち:X[IN]\nはち:4Q9#",
+      "initial_hands": {
+        "マリン": "A474X992TTJ",
+        "はち": "4QKJK9T5QX7"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(3)97423",
+          "revolution": false,
+          "draw": "3",
+          "action": "97423",
+          "action_kind": "prime-or-special",
+          "represented_action": "97423",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "4Q9#",
+          "revolution": false,
+          "draw": null,
+          "action": "4Q9",
+          "action_kind": "prime-or-special",
+          "represented_action": "4Q9",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "はち",
+        "player_won": false,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-003",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 4 | はち vs マリン | start=spreadsheet\nはち:(JA324Q7T2A2)\nマリン:(TQ92JA864J7)\nはち:D(5)A3TQJ\nマリン:6QTJJ\nはち:%\nマリン:984A27#",
+      "initial_hands": {
+        "はち": "JA324Q7T2A2",
+        "マリン": "TQ92JA864J7"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(5)A3TQJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "A3TQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3TQJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "6QTJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "6QTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QTJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "984A27#",
+          "revolution": false,
+          "draw": null,
+          "action": "984A27",
+          "action_kind": "prime-or-special",
+          "represented_action": "984A27",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-004",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 5 | マリン vs はち | start=spreadsheet\nマリン:(24959274Q2Q)\nはち:(9JA395885K6)\nマリン:D(J)Q4Q42J229759,P(J76T3KA7K8KT)\nはち:D(Q)55K6893A8Q9J,P(Q42T867AA6TX)\nマリン:D(J)%\nはち:D(5)A729[RR]\nマリン:D(X)%\nはち:QTQTKJ\nマリン:D(3)A22234,P(34A729)\nはち:86869\nマリン:44267\nはち:D(Q)AX453|X=0\nマリン:AX243|X=0\nはち:%\nマリン:KKKQQJJTTJ\nはち:%\nマリン:9=3*3\nはち:5\nマリン:2\nはち:%\nマリン:A289\nはち:%\nマリン:57[GC]\nマリン:977#",
+      "initial_hands": {
+        "マリン": "24959274Q2Q",
+        "はち": "9JA395885K6"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(J)Q4Q42J229759,P(J76T3KA7K8KT)",
+          "revolution": false,
+          "draw": "J",
+          "action": "Q4Q42J229759",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q4Q42J229759",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J76T3KA7K8KT",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)55K6893A8Q9J,P(Q42T867AA6TX)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "55K6893A8Q9J",
+          "action_kind": "prime-or-special",
+          "represented_action": "55K6893A8Q9J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q42T867AA6TX",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(5)A729[RR]",
+          "revolution": false,
+          "draw": "5",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(X)%",
+          "revolution": false,
+          "draw": "X",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "QTQTKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QTQTKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)A22234,P(34A729)",
+          "revolution": false,
+          "draw": "3",
+          "action": "A22234",
+          "action_kind": "prime-or-special",
+          "represented_action": "A22234",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "34A729",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "86869",
+          "revolution": false,
+          "draw": null,
+          "action": "86869",
+          "action_kind": "prime-or-special",
+          "represented_action": "86869",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "44267",
+          "revolution": false,
+          "draw": null,
+          "action": "44267",
+          "action_kind": "prime-or-special",
+          "represented_action": "44267",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)AX453|X=0",
+          "revolution": false,
+          "draw": "Q",
+          "action": "AX453",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0453",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "AX243|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX243",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0243",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKKQQJJTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQJJTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJJTTJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9=3*3",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3*3",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "5",
+          "revolution": false,
+          "draw": null,
+          "action": "5",
+          "action_kind": "prime-or-special",
+          "represented_action": "5",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "2",
+          "revolution": false,
+          "draw": null,
+          "action": "2",
+          "action_kind": "prime-or-special",
+          "represented_action": "2",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "A289",
+          "revolution": false,
+          "draw": null,
+          "action": "A289",
+          "action_kind": "prime-or-special",
+          "represented_action": "A289",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "977#",
+          "revolution": false,
+          "draw": null,
+          "action": "977",
+          "action_kind": "prime-or-special",
+          "represented_action": "977",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q4Q42J229759",
+          "represented_action": "Q4Q42J229759",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "J76T3KA7K8KT",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 124124211229759,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 13,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQJJTTJ",
+          "represented_action": "KKKQQJJTTJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 23,
+          "hand_after_draw": 23,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121111101011,
+          "digit_count": 20,
+          "digit_gain": 10
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q4Q42J229759",
+            "represented_action": "Q4Q42J229759",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "J76T3KA7K8KT",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 124124211229759,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-005",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 6 | はち vs マリン | start=spreadsheet\nはち:(6KQ692J8JA9)\nマリン:(T7J438T7QTK)\nはち:D(3)A2366899JJQK,P(5824A932X447)\nマリン:D(5)8KTTQTJ\nはち:D(9)%\nマリン:57[GC]\nマリン:743#",
+      "initial_hands": {
+        "はち": "6KQ692J8JA9",
+        "マリン": "T7J438T7QTK"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(3)A2366899JJQK,P(5824A932X447)",
+          "revolution": false,
+          "draw": "3",
+          "action": "A2366899JJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2366899JJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5824A932X447",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)8KTTQTJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "8KTTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KTTQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "743#",
+          "revolution": false,
+          "draw": null,
+          "action": "743",
+          "action_kind": "prime-or-special",
+          "represented_action": "743",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A2366899JJQK",
+          "represented_action": "A2366899JJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "5824A932X447",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1236689911111213,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A2366899JJQK",
+            "represented_action": "A2366899JJQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "5824A932X447",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1236689911111213,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-006",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 7 | マリン vs はち | start=spreadsheet\nマリン:(9JXA43A7X44)\nはち:(K62957366TT)\nマリン:D(5)447=3*A49\nはち:D(2)KTT=9*22356667,P(3K5QKQJ48K7T)\nマリン:5AXXJ|X=0|X=Q#",
+      "initial_hands": {
+        "マリン": "9JXA43A7X44",
+        "はち": "K62957366TT"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(5)447=3*A49",
+          "revolution": false,
+          "draw": "5",
+          "action": "447=3*A49",
+          "action_kind": "composite",
+          "represented_action": "447",
+          "play_count": 3,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(2)KTT=9*22356667,P(3K5QKQJ48K7T)",
+          "revolution": false,
+          "draw": "2",
+          "action": "KTT=9*22356667",
+          "action_kind": "composite",
+          "represented_action": "KTT",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3K5QKQJ48K7T",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "5AXXJ|X=0|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "5AXXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "5A0QJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0",
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-007",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 8 | はち vs マリン | start=spreadsheet\nはち:(792A6899A34)\nマリン:(K8AATJTJKJT)\nはち:D(X)%\nマリン:D(4)8T4A\nはち:%\nマリン:D(K)KKJTJTJ\nはち:%\nマリン:KA#",
+      "initial_hands": {
+        "はち": "792A6899A34",
+        "マリン": "K8AATJTJKJT"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(X)%",
+          "revolution": false,
+          "draw": "X",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)8T4A",
+          "revolution": false,
+          "draw": "4",
+          "action": "8T4A",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T4A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(K)KKJTJTJ",
+          "revolution": false,
+          "draw": "K",
+          "action": "KKJTJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJTJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KA#",
+          "revolution": false,
+          "draw": null,
+          "action": "KA",
+          "action_kind": "prime-or-special",
+          "represented_action": "KA",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-pass",
+      "opening_confidence": "high",
+      "opening_reason": "初手がパス",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-008",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 9 | マリン vs はち | start=spreadsheet\nマリン:(JJ9AT6Q3486)\nはち:(8QA7723J9TA)\nマリン:9TQJJ\nはち:D(8)%\nマリン:8646A3#",
+      "initial_hands": {
+        "マリン": "JJ9AT6Q3486",
+        "はち": "8QA7723J9TA"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "9TQJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9TQJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TQJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "8646A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "8646A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8646A3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-009",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 10 | はち vs マリン | start=spreadsheet\nはち:(X7KK493T4J9)\nマリン:(K7AQ889A36Q)\nはち:9973\nマリン:D(J)KQJQ=AA36*9887,P(2KQ6T26256T4)\nはち:KKJ\nマリン:KKQ=2^4*29*283\nはち:%\nマリン:6866AA\nはち:%\nマリン:57[GC]\nマリン:6QQTTJ#",
+      "initial_hands": {
+        "はち": "X7KK493T4J9",
+        "マリン": "K7AQ889A36Q"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "9973",
+          "revolution": false,
+          "draw": null,
+          "action": "9973",
+          "action_kind": "prime-or-special",
+          "represented_action": "9973",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)KQJQ=AA36*9887,P(2KQ6T26256T4)",
+          "revolution": false,
+          "draw": "J",
+          "action": "KQJQ=AA36*9887",
+          "action_kind": "composite",
+          "represented_action": "KQJQ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2KQ6T26256T4",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKQ=2^4*29*283",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQ=2^4*29*283",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "6866AA",
+          "revolution": false,
+          "draw": null,
+          "action": "6866AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "6866AA",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "6QQTTJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "6QQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 3,
+          "player": "はち",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 3,
+            "player": "はち",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [],
+            "action": "KKJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-010",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 11 | マリン vs はち | start=spreadsheet\nマリン:(AKJ5QJK2Q68)\nはち:(7K5245TX667)\nマリン:8KQJJQK\nはち:D(9)%\nマリン:652A#",
+      "initial_hands": {
+        "マリン": "AKJ5QJK2Q68",
+        "はち": "7K5245TX667"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "8KQJJQK",
+          "revolution": false,
+          "draw": null,
+          "action": "8KQJJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KQJJQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "652A#",
+          "revolution": false,
+          "draw": null,
+          "action": "652A",
+          "action_kind": "prime-or-special",
+          "represented_action": "652A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "8KQJJQK",
+          "represented_action": "8KQJJQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 8131211111213,
+          "digit_count": 13,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8KQJJQK",
+            "represented_action": "8KQJJQK",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8131211111213,
+            "digit_count": 13,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "はち",
+          "face_cards": "KTX",
+          "face_count": 3,
+          "next_draw": "9",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-011",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 12 | はち vs マリン | start=spreadsheet\nはち:(8473K8659J5)\nマリン:(K7AJA9X5567)\nはち:D(T)TJK345567889,P(Q2QJAXT4337A)\nマリン:57[GC]\nマリン:57[GC]\nマリン:9K6JXAA|X=Q#",
+      "initial_hands": {
+        "はち": "8473K8659J5",
+        "マリン": "K7AJA9X5567"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(T)TJK345567889,P(Q2QJAXT4337A)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TJK345567889",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJK345567889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q2QJAXT4337A",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9K6JXAA|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "9K6JXAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9K6JQAA",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TJK345567889",
+          "represented_action": "TJK345567889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "Q2QJAXT4337A",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101113345567889,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TJK345567889",
+            "represented_action": "TJK345567889",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "Q2QJAXT4337A",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101113345567889,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-012",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 13 | マリン vs はち | start=spreadsheet\nマリン:(725X8K3865T)\nはち:(3ATQ6Q59XJ3)\nマリン:TK\nはち:D(Q)QX|X=K\nマリン:%\nはち:5QQJ\nマリン:%\nはち:TA3639,P(287J65)\nマリン:57[GC]\nマリン:886X523|X=8#",
+      "initial_hands": {
+        "マリン": "725X8K3865T",
+        "はち": "3ATQ6Q59XJ3"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "TK",
+          "revolution": false,
+          "draw": null,
+          "action": "TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "TK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)QX|X=K",
+          "revolution": false,
+          "draw": "Q",
+          "action": "QX",
+          "action_kind": "prime-or-special",
+          "represented_action": "QK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "5QQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "5QQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "5QQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "TA3639,P(287J65)",
+          "revolution": false,
+          "draw": null,
+          "action": "TA3639",
+          "action_kind": "prime-or-special",
+          "represented_action": "TA3639",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "287J65",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "886X523|X=8#",
+          "revolution": false,
+          "draw": null,
+          "action": "886X523",
+          "action_kind": "prime-or-special",
+          "represented_action": "8868523",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "小さい先手から大きい残りで上がるブラフ候補",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 8,
+        "contexts": [],
+        "subtype": "bluff-candidate",
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "TK",
+            "represented_action": "TK",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1013,
+            "digit_count": 4,
+            "digit_gain": 2
+          },
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 8,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "886X523",
+            "represented_action": "8868523",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 8868523,
+            "digit_count": 7,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-013",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 14 | はち vs マリン | start=spreadsheet\nはち:(8JQK38993X2)\nマリン:(TA325KA9A64)\nはち:D(6)23368899JQKX|X=A,P(QJ86T423T747)\nマリン:D(Q)KQ254ATAA369,P(X8A972K5Q745)\nはち:D(K)76T923\nマリン:D(J)64QTQJ\nはち:%\nマリン:D(6)A729[RR]\nはち:%\nマリン:K5K\nはち:233=4*4678889TJJQQKKX|X=K,P(JT576T92364QTQJA729)\nマリン:AXA|X=0\nはち:%\nマリン:987655324A#",
+      "initial_hands": {
+        "はち": "8JQK38993X2",
+        "マリン": "TA325KA9A64"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(6)23368899JQKX|X=A,P(QJ86T423T747)",
+          "revolution": false,
+          "draw": "6",
+          "action": "23368899JQKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "23368899JQKA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "QJ86T423T747",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)KQ254ATAA369,P(X8A972K5Q745)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KQ254ATAA369",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQ254ATAA369",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X8A972K5Q745",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(K)76T923",
+          "revolution": false,
+          "draw": "K",
+          "action": "76T923",
+          "action_kind": "prime-or-special",
+          "represented_action": "76T923",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)64QTQJ",
+          "revolution": false,
+          "draw": "J",
+          "action": "64QTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "64QTQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)A729[RR]",
+          "revolution": false,
+          "draw": "6",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "K5K",
+          "revolution": false,
+          "draw": null,
+          "action": "K5K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K5K",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "233=4*4678889TJJQQKKX|X=K,P(JT576T92364QTQJA729)",
+          "revolution": false,
+          "draw": null,
+          "action": "233=4*4678889TJJQQKKX",
+          "action_kind": "composite",
+          "represented_action": "233",
+          "play_count": 3,
+          "consumed_count": 19,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "JT576T92364QTQJA729",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "AXA|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "987655324A#",
+          "revolution": false,
+          "draw": null,
+          "action": "987655324A",
+          "action_kind": "prime-or-special",
+          "represented_action": "987655324A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "23368899JQKX",
+          "represented_action": "23368899JQKA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "QJ86T423T747",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 233688991112131,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "23368899JQKX",
+            "represented_action": "23368899JQKA",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "QJ86T423T747",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 233688991112131,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-014",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "マリン",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 15 | マリン vs はち | start=spreadsheet\nマリン:(K637584TQJA)\nはち:(8499732T4A7)\nマリン:57[GC]\nマリン:864TKQJA3#",
+      "initial_hands": {
+        "マリン": "K637584TQJA",
+        "はち": "8499732T4A7"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "864TKQJA3#",
+          "revolution": false,
+          "draw": null,
+          "action": "864TKQJA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TKQJA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 2,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "864TKQJA3",
+          "represented_action": "864TKQJA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 8641013121113,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 2,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "864TKQJA3",
+            "represented_action": "864TKQJA3",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 8641013121113,
+            "digit_count": 13,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-015",
+      "players": [
+        "マリン",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第20試合 251025金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "はち",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第20試合 251025金剛戦数譜.docx | game 16 | はち vs マリン | start=spreadsheet\nはち:(6267TTXQ89T)\nマリン:(8X2A5JJQ753)\nはち:D(4)%\nマリン:XJQJ|X=K\nはち:D(8)%\nマリン:57[GC]\nマリン:852A3#",
+      "initial_hands": {
+        "はち": "6267TTXQ89T",
+        "マリン": "8X2A5JJQ753"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "XJQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "852A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "852A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "852A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-pass",
+      "opening_confidence": "high",
+      "opening_reason": "初手がパス",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第20試合-251025金剛戦数譜-docx-016",
+      "players": [
+        "はち",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-020",
+      "match_no": 20,
+      "match_label": "第20試合",
+      "match_players": [
+        "はち",
+        "マリン"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

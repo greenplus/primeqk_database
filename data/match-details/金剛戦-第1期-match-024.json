@@ -1,0 +1,3316 @@
+{
+  "match_id": "金剛戦-第1期-match-024",
+  "tournament": "金剛戦",
+  "season": "第1期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 24,
+  "match_label": "第24試合",
+  "players": [
+    "mickey",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 1 | mickey vs マリン | start=marker\nmickey:(7T69425J324)\nマリン:(4KAT8J92XTA)\nmickey:D(Q)TJQ223445679,P(J37K8A772A99)\nマリン:D(4)TTJAA24894XK|X=6,P(3J8Q56X6QK35)\nmickey:D(5)57[GC]\nmickey:D(T)98765443322KQJTTJAA\nマリン:D(8)9X88X65432TJQJQKTAA|X=9|X=7\nmickey:%\nマリン:K\nmickey:%\nマリン:86453#",
+      "initial_hands": {
+        "mickey": "7T69425J324",
+        "マリン": "4KAT8J92XTA"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)TJQ223445679,P(J37K8A772A99)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "TJQ223445679",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJQ223445679",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J37K8A772A99",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)TTJAA24894XK|X=6,P(3J8Q56X6QK35)",
+          "revolution": false,
+          "draw": "4",
+          "action": "TTJAA24894XK",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJAA248946K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "3J8Q56X6QK35",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)98765443322KQJTTJAA",
+          "revolution": false,
+          "draw": "T",
+          "action": "98765443322KQJTTJAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "98765443322KQJTTJAA",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)9X88X65432TJQJQKTAA|X=9|X=7",
+          "revolution": false,
+          "draw": "8",
+          "action": "9X88X65432TJQJQKTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9988765432TJQJQKTAA",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [
+            "9",
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "86453#",
+          "revolution": false,
+          "draw": null,
+          "action": "86453",
+          "action_kind": "prime-or-special",
+          "represented_action": "86453",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TJQ223445679",
+          "represented_action": "TJQ223445679",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "J37K8A772A99",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101112223445679,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 4,
+          "player": "mickey",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "98765443322KQJTTJAA",
+          "represented_action": "98765443322KQJTTJAA",
+          "play_count": 19,
+          "consumed_count": 19,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9876544332213121110101111,
+          "digit_count": 25,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TJQ223445679",
+            "represented_action": "TJQ223445679",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "J37K8A772A99",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101112223445679,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-001",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 2 | マリン vs mickey | start=marker\nマリン:(2J4TQ62T76T)\nmickey:(A72K3637454)\nマリン:D(7)642QTTTJ,P(QJKK3J8A)\nmickey:D(5)K4A346372557,P(X698A559899J)\nマリン:864TA27\nmickey:998989J=6*55567,P(Q83KTQ4X2A)\nマリン:D(8)KKQQTJTJJ\nmickey:%\nマリン:87623#",
+      "initial_hands": {
+        "マリン": "2J4TQ62T76T",
+        "mickey": "A72K3637454"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(7)642QTTTJ,P(QJKK3J8A)",
+          "revolution": false,
+          "draw": "7",
+          "action": "642QTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "642QTTTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QJKK3J8A",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)K4A346372557,P(X698A559899J)",
+          "revolution": false,
+          "draw": "5",
+          "action": "K4A346372557",
+          "action_kind": "prime-or-special",
+          "represented_action": "K4A346372557",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X698A559899J",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "864TA27",
+          "revolution": false,
+          "draw": null,
+          "action": "864TA27",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TA27",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "998989J=6*55567,P(Q83KTQ4X2A)",
+          "revolution": false,
+          "draw": null,
+          "action": "998989J=6*55567",
+          "action_kind": "composite",
+          "represented_action": "998989J",
+          "play_count": 7,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q83KTQ4X2A",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)KKQQTJTJJ",
+          "revolution": false,
+          "draw": "8",
+          "action": "KKQQTJTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJTJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "87623#",
+          "revolution": false,
+          "draw": null,
+          "action": "87623",
+          "action_kind": "prime-or-special",
+          "represented_action": "87623",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 5,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKQQTJTJJ",
+          "represented_action": "KKQQTJTJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 13,
+          "hand_after_draw": 14,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121011101111,
+          "digit_count": 18,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "642QTTTJ",
+            "represented_action": "642QTTTJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "QJKK3J8A",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 6421210101011,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-002",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 3 | mickey vs マリン | start=marker\nmickey:(23AK2TK8QQQ)\nマリン:(T664KAJ5XX6)\nmickey:KQQ8TQK\nマリン:D(K)6KKTJXX|X=T|X=J\nmickey:%\nマリン:6654A#",
+      "initial_hands": {
+        "mickey": "23AK2TK8QQQ",
+        "マリン": "T664KAJ5XX6"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KQQ8TQK",
+          "revolution": false,
+          "draw": null,
+          "action": "KQQ8TQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQQ8TQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(K)6KKTJXX|X=T|X=J",
+          "revolution": false,
+          "draw": "K",
+          "action": "6KKTJXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "6KKTJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "T",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "6654A#",
+          "revolution": false,
+          "draw": null,
+          "action": "6654A",
+          "action_kind": "prime-or-special",
+          "represented_action": "6654A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KQQ8TQK",
+          "represented_action": "KQQ8TQK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312128101213,
+          "digit_count": 13,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KQQ8TQK",
+            "represented_action": "KQQ8TQK",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312128101213,
+            "digit_count": 13,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "マリン",
+          "face_cards": "TKJXXK",
+          "face_count": 6,
+          "next_draw": "K",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "250322金剛戦数譜-docx-003",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 4 | マリン vs mickey | start=marker\nマリン:(KX5T23428QA)\nmickey:(J5758TJT347)\nマリン:KQ=2^5*4A\nmickey:%\nマリン:X[IN]\nマリン:8T23#",
+      "initial_hands": {
+        "マリン": "KX5T23428QA",
+        "mickey": "J5758TJT347"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KQ=2^5*4A",
+          "revolution": false,
+          "draw": null,
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "8T23#",
+          "revolution": false,
+          "draw": null,
+          "action": "8T23",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T23",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "trumps",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が合成数切り札 KQ",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KQ=2^5*4A",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KQ=2^5*4A",
+            "represented_action": "KQ",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-004",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 5 | mickey vs マリン | start=marker\nmickey:(55T6A942T94)\nマリン:(J27KQ3K3TJQ)\nmickey:D(8)459459T2T68A,P(K2JXA28AQ7TX)\nマリン:KKQJQTJ\nmickey:D(5)XXKTTTJ|X=K|X=K\nマリン:D(7)%\nmickey:D(8)57[GC]\nmickey:D(Q)9Q86QAA\nマリン:%\nmickey:D(9)98855244A\nマリン:%\nmickey:229#",
+      "initial_hands": {
+        "mickey": "55T6A942T94",
+        "マリン": "J27KQ3K3TJQ"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(8)459459T2T68A,P(K2JXA28AQ7TX)",
+          "revolution": false,
+          "draw": "8",
+          "action": "459459T2T68A",
+          "action_kind": "prime-or-special",
+          "represented_action": "459459T2T68A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K2JXA28AQ7TX",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKQJQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQJQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQJQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)XXKTTTJ|X=K|X=K",
+          "revolution": false,
+          "draw": "5",
+          "action": "XXKTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)9Q86QAA",
+          "revolution": false,
+          "draw": "Q",
+          "action": "9Q86QAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9Q86QAA",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)98855244A",
+          "revolution": false,
+          "draw": "9",
+          "action": "98855244A",
+          "action_kind": "prime-or-special",
+          "represented_action": "98855244A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "229#",
+          "revolution": false,
+          "draw": null,
+          "action": "229",
+          "action_kind": "prime-or-special",
+          "represented_action": "229",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "459459T2T68A",
+          "represented_action": "459459T2T68A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "K2JXA28AQ7TX",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 45945910210681,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "XXKTTTJ",
+          "represented_action": "KKKTTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131310101011,
+          "digit_count": 14,
+          "digit_gain": 7
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 8,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "98855244A",
+          "represented_action": "98855244A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 988552441,
+          "digit_count": 9,
+          "digit_gain": 0
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "459459T2T68A",
+            "represented_action": "459459T2T68A",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "K2JXA28AQ7TX",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 45945910210681,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-005",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 6 | マリン vs mickey | start=marker\nマリン:(9QQ637J962T)\nmickey:(3Q4K83624J9)\nマリン:D(A)96269\nmickey:D(8)98443\nマリン:D(2)7QTQJ\nmickey:D(K)8JQKK=23*6,P(35A496AK)\nマリン:D(7)72A3#",
+      "initial_hands": {
+        "マリン": "9QQ637J962T",
+        "mickey": "3Q4K83624J9"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(A)96269",
+          "revolution": false,
+          "draw": "A",
+          "action": "96269",
+          "action_kind": "prime-or-special",
+          "represented_action": "96269",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)98443",
+          "revolution": false,
+          "draw": "8",
+          "action": "98443",
+          "action_kind": "prime-or-special",
+          "represented_action": "98443",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(2)7QTQJ",
+          "revolution": false,
+          "draw": "2",
+          "action": "7QTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7QTQJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)8JQKK=23*6,P(35A496AK)",
+          "revolution": false,
+          "draw": "K",
+          "action": "8JQKK=23*6",
+          "action_kind": "composite",
+          "represented_action": "8JQKK",
+          "play_count": 5,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "35A496AK",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(7)72A3#",
+          "revolution": false,
+          "draw": "7",
+          "action": "72A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "72A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "250322金剛戦数譜-docx-006",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 7 | mickey vs マリン | start=marker\nmickey:(7XAT8Q4A962)\nマリン:(J7T8KA23J49)\nmickey:986472XQTAA|X=5#",
+      "initial_hands": {
+        "mickey": "7XAT8Q4A962",
+        "マリン": "J7T8KA23J49"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "986472XQTAA|X=5#",
+          "revolution": false,
+          "draw": null,
+          "action": "986472XQTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9864725QTAA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "986472XQTAA",
+          "represented_action": "9864725QTAA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 9864725121011,
+          "digit_count": 13,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "986472XQTAA",
+            "represented_action": "9864725QTAA",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 9864725121011,
+            "digit_count": 13,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-007",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 8 | マリン vs mickey | start=marker\nマリン:(342347A78X6)\nmickey:(KKT56TA28A4)\nマリン:D(K)448=2^6*7\nmickey:D(2)TT8=6K*AA2245K,P(7Q5XJ96QJ963)\nマリン:X7|X=5[GC]\nマリン:K3A3#",
+      "initial_hands": {
+        "マリン": "342347A78X6",
+        "mickey": "KKT56TA28A4"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(K)448=2^6*7",
+          "revolution": false,
+          "draw": "K",
+          "action": "448=2^6*7",
+          "action_kind": "composite",
+          "represented_action": "448",
+          "play_count": 3,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)TT8=6K*AA2245K,P(7Q5XJ96QJ963)",
+          "revolution": false,
+          "draw": "2",
+          "action": "TT8=6K*AA2245K",
+          "action_kind": "composite",
+          "represented_action": "TT8",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7Q5XJ96QJ963",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "K3A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "K3A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "K3A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "250322金剛戦数譜-docx-008",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 9 | mickey vs マリン | start=marker\nmickey:(48235Q3A259)\nマリン:(A6278454T6T)\nmickey:D(8)Q3A245825839,P(JQ8AXJ69JTT9)\nマリン:D(4)T4T4A2546687,P(25X6K7JQ7739)\nmickey:D(3)A3TQ223345568899TJJJQX98A|X=4,P(KQAKK)\nマリン:X[IN]\nマリン:D(X)6644227\nmickey:985423A\nマリン:96TQJA3\nmickey:QTQTA3J\nマリン:%\nmickey:98625A3\nマリン:D(6)864T57K,P(6442279)\nmickey:KKKQXJJ|X=Q\nマリン:%\nmickey:89#",
+      "initial_hands": {
+        "mickey": "48235Q3A259",
+        "マリン": "A6278454T6T"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(8)Q3A245825839,P(JQ8AXJ69JTT9)",
+          "revolution": false,
+          "draw": "8",
+          "action": "Q3A245825839",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q3A245825839",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "JQ8AXJ69JTT9",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)T4T4A2546687,P(25X6K7JQ7739)",
+          "revolution": false,
+          "draw": "4",
+          "action": "T4T4A2546687",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4T4A2546687",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "25X6K7JQ7739",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)A3TQ223345568899TJJJQX98A|X=4,P(KQAKK)",
+          "revolution": false,
+          "draw": "3",
+          "action": "A3TQ223345568899TJJJQX98A",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3TQ223345568899TJJJQ498A",
+          "play_count": 25,
+          "consumed_count": 25,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": "KQAKK",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(X)6644227",
+          "revolution": false,
+          "draw": "X",
+          "action": "6644227",
+          "action_kind": "prime-or-special",
+          "represented_action": "6644227",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "985423A",
+          "revolution": false,
+          "draw": null,
+          "action": "985423A",
+          "action_kind": "prime-or-special",
+          "represented_action": "985423A",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "96TQJA3",
+          "revolution": false,
+          "draw": null,
+          "action": "96TQJA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "96TQJA3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "QTQTA3J",
+          "revolution": false,
+          "draw": null,
+          "action": "QTQTA3J",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTA3J",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98625A3",
+          "revolution": false,
+          "draw": null,
+          "action": "98625A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "98625A3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)864T57K,P(6442279)",
+          "revolution": false,
+          "draw": "6",
+          "action": "864T57K",
+          "action_kind": "prime-or-special",
+          "represented_action": "864T57K",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6442279",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKQXJJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQXJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "89#",
+          "revolution": false,
+          "draw": null,
+          "action": "89",
+          "action_kind": "prime-or-special",
+          "represented_action": "89",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q3A245825839",
+          "represented_action": "Q3A245825839",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "JQ8AXJ69JTT9",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1231245825839,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "A3TQ223345568899TJJJQX98A",
+          "represented_action": "A3TQ223345568899TJJJQ498A",
+          "play_count": 25,
+          "consumed_count": 25,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "3",
+          "penalty": "KQAKK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13101222334556889910111111124981,
+          "digit_count": 32,
+          "digit_gain": 7
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 8,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "QTQTA3J",
+          "represented_action": "QTQTA3J",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 23,
+          "hand_after_draw": 23,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121012101311,
+          "digit_count": 12,
+          "digit_gain": 5
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 12,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQXJJ",
+          "represented_action": "KKKQQJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121111,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q3A245825839",
+            "represented_action": "Q3A245825839",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "JQ8AXJ69JTT9",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1231245825839,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-009",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 10 | マリン vs mickey | start=marker\nマリン:(K58TAQT873A)\nmickey:(KK2K2X3AJQ3)\nマリン:D(7)T7T8AKAQ8753,P(9Q627JA97268)\nmickey:KKKQXJ|X=Q\nマリン:%\nmickey:3A223#",
+      "initial_hands": {
+        "マリン": "K58TAQT873A",
+        "mickey": "KK2K2X3AJQ3"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(7)T7T8AKAQ8753,P(9Q627JA97268)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T7T8AKAQ8753",
+          "action_kind": "prime-or-special",
+          "represented_action": "T7T8AKAQ8753",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9Q627JA97268",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKQXJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "3A223#",
+          "revolution": false,
+          "draw": null,
+          "action": "3A223",
+          "action_kind": "prime-or-special",
+          "represented_action": "3A223",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T7T8AKAQ8753",
+          "represented_action": "T7T8AKAQ8753",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "9Q627JA97268",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1071081131128753,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T7T8AKAQ8753",
+            "represented_action": "T7T8AKAQ8753",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "9Q627JA97268",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1071081131128753,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-010",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 11 | mickey vs マリン | start=marker\nmickey:(574TX7XQAA2)\nマリン:(593QKT8K734)\nmickey:57[GC]\nmickey:X7|X=5[GC]\nmickey:4QA2TAX|X=A#",
+      "initial_hands": {
+        "mickey": "574TX7XQAA2",
+        "マリン": "593QKT8K734"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "4QA2TAX|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "4QA2TAX",
+          "action_kind": "prime-or-special",
+          "represented_action": "4QA2TAA",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "小さい先手から大きい残りで上がるブラフ候補",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": "bluff-candidate",
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "4QA2TAX",
+            "represented_action": "4QA2TAA",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 412121011,
+            "digit_count": 9,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-011",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 12 | マリン vs mickey | start=marker\nマリン:(2264848AX9A)\nmickey:(J7495837J8T)\nマリン:D(Q)Q8A28A24X469|X=A,P(53KQJTT97636)\nmickey:D(J)TJJJ34577889,P(Q552A7KK4239)\nマリン:D(T)57[GC]\nマリン:D(Q)864624289\nmickey:D(X)TJJJ9QK98,P(KA657)\nマリン:9A3A3KQTTQQJ\nmickey:%%\nマリン:T6X|X=9#",
+      "initial_hands": {
+        "マリン": "2264848AX9A",
+        "mickey": "J7495837J8T"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(Q)Q8A28A24X469|X=A,P(53KQJTT97636)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "Q8A28A24X469",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q8A28A24A469",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "53KQJTT97636",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)TJJJ34577889,P(Q552A7KK4239)",
+          "revolution": false,
+          "draw": "J",
+          "action": "TJJJ34577889",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJJJ34577889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q552A7KK4239",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(T)57[GC]",
+          "revolution": false,
+          "draw": "T",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)864624289",
+          "revolution": false,
+          "draw": "Q",
+          "action": "864624289",
+          "action_kind": "prime-or-special",
+          "represented_action": "864624289",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)TJJJ9QK98,P(KA657)",
+          "revolution": false,
+          "draw": "X",
+          "action": "TJJJ9QK98",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJJJ9QK98",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KA657",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "9A3A3KQTTQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9A3A3KQTTQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A3A3KQTTQQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%%",
+          "revolution": false,
+          "draw": null,
+          "action": "%%",
+          "action_kind": "prime-or-special",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "T6X|X=9#",
+          "revolution": false,
+          "draw": null,
+          "action": "T6X",
+          "action_kind": "prime-or-special",
+          "represented_action": "T69",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q8A28A24X469",
+          "represented_action": "Q8A28A24A469",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "53KQJTT97636",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1281281241469,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 4,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "864624289",
+          "represented_action": "864624289",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 864624289,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 6,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "9A3A3KQTTQQJ",
+          "represented_action": "9A3A3KQTTQQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 15,
+          "hand_after_draw": 15,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9131313121010121211,
+          "digit_count": 19,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q8A28A24X469",
+            "represented_action": "Q8A28A24A469",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "53KQJTT97636",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1281281241469,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-012",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 13 | mickey vs マリン | start=marker\nmickey:(82324QQ4874)\nマリン:(TA7J49T93QT)\nmickey:D(5)Q5Q424824873,P(K78AA38XK36J)\nマリン:D(X)T9T9T4JAQ3X7|X=J,P(K6QT9J65J792)\nmickey:D(2)57[GC]\nmickey:D(K)8844223\nマリン:D(5)964A3TJ\nmickey:KKKQQXJ|X=Q\nマリン:D(5)%\nmickey:887643A32A#",
+      "initial_hands": {
+        "mickey": "82324QQ4874",
+        "マリン": "TA7J49T93QT"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(5)Q5Q424824873,P(K78AA38XK36J)",
+          "revolution": false,
+          "draw": "5",
+          "action": "Q5Q424824873",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q5Q424824873",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K78AA38XK36J",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(X)T9T9T4JAQ3X7|X=J,P(K6QT9J65J792)",
+          "revolution": false,
+          "draw": "X",
+          "action": "T9T9T4JAQ3X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "T9T9T4JAQ3J7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "K6QT9J65J792",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)57[GC]",
+          "revolution": false,
+          "draw": "2",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)8844223",
+          "revolution": false,
+          "draw": "K",
+          "action": "8844223",
+          "action_kind": "prime-or-special",
+          "represented_action": "8844223",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)964A3TJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "964A3TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "964A3TJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKQQXJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "887643A32A#",
+          "revolution": false,
+          "draw": null,
+          "action": "887643A32A",
+          "action_kind": "prime-or-special",
+          "represented_action": "887643A32A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q5Q424824873",
+          "represented_action": "Q5Q424824873",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "K78AA38XK36J",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12512424824873,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 6,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQXJ",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 17,
+          "hand_after_draw": 17,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121211,
+          "digit_count": 14,
+          "digit_gain": 7
+        },
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 8,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "887643A32A",
+          "represented_action": "887643A32A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 8876431321,
+          "digit_count": 10,
+          "digit_gain": 0
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q5Q424824873",
+            "represented_action": "Q5Q424824873",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "K78AA38XK36J",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 12512424824873,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-013",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 14 | マリン vs mickey | start=marker\nマリン:(J84T8Q36Q2K)\nmickey:(9675QK78K74)\nマリン:QJQTK\nmickey:D(Q)%\nマリン:886243#",
+      "initial_hands": {
+        "マリン": "J84T8Q36Q2K",
+        "mickey": "9675QK78K74"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "QJQTK",
+          "revolution": false,
+          "draw": null,
+          "action": "QJQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QJQTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "886243#",
+          "revolution": false,
+          "draw": null,
+          "action": "886243",
+          "action_kind": "prime-or-special",
+          "represented_action": "886243",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "QJQTK",
+          "represented_action": "QJQTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1211121013,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "QJQTK",
+            "represented_action": "QJQTK",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1211121013,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "QKKQ",
+          "face_count": 4,
+          "next_draw": "Q",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "250322金剛戦数譜-docx-014",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 250322金剛戦数譜.docx | game 15 | mickey vs マリン | start=marker\nmickey:(K5K5764983X)\nマリン:(8T48T732T7Q)\nmickey:KKX|X=J\nマリン:%\nmickey:57[GC]\nmickey:986543#",
+      "initial_hands": {
+        "mickey": "K5K5764983X",
+        "マリン": "8T48T732T7Q"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KKX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "986543#",
+          "revolution": false,
+          "draw": null,
+          "action": "986543",
+          "action_kind": "prime-or-special",
+          "represented_action": "986543",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KKJ",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KKX",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KKX",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-015",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "250322金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 250322金剛戦数譜.docx | game 16 | マリン vs mickey | start=marker\nマリン:(4AT8A7K27JK)\nmickey:(6TJ63J53748)\nマリン:D(2)8747\nmickey:D(9)8963\nマリン:D(3)KJTK\nmickey:D(7)%\nマリン:D(4)4A2A23#",
+      "initial_hands": {
+        "マリン": "4AT8A7K27JK",
+        "mickey": "6TJ63J53748"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(2)8747",
+          "revolution": false,
+          "draw": "2",
+          "action": "8747",
+          "action_kind": "prime-or-special",
+          "represented_action": "8747",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)8963",
+          "revolution": false,
+          "draw": "9",
+          "action": "8963",
+          "action_kind": "prime-or-special",
+          "represented_action": "8963",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)KJTK",
+          "revolution": false,
+          "draw": "3",
+          "action": "KJTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)4A2A23#",
+          "revolution": false,
+          "draw": "4",
+          "action": "4A2A23",
+          "action_kind": "prime-or-special",
+          "represented_action": "4A2A23",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "250322金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KJTK",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 8,
+          "hand_after_draw": 9,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111013,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "250322金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "KJTK",
+            "represented_action": "KJTK",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 8,
+            "hand_after_draw": 9,
+            "draw": "3",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111013,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "250322金剛戦数譜-docx-016",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-024",
+      "match_no": 24,
+      "match_label": "第24試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

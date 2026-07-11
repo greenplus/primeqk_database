@@ -1,0 +1,464 @@
+{
+  "match_id": "pqcs-2023冬-予選aブロック-match-006",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "予選Aブロック",
+  "stage_order": 10,
+  "match_no": 6,
+  "match_label": "予選A第6試合",
+  "players": [
+    "カステラ",
+    "ロベピ"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "カステラ",
+      "second_player": "ロベピ",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx | game 1 | カステラ vs ロベピ | start=pqcs-set-rule\nカステラ:(JK35XT42726)\nロベピ:(Q5496A889QK)\nカステラ:643\nロベピ:D(8)68A,P(T2K)\nカステラ:57[GC]\nカステラ:22TJXK|X=Q#",
+      "initial_hands": {
+        "カステラ": "JK35XT42726",
+        "ロベピ": "Q5496A889QK"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "643",
+          "revolution": false,
+          "draw": null,
+          "action": "643",
+          "action_kind": "prime-or-special",
+          "represented_action": "643",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ロベピ",
+          "raw": "D(8)68A,P(T2K)",
+          "revolution": false,
+          "draw": "8",
+          "action": "68A",
+          "action_kind": "prime-or-special",
+          "represented_action": "68A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T2K",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "22TJXK|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "22TJXK",
+          "action_kind": "prime-or-special",
+          "represented_action": "22TJQK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 4,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "22TJXK",
+          "represented_action": "22TJQK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 2210111213,
+          "digit_count": 10,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 3,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 4,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "22TJXK",
+            "represented_action": "22TJQK",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 2210111213,
+            "digit_count": 10,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選aブロック-第6試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "カステラ",
+        "ロベピ"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-006",
+      "match_no": 6,
+      "match_label": "予選A第6試合",
+      "match_players": [
+        "カステラ",
+        "ロベピ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "ロベピ",
+      "second_player": "カステラ",
+      "raw_block": "### PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx | game 2 | ロベピ vs カステラ | start=pqcs-set-rule\nロベピ:(66Q3QAJ3T9X)\nカステラ:(265X97Q5K8K)\nロベピ:D(4)A3XQQTJ|X=K\nカステラ:D(6)%\nロベピ:96463,P(A28AJ)\nカステラ:D(2)256=2^8\nロベピ:D(A)269\nカステラ:D(T)KKX|X=J\nロベピ:%\nカステラ:57[GC]\nカステラ:6QT9#",
+      "initial_hands": {
+        "ロベピ": "66Q3QAJ3T9X",
+        "カステラ": "265X97Q5K8K"
+      },
+      "events": [
+        {
+          "player": "ロベピ",
+          "raw": "D(4)A3XQQTJ|X=K",
+          "revolution": false,
+          "draw": "4",
+          "action": "A3XQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3KQQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ロベピ",
+          "raw": "96463,P(A28AJ)",
+          "revolution": false,
+          "draw": null,
+          "action": "96463",
+          "action_kind": "prime-or-special",
+          "represented_action": "96463",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A28AJ",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)256=2^8",
+          "revolution": false,
+          "draw": "2",
+          "action": "256=2^8",
+          "action_kind": "composite",
+          "represented_action": "256",
+          "play_count": 3,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ロベピ",
+          "raw": "D(A)269",
+          "revolution": false,
+          "draw": "A",
+          "action": "269",
+          "action_kind": "prime-or-special",
+          "represented_action": "269",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)KKX|X=J",
+          "revolution": false,
+          "draw": "T",
+          "action": "KKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "ロベピ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "6QT9#",
+          "revolution": false,
+          "draw": null,
+          "action": "6QT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QT9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "ロベピ",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A3XQQTJ",
+          "represented_action": "A3KQQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121011,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "ロベピ",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Aブロック 第6試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "ロベピ",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A3XQQTJ",
+            "represented_action": "A3KQQTJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131312121011,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "カステラ",
+          "face_cards": "XQKK",
+          "face_count": 4,
+          "next_draw": "6",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "pqcs-2023冬-予選aブロック-第6試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "ロベピ",
+        "カステラ"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Aブロック",
+      "stage_order": 10,
+      "match_id": "pqcs-2023冬-予選aブロック-match-006",
+      "match_no": 6,
+      "match_label": "予選A第6試合",
+      "match_players": [
+        "カステラ",
+        "ロベピ"
+      ],
+      "match_game_no": 2
+    }
+  ]
+}

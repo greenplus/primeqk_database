@@ -1,0 +1,4207 @@
+{
+  "match_id": "金剛戦-第2期-match-019",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 19,
+  "match_label": "第19試合",
+  "players": [
+    "もりしー",
+    "カステラ"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 1 | もりしー vs カステラ | start=spreadsheet\nもりしー:(Q6A45J79TJ4)\nカステラ:(KK9AX823T83)\nもりしー:D(5)Q6J5T5J4A947,P(K6XA3836QTQ8)\nカステラ:D(Q)QK38A2K38TX9|X=6,P(9J76422J5947)\nもりしー:D(5)455668483\nカステラ:D(2)987654323\nもりしー:XKQTQQTJJ|X=K\nカステラ:%\nもりしー:57[GC]\nもりしー:69A3A,P(K7AT4)\nカステラ:TJJ\nもりしー:D(5)%\nカステラ:KKQ=2^4*29*28X|X=3\nもりしー:D(5)%\nカステラ:7A9#",
+      "initial_hands": {
+        "もりしー": "Q6A45J79TJ4",
+        "カステラ": "KK9AX823T83"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(5)Q6J5T5J4A947,P(K6XA3836QTQ8)",
+          "revolution": false,
+          "draw": "5",
+          "action": "Q6J5T5J4A947",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q6J5T5J4A947",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K6XA3836QTQ8",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)QK38A2K38TX9|X=6,P(9J76422J5947)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "QK38A2K38TX9",
+          "action_kind": "prime-or-special",
+          "represented_action": "QK38A2K38T69",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "9J76422J5947",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)455668483",
+          "revolution": false,
+          "draw": "5",
+          "action": "455668483",
+          "action_kind": "prime-or-special",
+          "represented_action": "455668483",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)987654323",
+          "revolution": false,
+          "draw": "2",
+          "action": "987654323",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654323",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "XKQTQQTJJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XKQTQQTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTQQTJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "69A3A,P(K7AT4)",
+          "revolution": false,
+          "draw": null,
+          "action": "69A3A",
+          "action_kind": "prime-or-special",
+          "represented_action": "69A3A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K7AT4",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "TJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "TJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "KKQ=2^4*29*28X|X=3",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQ=2^4*29*28X",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "7A9#",
+          "revolution": false,
+          "draw": null,
+          "action": "7A9",
+          "action_kind": "prime-or-special",
+          "represented_action": "7A9",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q6J5T5J4A947",
+          "represented_action": "Q6J5T5J4A947",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "K6XA3836QTQ8",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1261151051141947,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "455668483",
+          "represented_action": "455668483",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 455668483,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 5,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "XKQTQQTJJ",
+          "represented_action": "KKQTQQTJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312101212101111,
+          "digit_count": 18,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q6J5T5J4A947",
+            "represented_action": "Q6J5T5J4A947",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "K6XA3836QTQ8",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1261151051141947,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-001",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 2 | カステラ vs もりしー | start=spreadsheet\nカステラ:(A8259AA28K3)\nもりしー:(KA79TK2J637)\nカステラ:D(Q)8QKA2A2A3,P(8945943Q7)\nもりしー:D(T)T7T7KAK2693J,P(46T3462J56KX)\nカステラ:D(Q)A729[RR]\nもりしー:D(X)A234=5*6,P(QJJ758)\nカステラ:QQQ83\nもりしー:66668,P(TA729)\nカステラ:55889\nもりしー:46829\nカステラ:D(Q)AA243\nもりしー:D(Q)AX243|X=0\nカステラ:%\nもりしー:7676JJA\nカステラ:%\nもりしー:QQTTTJ\nカステラ:%\nもりしー:KKKXTJ|X=K\nカステラ:%\nもりしー:57[GC]\nもりしー:57[GC]\nもりしー:9623#",
+      "initial_hands": {
+        "カステラ": "A8259AA28K3",
+        "もりしー": "KA79TK2J637"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(Q)8QKA2A2A3,P(8945943Q7)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "8QKA2A2A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QKA2A2A3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8945943Q7",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(T)T7T7KAK2693J,P(46T3462J56KX)",
+          "revolution": false,
+          "draw": "T",
+          "action": "T7T7KAK2693J",
+          "action_kind": "prime-or-special",
+          "represented_action": "T7T7KAK2693J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "46T3462J56KX",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)A729[RR]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(X)A234=5*6,P(QJJ758)",
+          "revolution": false,
+          "draw": "X",
+          "action": "A234=5*6",
+          "action_kind": "composite",
+          "represented_action": "A234",
+          "play_count": 4,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QJJ758",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "QQQ83",
+          "revolution": false,
+          "draw": null,
+          "action": "QQQ83",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQ83",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "66668,P(TA729)",
+          "revolution": false,
+          "draw": null,
+          "action": "66668",
+          "action_kind": "prime-or-special",
+          "represented_action": "66668",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TA729",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "55889",
+          "revolution": false,
+          "draw": null,
+          "action": "55889",
+          "action_kind": "prime-or-special",
+          "represented_action": "55889",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "46829",
+          "revolution": false,
+          "draw": null,
+          "action": "46829",
+          "action_kind": "prime-or-special",
+          "represented_action": "46829",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)AA243",
+          "revolution": false,
+          "draw": "Q",
+          "action": "AA243",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA243",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(Q)AX243|X=0",
+          "revolution": false,
+          "draw": "Q",
+          "action": "AX243",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0243",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "7676JJA",
+          "revolution": false,
+          "draw": null,
+          "action": "7676JJA",
+          "action_kind": "prime-or-special",
+          "represented_action": "7676JJA",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "QQTTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QQTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQTTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KKKXTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKXTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKKTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "9623#",
+          "revolution": false,
+          "draw": null,
+          "action": "9623",
+          "action_kind": "prime-or-special",
+          "represented_action": "9623",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "8QKA2A2A3",
+          "represented_action": "8QKA2A2A3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "8945943Q7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81213121213,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "カステラ",
+        "winner": "もりしー",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "もりしー",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "8QKA2A2A3",
+            "represented_action": "8QKA2A2A3",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "8945943Q7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 81213121213,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-002",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 3 | もりしー vs カステラ | start=spreadsheet\nもりしー:(K382A74A9Q9)\nカステラ:(KXJ4J56293J)\nもりしー:D(4)A49A49Q8K723,P(48793TQK7586)\nカステラ:D(T)JJJT23456X9K|X=7#",
+      "initial_hands": {
+        "もりしー": "K382A74A9Q9",
+        "カステラ": "KXJ4J56293J"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(4)A49A49Q8K723,P(48793TQK7586)",
+          "revolution": false,
+          "draw": "4",
+          "action": "A49A49Q8K723",
+          "action_kind": "prime-or-special",
+          "represented_action": "A49A49Q8K723",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "48793TQK7586",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)JJJT23456X9K|X=7#",
+          "revolution": false,
+          "draw": "T",
+          "action": "JJJT23456X9K",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJJT2345679K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A49A49Q8K723",
+          "represented_action": "A49A49Q8K723",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "48793TQK7586",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 14914912813723,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A49A49Q8K723",
+            "represented_action": "A49A49Q8K723",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "48793TQK7586",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 14914912813723,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-003",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 4 | カステラ vs もりしー | start=spreadsheet\nカステラ:(Q33T5JX6KJ9)\nもりしー:(K78TTQ4K225)\nカステラ:KXQTJJ|X=K\nもりしー:D(8)%\nカステラ:96353#",
+      "initial_hands": {
+        "カステラ": "Q33T5JX6KJ9",
+        "もりしー": "K78TTQ4K225"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "KXQTJJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "96353#",
+          "revolution": false,
+          "draw": null,
+          "action": "96353",
+          "action_kind": "prime-or-special",
+          "represented_action": "96353",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KXQTJJ",
+          "represented_action": "KKQTJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312101111,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KXQTJJ",
+            "represented_action": "KKQTJJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131312101111,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "KTTQK",
+          "face_count": 5,
+          "next_draw": "8",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-004",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 5 | もりしー vs カステラ | start=spreadsheet\nもりしー:(9764QTX554K)\nカステラ:(3K2J5KQ2J9Q)\nもりしー:D(2)445569Q7TK2X|X=3,P(69J6728AAT67)\nカステラ:D(T)JQKJQKT23259,P(3JTA3XQ44378)\nもりしー:D(8)9988776655442266A\nカステラ:D(5)987X54A23JJQQTTKK|X=6\nもりしー:%\nカステラ:D(A)4A2QJ,P(K8999)\nもりしー:A7XKTTQJ|X=3#",
+      "initial_hands": {
+        "もりしー": "9764QTX554K",
+        "カステラ": "3K2J5KQ2J9Q"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(2)445569Q7TK2X|X=3,P(69J6728AAT67)",
+          "revolution": false,
+          "draw": "2",
+          "action": "445569Q7TK2X",
+          "action_kind": "prime-or-special",
+          "represented_action": "445569Q7TK23",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "69J6728AAT67",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)JQKJQKT23259,P(3JTA3XQ44378)",
+          "revolution": false,
+          "draw": "T",
+          "action": "JQKJQKT23259",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQKJQKT23259",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3JTA3XQ44378",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)9988776655442266A",
+          "revolution": false,
+          "draw": "8",
+          "action": "9988776655442266A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9988776655442266A",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)987X54A23JJQQTTKK|X=6",
+          "revolution": false,
+          "draw": "5",
+          "action": "987X54A23JJQQTTKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654A23JJQQTTKK",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)4A2QJ,P(K8999)",
+          "revolution": false,
+          "draw": "A",
+          "action": "4A2QJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "4A2QJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K8999",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "A7XKTTQJ|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "A7XKTTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A73KTTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "445569Q7TK2X",
+          "represented_action": "445569Q7TK23",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "69J6728AAT67",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 445569127101323,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "9988776655442266A",
+          "represented_action": "9988776655442266A",
+          "play_count": 17,
+          "consumed_count": 17,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 99887766554422661,
+          "digit_count": 17,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 7,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "A7XKTTQJ",
+          "represented_action": "A73KTTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 1731310101211,
+          "digit_count": 13,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "445569Q7TK2X",
+            "represented_action": "445569Q7TK23",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "69J6728AAT67",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 445569127101323,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-005",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 6 | カステラ vs もりしー | start=spreadsheet\nカステラ:(A762766TJ2A)\nもりしー:(8KT352A7K58)\nカステラ:D(9)A267TA267J69,P(573X4KX54JA8)\nもりしー:D(J)K8K8T5J7A523,P(T4Q9328Q939T)\nカステラ:D(Q)A729[RR]\nもりしー:D(K)A234,P(6JQ4)\nカステラ:D(A)8KQJTJ\nもりしー:D(7)A23497,P(29)\nカステラ:66653\nもりしー:A2253\nカステラ:AX457|X=0\nもりしー:D(8)%\nカステラ:AA\nもりしー:D(K)%\nカステラ:724X|X=3#",
+      "initial_hands": {
+        "カステラ": "A762766TJ2A",
+        "もりしー": "8KT352A7K58"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(9)A267TA267J69,P(573X4KX54JA8)",
+          "revolution": false,
+          "draw": "9",
+          "action": "A267TA267J69",
+          "action_kind": "prime-or-special",
+          "represented_action": "A267TA267J69",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "573X4KX54JA8",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(J)K8K8T5J7A523,P(T4Q9328Q939T)",
+          "revolution": false,
+          "draw": "J",
+          "action": "K8K8T5J7A523",
+          "action_kind": "prime-or-special",
+          "represented_action": "K8K8T5J7A523",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T4Q9328Q939T",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)A729[RR]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)A234,P(6JQ4)",
+          "revolution": false,
+          "draw": "K",
+          "action": "A234",
+          "action_kind": "prime-or-special",
+          "represented_action": "A234",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6JQ4",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)8KQJTJ",
+          "revolution": false,
+          "draw": "A",
+          "action": "8KQJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KQJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)A23497,P(29)",
+          "revolution": false,
+          "draw": "7",
+          "action": "A23497",
+          "action_kind": "prime-or-special",
+          "represented_action": "A23497",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "29",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "66653",
+          "revolution": false,
+          "draw": null,
+          "action": "66653",
+          "action_kind": "prime-or-special",
+          "represented_action": "66653",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "A2253",
+          "revolution": false,
+          "draw": null,
+          "action": "A2253",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2253",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "AX457|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX457",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0457",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "AA",
+          "revolution": false,
+          "draw": null,
+          "action": "AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "724X|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "724X",
+          "action_kind": "prime-or-special",
+          "represented_action": "7243",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A267TA267J69",
+          "represented_action": "A267TA267J69",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "573X4KX54JA8",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12671012671169,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 5,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "8KQJTJ",
+          "represented_action": "8KQJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 21,
+          "hand_after_draw": 22,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 81312111011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A267TA267J69",
+            "represented_action": "A267TA267J69",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "573X4KX54JA8",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 12671012671169,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-006",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 7 | もりしー vs カステラ | start=spreadsheet\nもりしー:(4TKX236272J)\nカステラ:(4K78425969J)\nもりしー:D(5)KXJ572223T64|X=0,P(J5T99KAQ3J87)\nカステラ:D(7)4794792568JK,P(4AQAT63KA6Q8)\nもりしー:52876423A\nカステラ:D(Q)987654263\nもりしー:KKXQTTJJJ|X=K\nカステラ:D(8)%\nもりしー:57[GC]\nもりしー:9923#",
+      "initial_hands": {
+        "もりしー": "4TKX236272J",
+        "カステラ": "4K78425969J"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(5)KXJ572223T64|X=0,P(J5T99KAQ3J87)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KXJ572223T64",
+          "action_kind": "prime-or-special",
+          "represented_action": "K0J572223T64",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "J5T99KAQ3J87",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)4794792568JK,P(4AQAT63KA6Q8)",
+          "revolution": false,
+          "draw": "7",
+          "action": "4794792568JK",
+          "action_kind": "prime-or-special",
+          "represented_action": "4794792568JK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4AQAT63KA6Q8",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "52876423A",
+          "revolution": false,
+          "draw": null,
+          "action": "52876423A",
+          "action_kind": "prime-or-special",
+          "represented_action": "52876423A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)987654263",
+          "revolution": false,
+          "draw": "Q",
+          "action": "987654263",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654263",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KKXQTTJJJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQTTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQTTJJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "9923#",
+          "revolution": false,
+          "draw": null,
+          "action": "9923",
+          "action_kind": "prime-or-special",
+          "represented_action": "9923",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KXJ572223T64",
+          "represented_action": "K0J572223T64",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "J5T99KAQ3J87",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 130115722231064,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "52876423A",
+          "represented_action": "52876423A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 528764231,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 5,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXQTTJJJ",
+          "represented_action": "KKKQTTJJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 15,
+          "hand_after_draw": 15,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121010111111,
+          "digit_count": 18,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KXJ572223T64",
+            "represented_action": "K0J572223T64",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "J5T99KAQ3J87",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 130115722231064,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-007",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 8 | カステラ vs もりしー | start=spreadsheet\nカステラ:(T2KTJ8XJ73A)\nもりしー:(466278A3KQ7)\nカステラ:D(Q)KJTQTJ\nもりしー:%\nカステラ:X7|X=5[GC]\nカステラ:A283#",
+      "initial_hands": {
+        "カステラ": "T2KTJ8XJ73A",
+        "もりしー": "466278A3KQ7"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(Q)KJTQTJ",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KJTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "A283#",
+          "revolution": false,
+          "draw": null,
+          "action": "A283",
+          "action_kind": "prime-or-special",
+          "represented_action": "A283",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KJTQTJ",
+          "represented_action": "KJTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131110121011,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KJTQTJ",
+            "represented_action": "KJTQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131110121011,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "KQ",
+          "face_count": 2,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-008",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 9 | もりしー vs カステラ | start=spreadsheet\nもりしー:(39AT76JTTK5)\nカステラ:(728499J4334)\nもりしー:D(5)TTT5K567A39,P(AXQJA5Q3876)\nカステラ:D(7)3344992J4877,P(JK4Q6AK822K9)\nもりしー:D(8)57[GC]\nもりしー:D(X)987X3565A|X=9\nカステラ:D(6)98QK4JA67,P(TQ5257)\nもりしー:QQXTTTJJK|X=Q\nカステラ:D(9)%\nもりしー:86A3A#",
+      "initial_hands": {
+        "もりしー": "39AT76JTTK5",
+        "カステラ": "728499J4334"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(5)TTT5K567A39,P(AXQJA5Q3876)",
+          "revolution": false,
+          "draw": "5",
+          "action": "TTT5K567A39",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTT5K567A39",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "AXQJA5Q3876",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)3344992J4877,P(JK4Q6AK822K9)",
+          "revolution": false,
+          "draw": "7",
+          "action": "3344992J4877",
+          "action_kind": "prime-or-special",
+          "represented_action": "3344992J4877",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "JK4Q6AK822K9",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(X)987X3565A|X=9",
+          "revolution": false,
+          "draw": "X",
+          "action": "987X3565A",
+          "action_kind": "prime-or-special",
+          "represented_action": "98793565A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)98QK4JA67,P(TQ5257)",
+          "revolution": false,
+          "draw": "6",
+          "action": "98QK4JA67",
+          "action_kind": "prime-or-special",
+          "represented_action": "98QK4JA67",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TQ5257",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "QQXTTTJJK|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "QQXTTTJJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQTTTJJK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "86A3A#",
+          "revolution": false,
+          "draw": null,
+          "action": "86A3A",
+          "action_kind": "prime-or-special",
+          "represented_action": "86A3A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TTT5K567A39",
+          "represented_action": "TTT5K567A39",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "AXQJA5Q3876",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101010513567139,
+          "digit_count": 15,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 4,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "987X3565A",
+          "represented_action": "98793565A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "X",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 987935651,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 6,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "QQXTTTJJK",
+          "represented_action": "QQQTTTJJK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 14,
+          "hand_after_draw": 14,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121212101010111113,
+          "digit_count": 18,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TTT5K567A39",
+            "represented_action": "TTT5K567A39",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "AXQJA5Q3876",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101010513567139,
+            "digit_count": 15,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-009",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 10 | カステラ vs もりしー | start=spreadsheet\nカステラ:(2Q6A988QT32)\nもりしー:(KJT47K566J8)\nカステラ:D(3)Q386Q38A22T9,P(29X7963K4QX2)\nもりしー:D(K)K6K5K4J6T8J7,P(347A54Q9TJ5A)\nカステラ:D(8)A729[RR]\nもりしー:A344,P(T57A)\nカステラ:8QQTQK\nもりしー:AAA555,P(JA729)\nカステラ:886429\nもりしー:AA6537\nカステラ:XX2363|X=A|X=0,P(8QQTQK)\nもりしー:A729[RR]\nカステラ:D(8)8QTK\nもりしー:D(8)9KTJ\nカステラ:D(6)%\nもりしー:D(4)54547\nカステラ:D(2)QQXX2=22*3339866|X=Q|X=A,P(9AA6537A7298QT)\nもりしー:D(K)84486A\nカステラ:QQQA2X=A2*X|X=Q|X=Q,P(9KTJ54547)\nもりしー:57[GC]\nもりしー:KKKQTTJJJ#",
+      "initial_hands": {
+        "カステラ": "2Q6A988QT32",
+        "もりしー": "KJT47K566J8"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(3)Q386Q38A22T9,P(29X7963K4QX2)",
+          "revolution": false,
+          "draw": "3",
+          "action": "Q386Q38A22T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q386Q38A22T9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "29X7963K4QX2",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)K6K5K4J6T8J7,P(347A54Q9TJ5A)",
+          "revolution": false,
+          "draw": "K",
+          "action": "K6K5K4J6T8J7",
+          "action_kind": "prime-or-special",
+          "represented_action": "K6K5K4J6T8J7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "347A54Q9TJ5A",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)A729[RR]",
+          "revolution": false,
+          "draw": "8",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "A344,P(T57A)",
+          "revolution": false,
+          "draw": null,
+          "action": "A344",
+          "action_kind": "prime-or-special",
+          "represented_action": "A344",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T57A",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "8QQTQK",
+          "revolution": false,
+          "draw": null,
+          "action": "8QQTQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QQTQK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "AAA555,P(JA729)",
+          "revolution": false,
+          "draw": null,
+          "action": "AAA555",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAA555",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "JA729",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "886429",
+          "revolution": false,
+          "draw": null,
+          "action": "886429",
+          "action_kind": "prime-or-special",
+          "represented_action": "886429",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "AA6537",
+          "revolution": false,
+          "draw": null,
+          "action": "AA6537",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA6537",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "XX2363|X=A|X=0,P(8QQTQK)",
+          "revolution": false,
+          "draw": null,
+          "action": "XX2363",
+          "action_kind": "prime-or-special",
+          "represented_action": "A02363",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "A",
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "8QQTQK",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)8QTK",
+          "revolution": false,
+          "draw": "8",
+          "action": "8QTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)9KTJ",
+          "revolution": false,
+          "draw": "8",
+          "action": "9KTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(4)54547",
+          "revolution": false,
+          "draw": "4",
+          "action": "54547",
+          "action_kind": "prime-or-special",
+          "represented_action": "54547",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)QQXX2=22*3339866|X=Q|X=A,P(9AA6537A7298QT)",
+          "revolution": false,
+          "draw": "2",
+          "action": "QQXX2=22*3339866",
+          "action_kind": "composite",
+          "represented_action": "QQQA2",
+          "play_count": 5,
+          "consumed_count": 14,
+          "joker_values": [
+            "Q",
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "9AA6537A7298QT",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)84486A",
+          "revolution": false,
+          "draw": "K",
+          "action": "84486A",
+          "action_kind": "prime-or-special",
+          "represented_action": "84486A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "QQQA2X=A2*X|X=Q|X=Q,P(9KTJ54547)",
+          "revolution": false,
+          "draw": null,
+          "action": "QQQA2X=A2*X",
+          "action_kind": "composite",
+          "represented_action": "QQQA2Q",
+          "play_count": 6,
+          "consumed_count": 9,
+          "joker_values": [
+            "Q",
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": "9KTJ54547",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KKKQTTJJJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQTTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQTTJJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q386Q38A22T9",
+          "represented_action": "Q386Q38A22T9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "29X7963K4QX2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 123861238122109,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 5,
+          "player": "カステラ",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "8QQTQK",
+          "represented_action": "8QQTQK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 21,
+          "hand_after_draw": 21,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81212101213,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "もりしー",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "もりしー",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q386Q38A22T9",
+            "represented_action": "Q386Q38A22T9",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "29X7963K4QX2",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 123861238122109,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-010",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 11 | もりしー vs カステラ | start=spreadsheet\nもりしー:(723A24JJ7J9)\nカステラ:(5J5693384QA)\nもりしー:D(T)J7J7T2342A9,P(88T8523A9TX)\nカステラ:D(K)K5A35JQ34689#",
+      "initial_hands": {
+        "もりしー": "723A24JJ7J9",
+        "カステラ": "5J5693384QA"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(T)J7J7T2342A9,P(88T8523A9TX)",
+          "revolution": false,
+          "draw": "T",
+          "action": "J7J7T2342A9",
+          "action_kind": "prime-or-special",
+          "represented_action": "J7J7T2342A9",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "88T8523A9TX",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(K)K5A35JQ34689#",
+          "revolution": false,
+          "draw": "K",
+          "action": "K5A35JQ34689",
+          "action_kind": "prime-or-special",
+          "represented_action": "K5A35JQ34689",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "J7J7T2342A9",
+          "represented_action": "J7J7T2342A9",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "88T8523A9TX",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11711710234219,
+          "digit_count": 14,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "J7J7T2342A9",
+            "represented_action": "J7J7T2342A9",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "88T8523A9TX",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 11711710234219,
+            "digit_count": 14,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-011",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 12 | カステラ vs もりしー | start=spreadsheet\nカステラ:(74Q987TQJKT)\nもりしー:(465J586T563)\nカステラ:QTQTKJ\nもりしー:D(6)%\nカステラ:97847#",
+      "initial_hands": {
+        "カステラ": "74Q987TQJKT",
+        "もりしー": "465J586T563"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "QTQTKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QTQTKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "97847#",
+          "revolution": false,
+          "draw": null,
+          "action": "97847",
+          "action_kind": "prime-or-special",
+          "represented_action": "97847",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "QTQTKJ",
+          "represented_action": "QTQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121012101311,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "QTQTKJ",
+            "represented_action": "QTQTKJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 121012101311,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "JT",
+          "face_count": 2,
+          "next_draw": "6",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-012",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 13 | もりしー vs カステラ | start=spreadsheet\nもりしー:(5953X67QAT8)\nカステラ:(6AQKJ7K9KJ3)\nもりしー:D(9)57A359968TQX|X=J,P(34Q22T8J5874)\nカステラ:D(4)4J6A3\nもりしー:D(T)TQTTJ\nカステラ:KKQKJ\nもりしー:%\nカステラ:79#",
+      "initial_hands": {
+        "もりしー": "5953X67QAT8",
+        "カステラ": "6AQKJ7K9KJ3"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(9)57A359968TQX|X=J,P(34Q22T8J5874)",
+          "revolution": false,
+          "draw": "9",
+          "action": "57A359968TQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "57A359968TQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "34Q22T8J5874",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)4J6A3",
+          "revolution": false,
+          "draw": "4",
+          "action": "4J6A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "4J6A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(T)TQTTJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "TQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "KKQKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "79#",
+          "revolution": false,
+          "draw": null,
+          "action": "79",
+          "action_kind": "prime-or-special",
+          "represented_action": "79",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "57A359968TQX",
+          "represented_action": "57A359968TQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "34Q22T8J5874",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 571359968101211,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "TQTTJ",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012101011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "57A359968TQX",
+            "represented_action": "57A359968TQJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "34Q22T8J5874",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 571359968101211,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-013",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 14 | カステラ vs もりしー | start=spreadsheet\nカステラ:(AQK455664J9)\nもりしー:(39A3KX68Q77)\nカステラ:D(8)456456JQ89A,P(QQ97ATKX8JT)\nもりしー:D(5)KA37X3768Q59|X=3,P(AJTJ23K24837)\nカステラ:D(2)862A869\nもりしー:D(5)953KJQJ\nカステラ:D(T)94KQJTJ\nもりしー:D(4)%\nカステラ:QTQTKX|X=K\nもりしー:D(9)%\nカステラ:57[GC]\nカステラ:54A#",
+      "initial_hands": {
+        "カステラ": "AQK455664J9",
+        "もりしー": "39A3KX68Q77"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(8)456456JQ89A,P(QQ97ATKX8JT)",
+          "revolution": false,
+          "draw": "8",
+          "action": "456456JQ89A",
+          "action_kind": "prime-or-special",
+          "represented_action": "456456JQ89A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QQ97ATKX8JT",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)KA37X3768Q59|X=3,P(AJTJ23K24837)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KA37X3768Q59",
+          "action_kind": "prime-or-special",
+          "represented_action": "KA3733768Q59",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "AJTJ23K24837",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)862A869",
+          "revolution": false,
+          "draw": "2",
+          "action": "862A869",
+          "action_kind": "prime-or-special",
+          "represented_action": "862A869",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)953KJQJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "953KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "953KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)94KQJTJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "94KQJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "94KQJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "QTQTKX|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "QTQTKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTKK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "54A#",
+          "revolution": false,
+          "draw": null,
+          "action": "54A",
+          "action_kind": "prime-or-special",
+          "represented_action": "54A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "456456JQ89A",
+          "represented_action": "456456JQ89A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "QQ97ATKX8JT",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 4564561112891,
+          "digit_count": 13,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 5,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "94KQJTJ",
+          "represented_action": "94KQJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 17,
+          "hand_after_draw": 18,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 941312111011,
+          "digit_count": 12,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 7,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "QTQTKX",
+          "represented_action": "QTQTKK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121012101313,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "456456JQ89A",
+            "represented_action": "456456JQ89A",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "QQ97ATKX8JT",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 4564561112891,
+            "digit_count": 13,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-014",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "もりしー",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 15 | もりしー vs カステラ | start=spreadsheet\nもりしー:(Q5793K223T8)\nカステラ:(J528JKX765Q)\nもりしー:D(K)K3K3Q2T25789,P(J7AXTQTT9593)\nカステラ:D(A)JQKJA2X85567|X=K,P(K8Q649AA6824)\nもりしー:D(J)57[GC]\nもりしー:D(6)57[GC]\nもりしー:D(7)9876T3\nカステラ:D(4)9KQQKJ\nもりしー:QQTTTJ\nカステラ:D(4)%\nもりしー:2A29\nカステラ:D(3)4243\nもりしー:KJXK|X=T\nカステラ:%\nもりしー:9=3*3#",
+      "initial_hands": {
+        "もりしー": "Q5793K223T8",
+        "カステラ": "J528JKX765Q"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(K)K3K3Q2T25789,P(J7AXTQTT9593)",
+          "revolution": false,
+          "draw": "K",
+          "action": "K3K3Q2T25789",
+          "action_kind": "prime-or-special",
+          "represented_action": "K3K3Q2T25789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J7AXTQTT9593",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)JQKJA2X85567|X=K,P(K8Q649AA6824)",
+          "revolution": false,
+          "draw": "A",
+          "action": "JQKJA2X85567",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQKJA2K85567",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "K8Q649AA6824",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(J)57[GC]",
+          "revolution": false,
+          "draw": "J",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)9876T3",
+          "revolution": false,
+          "draw": "7",
+          "action": "9876T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9876T3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)9KQQKJ",
+          "revolution": false,
+          "draw": "4",
+          "action": "9KQQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KQQKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "QQTTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QQTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQTTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "2A29",
+          "revolution": false,
+          "draw": null,
+          "action": "2A29",
+          "action_kind": "prime-or-special",
+          "represented_action": "2A29",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(3)4243",
+          "revolution": false,
+          "draw": "3",
+          "action": "4243",
+          "action_kind": "prime-or-special",
+          "represented_action": "4243",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KJXK|X=T",
+          "revolution": false,
+          "draw": null,
+          "action": "KJXK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "9=3*3#",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3*3",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "K3K3Q2T25789",
+          "represented_action": "K3K3Q2T25789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "J7AXTQTT9593",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1331331221025789,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 7,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "QQTTTJ",
+          "represented_action": "QQTTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 17,
+          "hand_after_draw": 17,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121210101011,
+          "digit_count": 12,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 11,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [],
+          "action": "KJXK",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111013,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "K3K3Q2T25789",
+            "represented_action": "K3K3Q2T25789",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "J7AXTQTT9593",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1331331221025789,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-015",
+      "players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "カステラ",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第19試合 251024金剛戦数譜.docx | game 16 | カステラ vs もりしー | start=spreadsheet\nカステラ:(T7894T748AX)\nもりしー:(8JK57924XAQ)\nカステラ:D(7)T4778T47X8A9|X=7#",
+      "initial_hands": {
+        "カステラ": "T7894T748AX",
+        "もりしー": "8JK57924XAQ"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(7)T4778T47X8A9|X=7#",
+          "revolution": false,
+          "draw": "7",
+          "action": "T4778T47X8A9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4778T4778A9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T4778T47X8A9",
+          "represented_action": "T4778T4778A9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 10477810477819,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第19試合 251024金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T4778T47X8A9",
+            "represented_action": "T4778T4778A9",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 10477810477819,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第19試合-251024金剛戦数譜-docx-016",
+      "players": [
+        "カステラ",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-019",
+      "match_no": 19,
+      "match_label": "第19試合",
+      "match_players": [
+        "もりしー",
+        "カステラ"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

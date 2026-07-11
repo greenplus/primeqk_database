@@ -1,0 +1,2953 @@
+{
+  "match_id": "金剛戦-第2期-match-043",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 43,
+  "match_label": "第43試合",
+  "players": [
+    "mickey",
+    "マリン"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 1 | マリン vs mickey | start=spreadsheet\nマリン:(A5T93Q44T94)\nmickey:(2K258627KTK)\nマリン:D(5)T4T4Q5A35499#",
+      "initial_hands": {
+        "マリン": "A5T93Q44T94",
+        "mickey": "2K258627KTK"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(5)T4T4Q5A35499#",
+          "revolution": false,
+          "draw": "5",
+          "action": "T4T4Q5A35499",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4T4Q5A35499",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T4T4Q5A35499",
+          "represented_action": "T4T4Q5A35499",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 104104125135499,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T4T4Q5A35499",
+            "represented_action": "T4T4Q5A35499",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 104104125135499,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-001",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 2 | mickey vs マリン | start=spreadsheet\nmickey:(59X7Q668T3T)\nマリン:(2JKQ6X6Q548)\nmickey:D(8)57[GC]\nmickey:D(T)986QTTTX|X=J\nマリン:D(4)%\nmickey:863#",
+      "initial_hands": {
+        "mickey": "59X7Q668T3T",
+        "マリン": "2JKQ6X6Q548"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)986QTTTX|X=J",
+          "revolution": false,
+          "draw": "T",
+          "action": "986QTTTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "986QTTTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "863#",
+          "revolution": false,
+          "draw": null,
+          "action": "863",
+          "action_kind": "prime-or-special",
+          "represented_action": "863",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "986QTTTX",
+          "represented_action": "986QTTTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9861210101011,
+          "digit_count": 13,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "986QTTTX",
+            "represented_action": "986QTTTJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9861210101011,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "マリン",
+          "face_cards": "JKQXQ",
+          "face_count": 5,
+          "next_draw": "4",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-002",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 3 | マリン vs mickey | start=spreadsheet\nマリン:(2J4XK53K4T5)\nmickey:(X54AAJ2QT7A)\nマリン:D(3)55243\nmickey:D(2)7242A\nマリン:KKXTJ|X=Q\nmickey:D(J)%\nマリン:43#",
+      "initial_hands": {
+        "マリン": "2J4XK53K4T5",
+        "mickey": "X54AAJ2QT7A"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(3)55243",
+          "revolution": false,
+          "draw": "3",
+          "action": "55243",
+          "action_kind": "prime-or-special",
+          "represented_action": "55243",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)7242A",
+          "revolution": false,
+          "draw": "2",
+          "action": "7242A",
+          "action_kind": "prime-or-special",
+          "represented_action": "7242A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KKXTJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "43#",
+          "revolution": false,
+          "draw": null,
+          "action": "43",
+          "action_kind": "prime-or-special",
+          "represented_action": "43",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXTJ",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "KKXTJ",
+            "represented_action": "KKQTJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121011,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "XJQTJ",
+          "face_count": 5,
+          "next_draw": "J",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-003",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 4 | mickey vs マリン | start=spreadsheet\nmickey:(X79K2K277Q2)\nマリン:(3JA64K4TQTT)\nmickey:277\nマリン:D(9)KQT=JT^A34469T,P(6X94TA8A7245)\nmickey:KKX|X=J\nマリン:D(6)%\nmickey:9Q227#",
+      "initial_hands": {
+        "mickey": "X79K2K277Q2",
+        "マリン": "3JA64K4TQTT"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "277",
+          "revolution": false,
+          "draw": null,
+          "action": "277",
+          "action_kind": "prime-or-special",
+          "represented_action": "277",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)KQT=JT^A34469T,P(6X94TA8A7245)",
+          "revolution": false,
+          "draw": "9",
+          "action": "KQT=JT^A34469T",
+          "action_kind": "composite",
+          "represented_action": "KQT",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6X94TA8A7245",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9Q227#",
+          "revolution": false,
+          "draw": null,
+          "action": "9Q227",
+          "action_kind": "prime-or-special",
+          "represented_action": "9Q227",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KKX",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "277",
+            "represented_action": "277",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 277,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KKX",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-004",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 5 | マリン vs mickey | start=spreadsheet\nマリン:(A4X9Q5KJ24J)\nmickey:(AQTA2KTKJX8)\nマリン:KJQJ\nmickey:D(3)KKQJ=XTT*382AA|X=Q,P(8T379667T955)\nマリン:5X|X=7[GC]\nマリン:44A29#",
+      "initial_hands": {
+        "マリン": "A4X9Q5KJ24J",
+        "mickey": "AQTA2KTKJX8"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)KKQJ=XTT*382AA|X=Q,P(8T379667T955)",
+          "revolution": false,
+          "draw": "3",
+          "action": "KKQJ=XTT*382AA",
+          "action_kind": "composite",
+          "represented_action": "KKQJ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": "8T379667T955",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "5X|X=7[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "44A29#",
+          "revolution": false,
+          "draw": null,
+          "action": "44A29",
+          "action_kind": "prime-or-special",
+          "represented_action": "44A29",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJQJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-005",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 6 | mickey vs マリン | start=spreadsheet\nmickey:(22QTJ9364A4)\nマリン:(749J98845XQ)\nmickey:D(6)246246TJQA39#",
+      "initial_hands": {
+        "mickey": "22QTJ9364A4",
+        "マリン": "749J98845XQ"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(6)246246TJQA39#",
+          "revolution": false,
+          "draw": "6",
+          "action": "246246TJQA39",
+          "action_kind": "prime-or-special",
+          "represented_action": "246246TJQA39",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "246246TJQA39",
+          "represented_action": "246246TJQA39",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 246246101112139,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "246246TJQA39",
+            "represented_action": "246246TJQA39",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 246246101112139,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-006",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 7 | マリン vs mickey | start=spreadsheet\nマリン:(XKQ9JTJ6A53)\nmickey:(863TTT2KK76)\nマリン:KJQJ\nmickey:D(Q)KKTQ=TT78*3266,P(X82438A372J5)\nマリン:X[IN]\nマリン:TA3569#",
+      "initial_hands": {
+        "マリン": "XKQ9JTJ6A53",
+        "mickey": "863TTT2KK76"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)KKTQ=TT78*3266,P(X82438A372J5)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KKTQ=TT78*3266",
+          "action_kind": "composite",
+          "represented_action": "KKTQ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X82438A372J5",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "TA3569#",
+          "revolution": false,
+          "draw": null,
+          "action": "TA3569",
+          "action_kind": "prime-or-special",
+          "represented_action": "TA3569",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJQJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-007",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 8 | mickey vs マリン | start=spreadsheet\nmickey:(7JQ434882TT)\nマリン:(5QJ73AK2377)\nmickey:D(8)T8488T43QJ27,P(ATA58QA49664)\nマリン:D(2)J3Q3K7A27257,P(XJKJTQ92X965)\nmickey:D(K)98765432KTQTQJ\nマリン:D(5)99KKQQTJJJ2577,P(K963)\nmickey:A48A48T486A#",
+      "initial_hands": {
+        "mickey": "7JQ434882TT",
+        "マリン": "5QJ73AK2377"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(8)T8488T43QJ27,P(ATA58QA49664)",
+          "revolution": false,
+          "draw": "8",
+          "action": "T8488T43QJ27",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8488T43QJ27",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "ATA58QA49664",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(2)J3Q3K7A27257,P(XJKJTQ92X965)",
+          "revolution": false,
+          "draw": "2",
+          "action": "J3Q3K7A27257",
+          "action_kind": "prime-or-special",
+          "represented_action": "J3Q3K7A27257",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XJKJTQ92X965",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)98765432KTQTQJ",
+          "revolution": false,
+          "draw": "K",
+          "action": "98765432KTQTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98765432KTQTQJ",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(5)99KKQQTJJJ2577,P(K963)",
+          "revolution": false,
+          "draw": "5",
+          "action": "99KKQQTJJJ2577",
+          "action_kind": "prime-or-special",
+          "represented_action": "99KKQQTJJJ2577",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K963",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A48A48T486A#",
+          "revolution": false,
+          "draw": null,
+          "action": "A48A48T486A",
+          "action_kind": "prime-or-special",
+          "represented_action": "A48A48T486A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T8488T43QJ27",
+          "represented_action": "T8488T43QJ27",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "ATA58QA49664",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1084881043121127,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "98765432KTQTQJ",
+          "represented_action": "98765432KTQTQJ",
+          "play_count": 14,
+          "consumed_count": 14,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 98765432131012101211,
+          "digit_count": 20,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "A48A48T486A",
+          "represented_action": "A48A48T486A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 148148104861,
+          "digit_count": 12,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T8488T43QJ27",
+            "represented_action": "T8488T43QJ27",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "ATA58QA49664",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1084881043121127,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-008",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 9 | マリン vs mickey | start=spreadsheet\nマリン:(95X62A7J732)\nmickey:(K36XK448A65)\nマリン:D(2)57[GC]\nマリン:D(4)J2A23246X79|X=2,P(A99TQ8J5895)\nmickey:D(6)K6K6A344568X|X=9,P(T32QJAJT7K47)\nマリン:D(8)8QA2JT987654A2399\nmickey:D(Q)X87654A23JJQQTTKK|X=9\nマリン:%\nmickey:D(3)67\nマリン:D(Q)QX|X=K\nmickey:D(T)%\nマリン:J8=2*59#",
+      "initial_hands": {
+        "マリン": "95X62A7J732",
+        "mickey": "K36XK448A65"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(2)57[GC]",
+          "revolution": false,
+          "draw": "2",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(4)J2A23246X79|X=2,P(A99TQ8J5895)",
+          "revolution": false,
+          "draw": "4",
+          "action": "J2A23246X79",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2A23246279",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": "A99TQ8J5895",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)K6K6A344568X|X=9,P(T32QJAJT7K47)",
+          "revolution": false,
+          "draw": "6",
+          "action": "K6K6A344568X",
+          "action_kind": "prime-or-special",
+          "represented_action": "K6K6A3445689",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "T32QJAJT7K47",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(8)8QA2JT987654A2399",
+          "revolution": false,
+          "draw": "8",
+          "action": "8QA2JT987654A2399",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QA2JT987654A2399",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)X87654A23JJQQTTKK|X=9",
+          "revolution": false,
+          "draw": "Q",
+          "action": "X87654A23JJQQTTKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654A23JJQQTTKK",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)67",
+          "revolution": false,
+          "draw": "3",
+          "action": "67",
+          "action_kind": "prime-or-special",
+          "represented_action": "67",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(Q)QX|X=K",
+          "revolution": false,
+          "draw": "Q",
+          "action": "QX",
+          "action_kind": "prime-or-special",
+          "represented_action": "QK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "J8=2*59#",
+          "revolution": false,
+          "draw": null,
+          "action": "J8=2*59",
+          "action_kind": "composite",
+          "represented_action": "J8",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 2,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "J2A23246X79",
+          "represented_action": "J2A23246279",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "4",
+          "penalty": "A99TQ8J5895",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 112123246279,
+          "digit_count": 12,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 4,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "8QA2JT987654A2399",
+          "represented_action": "8QA2JT987654A2399",
+          "play_count": 17,
+          "consumed_count": 17,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81212111098765412399,
+          "digit_count": 20,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 8,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "QX",
+          "represented_action": "QK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "hand_before": 6,
+          "hand_after_draw": 7,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1213,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 2,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "J2A23246X79",
+            "represented_action": "J2A23246279",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "4",
+            "penalty": "A99TQ8J5895",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 112123246279,
+            "digit_count": 12,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-009",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 10 | mickey vs マリン | start=spreadsheet\nmickey:(T6K97387TAA)\nマリン:(3548574692J)\nmickey:D(2)986TTAAK\nマリン:%\nmickey:7723#",
+      "initial_hands": {
+        "mickey": "T6K97387TAA",
+        "マリン": "3548574692J"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(2)986TTAAK",
+          "revolution": false,
+          "draw": "2",
+          "action": "986TTAAK",
+          "action_kind": "prime-or-special",
+          "represented_action": "986TTAAK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "7723#",
+          "revolution": false,
+          "draw": null,
+          "action": "7723",
+          "action_kind": "prime-or-special",
+          "represented_action": "7723",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-010",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 11 | マリン vs mickey | start=spreadsheet\nマリン:(T444943TX25)\nmickey:(KK98AJQTA38)\nマリン:D(2)T4T4243245X9|X=2,P(6K56A9857577)\nmickey:D(K)9T883\nマリン:D(J)69KJT=T^A223444455,P(386Q6Q22J9J37XAQ)\nmickey:KKJQKAA#",
+      "initial_hands": {
+        "マリン": "T444943TX25",
+        "mickey": "KK98AJQTA38"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(2)T4T4243245X9|X=2,P(6K56A9857577)",
+          "revolution": false,
+          "draw": "2",
+          "action": "T4T4243245X9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4T424324529",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": "6K56A9857577",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)9T883",
+          "revolution": false,
+          "draw": "K",
+          "action": "9T883",
+          "action_kind": "prime-or-special",
+          "represented_action": "9T883",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)69KJT=T^A223444455,P(386Q6Q22J9J37XAQ)",
+          "revolution": false,
+          "draw": "J",
+          "action": "69KJT=T^A223444455",
+          "action_kind": "composite",
+          "represented_action": "69KJT",
+          "play_count": 5,
+          "consumed_count": 16,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "386Q6Q22J9J37XAQ",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKJQKAA#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQKAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJQKAA",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T4T4243245X9",
+          "represented_action": "T4T424324529",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "6K56A9857577",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10410424324529,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T4T4243245X9",
+            "represented_action": "T4T424324529",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "6K56A9857577",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10410424324529,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-011",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 12 | mickey vs マリン | start=spreadsheet\nmickey:(QJ5T4228AQ7)\nマリン:(KQ6X3A27687)\nmickey:D(6)57[GC]\nmickey:D(T)864TTQQA2J\nマリン:%\nmickey:2#",
+      "initial_hands": {
+        "mickey": "QJ5T4228AQ7",
+        "マリン": "KQ6X3A27687"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)864TTQQA2J",
+          "revolution": false,
+          "draw": "T",
+          "action": "864TTQQA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TTQQA2J",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "2#",
+          "revolution": false,
+          "draw": null,
+          "action": "2",
+          "action_kind": "prime-or-special",
+          "represented_action": "2",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "864TTQQA2J",
+          "represented_action": "864TTQQA2J",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 864101012121211,
+          "digit_count": 15,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "864TTQQA2J",
+            "represented_action": "864TTQQA2J",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 864101012121211,
+            "digit_count": 15,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "マリン",
+          "face_cards": "KQX",
+          "face_count": 3,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-012",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 13 | マリン vs mickey | start=spreadsheet\nマリン:(J3TQA447KTK)\nmickey:(JQ597AQAT63)\nマリン:D(8)A3KQJTTK\nmickey:D(5)%\nマリン:8447#",
+      "initial_hands": {
+        "マリン": "J3TQA447KTK",
+        "mickey": "JQ597AQAT63"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(8)A3KQJTTK",
+          "revolution": false,
+          "draw": "8",
+          "action": "A3KQJTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3KQJTTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "8447#",
+          "revolution": false,
+          "draw": null,
+          "action": "8447",
+          "action_kind": "prime-or-special",
+          "represented_action": "8447",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A3KQJTTK",
+          "represented_action": "A3KQJTTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131211101013,
+          "digit_count": 14,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A3KQJTTK",
+            "represented_action": "A3KQJTTK",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13131211101013,
+            "digit_count": 14,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "JQQT",
+          "face_count": 4,
+          "next_draw": "5",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-013",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 14 | mickey vs マリン | start=spreadsheet\nmickey:(73QT42K7635)\nマリン:(8XAAKTXJ9K8)\nmickey:D(7)343526777TQK,P(5JQ638329289)\nマリン:D(9)89\nmickey:D(5)KQ=77*4333352257569689JQ28T,P(K67A44TQ5AJJ46QT2)\nマリン:KK=TA*X|X=K\nmickey:%\nマリン:98AXJ|X=0#",
+      "initial_hands": {
+        "mickey": "73QT42K7635",
+        "マリン": "8XAAKTXJ9K8"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(7)343526777TQK,P(5JQ638329289)",
+          "revolution": false,
+          "draw": "7",
+          "action": "343526777TQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "343526777TQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5JQ638329289",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(9)89",
+          "revolution": false,
+          "draw": "9",
+          "action": "89",
+          "action_kind": "prime-or-special",
+          "represented_action": "89",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)KQ=77*4333352257569689JQ28T,P(K67A44TQ5AJJ46QT2)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KQ=77*4333352257569689JQ28T",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 25,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K67A44TQ5AJJ46QT2",
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "KK=TA*X|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=TA*X",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "98AXJ|X=0#",
+          "revolution": false,
+          "draw": null,
+          "action": "98AXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98A0J",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "343526777TQK",
+          "represented_action": "343526777TQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "5JQ638329289",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 343526777101213,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KQ=77*4333352257569689JQ28T",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 25,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "5",
+          "penalty": "K67A44TQ5AJJ46QT2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "343526777TQK",
+            "represented_action": "343526777TQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "5JQ638329289",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 343526777101213,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-014",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "マリン",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 15 | マリン vs mickey | start=spreadsheet\nマリン:(675JT632TKT)\nmickey:(83A8572463K)\nマリン:D(4)664253\nmickey:D(9)9862K3\nマリン:7KTTTJ#",
+      "initial_hands": {
+        "マリン": "675JT632TKT",
+        "mickey": "83A8572463K"
+      },
+      "events": [
+        {
+          "player": "マリン",
+          "raw": "D(4)664253",
+          "revolution": false,
+          "draw": "4",
+          "action": "664253",
+          "action_kind": "prime-or-special",
+          "represented_action": "664253",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)9862K3",
+          "revolution": false,
+          "draw": "9",
+          "action": "9862K3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9862K3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "7KTTTJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "7KTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7KTTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 3,
+          "player": "マリン",
+          "winner": "マリン",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "7KTTTJ",
+          "represented_action": "7KTTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 71310101011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "マリン",
+        "winner": "マリン",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 3,
+            "player": "マリン",
+            "winner": "マリン",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "7KTTTJ",
+            "represented_action": "7KTTTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 71310101011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "",
+          "face_count": 0,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-015",
+      "players": [
+        "マリン",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "mickey",
+      "second_player": "マリン",
+      "raw_block": "### 第2期金剛戦 第43試合 260314金剛戦数譜.docx | game 16 | mickey vs マリン | start=spreadsheet\nmickey:(6J6ATK37A5Q)\nマリン:(X5849X29J24)\nmickey:D(8)57[GC]\nmickey:D(8)886A\nマリン:D(J)9829\nmickey:KTQJ\nマリン:D(K)KJXJ|X=Q\nmickey:D(T)%\nマリン:D(3)5X|X=7[GC]\nマリン:4423#",
+      "initial_hands": {
+        "mickey": "6J6ATK37A5Q",
+        "マリン": "X5849X29J24"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)886A",
+          "revolution": false,
+          "draw": "8",
+          "action": "886A",
+          "action_kind": "prime-or-special",
+          "represented_action": "886A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(J)9829",
+          "revolution": false,
+          "draw": "J",
+          "action": "9829",
+          "action_kind": "prime-or-special",
+          "represented_action": "9829",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KTQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(K)KJXJ|X=Q",
+          "revolution": false,
+          "draw": "K",
+          "action": "KJXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "D(3)5X|X=7[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "マリン",
+          "raw": "4423#",
+          "revolution": false,
+          "draw": null,
+          "action": "4423",
+          "action_kind": "prime-or-special",
+          "represented_action": "4423",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "マリン",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 4,
+          "player": "mickey",
+          "winner": "マリン",
+          "player_won": false,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KTQJ",
+          "represented_action": "KTQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 13101211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "マリン",
+        "player_won": false,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "886A",
+            "represented_action": "886A",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8861,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第43試合 260314金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 4,
+            "player": "mickey",
+            "winner": "マリン",
+            "player_won": false,
+            "labels": [
+              "trumps",
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "KTQJ",
+            "represented_action": "KTQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 13101211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第43試合-260314金剛戦数譜-docx-016",
+      "players": [
+        "mickey",
+        "マリン"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-043",
+      "match_no": 43,
+      "match_label": "第43試合",
+      "match_players": [
+        "mickey",
+        "マリン"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

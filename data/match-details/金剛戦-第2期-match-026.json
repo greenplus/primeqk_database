@@ -1,0 +1,3226 @@
+{
+  "match_id": "金剛戦-第2期-match-026",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 26,
+  "match_label": "第26試合",
+  "players": [
+    "3TK",
+    "さしみ"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 1 | 3TK vs さしみ | start=spreadsheet\n3TK:(3T826Q297J3)\nさしみ:(J5Q696J363A)\n3TK:D(T)98376TQTJ\nさしみ:D(X)%\n3TK:223#",
+      "initial_hands": {
+        "3TK": "3T826Q297J3",
+        "さしみ": "J5Q696J363A"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(T)98376TQTJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "98376TQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98376TQTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)%",
+          "revolution": false,
+          "draw": "X",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "223#",
+          "revolution": false,
+          "draw": null,
+          "action": "223",
+          "action_kind": "prime-or-special",
+          "represented_action": "223",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "98376TQTJ",
+          "represented_action": "98376TQTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9837610121011,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "98376TQTJ",
+            "represented_action": "98376TQTJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9837610121011,
+            "digit_count": 13,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-001",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 2 | さしみ vs 3TK | start=spreadsheet\nさしみ:(5JQXK4Q3K86)\n3TK:(KA387AX2644)\nさしみ:KKXQQJ|X=K\n3TK:D(T)%\nさしみ:86453#",
+      "initial_hands": {
+        "さしみ": "5JQXK4Q3K86",
+        "3TK": "KA387AX2644"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "KKXQQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "86453#",
+          "revolution": false,
+          "draw": null,
+          "action": "86453",
+          "action_kind": "prime-or-special",
+          "represented_action": "86453",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KKXQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KKXQQJ",
+            "represented_action": "KKKQQJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131313121211,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "3TK",
+          "face_cards": "KXT",
+          "face_count": 3,
+          "next_draw": "T",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-002",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 3 | 3TK vs さしみ | start=spreadsheet\n3TK:(9K66X6TA8AA)\nさしみ:(4KJT9TAK335)\n3TK:D(X)66A\nさしみ:TT3\n3TK:KXX|X=K|X=J\nさしみ:%\n3TK:968TAA#",
+      "initial_hands": {
+        "3TK": "9K66X6TA8AA",
+        "さしみ": "4KJT9TAK335"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(X)66A",
+          "revolution": false,
+          "draw": "X",
+          "action": "66A",
+          "action_kind": "prime-or-special",
+          "represented_action": "66A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "TT3",
+          "revolution": false,
+          "draw": null,
+          "action": "TT3",
+          "action_kind": "prime-or-special",
+          "represented_action": "TT3",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "KXX|X=K|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "968TAA#",
+          "revolution": false,
+          "draw": null,
+          "action": "968TAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "968TAA",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 3,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [],
+          "action": "KXX",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "66A",
+            "represented_action": "66A",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "X",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 661,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 3,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [],
+            "action": "KXX",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-003",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 4 | さしみ vs 3TK | start=spreadsheet\nさしみ:(QQQ3JA3Q927)\n3TK:(KT7T38XJ7J2)\nさしみ:D(2)Q3Q3Q7Q9A22J#",
+      "initial_hands": {
+        "さしみ": "QQQ3JA3Q927",
+        "3TK": "KT7T38XJ7J2"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(2)Q3Q3Q7Q9A22J#",
+          "revolution": false,
+          "draw": "2",
+          "action": "Q3Q3Q7Q9A22J",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q3Q3Q7Q9A22J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q3Q3Q7Q9A22J",
+          "represented_action": "Q3Q3Q7Q9A22J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 12312312712912211,
+          "digit_count": 17,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q3Q3Q7Q9A22J",
+            "represented_action": "Q3Q3Q7Q9A22J",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 12312312712912211,
+            "digit_count": 17,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-004",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 5 | 3TK vs さしみ | start=spreadsheet\n3TK:(5JA3T2QQ9QK)\nさしみ:(73947968452)\n3TK:KTQQQJ\nさしみ:D(5)%\n3TK:9523A#",
+      "initial_hands": {
+        "3TK": "5JA3T2QQ9QK",
+        "さしみ": "73947968452"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "KTQQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KTQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "9523A#",
+          "revolution": false,
+          "draw": null,
+          "action": "9523A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9523A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KTQQQJ",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131012121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KTQQQJ",
+            "represented_action": "KTQQQJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131012121211,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "",
+          "face_count": 0,
+          "next_draw": "5",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-005",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 6 | さしみ vs 3TK | start=spreadsheet\nさしみ:(Q3TQJA6456J)\n3TK:(8X93A3X27Q6)\nさしみ:5JJTQQ63\n3TK:D(8)%\nさしみ:64A#",
+      "initial_hands": {
+        "さしみ": "Q3TQJA6456J",
+        "3TK": "8X93A3X27Q6"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "5JJTQQ63",
+          "revolution": false,
+          "draw": null,
+          "action": "5JJTQQ63",
+          "action_kind": "prime-or-special",
+          "represented_action": "5JJTQQ63",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "64A#",
+          "revolution": false,
+          "draw": null,
+          "action": "64A",
+          "action_kind": "prime-or-special",
+          "represented_action": "64A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "5JJTQQ63",
+          "represented_action": "5JJTQQ63",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 5111110121263,
+          "digit_count": 13,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "5JJTQQ63",
+            "represented_action": "5JJTQQ63",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5111110121263,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "3TK",
+          "face_cards": "XXQ",
+          "face_count": 3,
+          "next_draw": "8",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-006",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 7 | 3TK vs さしみ | start=spreadsheet\n3TK:(Q2642588633)\nさしみ:(25JJQ5469K3)\n3TK:D(K)268268453Q3K,P(4Q773X89ATK6)\nさしみ:D(X)J2J35K5Q946X|X=A,P(ATJTKA2977QJ)\n3TK:D(4)57[GC]\n3TK:D(T)QQ2334466678889,P(A58957)\nさしみ:225347\n3TK:6TQA29\nさしみ:69QTTJ\n3TK:8QTXKK|X=Q\nさしみ:KKQJJJ\n3TK:%\nさしみ:57[GC]\nさしみ:AXA9|X=0#",
+      "initial_hands": {
+        "3TK": "Q2642588633",
+        "さしみ": "25JJQ5469K3"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(K)268268453Q3K,P(4Q773X89ATK6)",
+          "revolution": false,
+          "draw": "K",
+          "action": "268268453Q3K",
+          "action_kind": "prime-or-special",
+          "represented_action": "268268453Q3K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4Q773X89ATK6",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)J2J35K5Q946X|X=A,P(ATJTKA2977QJ)",
+          "revolution": false,
+          "draw": "X",
+          "action": "J2J35K5Q946X",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2J35K5Q946A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "ATJTKA2977QJ",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(T)QQ2334466678889,P(A58957)",
+          "revolution": false,
+          "draw": "T",
+          "action": "QQ2334466678889",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQ2334466678889",
+          "play_count": 15,
+          "consumed_count": 15,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A58957",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "225347",
+          "revolution": false,
+          "draw": null,
+          "action": "225347",
+          "action_kind": "prime-or-special",
+          "represented_action": "225347",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "6TQA29",
+          "revolution": false,
+          "draw": null,
+          "action": "6TQA29",
+          "action_kind": "prime-or-special",
+          "represented_action": "6TQA29",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "69QTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "69QTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "69QTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "8QTXKK|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "8QTXKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTQKK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKQJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQJJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "AXA9|X=0#",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA9",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "268268453Q3K",
+          "represented_action": "268268453Q3K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "4Q773X89ATK6",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 26826845312313,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 4,
+          "player": "3TK",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "QQ2334466678889",
+          "represented_action": "QQ2334466678889",
+          "play_count": 15,
+          "consumed_count": 15,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "T",
+          "penalty": "A58957",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 12122334466678889,
+          "digit_count": 17,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 8,
+          "player": "3TK",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "8QTXKK",
+          "represented_action": "8QTQKK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81210121313,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "268268453Q3K",
+            "represented_action": "268268453Q3K",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "4Q773X89ATK6",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 26826845312313,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-007",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 8 | さしみ vs 3TK | start=spreadsheet\nさしみ:(A5494456J92)\n3TK:(K6T9A85QJ76)\nさしみ:D(2)J9A244554629#",
+      "initial_hands": {
+        "さしみ": "A5494456J92",
+        "3TK": "K6T9A85QJ76"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(2)J9A244554629#",
+          "revolution": false,
+          "draw": "2",
+          "action": "J9A244554629",
+          "action_kind": "prime-or-special",
+          "represented_action": "J9A244554629",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "J9A244554629",
+          "represented_action": "J9A244554629",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 1191244554629,
+          "digit_count": 13,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "J9A244554629",
+            "represented_action": "J9A244554629",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 1191244554629,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-008",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 9 | 3TK vs さしみ | start=spreadsheet\n3TK:(X346AQJA6AQ)\nさしみ:(Q786K23JA68)\n3TK:QQ366XAA4A|X=9\nさしみ:D(4)J8Q6K82347,P(7992TK573X)\n3TK:J#",
+      "initial_hands": {
+        "3TK": "X346AQJA6AQ",
+        "さしみ": "Q786K23JA68"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "QQ366XAA4A|X=9",
+          "revolution": false,
+          "draw": null,
+          "action": "QQ366XAA4A",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQ3669AA4A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)J8Q6K82347,P(7992TK573X)",
+          "revolution": false,
+          "draw": "4",
+          "action": "J8Q6K82347",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8Q6K82347",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7992TK573X",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "J#",
+          "revolution": false,
+          "draw": null,
+          "action": "J",
+          "action_kind": "prime-or-special",
+          "represented_action": "J",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が10枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "QQ366XAA4A",
+          "represented_action": "QQ3669AA4A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121236691141,
+          "digit_count": 12,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "QQ366XAA4A",
+            "represented_action": "QQ3669AA4A",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 121236691141,
+            "digit_count": 12,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-009",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 10 | さしみ vs 3TK | start=spreadsheet\nさしみ:(82356TQ9QT5)\n3TK:(5T6A4J733QK)\nさしみ:D(A)85QQTTA3\n3TK:D(A)%\nさしみ:6529#",
+      "initial_hands": {
+        "さしみ": "82356TQ9QT5",
+        "3TK": "5T6A4J733QK"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(A)85QQTTA3",
+          "revolution": false,
+          "draw": "A",
+          "action": "85QQTTA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "85QQTTA3",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "6529#",
+          "revolution": false,
+          "draw": null,
+          "action": "6529",
+          "action_kind": "prime-or-special",
+          "represented_action": "6529",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-010",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 11 | 3TK vs さしみ | start=spreadsheet\n3TK:(65A8X27T9Q8)\nさしみ:(J2T8QAXJ2J6)\n3TK:57[GC]\n3TK:8T6QX289A|X=Q#",
+      "initial_hands": {
+        "3TK": "65A8X27T9Q8",
+        "さしみ": "J2T8QAXJ2J6"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "8T6QX289A|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "8T6QX289A",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T6QQ289A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 2,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "8T6QX289A",
+          "represented_action": "8T6QQ289A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 810612122891,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 2,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "8T6QX289A",
+            "represented_action": "8T6QQ289A",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 810612122891,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-011",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 12 | さしみ vs 3TK | start=spreadsheet\nさしみ:(T967Q8A864A)\n3TK:(2343295K2QK)\nさしみ:D(7)T6786789QA4A,P(T74AJ8KJ5K67)\n3TK:D(J)K2K23423Q5J9#",
+      "initial_hands": {
+        "さしみ": "T967Q8A864A",
+        "3TK": "2343295K2QK"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(7)T6786789QA4A,P(T74AJ8KJ5K67)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T6786789QA4A",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6786789QA4A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T74AJ8KJ5K67",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(J)K2K23423Q5J9#",
+          "revolution": false,
+          "draw": "J",
+          "action": "K2K23423Q5J9",
+          "action_kind": "prime-or-special",
+          "represented_action": "K2K23423Q5J9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "3TK",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T6786789QA4A",
+          "represented_action": "T6786789QA4A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "T74AJ8KJ5K67",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10678678912141,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "3TK",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "3TK",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T6786789QA4A",
+            "represented_action": "T6786789QA4A",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "T74AJ8KJ5K67",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10678678912141,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-012",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 13 | 3TK vs さしみ | start=spreadsheet\n3TK:(KAJTK7J2J57)\nさしみ:(3X2TQA92523)\n3TK:2KKTJJJ\nさしみ:D(K)%\n3TK:57[GC]\n3TK:A7#",
+      "initial_hands": {
+        "3TK": "KAJTK7J2J57",
+        "さしみ": "3X2TQA92523"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "2KKTJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "2KKTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "2KKTJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "A7#",
+          "revolution": false,
+          "draw": null,
+          "action": "A7",
+          "action_kind": "prime-or-special",
+          "represented_action": "A7",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "2KKTJJJ",
+          "represented_action": "2KKTJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2131310111111,
+          "digit_count": 13,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "2KKTJJJ",
+            "represented_action": "2KKTJJJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 2131310111111,
+            "digit_count": 13,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "XTQK",
+          "face_count": 4,
+          "next_draw": "K",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-013",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 14 | さしみ vs 3TK | start=spreadsheet\nさしみ:(6T2J7AJ44AX)\n3TK:(T565K5AA382)\nさしみ:D(9)JJXA244679TA|X=2,P(9429KT48Q7K7)\n3TK:D(Q)A25Q5568ATK3,P(5Q3K8T32X6JJ)\nさしみ:D(3)X7|X=5[GC]\nさしみ:D(7)A44744779239,P(896QX7)\n3TK:X[IN]\n3TK:D(X)X[IN]\n3TK:D(X)88553,P()\nさしみ:X[IN]\nさしみ:D(X)X[IN]\nさしみ:D(X)449\n3TK:TQ5=5*5*5*3^2^2\nさしみ:D(5)KKJ\n3TK:%\nさしみ:D(5)57[GC]\nさしみ:D(5)98876654432QQTJTAA\n3TK:%\nさしみ:57[GC]\nさしみ:X7|X=5[GC]\nさしみ:929#",
+      "initial_hands": {
+        "さしみ": "6T2J7AJ44AX",
+        "3TK": "T565K5AA382"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(9)JJXA244679TA|X=2,P(9429KT48Q7K7)",
+          "revolution": false,
+          "draw": "9",
+          "action": "JJXA244679TA",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJ2A244679TA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": "9429KT48Q7K7",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(Q)A25Q5568ATK3,P(5Q3K8T32X6JJ)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "A25Q5568ATK3",
+          "action_kind": "prime-or-special",
+          "represented_action": "A25Q5568ATK3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5Q3K8T32X6JJ",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(3)X7|X=5[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)A44744779239,P(896QX7)",
+          "revolution": false,
+          "draw": "7",
+          "action": "A44744779239",
+          "action_kind": "prime-or-special",
+          "represented_action": "A44744779239",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "896QX7",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(X)X[IN]",
+          "revolution": false,
+          "draw": "X",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(X)88553,P()",
+          "revolution": false,
+          "draw": "X",
+          "action": "88553",
+          "action_kind": "prime-or-special",
+          "represented_action": "88553",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)X[IN]",
+          "revolution": false,
+          "draw": "X",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)449",
+          "revolution": false,
+          "draw": "X",
+          "action": "449",
+          "action_kind": "prime-or-special",
+          "represented_action": "449",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "TQ5=5*5*5*3^2^2",
+          "revolution": false,
+          "draw": null,
+          "action": "TQ5=5*5*5*3^2^2",
+          "action_kind": "composite",
+          "represented_action": "TQ5",
+          "play_count": 3,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)KKJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)98876654432QQTJTAA",
+          "revolution": false,
+          "draw": "5",
+          "action": "98876654432QQTJTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "98876654432QQTJTAA",
+          "play_count": 18,
+          "consumed_count": 18,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "929#",
+          "revolution": false,
+          "draw": null,
+          "action": "929",
+          "action_kind": "prime-or-special",
+          "represented_action": "929",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JJXA244679TA",
+          "represented_action": "JJ2A244679TA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "9429KT48Q7K7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111121244679101,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 4,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "A44744779239",
+          "represented_action": "A44744779239",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "7",
+          "penalty": "896QX7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 144744779239,
+          "digit_count": 12,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 12,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 27,
+          "hand_after_draw": 28,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 15,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "98876654432QQTJTAA",
+          "represented_action": "98876654432QQTJTAA",
+          "play_count": 18,
+          "consumed_count": 18,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 98876654432121210111011,
+          "digit_count": 23,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JJXA244679TA",
+            "represented_action": "JJ2A244679TA",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "9429KT48Q7K7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 111121244679101,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-014",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "3TK",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 15 | 3TK vs さしみ | start=spreadsheet\n3TK:(T83XT6J25X9)\nさしみ:(Q64KTQ3927T)\n3TK:5\nさしみ:D(Q)K\n3TK:X[IN]\n3TK:8T6T3JX29|X=5#",
+      "initial_hands": {
+        "3TK": "T83XT6J25X9",
+        "さしみ": "Q64KTQ3927T"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "5",
+          "revolution": false,
+          "draw": null,
+          "action": "5",
+          "action_kind": "prime-or-special",
+          "represented_action": "5",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)K",
+          "revolution": false,
+          "draw": "Q",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "8T6T3JX29|X=5#",
+          "revolution": false,
+          "draw": null,
+          "action": "8T6T3JX29",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T6T3J529",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 4,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "8T6T3JX29",
+          "represented_action": "8T6T3J529",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 810610311529,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 4,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [],
+            "action": "8T6T3JX29",
+            "represented_action": "8T6T3J529",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 810610311529,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-015",
+      "players": [
+        "3TK",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "さしみ",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第26試合 251109金剛戦数譜.docx | game 16 | さしみ vs 3TK | start=spreadsheet\nさしみ:(77J4JXQ74A2)\n3TK:(J38K34593K2)\nさしみ:D(6)A2446777JJQX|X=K,P(7AT52XQ4QT6Q)\n3TK:D(9)K9K9243J3853,P(KA98J89T3A62)\nさしみ:D(K)57[GC]\nさしみ:D(5)57[GC]\nさしみ:D(8)84227,P(6T557)\n3TK:D(5)365834899\nさしみ:D(7)454562627\n3TK:85229A3JJ\nさしみ:864TQQTAA\n3TK:%\nさしみ:KJQJ\n3TK:D(3)KKKT=A3*39,P(65834899)\nさしみ:X7|X=5[GC]\nさしみ:X7|X=5[GC]\nさしみ:QT7#",
+      "initial_hands": {
+        "さしみ": "77J4JXQ74A2",
+        "3TK": "J38K34593K2"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(6)A2446777JJQX|X=K,P(7AT52XQ4QT6Q)",
+          "revolution": false,
+          "draw": "6",
+          "action": "A2446777JJQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2446777JJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "7AT52XQ4QT6Q",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(9)K9K9243J3853,P(KA98J89T3A62)",
+          "revolution": false,
+          "draw": "9",
+          "action": "K9K9243J3853",
+          "action_kind": "prime-or-special",
+          "represented_action": "K9K9243J3853",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KA98J89T3A62",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)57[GC]",
+          "revolution": false,
+          "draw": "K",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)84227,P(6T557)",
+          "revolution": false,
+          "draw": "8",
+          "action": "84227",
+          "action_kind": "prime-or-special",
+          "represented_action": "84227",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6T557",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(5)365834899",
+          "revolution": false,
+          "draw": "5",
+          "action": "365834899",
+          "action_kind": "prime-or-special",
+          "represented_action": "365834899",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)454562627",
+          "revolution": false,
+          "draw": "7",
+          "action": "454562627",
+          "action_kind": "prime-or-special",
+          "represented_action": "454562627",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "85229A3JJ",
+          "revolution": false,
+          "draw": null,
+          "action": "85229A3JJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "85229A3JJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "864TQQTAA",
+          "revolution": false,
+          "draw": null,
+          "action": "864TQQTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TQQTAA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(3)KKKT=A3*39,P(65834899)",
+          "revolution": false,
+          "draw": "3",
+          "action": "KKKT=A3*39",
+          "action_kind": "composite",
+          "represented_action": "KKKT",
+          "play_count": 4,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "65834899",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "QT7#",
+          "revolution": false,
+          "draw": null,
+          "action": "QT7",
+          "action_kind": "prime-or-special",
+          "represented_action": "QT7",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A2446777JJQX",
+          "represented_action": "A2446777JJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "7AT52XQ4QT6Q",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1244677711111213,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 7,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "454562627",
+          "represented_action": "454562627",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 28,
+          "hand_after_draw": 29,
+          "draw": "7",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 454562627,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 9,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "864TQQTAA",
+          "represented_action": "864TQQTAA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 20,
+          "hand_after_draw": 20,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 8641012121011,
+          "digit_count": 13,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 11,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第26試合 251109金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A2446777JJQX",
+            "represented_action": "A2446777JJQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "7AT52XQ4QT6Q",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1244677711111213,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第26試合-251109金剛戦数譜-docx-016",
+      "players": [
+        "さしみ",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-026",
+      "match_no": 26,
+      "match_label": "第26試合",
+      "match_players": [
+        "3TK",
+        "さしみ"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

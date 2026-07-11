@@ -1,0 +1,4106 @@
+{
+  "match_id": "金剛戦-第1期-match-001",
+  "tournament": "金剛戦",
+  "season": "第1期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 1,
+  "match_label": "第1試合",
+  "players": [
+    "nishimura",
+    "はち"
+  ],
+  "games": [
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 1 | はち vs nishimura | start=marker\nはち:(QT338647JA9)\nnishimura:(T77TJK4X3KA)\nはち:D(Q)987463\nnishimura:XKKTTJ|X=K\nはち:%\nnishimura:747A3#",
+      "initial_hands": {
+        "はち": "QT338647JA9",
+        "nishimura": "T77TJK4X3KA"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(Q)987463",
+          "revolution": false,
+          "draw": "Q",
+          "action": "987463",
+          "action_kind": "prime-or-special",
+          "represented_action": "987463",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "XKKTTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XKKTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "747A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "747A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "747A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241022金剛戦数譜-docx-001",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 2 | nishimura vs はち | start=marker\nnishimura:(9283AJ95TT7)\nはち:(52Q4A8Q36K6)\nnishimura:D(2)5923\nはち:D(8)4QQK=3^5^6^6^8^8^2A,P(KTKQ7K46X4A5)\nnishimura:987A2TTJ#",
+      "initial_hands": {
+        "nishimura": "9283AJ95TT7",
+        "はち": "52Q4A8Q36K6"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(2)5923",
+          "revolution": false,
+          "draw": "2",
+          "action": "5923",
+          "action_kind": "prime-or-special",
+          "represented_action": "5923",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)4QQK=3^5^6^6^8^8^2A,P(KTKQ7K46X4A5)",
+          "revolution": false,
+          "draw": "8",
+          "action": "4QQK=3^5^6^6^8^8^2A",
+          "action_kind": "composite",
+          "represented_action": "4QQK",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KTKQ7K46X4A5",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "987A2TTJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "987A2TTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "987A2TTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "小さい先手から大きい残りで上がるブラフ候補",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": "bluff-candidate",
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "5923",
+            "represented_action": "5923",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5923,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 3,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [],
+            "action": "987A2TTJ",
+            "represented_action": "987A2TTJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 98712101011,
+            "digit_count": 11,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-002",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 3 | はち vs nishimura | start=marker\nはち:(TQJX6T5K3A3)\nnishimura:(45573538QK6)\nはち:A3QJXTTK|X=J\nnishimura:D(8)%\nはち:653#",
+      "initial_hands": {
+        "はち": "TQJX6T5K3A3",
+        "nishimura": "45573538QK6"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "A3QJXTTK|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "A3QJXTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3QJJTTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "653#",
+          "revolution": false,
+          "draw": null,
+          "action": "653",
+          "action_kind": "prime-or-special",
+          "represented_action": "653",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "A3QJXTTK",
+          "represented_action": "A3QJJTTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13121111101013,
+          "digit_count": 14,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "A3QJXTTK",
+            "represented_action": "A3QJJTTK",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13121111101013,
+            "digit_count": 14,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "nishimura",
+          "face_cards": "QK",
+          "face_count": 2,
+          "next_draw": "8",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241022金剛戦数譜-docx-003",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 4 | nishimura vs はち | start=marker\nnishimura:(42646X497K3)\nはち:(9QA9KA5T3JT)\nnishimura:D(7)KX2344466779|X=0,P(J4QT27K275TK)\nはち:D(3)A3A3KTQTJ,P(AQ9J8JX8Q)\nnishimura:D(8)44449\nはち:D(8)XKQQQ=J^AAA335888999TTJJ|X=K,P(52365A6)\nnishimura:D(4)2223467\nはち:D(4)KQQQJJJ,P(449)\nnishimura:XKKKQTJ|X=K\nはち:D(2)%\nnishimura:57[GC]\nnishimura:T6787#",
+      "initial_hands": {
+        "nishimura": "42646X497K3",
+        "はち": "9QA9KA5T3JT"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(7)KX2344466779|X=0,P(J4QT27K275TK)",
+          "revolution": false,
+          "draw": "7",
+          "action": "KX2344466779",
+          "action_kind": "prime-or-special",
+          "represented_action": "K02344466779",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "J4QT27K275TK",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(3)A3A3KTQTJ,P(AQ9J8JX8Q)",
+          "revolution": false,
+          "draw": "3",
+          "action": "A3A3KTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3A3KTQTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "AQ9J8JX8Q",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)44449",
+          "revolution": false,
+          "draw": "8",
+          "action": "44449",
+          "action_kind": "prime-or-special",
+          "represented_action": "44449",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)XKQQQ=J^AAA335888999TTJJ|X=K,P(52365A6)",
+          "revolution": false,
+          "draw": "8",
+          "action": "XKQQQ=J^AAA335888999TTJJ",
+          "action_kind": "composite",
+          "represented_action": "KKQQQ",
+          "play_count": 5,
+          "consumed_count": 22,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "52365A6",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)2223467",
+          "revolution": false,
+          "draw": "4",
+          "action": "2223467",
+          "action_kind": "prime-or-special",
+          "represented_action": "2223467",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(4)KQQQJJJ,P(449)",
+          "revolution": false,
+          "draw": "4",
+          "action": "KQQQJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQQQJJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "449",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "XKKKQTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "XKKKQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKKQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "T6787#",
+          "revolution": false,
+          "draw": null,
+          "action": "T6787",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6787",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KX2344466779",
+          "represented_action": "K02344466779",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "J4QT27K275TK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1302344466779,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 7,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "XKKKQTJ",
+          "represented_action": "KKKKQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 14,
+          "hand_after_draw": 14,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131313121011,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KX2344466779",
+            "represented_action": "K02344466779",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "J4QT27K275TK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1302344466779,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-004",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 5 | はち vs nishimura | start=marker\nはち:(X9Q3277T82Q)\nnishimura:(48A3Q4687A5)\nはち:D(6)226TQ37789QX|X=A,P(AJ5JJ7TKTXKK)\nnishimura:D(5)AAQ344556887#",
+      "initial_hands": {
+        "はち": "X9Q3277T82Q",
+        "nishimura": "48A3Q4687A5"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(6)226TQ37789QX|X=A,P(AJ5JJ7TKTXKK)",
+          "revolution": false,
+          "draw": "6",
+          "action": "226TQ37789QX",
+          "action_kind": "prime-or-special",
+          "represented_action": "226TQ37789QA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "AJ5JJ7TKTXKK",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(5)AAQ344556887#",
+          "revolution": false,
+          "draw": "5",
+          "action": "AAQ344556887",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAQ344556887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "226TQ37789QX",
+          "represented_action": "226TQ37789QA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "AJ5JJ7TKTXKK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 226101237789121,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "226TQ37789QX",
+            "represented_action": "226TQ37789QA",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "AJ5JJ7TKTXKK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 226101237789121,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-005",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 6 | nishimura vs はち | start=marker\nnishimura:(96X43JT6X8Q)\nはち:(92557QA83K3)\nnishimura:D(9)996643,P(A2TQ56)\nはち:D(K)AQ23355789KK,P(3QA7KT446872)\nnishimura:D(T)AXXTTTJQQ2345666899|X=0|X=0,P(5A489KJ7JJ2)\nはち:A729[RR]\nnishimura:A669\nはち:%\nnishimura:D(A)985TJ\nはち:A2347\nnishimura:A2289\nはち:%\nnishimura:A35467\nはち:%\nnishimura:J\nはち:3\nnishimura:X[IN]\nnishimura:K\nはち:D(7)3=7^4556788TQQKKK,P(29A669985TJA234)\nnishimura:X[IN]\nnishimura:4QQTTJJ#",
+      "initial_hands": {
+        "nishimura": "96X43JT6X8Q",
+        "はち": "92557QA83K3"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(9)996643,P(A2TQ56)",
+          "revolution": false,
+          "draw": "9",
+          "action": "996643",
+          "action_kind": "prime-or-special",
+          "represented_action": "996643",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A2TQ56",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(K)AQ23355789KK,P(3QA7KT446872)",
+          "revolution": false,
+          "draw": "K",
+          "action": "AQ23355789KK",
+          "action_kind": "prime-or-special",
+          "represented_action": "AQ23355789KK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3QA7KT446872",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(T)AXXTTTJQQ2345666899|X=0|X=0,P(5A489KJ7JJ2)",
+          "revolution": false,
+          "draw": "T",
+          "action": "AXXTTTJQQ2345666899",
+          "action_kind": "prime-or-special",
+          "represented_action": "A00TTTJQQ2345666899",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [
+            "0",
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "5A489KJ7JJ2",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A669",
+          "revolution": false,
+          "draw": null,
+          "action": "A669",
+          "action_kind": "prime-or-special",
+          "represented_action": "A669",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(A)985TJ",
+          "revolution": false,
+          "draw": "A",
+          "action": "985TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "985TJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "A2347",
+          "revolution": false,
+          "draw": null,
+          "action": "A2347",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2347",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A2289",
+          "revolution": false,
+          "draw": null,
+          "action": "A2289",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2289",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A35467",
+          "revolution": false,
+          "draw": null,
+          "action": "A35467",
+          "action_kind": "prime-or-special",
+          "represented_action": "A35467",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "J",
+          "revolution": false,
+          "draw": null,
+          "action": "J",
+          "action_kind": "prime-or-special",
+          "represented_action": "J",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "3",
+          "revolution": false,
+          "draw": null,
+          "action": "3",
+          "action_kind": "prime-or-special",
+          "represented_action": "3",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(7)3=7^4556788TQQKKK,P(29A669985TJA234)",
+          "revolution": false,
+          "draw": "7",
+          "action": "3=7^4556788TQQKKK",
+          "action_kind": "composite",
+          "represented_action": "3",
+          "play_count": 1,
+          "consumed_count": 15,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "29A669985TJA234",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "4QQTTJJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "4QQTTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "4QQTTJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "AXXTTTJQQ2345666899",
+          "represented_action": "A00TTTJQQ2345666899",
+          "play_count": 19,
+          "consumed_count": 19,
+          "hand_before": 18,
+          "hand_after_draw": 19,
+          "draw": "T",
+          "penalty": "5A489KJ7JJ2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1001010101112122345666899,
+          "digit_count": 25,
+          "digit_gain": 6
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 19,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "4QQTTJJ",
+          "represented_action": "4QQTTJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 4121210101111,
+          "digit_count": 13,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "996643",
+            "represented_action": "996643",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "A2TQ56",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 996643,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-006",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 7 | はち vs nishimura | start=marker\nはち:(35697J3T3TQ)\nnishimura:(558JAAA2397)\nはち:D(2)23335679TTQJ,P(898QK75TXT62)\nnishimura:D(4)JAAA23455789,P(4K6Q8JJ4A47K)\nはち:D(Q)987523\nnishimura:KKQJ44,P(6K92X)\nはち:57[GC]\nはち:KXQQQTTTTJ|X=K,P(98752357)\nnishimura:84449\nはち:TQTTJ\nnishimura:KKQKJ\nはち:%\nnishimura:A729[RR]\nはち:D(8)X256|X=A,P(4449)\nnishimura:52A\nはち:X25=5^3|X=A\nnishimura:AXA|X=0\nはち:%\nnishimura:8674356JJ#",
+      "initial_hands": {
+        "はち": "35697J3T3TQ",
+        "nishimura": "558JAAA2397"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(2)23335679TTQJ,P(898QK75TXT62)",
+          "revolution": false,
+          "draw": "2",
+          "action": "23335679TTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "23335679TTQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "898QK75TXT62",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)JAAA23455789,P(4K6Q8JJ4A47K)",
+          "revolution": false,
+          "draw": "4",
+          "action": "JAAA23455789",
+          "action_kind": "prime-or-special",
+          "represented_action": "JAAA23455789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4K6Q8JJ4A47K",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)987523",
+          "revolution": false,
+          "draw": "Q",
+          "action": "987523",
+          "action_kind": "prime-or-special",
+          "represented_action": "987523",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKQJ44,P(6K92X)",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQJ44",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQJ44",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6K92X",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KXQQQTTTTJ|X=K,P(98752357)",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQQQTTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQQTTTTJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "98752357",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "84449",
+          "revolution": false,
+          "draw": null,
+          "action": "84449",
+          "action_kind": "prime-or-special",
+          "represented_action": "84449",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "TQTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "TQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKQKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)X256|X=A,P(4449)",
+          "revolution": false,
+          "draw": "8",
+          "action": "X256",
+          "action_kind": "prime-or-special",
+          "represented_action": "A256",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "4449",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "52A",
+          "revolution": false,
+          "draw": null,
+          "action": "52A",
+          "action_kind": "prime-or-special",
+          "represented_action": "52A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "X25=5^3|X=A",
+          "revolution": false,
+          "draw": null,
+          "action": "X25=5^3",
+          "action_kind": "composite",
+          "represented_action": "A25",
+          "play_count": 3,
+          "consumed_count": 5,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "AXA|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "8674356JJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "8674356JJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8674356JJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "23335679TTQJ",
+          "represented_action": "23335679TTQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "898QK75TXT62",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2333567910101211,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 6,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "KXQQQTTTTJ",
+          "represented_action": "KKQQQTTTTJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 17,
+          "hand_after_draw": 17,
+          "draw": null,
+          "penalty": "98752357",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131212121010101011,
+          "digit_count": 20,
+          "digit_gain": 10
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 8,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "TQTTJ",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 25,
+          "hand_after_draw": 25,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012101011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "23335679TTQJ",
+            "represented_action": "23335679TTQJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "898QK75TXT62",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 2333567910101211,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-007",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 8 | nishimura vs はち | start=marker\nnishimura:(7Q8AQJ5K24A)\nはち:(26T4JJ439T4)\nnishimura:D(8)57[GC]\nnishimura:84A2A\nはち:D(7)7JTTJ,P(TA563)\nnishimura:8QQKJ#",
+      "initial_hands": {
+        "nishimura": "7Q8AQJ5K24A",
+        "はち": "26T4JJ439T4"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "84A2A",
+          "revolution": false,
+          "draw": null,
+          "action": "84A2A",
+          "action_kind": "prime-or-special",
+          "represented_action": "84A2A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(7)7JTTJ,P(TA563)",
+          "revolution": false,
+          "draw": "7",
+          "action": "7JTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7JTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TA563",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "8QQKJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "8QQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241022金剛戦数譜-docx-008",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 9 | はち vs nishimura | start=marker\nはち:(663A9XK465Q)\nnishimura:(TJXJJ74K82Q)\nはち:D(5)K6Q5636A549X|X=A,P(JK5946TT3357)\nnishimura:D(A)TXAJJJQK2487|X=0,P(Q78Q247A3A89)\nはち:D(T)57[GC]\nはち:D(2)A23456,P(8K9257)\nnishimura:A729[RR]\nはち:%\nnishimura:D(A)KTQQQJ\nはち:D(7)AX2643|X=0\nnishimura:D(2)AXA287|X=0\nはち:%\nnishimura:J4J\nはち:233=K^Q^K45555666778999TTTJK,P(9KTQQQJAX2643AXA287)\nnishimura:D(J)J8A28347,P(4J)\nはち:A729[RR]\nnishimura:8J4J\nはち:5TQJ\nnishimura:%\nはち:454562623\nnishimura:D(A)%\nはち:976853\nnishimura:D(7)%\nはち:98763A\nnishimura:D(2)%\nはち:TQTTJ\nnishimura:D(9)%\nはち:KKKQQX|X=J\nnishimura:D(8)%\nはち:9A=X*K|X=7#",
+      "initial_hands": {
+        "はち": "663A9XK465Q",
+        "nishimura": "TJXJJ74K82Q"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(5)K6Q5636A549X|X=A,P(JK5946TT3357)",
+          "revolution": false,
+          "draw": "5",
+          "action": "K6Q5636A549X",
+          "action_kind": "prime-or-special",
+          "represented_action": "K6Q5636A549A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "JK5946TT3357",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(A)TXAJJJQK2487|X=0,P(Q78Q247A3A89)",
+          "revolution": false,
+          "draw": "A",
+          "action": "TXAJJJQK2487",
+          "action_kind": "prime-or-special",
+          "represented_action": "T0AJJJQK2487",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "Q78Q247A3A89",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(T)57[GC]",
+          "revolution": false,
+          "draw": "T",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(2)A23456,P(8K9257)",
+          "revolution": false,
+          "draw": "2",
+          "action": "A23456",
+          "action_kind": "prime-or-special",
+          "represented_action": "A23456",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8K9257",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(A)KTQQQJ",
+          "revolution": false,
+          "draw": "A",
+          "action": "KTQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(7)AX2643|X=0",
+          "revolution": false,
+          "draw": "7",
+          "action": "AX2643",
+          "action_kind": "prime-or-special",
+          "represented_action": "A02643",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)AXA287|X=0",
+          "revolution": false,
+          "draw": "2",
+          "action": "AXA287",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A287",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "J4J",
+          "revolution": false,
+          "draw": null,
+          "action": "J4J",
+          "action_kind": "prime-or-special",
+          "represented_action": "J4J",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "233=K^Q^K45555666778999TTTJK,P(9KTQQQJAX2643AXA287)",
+          "revolution": false,
+          "draw": null,
+          "action": "233=K^Q^K45555666778999TTTJK",
+          "action_kind": "composite",
+          "represented_action": "233",
+          "play_count": 3,
+          "consumed_count": 25,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9KTQQQJAX2643AXA287",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(J)J8A28347,P(4J)",
+          "revolution": false,
+          "draw": "J",
+          "action": "J8A28347",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8A28347",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4J",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "8J4J",
+          "revolution": false,
+          "draw": null,
+          "action": "8J4J",
+          "action_kind": "prime-or-special",
+          "represented_action": "8J4J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "5TQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "5TQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "5TQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "454562623",
+          "revolution": false,
+          "draw": null,
+          "action": "454562623",
+          "action_kind": "prime-or-special",
+          "represented_action": "454562623",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "976853",
+          "revolution": false,
+          "draw": null,
+          "action": "976853",
+          "action_kind": "prime-or-special",
+          "represented_action": "976853",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "98763A",
+          "revolution": false,
+          "draw": null,
+          "action": "98763A",
+          "action_kind": "prime-or-special",
+          "represented_action": "98763A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "TQTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "TQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKKQQX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "9A=X*K|X=7#",
+          "revolution": false,
+          "draw": null,
+          "action": "9A=X*K",
+          "action_kind": "composite",
+          "represented_action": "9A",
+          "play_count": 2,
+          "consumed_count": 4,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "K6Q5636A549X",
+          "represented_action": "K6Q5636A549A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "JK5946TT3357",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13612563615491,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 18,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "454562623",
+          "represented_action": "454562623",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 36,
+          "hand_after_draw": 36,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 454562623,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 24,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "TQTTJ",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 15,
+          "hand_after_draw": 15,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012101011,
+          "digit_count": 10,
+          "digit_gain": 5
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 26,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQX",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "K6Q5636A549X",
+            "represented_action": "K6Q5636A549A",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "JK5946TT3357",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13612563615491,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-009",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 10 | nishimura vs はち | start=marker\nnishimura:(J832KT9T3A4)\nはち:(726259QAT54)\nnishimura:D(6)A23463,P(TJ3X7K)\nはち:D(5)225QT5547A69,P(QA3869J58JAK)\nnishimura:D(7)AXTTTJJKK2333467789|X=0,P(7KQ9Q84X642)\nはち:AAA223455556678899TJJQQK,P()\nnishimura:98764423\nはち:A3KQQA2J\nnishimura:97KTKQTJ\nはち:%\nnishimura:876432A\nはち:99887TJ,P(9876442)\nnishimura:KX3XQTJ|X=A|X=Q#",
+      "initial_hands": {
+        "nishimura": "J832KT9T3A4",
+        "はち": "726259QAT54"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(6)A23463,P(TJ3X7K)",
+          "revolution": false,
+          "draw": "6",
+          "action": "A23463",
+          "action_kind": "prime-or-special",
+          "represented_action": "A23463",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TJ3X7K",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(5)225QT5547A69,P(QA3869J58JAK)",
+          "revolution": false,
+          "draw": "5",
+          "action": "225QT5547A69",
+          "action_kind": "prime-or-special",
+          "represented_action": "225QT5547A69",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QA3869J58JAK",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)AXTTTJJKK2333467789|X=0,P(7KQ9Q84X642)",
+          "revolution": false,
+          "draw": "7",
+          "action": "AXTTTJJKK2333467789",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0TTTJJKK2333467789",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "7KQ9Q84X642",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "AAA223455556678899TJJQQK,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "AAA223455556678899TJJQQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAA223455556678899TJJQQK",
+          "play_count": 24,
+          "consumed_count": 24,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "98764423",
+          "revolution": false,
+          "draw": null,
+          "action": "98764423",
+          "action_kind": "prime-or-special",
+          "represented_action": "98764423",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "A3KQQA2J",
+          "revolution": false,
+          "draw": null,
+          "action": "A3KQQA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3KQQA2J",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "97KTKQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "97KTKQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "97KTKQTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "876432A",
+          "revolution": false,
+          "draw": null,
+          "action": "876432A",
+          "action_kind": "prime-or-special",
+          "represented_action": "876432A",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "99887TJ,P(9876442)",
+          "revolution": false,
+          "draw": null,
+          "action": "99887TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "99887TJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9876442",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KX3XQTJ|X=A|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "KX3XQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KA3QQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "A",
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "AXTTTJJKK2333467789",
+          "represented_action": "A0TTTJJKK2333467789",
+          "play_count": 19,
+          "consumed_count": 19,
+          "hand_before": 18,
+          "hand_after_draw": 19,
+          "draw": "7",
+          "penalty": "7KQ9Q84X642",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10101010111113132333467789,
+          "digit_count": 26,
+          "digit_gain": 7
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 7,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "97KTKQTJ",
+          "represented_action": "97KTKQTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 22,
+          "hand_after_draw": 22,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 97131013121011,
+          "digit_count": 14,
+          "digit_gain": 6
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 11,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KX3XQTJ",
+          "represented_action": "KA3QQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 131312121011,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A23463",
+            "represented_action": "A23463",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "TJ3X7K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 123463,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-010",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 11 | はち vs nishimura | start=marker\nはち:(7T2J43252XJ)\nnishimura:(44Q54AJ98AA)\nはち:743\nnishimura:D(7)987=JQ*AA4A445,P(83KX387K7K2T)\nはち:2JT=2*5*2JX|X=A#",
+      "initial_hands": {
+        "はち": "7T2J43252XJ",
+        "nishimura": "44Q54AJ98AA"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "743",
+          "revolution": false,
+          "draw": null,
+          "action": "743",
+          "action_kind": "prime-or-special",
+          "represented_action": "743",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)987=JQ*AA4A445,P(83KX387K7K2T)",
+          "revolution": false,
+          "draw": "7",
+          "action": "987=JQ*AA4A445",
+          "action_kind": "composite",
+          "represented_action": "987",
+          "play_count": 3,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "83KX387K7K2T",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "2JT=2*5*2JX|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "2JT=2*5*2JX",
+          "action_kind": "composite",
+          "represented_action": "2JT",
+          "play_count": 3,
+          "consumed_count": 8,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241022金剛戦数譜-docx-011",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 12 | nishimura vs はち | start=marker\nnishimura:(964AAKTJ3TK)\nはち:(8AQQT36827X)\nnishimura:D(X)9J\nはち:D(J)XQ=2^3*6788TJQA|X=K,P(783J6A24KQ7T)\nnishimura:KK=TA*A3\nはち:D(6)%\nnishimura:46TX|X=J#",
+      "initial_hands": {
+        "nishimura": "964AAKTJ3TK",
+        "はち": "8AQQT36827X"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(X)9J",
+          "revolution": false,
+          "draw": "X",
+          "action": "9J",
+          "action_kind": "prime-or-special",
+          "represented_action": "9J",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(J)XQ=2^3*6788TJQA|X=K,P(783J6A24KQ7T)",
+          "revolution": false,
+          "draw": "J",
+          "action": "XQ=2^3*6788TJQA",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "783J6A24KQ7T",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KK=TA*A3",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=TA*A3",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "46TX|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "46TX",
+          "action_kind": "prime-or-special",
+          "represented_action": "46TJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "two-kk-factor",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKK合成数",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "two-kk-factor"
+          ],
+          "contexts": [],
+          "action": "KK=TA*A3",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "two-kk-factor",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "9J",
+            "represented_action": "9J",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "X",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 911,
+            "digit_count": 3,
+            "digit_gain": 1
+          },
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 3,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "two-kk-factor"
+            ],
+            "contexts": [],
+            "action": "KK=TA*A3",
+            "represented_action": "KK",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-012",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 13 | はち vs nishimura | start=marker\nはち:(Q3Q24893835)\nnishimura:(J2K987577JQ)\nはち:D(K)233345889QQK,P(36KT64726AAJ)\nnishimura:D(4)JJQK24577789,P(95TQ9XTJKTA4)\nはち:86643332KQA,P(AX6582)\nnishimura:57[GC]\nnishimura:D(5)57[GC]\nnishimura:D(7)984A27\nはち:KKXQQJ|X=K\nnishimura:%\nはち:A729[RR]\nnishimura:D(5)X455=TTTJ*79|X=A,P(7984A27KKX)\nはち:664663\nnishimura:D(Q)A24459\nはち:AA2243,P(QJA729)\nnishimura:D(6)X7X9|X=A|X=2[RR]\nはち:%\nnishimura:987KT6QJ\nはち:D(6)%\nnishimura:KKKQJTQJ\nはち:%\nnishimura:5T7#",
+      "initial_hands": {
+        "はち": "Q3Q24893835",
+        "nishimura": "J2K987577JQ"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(K)233345889QQK,P(36KT64726AAJ)",
+          "revolution": false,
+          "draw": "K",
+          "action": "233345889QQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "233345889QQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "36KT64726AAJ",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)JJQK24577789,P(95TQ9XTJKTA4)",
+          "revolution": false,
+          "draw": "4",
+          "action": "JJQK24577789",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJQK24577789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "95TQ9XTJKTA4",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "86643332KQA,P(AX6582)",
+          "revolution": false,
+          "draw": null,
+          "action": "86643332KQA",
+          "action_kind": "prime-or-special",
+          "represented_action": "86643332KQA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "AX6582",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)984A27",
+          "revolution": false,
+          "draw": "7",
+          "action": "984A27",
+          "action_kind": "prime-or-special",
+          "represented_action": "984A27",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKXQQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(5)X455=TTTJ*79|X=A,P(7984A27KKX)",
+          "revolution": false,
+          "draw": "5",
+          "action": "X455=TTTJ*79",
+          "action_kind": "composite",
+          "represented_action": "A455",
+          "play_count": 4,
+          "consumed_count": 10,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "7984A27KKX",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "664663",
+          "revolution": false,
+          "draw": null,
+          "action": "664663",
+          "action_kind": "prime-or-special",
+          "represented_action": "664663",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(Q)A24459",
+          "revolution": false,
+          "draw": "Q",
+          "action": "A24459",
+          "action_kind": "prime-or-special",
+          "represented_action": "A24459",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "AA2243,P(QJA729)",
+          "revolution": false,
+          "draw": null,
+          "action": "AA2243",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA2243",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QJA729",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)X7X9|X=A|X=2[RR]",
+          "revolution": false,
+          "draw": "6",
+          "action": "X7X9",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "A",
+            "2"
+          ],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "987KT6QJ",
+          "revolution": false,
+          "draw": null,
+          "action": "987KT6QJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "987KT6QJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKKQJTQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQJTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQJTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "5T7#",
+          "revolution": false,
+          "draw": null,
+          "action": "5T7",
+          "action_kind": "prime-or-special",
+          "represented_action": "5T7",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "233345889QQK",
+          "represented_action": "233345889QQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "36KT64726AAJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 233345889121213,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 3,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "86643332KQA",
+          "represented_action": "86643332KQA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": "AX6582",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 8664333213121,
+          "digit_count": 13,
+          "digit_gain": 2
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 7,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "233345889QQK",
+            "represented_action": "233345889QQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "36KT64726AAJ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 233345889121213,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-013",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 14 | nishimura vs はち | start=marker\nnishimura:(9QK8T9TT9A5)\nはち:(A67K439XA4K)\nnishimura:9T9TQTK\nはち:D(K)%\nnishimura:985A#",
+      "initial_hands": {
+        "nishimura": "9QK8T9TT9A5",
+        "はち": "A67K439XA4K"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "9T9TQTK",
+          "revolution": false,
+          "draw": null,
+          "action": "9T9TQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9T9TQTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "985A#",
+          "revolution": false,
+          "draw": null,
+          "action": "985A",
+          "action_kind": "prime-or-special",
+          "represented_action": "985A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "9T9TQTK",
+          "represented_action": "9T9TQTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 910910121013,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "9T9TQTK",
+            "represented_action": "9T9TQTK",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 910910121013,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "はち",
+          "face_cards": "KXKK",
+          "face_count": 4,
+          "next_draw": "K",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "241022金剛戦数譜-docx-014",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "はち",
+      "second_player": "nishimura",
+      "raw_block": "### 241022金剛戦数譜.docx | game 15 | はち vs nishimura | start=marker\nはち:(72A7TTQ44A6)\nnishimura:(JA8A484T239)\nはち:D(J)AA244677TTQJ,P(5KQ2K87KJ393)\nnishimura:D(2)TJA2A2344889,P(T67QKQ5J395X)\nはち:8742A3\nnishimura:D(9)9QQTTJ\nはち:KKKQQJ\nnishimura:D(6)%\nはち:6T49J3\nnishimura:D(5)98A2KJ\nはち:%\nnishimura:654323456789\nはち:%\nnishimura:5XA|X=4#",
+      "initial_hands": {
+        "はち": "72A7TTQ44A6",
+        "nishimura": "JA8A484T239"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(J)AA244677TTQJ,P(5KQ2K87KJ393)",
+          "revolution": false,
+          "draw": "J",
+          "action": "AA244677TTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA244677TTQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5KQ2K87KJ393",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)TJA2A2344889,P(T67QKQ5J395X)",
+          "revolution": false,
+          "draw": "2",
+          "action": "TJA2A2344889",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJA2A2344889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T67QKQ5J395X",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "8742A3",
+          "revolution": false,
+          "draw": null,
+          "action": "8742A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8742A3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)9QQTTJ",
+          "revolution": false,
+          "draw": "9",
+          "action": "9QQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKKQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "6T49J3",
+          "revolution": false,
+          "draw": null,
+          "action": "6T49J3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6T49J3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(5)98A2KJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "98A2KJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98A2KJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "654323456789",
+          "revolution": false,
+          "draw": null,
+          "action": "654323456789",
+          "action_kind": "prime-or-special",
+          "represented_action": "654323456789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "5XA|X=4#",
+          "revolution": false,
+          "draw": null,
+          "action": "5XA",
+          "action_kind": "prime-or-special",
+          "represented_action": "54A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "AA244677TTQJ",
+          "represented_action": "AA244677TTQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "5KQ2K87KJ393",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1124467710101211,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "241022金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 5,
+          "player": "はち",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 18,
+          "hand_after_draw": 18,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "241022金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "AA244677TTQJ",
+            "represented_action": "AA244677TTQJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "5KQ2K87KJ393",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1124467710101211,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "241022金剛戦数譜-docx-015",
+      "players": [
+        "はち",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "241022金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "nishimura",
+      "second_player": "はち",
+      "raw_block": "### 241022金剛戦数譜.docx | game 16 | nishimura vs はち | start=marker\nnishimura:(9QQ58J47AK5)\nはち:(87T67AAK4T9)\nnishimura:98QQKJ\nはち:D(Q)%\nnishimura:57[GC]\nnishimura:54A#",
+      "initial_hands": {
+        "nishimura": "9QQ58J47AK5",
+        "はち": "87T67AAK4T9"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "98QQKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "98QQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98QQKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "54A#",
+          "revolution": false,
+          "draw": null,
+          "action": "54A",
+          "action_kind": "prime-or-special",
+          "represented_action": "54A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "241022金剛戦数譜-docx-016",
+      "players": [
+        "nishimura",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第1期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第1期-match-001",
+      "match_no": 1,
+      "match_label": "第1試合",
+      "match_players": [
+        "nishimura",
+        "はち"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

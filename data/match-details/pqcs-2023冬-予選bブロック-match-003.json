@@ -1,0 +1,845 @@
+{
+  "match_id": "pqcs-2023冬-予選bブロック-match-003",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "予選Bブロック",
+  "stage_order": 20,
+  "match_no": 3,
+  "match_label": "予選B第3試合",
+  "players": [
+    "3TK",
+    "もりしー"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "もりしー",
+      "second_player": "3TK",
+      "raw_block": "### PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx | game 1 | もりしー vs 3TK | start=pqcs-set-rule\nもりしー:(A455567TJQQ)\n3TK:(AA2445789TX)\nもりしー:D(3)57[GC]\nもりしー:465QJQTA3\n3TK:D(T)%\nもりしー:5#",
+      "initial_hands": {
+        "もりしー": "A455567TJQQ",
+        "3TK": "AA2445789TX"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "465QJQTA3",
+          "revolution": false,
+          "draw": null,
+          "action": "465QJQTA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "465QJQTA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "5#",
+          "revolution": false,
+          "draw": null,
+          "action": "5",
+          "action_kind": "prime-or-special",
+          "represented_action": "5",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 2,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "465QJQTA3",
+          "represented_action": "465QJQTA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 4651211121013,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 2,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "465QJQTA3",
+            "represented_action": "465QJQTA3",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 4651211121013,
+            "digit_count": 13,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選bブロック-第3試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "もりしー",
+        "3TK"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Bブロック",
+      "stage_order": 20,
+      "match_id": "pqcs-2023冬-予選bブロック-match-003",
+      "match_no": 3,
+      "match_label": "予選B第3試合",
+      "match_players": [
+        "3TK",
+        "もりしー"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "3TK",
+      "second_player": "もりしー",
+      "raw_block": "### PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx | game 2 | 3TK vs もりしー | start=pqcs-set-rule\n3TK:(A346788TTJQ)\nもりしー:(AAA345589TJ)\n3TK:D(3)A3Q346788TTJ,P(2456779TQQKX)\nもりしー:D(9)958549A3AATJ,P(22347JJQKKKX)\n3TK:D(5)84Q7\nもりしー:8QTJ\n3TK:D(8)8QTK\nもりしー:%\n3TK:D(9)82TX34556779JQA369T|X=A,P(24667888TTJQQQK)\nもりしー:4A33\n3TK:8QTJ\nもりしー:%\n3TK:86869\nもりしー:D(4)A45AJ,P(A338Q)\n3TK:3QQTK\nもりしー:D(T)5JJTK,P(6688J)\n3TK:82T234556779JQTXA|X=A\nもりしー:D(9)82T2345567JJJQKKK,P(3TQQK)\n3TK:647#",
+      "initial_hands": {
+        "3TK": "A346788TTJQ",
+        "もりしー": "AAA345589TJ"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(3)A3Q346788TTJ,P(2456779TQQKX)",
+          "revolution": false,
+          "draw": "3",
+          "action": "A3Q346788TTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3Q346788TTJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2456779TQQKX",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)958549A3AATJ,P(22347JJQKKKX)",
+          "revolution": false,
+          "draw": "9",
+          "action": "958549A3AATJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "958549A3AATJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "22347JJQKKKX",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(5)84Q7",
+          "revolution": false,
+          "draw": "5",
+          "action": "84Q7",
+          "action_kind": "prime-or-special",
+          "represented_action": "84Q7",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "8QTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "8QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(8)8QTK",
+          "revolution": false,
+          "draw": "8",
+          "action": "8QTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(9)82TX34556779JQA369T|X=A,P(24667888TTJQQQK)",
+          "revolution": false,
+          "draw": "9",
+          "action": "82TX34556779JQA369T",
+          "action_kind": "prime-or-special",
+          "represented_action": "82TA34556779JQA369T",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "24667888TTJQQQK",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "4A33",
+          "revolution": false,
+          "draw": null,
+          "action": "4A33",
+          "action_kind": "prime-or-special",
+          "represented_action": "4A33",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "8QTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "8QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "86869",
+          "revolution": false,
+          "draw": null,
+          "action": "86869",
+          "action_kind": "prime-or-special",
+          "represented_action": "86869",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(4)A45AJ,P(A338Q)",
+          "revolution": false,
+          "draw": "4",
+          "action": "A45AJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A45AJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A338Q",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "3QQTK",
+          "revolution": false,
+          "draw": null,
+          "action": "3QQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "3QQTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(T)5JJTK,P(6688J)",
+          "revolution": false,
+          "draw": "T",
+          "action": "5JJTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "5JJTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6688J",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "82T234556779JQTXA|X=A",
+          "revolution": false,
+          "draw": null,
+          "action": "82T234556779JQTXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "82T234556779JQTAA",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)82T2345567JJJQKKK,P(3TQQK)",
+          "revolution": false,
+          "draw": "9",
+          "action": "82T2345567JJJQKKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "82T2345567JJJQKKK",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3TQQK",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "647#",
+          "revolution": false,
+          "draw": null,
+          "action": "647",
+          "action_kind": "prime-or-special",
+          "represented_action": "647",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A3Q346788TTJ",
+          "represented_action": "A3Q346788TTJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "2456779TQQKX",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312346788101011,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 7,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "82TX34556779JQA369T",
+          "represented_action": "82TA34556779JQA369T",
+          "play_count": 19,
+          "consumed_count": 19,
+          "hand_before": 18,
+          "hand_after_draw": 19,
+          "draw": "9",
+          "penalty": "24667888TTJQQQK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 82101345567791112136910,
+          "digit_count": 23,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+          "game_no": 2,
+          "turn_index": 15,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "82T234556779JQTXA",
+          "represented_action": "82T234556779JQTAA",
+          "play_count": 17,
+          "consumed_count": 17,
+          "hand_before": 20,
+          "hand_after_draw": 20,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 821023455677911121011,
+          "digit_count": 21,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A3Q346788TTJ",
+            "represented_action": "A3Q346788TTJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "2456779TQQKX",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312346788101011,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選bブロック-第3試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "3TK",
+        "もりしー"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Bブロック",
+      "stage_order": 20,
+      "match_id": "pqcs-2023冬-予選bブロック-match-003",
+      "match_no": 3,
+      "match_label": "予選B第3試合",
+      "match_players": [
+        "3TK",
+        "もりしー"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "もりしー",
+      "second_player": "3TK",
+      "raw_block": "### PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx | game 3 | もりしー vs 3TK | start=pqcs-set-rule\nもりしー:(A27799TJQKK)\n3TK:(A34557TQQKX)\nもりしー:9A279,P(A2348)\n3TK:D(2)A234557TQQKX|X=A,P(44556666788X)\nもりしー:%\n3TK:D(J)57[GC]\n3TK:D(9)665563\nもりしー:D(A)747389=AA229T*J,P(2335789TTJJQK)\n3TK:D(6)6A2649\nもりしー:D(6)98TJTJ\n3TK:%\nもりしー:8624T7,P(A35566)\n3TK:445788TJQQKXX|X=3|X=3#",
+      "initial_hands": {
+        "もりしー": "A27799TJQKK",
+        "3TK": "A34557TQQKX"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "9A279,P(A2348)",
+          "revolution": false,
+          "draw": null,
+          "action": "9A279",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A279",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A2348",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(2)A234557TQQKX|X=A,P(44556666788X)",
+          "revolution": false,
+          "draw": "2",
+          "action": "A234557TQQKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "A234557TQQKA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "44556666788X",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(J)57[GC]",
+          "revolution": false,
+          "draw": "J",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(9)665563",
+          "revolution": false,
+          "draw": "9",
+          "action": "665563",
+          "action_kind": "prime-or-special",
+          "represented_action": "665563",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(A)747389=AA229T*J,P(2335789TTJJQK)",
+          "revolution": false,
+          "draw": "A",
+          "action": "747389=AA229T*J",
+          "action_kind": "composite",
+          "represented_action": "747389",
+          "play_count": 6,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2335789TTJJQK",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(6)6A2649",
+          "revolution": false,
+          "draw": "6",
+          "action": "6A2649",
+          "action_kind": "prime-or-special",
+          "represented_action": "6A2649",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(6)98TJTJ",
+          "revolution": false,
+          "draw": "6",
+          "action": "98TJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98TJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "8624T7,P(A35566)",
+          "revolution": false,
+          "draw": null,
+          "action": "8624T7",
+          "action_kind": "prime-or-special",
+          "represented_action": "8624T7",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A35566",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "445788TJQQKXX|X=3|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "445788TJQQKXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "445788TJQQK33",
+          "play_count": 13,
+          "consumed_count": 13,
+          "joker_values": [
+            "3",
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "3TK",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 予選Bブロック 第3試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "3TK",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "9A279",
+            "represented_action": "9A279",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": "A2348",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91279,
+            "digit_count": 5,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-予選bブロック-第3試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "もりしー",
+        "3TK"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "予選Bブロック",
+      "stage_order": 20,
+      "match_id": "pqcs-2023冬-予選bブロック-match-003",
+      "match_no": 3,
+      "match_label": "予選B第3試合",
+      "match_players": [
+        "3TK",
+        "もりしー"
+      ],
+      "match_game_no": 3
+    }
+  ]
+}

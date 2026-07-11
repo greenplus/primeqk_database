@@ -1,0 +1,1506 @@
+{
+  "match_id": "pqcs-2023冬-決勝ト-ナメント-match-001",
+  "tournament": "PQCS",
+  "season": "2023冬",
+  "stage": "決勝トーナメント",
+  "stage_order": 40,
+  "match_no": 1,
+  "match_label": "決勝第1試合",
+  "players": [
+    "mickey",
+    "はち"
+  ],
+  "games": [
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 1,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx | game 1 | mickey vs はち | start=pqcs-set-rule\nmickey:(TJ668T6Q773)\nはち:(52X4AKK2T37)\nmickey:D(3)TTJQ33666877,P(QKKA94J8QJ55)\nはち:KK=X*TA|X=K\nmickey:D(9)%\nはち:57[GC]\nはち:2423#",
+      "initial_hands": {
+        "mickey": "TJ668T6Q773",
+        "はち": "52X4AKK2T37"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(3)TTJQ33666877,P(QKKA94J8QJ55)",
+          "revolution": false,
+          "draw": "3",
+          "action": "TTJQ33666877",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJQ33666877",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QKKA94J8QJ55",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KK=X*TA|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=X*TA",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "2423#",
+          "revolution": false,
+          "draw": null,
+          "action": "2423",
+          "action_kind": "prime-or-special",
+          "represented_action": "2423",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "はち",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TTJQ33666877",
+          "represented_action": "TTJQ33666877",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "QKKA94J8QJ55",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1010111233666877,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "はち",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "はち",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TTJQ33666877",
+            "represented_action": "TTJQ33666877",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "QKKA94J8QJ55",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1010111233666877,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第1試合-pqcs2023冬-数譜-docx-001",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-001",
+      "match_no": 1,
+      "match_label": "決勝第1試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 2,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx | game 2 | はち vs mickey | start=pqcs-set-rule\nはち:(83A9TQA2KK4)\nmickey:(K96A3JX9327)\nはち:D(5)KQTA3K\nmickey:D(4)%\nはち:95248A#",
+      "initial_hands": {
+        "はち": "83A9TQA2KK4",
+        "mickey": "K96A3JX9327"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(5)KQTA3K",
+          "revolution": false,
+          "draw": "5",
+          "action": "KQTA3K",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQTA3K",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "95248A#",
+          "revolution": false,
+          "draw": null,
+          "action": "95248A",
+          "action_kind": "prime-or-special",
+          "represented_action": "95248A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第1試合-pqcs2023冬-数譜-docx-002",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-001",
+      "match_no": 1,
+      "match_label": "決勝第1試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 3,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx | game 3 | mickey vs はち | start=pqcs-set-rule\nmickey:(36T554K59K2)\nはち:(KJ66JJT8K3X)\nmickey:D(Q)TQKK23455569,P(QAQ2A8922Q98)\nはち:D(3)J3J36K6KJT8X|X=9,P(794TA645XAT8)\nmickey:D(7)57[GC]\nmickey:D(7)57[GC]\nmickey:D(J)QQQQJTKKAA2222345688999,P(4735757)\nはち:986A43\nmickey:KKQQQJ\nはち:KKXTTJ|X=K\nmickey:%\nはち:D(9)57[GC]\nはち:6T49J3\nmickey:92TQ23,P(86A43K)\nはち:D(K)%\nmickey:9988776655443322TAAQK\nはち:D(Q)%\nmickey:57[GC]\nmickey:98422A3#",
+      "initial_hands": {
+        "mickey": "36T554K59K2",
+        "はち": "KJ66JJT8K3X"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)TQKK23455569,P(QAQ2A8922Q98)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "TQKK23455569",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQKK23455569",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QAQ2A8922Q98",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(3)J3J36K6KJT8X|X=9,P(794TA645XAT8)",
+          "revolution": false,
+          "draw": "3",
+          "action": "J3J36K6KJT8X",
+          "action_kind": "prime-or-special",
+          "represented_action": "J3J36K6KJT89",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "794TA645XAT8",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)QQQQJTKKAA2222345688999,P(4735757)",
+          "revolution": false,
+          "draw": "J",
+          "action": "QQQQJTKKAA2222345688999",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQQJTKKAA2222345688999",
+          "play_count": 23,
+          "consumed_count": 23,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4735757",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "986A43",
+          "revolution": false,
+          "draw": null,
+          "action": "986A43",
+          "action_kind": "prime-or-special",
+          "represented_action": "986A43",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKQQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKXTTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "6T49J3",
+          "revolution": false,
+          "draw": null,
+          "action": "6T49J3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6T49J3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "92TQ23,P(86A43K)",
+          "revolution": false,
+          "draw": null,
+          "action": "92TQ23",
+          "action_kind": "prime-or-special",
+          "represented_action": "92TQ23",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "86A43K",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9988776655443322TAAQK",
+          "revolution": false,
+          "draw": null,
+          "action": "9988776655443322TAAQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9988776655443322TAAQK",
+          "play_count": 21,
+          "consumed_count": 21,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98422A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "98422A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "98422A3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TQKK23455569",
+          "represented_action": "TQKK23455569",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "QAQ2A8922Q98",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012131323455569,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "QQQQJTKKAA2222345688999",
+          "represented_action": "QQQQJTKKAA2222345688999",
+          "play_count": 23,
+          "consumed_count": 23,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "J",
+          "penalty": "4735757",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1212121211101313112222345688999,
+          "digit_count": 31,
+          "digit_gain": 8
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 7,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQQQJ",
+          "represented_action": "KKQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 3,
+          "turn_index": 14,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "9988776655443322TAAQK",
+          "represented_action": "9988776655443322TAAQK",
+          "play_count": 21,
+          "consumed_count": 21,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 998877665544332210111213,
+          "digit_count": 24,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TQKK23455569",
+            "represented_action": "TQKK23455569",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "QAQ2A8922Q98",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1012131323455569,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第1試合-pqcs2023冬-数譜-docx-003",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-001",
+      "match_no": 1,
+      "match_label": "決勝第1試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 4,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx | game 4 | はち vs mickey | start=pqcs-set-rule\nはち:(6Q874283T5Q)\nmickey:(3JA9327J8K3)\nはち:D(T)23456788TTQQ,P(4JK2T6X5ATA7)\nmickey:D(Q)JJQA2K333789,P(754K6996AJ28)\nはち:D(9)57[GC]\nはち:D(K)9862A3\nmickey:D(Q)899JJ2,P(X4557)\nはち:D(9)57[GC]\nはち:D(8)XKKQQJ|X=K\nmickey:%\nはち:T8T8T4T4A269,P(62A357XKKQQJ)\nmickey:99887766554432KKQA3JQA2JJ,P()\nはち:6T648A\nmickey:KKXQQJ|X=K\nはち:%\nmickey:57[GC]\nmickey:998876655432A3A2JJ\nはち:98754322KKXQQTTTJA|X=K,P(6T648AKKXQQJ57)\nmickey:9743#",
+      "initial_hands": {
+        "はち": "6Q874283T5Q",
+        "mickey": "3JA9327J8K3"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(T)23456788TTQQ,P(4JK2T6X5ATA7)",
+          "revolution": false,
+          "draw": "T",
+          "action": "23456788TTQQ",
+          "action_kind": "prime-or-special",
+          "represented_action": "23456788TTQQ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4JK2T6X5ATA7",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)JJQA2K333789,P(754K6996AJ28)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "JJQA2K333789",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJQA2K333789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "754K6996AJ28",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(K)9862A3",
+          "revolution": false,
+          "draw": "K",
+          "action": "9862A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9862A3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)899JJ2,P(X4557)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "899JJ2",
+          "action_kind": "prime-or-special",
+          "represented_action": "899JJ2",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X4557",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)XKKQQJ|X=K",
+          "revolution": false,
+          "draw": "8",
+          "action": "XKKQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "T8T8T4T4A269,P(62A357XKKQQJ)",
+          "revolution": false,
+          "draw": null,
+          "action": "T8T8T4T4A269",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8T8T4T4A269",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "62A357XKKQQJ",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "99887766554432KKQA3JQA2JJ,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "99887766554432KKQA3JQA2JJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "99887766554432KKQA3JQA2JJ",
+          "play_count": 25,
+          "consumed_count": 25,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "6T648A",
+          "revolution": false,
+          "draw": null,
+          "action": "6T648A",
+          "action_kind": "prime-or-special",
+          "represented_action": "6T648A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKXQQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "998876655432A3A2JJ",
+          "revolution": false,
+          "draw": null,
+          "action": "998876655432A3A2JJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "998876655432A3A2JJ",
+          "play_count": 18,
+          "consumed_count": 18,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "98754322KKXQQTTTJA|X=K,P(6T648AKKXQQJ57)",
+          "revolution": false,
+          "draw": null,
+          "action": "98754322KKXQQTTTJA",
+          "action_kind": "prime-or-special",
+          "represented_action": "98754322KKKQQTTTJA",
+          "play_count": 18,
+          "consumed_count": 18,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "6T648AKKXQQJ57",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9743#",
+          "revolution": false,
+          "draw": null,
+          "action": "9743",
+          "action_kind": "prime-or-special",
+          "represented_action": "9743",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "23456788TTQQ",
+          "represented_action": "23456788TTQQ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "4JK2T6X5ATA7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2345678810101212,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 4,
+          "turn_index": 7,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "XKKQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 17,
+          "hand_after_draw": 18,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 4,
+          "turn_index": 9,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "T8T8T4T4A269",
+          "represented_action": "T8T8T4T4A269",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 12,
+          "hand_after_draw": 12,
+          "draw": null,
+          "penalty": "62A357XKKQQJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1081081041041269,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 4,
+          "turn_index": 16,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "98754322KKXQQTTTJA",
+          "represented_action": "98754322KKKQQTTTJA",
+          "play_count": 18,
+          "consumed_count": 18,
+          "hand_before": 18,
+          "hand_after_draw": 18,
+          "draw": null,
+          "penalty": "6T648AKKXQQJ57",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 987543221313131212101010111,
+          "digit_count": 27,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "23456788TTQQ",
+            "represented_action": "23456788TTQQ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "4JK2T6X5ATA7",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 2345678810101212,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第1試合-pqcs2023冬-数譜-docx-004",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-001",
+      "match_no": 1,
+      "match_label": "決勝第1試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+      "game_no": 5,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx | game 5 | mickey vs はち | start=pqcs-set-rule\nmickey:(JQ643JKQ787)\nはち:(7T37K82J232)\nmickey:D(J)JJJQQK346787,P(QA9AK3T65599)\nはち:D(A)A22233778TJK,P(TXK645T89546)\nmickey:D(A)57[GC]\nmickey:D(X)57[GC]\nmickey:D(8)998866439\nはち:D(2)98765432T,P(Q45757)\nmickey:KKXTQQJQJ|X=K\nはち:%\nmickey:A3AAJ#",
+      "initial_hands": {
+        "mickey": "JQ643JKQ787",
+        "はち": "7T37K82J232"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)JJJQQK346787,P(QA9AK3T65599)",
+          "revolution": false,
+          "draw": "J",
+          "action": "JJJQQK346787",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJJQQK346787",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QA9AK3T65599",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(A)A22233778TJK,P(TXK645T89546)",
+          "revolution": false,
+          "draw": "A",
+          "action": "A22233778TJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A22233778TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TXK645T89546",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)998866439",
+          "revolution": false,
+          "draw": "8",
+          "action": "998866439",
+          "action_kind": "prime-or-special",
+          "represented_action": "998866439",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(2)98765432T,P(Q45757)",
+          "revolution": false,
+          "draw": "2",
+          "action": "98765432T",
+          "action_kind": "prime-or-special",
+          "represented_action": "98765432T",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q45757",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKXTQQJQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXTQQJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTQQJQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A3AAJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "A3AAJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3AAJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JJJQQK346787",
+          "represented_action": "JJJQQK346787",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "QA9AK3T65599",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111111121213346787,
+          "digit_count": 18,
+          "digit_gain": 6
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 5,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "998866439",
+          "represented_action": "998866439",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 998866439,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+          "game_no": 5,
+          "turn_index": 7,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXTQQJQJ",
+          "represented_action": "KKKTQQJQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 14,
+          "hand_after_draw": 14,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313101212111211,
+          "digit_count": 18,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "PQCS 2023冬 決勝トーナメント 第1試合 PQCS2023冬 数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JJJQQK346787",
+            "represented_action": "JJJQQK346787",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "QA9AK3T65599",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 111111121213346787,
+            "digit_count": 18,
+            "digit_gain": 6
+          }
+        ]
+      },
+      "id": "pqcs-2023冬-決勝ト-ナメント-第1試合-pqcs2023冬-数譜-docx-005",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "PQCS",
+      "season": "2023冬",
+      "stage": "決勝トーナメント",
+      "stage_order": 40,
+      "match_id": "pqcs-2023冬-決勝ト-ナメント-match-001",
+      "match_no": 1,
+      "match_label": "決勝第1試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 5
+    }
+  ]
+}
