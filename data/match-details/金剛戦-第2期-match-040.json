@@ -1,0 +1,3595 @@
+{
+  "match_id": "金剛戦-第2期-match-040",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 40,
+  "match_label": "第40試合",
+  "players": [
+    "mickey",
+    "はち"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 1 | はち vs mickey | start=spreadsheet\nはち:(Q9TA787AX23)\nmickey:(2Q344KJAJX2)\nはち:D(9)AA23X7789TQ9|X=6,P(864695K3TT7K)\nmickey:D(K)44A23\nはち:D(J)KKQTJ\nmickey:KKQXJ|X=K\nはち:%\nmickey:2J#",
+      "initial_hands": {
+        "はち": "Q9TA787AX23",
+        "mickey": "2Q344KJAJX2"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(9)AA23X7789TQ9|X=6,P(864695K3TT7K)",
+          "revolution": false,
+          "draw": "9",
+          "action": "AA23X7789TQ9",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA2367789TQ9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "864695K3TT7K",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)44A23",
+          "revolution": false,
+          "draw": "K",
+          "action": "44A23",
+          "action_kind": "prime-or-special",
+          "represented_action": "44A23",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(J)KKQTJ",
+          "revolution": false,
+          "draw": "J",
+          "action": "KKQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKQXJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "2J#",
+          "revolution": false,
+          "draw": null,
+          "action": "2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "2J",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "AA23X7789TQ9",
+          "represented_action": "AA2367789TQ9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "864695K3TT7K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11236778910129,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 3,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKQTJ",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "AA23X7789TQ9",
+            "represented_action": "AA2367789TQ9",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "864695K3TT7K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 11236778910129,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-001",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 2 | mickey vs はち | start=spreadsheet\nmickey:(28K99AAXA9T)\nはち:(T39256JQ2KJ)\nmickey:D(J)9829\nはち:KJQJ\nmickey:D(5)KXTJ=59A*AA|X=K,P(725384467)\nはち:T223569,P(Q3Q8K3K)\nmickey:D(4)57[GC]\nmickey:D(6)57[GC]\nmickey:98643TKA2XJ|X=T\nはち:D(X)33322KKQQTX|X=K,P(567J7QAT4T8)\nmickey:464AA#",
+      "initial_hands": {
+        "mickey": "28K99AAXA9T",
+        "はち": "T39256JQ2KJ"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)9829",
+          "revolution": false,
+          "draw": "J",
+          "action": "9829",
+          "action_kind": "prime-or-special",
+          "represented_action": "9829",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)KXTJ=59A*AA|X=K,P(725384467)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KXTJ=59A*AA",
+          "action_kind": "composite",
+          "represented_action": "KKTJ",
+          "play_count": 4,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "725384467",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "T223569,P(Q3Q8K3K)",
+          "revolution": false,
+          "draw": null,
+          "action": "T223569",
+          "action_kind": "prime-or-special",
+          "represented_action": "T223569",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q3Q8K3K",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98643TKA2XJ|X=T",
+          "revolution": false,
+          "draw": null,
+          "action": "98643TKA2XJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98643TKA2TJ",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(X)33322KKQQTX|X=K,P(567J7QAT4T8)",
+          "revolution": false,
+          "draw": "X",
+          "action": "33322KKQQTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "33322KKQQTK",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "567J7QAT4T8",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "464AA#",
+          "revolution": false,
+          "draw": null,
+          "action": "464AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "464AA",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 7,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "98643TKA2XJ",
+          "represented_action": "98643TKA2TJ",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 986431013121011,
+          "digit_count": 15,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "KXTJ=59A*AA",
+            "represented_action": "KKTJ",
+            "play_count": 4,
+            "consumed_count": 9,
+            "hand_before": 8,
+            "hand_after_draw": 9,
+            "draw": "5",
+            "penalty": "725384467",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13131011,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-002",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 3 | はち vs mickey | start=spreadsheet\nはち:(69AT362Q2QJ)\nmickey:(5K83KJ7X649)\nはち:D(9)A2236699TQQJ,P(4TAA5658XAQ3)\nmickey:KKJ\nはち:D(4)%\nmickey:57[GC]\nmickey:98X643|X=2#",
+      "initial_hands": {
+        "はち": "69AT362Q2QJ",
+        "mickey": "5K83KJ7X649"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(9)A2236699TQQJ,P(4TAA5658XAQ3)",
+          "revolution": false,
+          "draw": "9",
+          "action": "A2236699TQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A2236699TQQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4TAA5658XAQ3",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98X643|X=2#",
+          "revolution": false,
+          "draw": null,
+          "action": "98X643",
+          "action_kind": "prime-or-special",
+          "represented_action": "982643",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A2236699TQQJ",
+          "represented_action": "A2236699TQQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": "4TAA5658XAQ3",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1223669910121211,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A2236699TQQJ",
+            "represented_action": "A2236699TQQJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": "4TAA5658XAQ3",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1223669910121211,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-003",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 4 | mickey vs はち | start=spreadsheet\nmickey:(98J7Q2583Q5)\nはち:(K4JQ6638TK4)\nmickey:D(Q)Q8Q8J5Q52379,P(T9X25AAKKA86)\nはち:D(T)TTJQKK446683,P(X33J72J92954)\nmickey:A889568=2^5*3^T\nはち:D(4)978696T=4*4,P(77A6T253T)\nmickey:KKXQQQJ|X=K\nはち:%\nmickey:57[GC]\nmickey:AA29#",
+      "initial_hands": {
+        "mickey": "98J7Q2583Q5",
+        "はち": "K4JQ6638TK4"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)Q8Q8J5Q52379,P(T9X25AAKKA86)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "Q8Q8J5Q52379",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q8Q8J5Q52379",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T9X25AAKKA86",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(T)TTJQKK446683,P(X33J72J92954)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TTJQKK446683",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJQKK446683",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X33J72J92954",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A889568=2^5*3^T",
+          "revolution": false,
+          "draw": null,
+          "action": "A889568=2^5*3^T",
+          "action_kind": "composite",
+          "represented_action": "A889568",
+          "play_count": 7,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(4)978696T=4*4,P(77A6T253T)",
+          "revolution": false,
+          "draw": "4",
+          "action": "978696T=4*4",
+          "action_kind": "composite",
+          "represented_action": "978696T",
+          "play_count": 7,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "77A6T253T",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKXQQQJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "AA29#",
+          "revolution": false,
+          "draw": null,
+          "action": "AA29",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA29",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q8Q8J5Q52379",
+          "represented_action": "Q8Q8J5Q52379",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "T9X25AAKKA86",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1281281151252379,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXQQQJ",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 13,
+          "hand_after_draw": 13,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121211,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q8Q8J5Q52379",
+            "represented_action": "Q8Q8J5Q52379",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "T9X25AAKKA86",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1281281151252379,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-004",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 5 | はち vs mickey | start=spreadsheet\nはち:(892QJT8Q72T)\nmickey:(ATJ687QK8AJ)\nはち:9QQTTJ\nmickey:D(6)%\nはち:D(5)285287#",
+      "initial_hands": {
+        "はち": "892QJT8Q72T",
+        "mickey": "ATJ687QK8AJ"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "9QQTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9QQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(5)285287#",
+          "revolution": false,
+          "draw": "5",
+          "action": "285287",
+          "action_kind": "prime-or-special",
+          "represented_action": "285287",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "9QQTTJ",
+          "represented_action": "9QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 91212101011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "9QQTTJ",
+            "represented_action": "9QQTTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91212101011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "TJQKJ",
+          "face_count": 5,
+          "next_draw": "6",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-005",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 6 | mickey vs はち | start=spreadsheet\nmickey:(J43XA38977A)\nはち:(736T527564X)\nmickey:D(J)A37A37J8J94X|X=9,P(2QAKJKQ9K45Q)\nはち:D(5)57[GC]\nはち:D(9)57[GC]\nはち:T966=2*54X3|X=8#",
+      "initial_hands": {
+        "mickey": "J43XA38977A",
+        "はち": "736T527564X"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)A37A37J8J94X|X=9,P(2QAKJKQ9K45Q)",
+          "revolution": false,
+          "draw": "J",
+          "action": "A37A37J8J94X",
+          "action_kind": "prime-or-special",
+          "represented_action": "A37A37J8J949",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "2QAKJKQ9K45Q",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "T966=2*54X3|X=8#",
+          "revolution": false,
+          "draw": null,
+          "action": "T966=2*54X3",
+          "action_kind": "composite",
+          "represented_action": "T966",
+          "play_count": 4,
+          "consumed_count": 9,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "はち",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A37A37J8J94X",
+          "represented_action": "A37A37J8J949",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "2QAKJKQ9K45Q",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13713711811949,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "はち",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "はち",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A37A37J8J94X",
+            "represented_action": "A37A37J8J949",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "2QAKJKQ9K45Q",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13713711811949,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-006",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 7 | はち vs mickey | start=spreadsheet\nはち:(KA26Q8K3373)\nmickey:(576T65TQT4A)\nはち:D(4)A23334678QKK,P(75978A4K3X22)\nmickey:D(5)T5656TT5AQ47,P(X8249JTJ9AQ6)\nはち:D(K)647\nmickey:QT9\nはち:KKQ=2^4*29*283\nmickey:D(Q)%\nはち:83\nmickey:D(J)XQ=2^5*4A|X=K\nはち:KK=A3*XA|X=T\nmickey:%\nはち:57[GC]\nはち:73#",
+      "initial_hands": {
+        "はち": "KA26Q8K3373",
+        "mickey": "576T65TQT4A"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(4)A23334678QKK,P(75978A4K3X22)",
+          "revolution": false,
+          "draw": "4",
+          "action": "A23334678QKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A23334678QKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "75978A4K3X22",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)T5656TT5AQ47,P(X8249JTJ9AQ6)",
+          "revolution": false,
+          "draw": "5",
+          "action": "T5656TT5AQ47",
+          "action_kind": "prime-or-special",
+          "represented_action": "T5656TT5AQ47",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X8249JTJ9AQ6",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(K)647",
+          "revolution": false,
+          "draw": "K",
+          "action": "647",
+          "action_kind": "prime-or-special",
+          "represented_action": "647",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "QT9",
+          "revolution": false,
+          "draw": null,
+          "action": "QT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "QT9",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KKQ=2^4*29*283",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQ=2^4*29*283",
+          "action_kind": "composite",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "83",
+          "revolution": false,
+          "draw": null,
+          "action": "83",
+          "action_kind": "prime-or-special",
+          "represented_action": "83",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)XQ=2^5*4A|X=K",
+          "revolution": false,
+          "draw": "J",
+          "action": "XQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KK=A3*XA|X=T",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=A3*XA",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "73#",
+          "revolution": false,
+          "draw": null,
+          "action": "73",
+          "action_kind": "prime-or-special",
+          "represented_action": "73",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A23334678QKK",
+          "represented_action": "A23334678QKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "75978A4K3X22",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 123334678121313,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 5,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KKQ=2^4*29*283",
+          "represented_action": "KKQ",
+          "play_count": 3,
+          "consumed_count": 10,
+          "hand_before": 22,
+          "hand_after_draw": 22,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131312,
+          "digit_count": 6,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 9,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "two-kk-factor"
+          ],
+          "contexts": [],
+          "action": "KK=A3*XA",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A23334678QKK",
+            "represented_action": "A23334678QKK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "75978A4K3X22",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 123334678121313,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-007",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 8 | mickey vs はち | start=spreadsheet\nmickey:(65A345982K8)\nはち:(AAKQ9TQTT7J)\nmickey:D(7)K\nはち:D(8)%\nmickey:57[GC]\nmickey:98865432A#",
+      "initial_hands": {
+        "mickey": "65A345982K8",
+        "はち": "AAKQ9TQTT7J"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(7)K",
+          "revolution": false,
+          "draw": "7",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98865432A#",
+          "revolution": false,
+          "draw": null,
+          "action": "98865432A",
+          "action_kind": "prime-or-special",
+          "represented_action": "98865432A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 4,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "98865432A",
+          "represented_action": "98865432A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 988654321,
+          "digit_count": 9,
+          "digit_gain": 0
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 4,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "98865432A",
+            "represented_action": "98865432A",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 988654321,
+            "digit_count": 9,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-008",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 9 | はち vs mickey | start=spreadsheet\nはち:(Q9X9Q22J5JA)\nmickey:(2334T3KX64Q)\nはち:D(7)JQQA2J\nmickey:D(J)6Q4KTJ\nはち:%\nmickey:243=3^X*3|X=4#",
+      "initial_hands": {
+        "はち": "Q9X9Q22J5JA",
+        "mickey": "2334T3KX64Q"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(7)JQQA2J",
+          "revolution": false,
+          "draw": "7",
+          "action": "JQQA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQQA2J",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)6Q4KTJ",
+          "revolution": false,
+          "draw": "J",
+          "action": "6Q4KTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6Q4KTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "243=3^X*3|X=4#",
+          "revolution": false,
+          "draw": null,
+          "action": "243=3^X*3",
+          "action_kind": "composite",
+          "represented_action": "243",
+          "play_count": 3,
+          "consumed_count": 6,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "はち",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-009",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 10 | mickey vs はち | start=spreadsheet\nmickey:(KJK245QK9A7)\nはち:(932KX8AA7J4)\nmickey:KKQKJ\nはち:D(J)%\nmickey:57[GC]\nmickey:A249#",
+      "initial_hands": {
+        "mickey": "KJK245QK9A7",
+        "はち": "932KX8AA7J4"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KKQKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A249#",
+          "revolution": false,
+          "draw": null,
+          "action": "A249",
+          "action_kind": "prime-or-special",
+          "represented_action": "A249",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KKQKJ",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121311,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KKQKJ",
+            "represented_action": "KKQKJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121311,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "はち",
+          "face_cards": "KXJJ",
+          "face_count": 4,
+          "next_draw": "J",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-010",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 11 | はち vs mickey | start=spreadsheet\nはち:(667596JQ2K8)\nmickey:(Q9A485JQ5A7)\nはち:D(T)57[GC]\nはち:D(9)2686J6T9Q9K,P(68897A43XTT)\nmickey:D(Q)89QQ4557JQAA,P(3JK24K2542KJ)\nはち:D(3)346668899TTTJQK,P(A3T7X57)\nmickey:554422A\nはち:6T648A3\nmickey:948JA2J\nはち:KQJXTTX|X=J|X=K\nmickey:KKKQQQJ\nはち:%\nmickey:57[GC]\nmickey:3#",
+      "initial_hands": {
+        "はち": "667596JQ2K8",
+        "mickey": "Q9A485JQ5A7"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(T)57[GC]",
+          "revolution": false,
+          "draw": "T",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)2686J6T9Q9K,P(68897A43XTT)",
+          "revolution": false,
+          "draw": "9",
+          "action": "2686J6T9Q9K",
+          "action_kind": "prime-or-special",
+          "represented_action": "2686J6T9Q9K",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "68897A43XTT",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)89QQ4557JQAA,P(3JK24K2542KJ)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "89QQ4557JQAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "89QQ4557JQAA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3JK24K2542KJ",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(3)346668899TTTJQK,P(A3T7X57)",
+          "revolution": false,
+          "draw": "3",
+          "action": "346668899TTTJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "346668899TTTJQK",
+          "play_count": 15,
+          "consumed_count": 15,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A3T7X57",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "554422A",
+          "revolution": false,
+          "draw": null,
+          "action": "554422A",
+          "action_kind": "prime-or-special",
+          "represented_action": "554422A",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "6T648A3",
+          "revolution": false,
+          "draw": null,
+          "action": "6T648A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6T648A3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "948JA2J",
+          "revolution": false,
+          "draw": null,
+          "action": "948JA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "948JA2J",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "KQJXTTX|X=J|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KQJXTTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQJJTTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "J",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKQQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "3#",
+          "revolution": false,
+          "draw": null,
+          "action": "3",
+          "action_kind": "prime-or-special",
+          "represented_action": "3",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 2,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "2686J6T9Q9K",
+          "represented_action": "2686J6T9Q9K",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "9",
+          "penalty": "68897A43XTT",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 268611610912913,
+          "digit_count": 15,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 4,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "346668899TTTJQK",
+          "represented_action": "346668899TTTJQK",
+          "play_count": 15,
+          "consumed_count": 15,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "3",
+          "penalty": "A3T7X57",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 346668899101010111213,
+          "digit_count": 21,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 8,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KQJXTTX",
+          "represented_action": "KQJJTTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 23,
+          "hand_after_draw": 23,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13121111101013,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "はち",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 2,
+            "player": "はち",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "2686J6T9Q9K",
+            "represented_action": "2686J6T9Q9K",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "9",
+            "penalty": "68897A43XTT",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 268611610912913,
+            "digit_count": 15,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-011",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 12 | mickey vs はち | start=spreadsheet\nmickey:(TQ9KA2QTQ9K)\nはち:(4523T834JQ9)\nmickey:D(3)A3KQQTQTK\nはち:D(2)%\nmickey:929#",
+      "initial_hands": {
+        "mickey": "TQ9KA2QTQ9K",
+        "はち": "4523T834JQ9"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(3)A3KQQTQTK",
+          "revolution": false,
+          "draw": "3",
+          "action": "A3KQQTQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3KQQTQTK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "929#",
+          "revolution": false,
+          "draw": null,
+          "action": "929",
+          "action_kind": "prime-or-special",
+          "represented_action": "929",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A3KQQTQTK",
+          "represented_action": "A3KQQTQTK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121210121013,
+          "digit_count": 16,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A3KQQTQTK",
+            "represented_action": "A3KQQTQTK",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121210121013,
+            "digit_count": 16,
+            "digit_gain": 7
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "はち",
+          "face_cards": "TJQ",
+          "face_count": 3,
+          "next_draw": "2",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-012",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 13 | はち vs mickey | start=spreadsheet\nはち:(7K28J8A56A2)\nmickey:(Q2547TT8J5Q)\nはち:D(9)57[GC]\nはち:D(7)J2AA2K86789,P(6J5XJK74K63)\nmickey:D(K)J2QQT85574TK,P(9A233949QTQ3)\nはち:D(8)57[GC]\nはち:D(A)863\nmickey:D(4)JQT=9*7544,P(XT65757)\nはち:86249\nmickey:QTQT9\nはち:D(8)KKXKJ|X=Q\nmickey:D(6)%\nはち:J8J8A26AA7,P(386249QTQT)\nmickey:998X7766554432KTA3QQTJ|X=8\nはち:D(9)%\nmickey:57[GC]\nmickey:4523#",
+      "initial_hands": {
+        "はち": "7K28J8A56A2",
+        "mickey": "Q2547TT8J5Q"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(7)J2AA2K86789,P(6J5XJK74K63)",
+          "revolution": false,
+          "draw": "7",
+          "action": "J2AA2K86789",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2AA2K86789",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6J5XJK74K63",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)J2QQT85574TK,P(9A233949QTQ3)",
+          "revolution": false,
+          "draw": "K",
+          "action": "J2QQT85574TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2QQT85574TK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9A233949QTQ3",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(A)863",
+          "revolution": false,
+          "draw": "A",
+          "action": "863",
+          "action_kind": "prime-or-special",
+          "represented_action": "863",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(4)JQT=9*7544,P(XT65757)",
+          "revolution": false,
+          "draw": "4",
+          "action": "JQT=9*7544",
+          "action_kind": "composite",
+          "represented_action": "JQT",
+          "play_count": 3,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XT65757",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "86249",
+          "revolution": false,
+          "draw": null,
+          "action": "86249",
+          "action_kind": "prime-or-special",
+          "represented_action": "86249",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "QTQT9",
+          "revolution": false,
+          "draw": null,
+          "action": "QTQT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQT9",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(8)KKXKJ|X=Q",
+          "revolution": false,
+          "draw": "8",
+          "action": "KKXKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "J8J8A26AA7,P(386249QTQT)",
+          "revolution": false,
+          "draw": null,
+          "action": "J8J8A26AA7",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8J8A26AA7",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "386249QTQT",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "998X7766554432KTA3QQTJ|X=8",
+          "revolution": false,
+          "draw": null,
+          "action": "998X7766554432KTA3QQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "99887766554432KTA3QQTJ",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "4523#",
+          "revolution": false,
+          "draw": null,
+          "action": "4523",
+          "action_kind": "prime-or-special",
+          "represented_action": "4523",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 2,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "J2AA2K86789",
+          "represented_action": "J2AA2K86789",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "7",
+          "penalty": "6J5XJK74K63",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1121121386789,
+          "digit_count": 13,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 9,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKXKJ",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 14,
+          "hand_after_draw": 15,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121311,
+          "digit_count": 10,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 11,
+          "player": "はち",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "J8J8A26AA7",
+          "represented_action": "J8J8A26AA7",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": "386249QTQT",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 118118126117,
+          "digit_count": 12,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "はち",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 2,
+            "player": "はち",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "J2AA2K86789",
+            "represented_action": "J2AA2K86789",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "7",
+            "penalty": "6J5XJK74K63",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1121121386789,
+            "digit_count": 13,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-013",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 14 | mickey vs はち | start=spreadsheet\nmickey:(4XK5Q6Q6A64)\nはち:(77355J8Q3K8)\nmickey:D(J)64564A\nはち:D(7)833KQJ,P(J6293K)\nmickey:6KQQJX|X=K#",
+      "initial_hands": {
+        "mickey": "4XK5Q6Q6A64",
+        "はち": "77355J8Q3K8"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)64564A",
+          "revolution": false,
+          "draw": "J",
+          "action": "64564A",
+          "action_kind": "prime-or-special",
+          "represented_action": "64564A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(7)833KQJ,P(J6293K)",
+          "revolution": false,
+          "draw": "7",
+          "action": "833KQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "833KQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J6293K",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "6KQQJX|X=K#",
+          "revolution": false,
+          "draw": null,
+          "action": "6KQQJX",
+          "action_kind": "prime-or-special",
+          "represented_action": "6KQQJK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "6KQQJX",
+          "represented_action": "6KQQJK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 61312121113,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "64564A",
+            "represented_action": "64564A",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 645641,
+            "digit_count": 6,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "6KQQJX",
+            "represented_action": "6KQQJK",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 61312121113,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-014",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "はち",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 15 | はち vs mickey | start=spreadsheet\nはち:(XT5TJ4KK738)\nmickey:(39AXQ452627)\nはち:KKXTJ|X=Q\nmickey:D(7)%\nはち:57[GC]\nはち:8T43#",
+      "initial_hands": {
+        "はち": "XT5TJ4KK738",
+        "mickey": "39AXQ452627"
+      },
+      "events": [
+        {
+          "player": "はち",
+          "raw": "KKXTJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "8T43#",
+          "revolution": false,
+          "draw": null,
+          "action": "8T43",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T43",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "はち",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "はち",
+          "winner": "はち",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KKXTJ",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "はち",
+        "winner": "はち",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "はち",
+            "winner": "はち",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KKXTJ",
+            "represented_action": "KKQTJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121011,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "XQ",
+          "face_count": 2,
+          "next_draw": "7",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-015",
+      "players": [
+        "はち",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "mickey",
+      "second_player": "はち",
+      "raw_block": "### 第2期金剛戦 第40試合 260314金剛戦数譜.docx | game 16 | mickey vs はち | start=spreadsheet\nmickey:(J737XJ32J9A)\nはち:(9T4K86J53K8)\nmickey:D(K)79JJ7JKX332A|X=4,P(KQ4T58QAX372)\nはち:D(6)TJKK34566889,P(Q762A8T6Q495)\nmickey:9877X422A|X=6\nはち:D(4)98643KQTJ\nmickey:KKXQTJQJJ|X=K\nはち:%\nmickey:57[GC]\nmickey:33A3#",
+      "initial_hands": {
+        "mickey": "J737XJ32J9A",
+        "はち": "9T4K86J53K8"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(K)79JJ7JKX332A|X=4,P(KQ4T58QAX372)",
+          "revolution": false,
+          "draw": "K",
+          "action": "79JJ7JKX332A",
+          "action_kind": "prime-or-special",
+          "represented_action": "79JJ7JK4332A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": "KQ4T58QAX372",
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(6)TJKK34566889,P(Q762A8T6Q495)",
+          "revolution": false,
+          "draw": "6",
+          "action": "TJKK34566889",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJKK34566889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q762A8T6Q495",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9877X422A|X=6",
+          "revolution": false,
+          "draw": null,
+          "action": "9877X422A",
+          "action_kind": "prime-or-special",
+          "represented_action": "98776422A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "D(4)98643KQTJ",
+          "revolution": false,
+          "draw": "4",
+          "action": "98643KQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98643KQTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKXQTJQJJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXQTJQJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQTJQJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "はち",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "33A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "33A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "33A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "79JJ7JKX332A",
+          "represented_action": "79JJ7JK4332A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "KQ4T58QAX372",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 7911117111343321,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "9877X422A",
+          "represented_action": "98776422A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 987764221,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKXQTJQJJ",
+          "represented_action": "KKKQTJQJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 15,
+          "hand_after_draw": 15,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121011121111,
+          "digit_count": 18,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第40試合 260314金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "79JJ7JKX332A",
+            "represented_action": "79JJ7JK4332A",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "KQ4T58QAX372",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 7911117111343321,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第40試合-260314金剛戦数譜-docx-016",
+      "players": [
+        "mickey",
+        "はち"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-040",
+      "match_no": 40,
+      "match_label": "第40試合",
+      "match_players": [
+        "mickey",
+        "はち"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

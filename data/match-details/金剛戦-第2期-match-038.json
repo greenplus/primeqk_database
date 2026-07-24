@@ -1,0 +1,3598 @@
+{
+  "match_id": "金剛戦-第2期-match-038",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 38,
+  "match_label": "第38試合",
+  "players": [
+    "dilsh",
+    "mickey"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 1 | mickey vs dilsh | start=spreadsheet\nmickey:(6224JJ982T6)\ndilsh:(6JTATA5Q78K)\nmickey:D(J)J2J2T6J64289#",
+      "initial_hands": {
+        "mickey": "6224JJ982T6",
+        "dilsh": "6JTATA5Q78K"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)J2J2T6J64289#",
+          "revolution": false,
+          "draw": "J",
+          "action": "J2J2T6J64289",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2J2T6J64289",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "J2J2T6J64289",
+          "represented_action": "J2J2T6J64289",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 1121121061164289,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "J2J2T6J64289",
+            "represented_action": "J2J2T6J64289",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 1121121061164289,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-001",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 2 | dilsh vs mickey | start=spreadsheet\ndilsh:(Q7X6623K55K)\nmickey:(T76J988A9J4)\ndilsh:D(3)57[GC]\ndilsh:D(5)5Q3,P(2T3)\nmickey:D(8)J8J89T96748A,P(5XJT48A927JQ)\ndilsh:D(7)3535667T32QK2XK|X=0,P(4Q6TKKA2934QA57)\nmickey:98648J9QTJ\ndilsh:65332QTQKK,P()\nmickey:98X48JAA2TJ|X=6\ndilsh:D(9)9X643KKQTAA|X=8,P(8648J9QTJ)\nmickey:757#",
+      "initial_hands": {
+        "dilsh": "Q7X6623K55K",
+        "mickey": "T76J988A9J4"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(5)5Q3,P(2T3)",
+          "revolution": false,
+          "draw": "5",
+          "action": "5Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "5Q3",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2T3",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)J8J89T96748A,P(5XJT48A927JQ)",
+          "revolution": false,
+          "draw": "8",
+          "action": "J8J89T96748A",
+          "action_kind": "prime-or-special",
+          "represented_action": "J8J89T96748A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5XJT48A927JQ",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)3535667T32QK2XK|X=0,P(4Q6TKKA2934QA57)",
+          "revolution": false,
+          "draw": "7",
+          "action": "3535667T32QK2XK",
+          "action_kind": "prime-or-special",
+          "represented_action": "3535667T32QK20K",
+          "play_count": 15,
+          "consumed_count": 15,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "4Q6TKKA2934QA57",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98648J9QTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "98648J9QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98648J9QTJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "65332QTQKK,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "65332QTQKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "65332QTQKK",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98X48JAA2TJ|X=6",
+          "revolution": false,
+          "draw": null,
+          "action": "98X48JAA2TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98648JAA2TJ",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(9)9X643KKQTAA|X=8,P(8648J9QTJ)",
+          "revolution": false,
+          "draw": "9",
+          "action": "9X643KKQTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "98643KKQTAA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": "8648J9QTJ",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "757#",
+          "revolution": false,
+          "draw": null,
+          "action": "757",
+          "action_kind": "prime-or-special",
+          "represented_action": "757",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 4,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "3535667T32QK2XK",
+          "represented_action": "3535667T32QK20K",
+          "play_count": 15,
+          "consumed_count": 15,
+          "hand_before": 14,
+          "hand_after_draw": 15,
+          "draw": "7",
+          "penalty": "4Q6TKKA2934QA57",
+          "immediate_win": false,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 3535667103212132013,
+          "digit_count": 19,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 6,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "65332QTQKK",
+          "represented_action": "65332QTQKK",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": "",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 653321210121313,
+          "digit_count": 15,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 8,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "9X643KKQTAA",
+          "represented_action": "98643KKQTAA",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 30,
+          "hand_after_draw": 31,
+          "draw": "9",
+          "penalty": "8648J9QTJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 986431313121011,
+          "digit_count": 15,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "dilsh",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 2,
+            "player": "dilsh",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "5Q3",
+            "represented_action": "5Q3",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "5",
+            "penalty": "2T3",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5123,
+            "digit_count": 4,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-002",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 3 | mickey vs dilsh | start=spreadsheet\nmickey:(467TKJ26395)\ndilsh:(75Q23TJ559Q)\nmickey:D(7)57[GC]\nmickey:D(J)J6J6TK23479#",
+      "initial_hands": {
+        "mickey": "467TKJ26395",
+        "dilsh": "75Q23TJ559Q"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)J6J6TK23479#",
+          "revolution": false,
+          "draw": "J",
+          "action": "J6J6TK23479",
+          "action_kind": "prime-or-special",
+          "represented_action": "J6J6TK23479",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "J6J6TK23479",
+          "represented_action": "J6J6TK23479",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJJ",
+          "numeric_value": 116116101323479,
+          "digit_count": 15,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "7",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "J6J6TK23479",
+            "represented_action": "J6J6TK23479",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJJ",
+            "numeric_value": 116116101323479,
+            "digit_count": 15,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-003",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 4 | dilsh vs mickey | start=spreadsheet\ndilsh:(JQ6JT486J2Q)\nmickey:(6QA9795T735)\ndilsh:D(9)986QJTQJ\nmickey:D(K)%\ndilsh:246J#",
+      "initial_hands": {
+        "dilsh": "JQ6JT486J2Q",
+        "mickey": "6QA9795T735"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(9)986QJTQJ",
+          "revolution": false,
+          "draw": "9",
+          "action": "986QJTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "986QJTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "246J#",
+          "revolution": false,
+          "draw": null,
+          "action": "246J",
+          "action_kind": "prime-or-special",
+          "represented_action": "246J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "986QJTQJ",
+          "represented_action": "986QJTQJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9861211101211,
+          "digit_count": 13,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "986QJTQJ",
+            "represented_action": "986QJTQJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9861211101211,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "QTK",
+          "face_count": 3,
+          "next_draw": "K",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-004",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 5 | mickey vs dilsh | start=spreadsheet\nmickey:(832TA8376A2)\ndilsh:(77T9QJ4498J)\nmickey:D(Q)238238QATA67,P(3693T255KTAA)\ndilsh:D(8)98798744TJQJ,P(K4JXQ5J5KQ66)\nmickey:D(2)A729[RR]\ndilsh:D(7)X444|X=A,P(9XK4)\nmickey:D(A)6TTQTK\ndilsh:467479\nmickey:D(7)%\ndilsh:D(2)X729|X=A[RR]\nmickey:8765=33*22AAAA23358,P(96TTQTK467479)\ndilsh:D(X)886549\nmickey:D(7)6TA2A3\ndilsh:QQTJJJ\nmickey:%\ndilsh:KKQKJ\nmickey:%\ndilsh:5X|X=7[GC]\ndilsh:4X|X=A#",
+      "initial_hands": {
+        "mickey": "832TA8376A2",
+        "dilsh": "77T9QJ4498J"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)238238QATA67,P(3693T255KTAA)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "238238QATA67",
+          "action_kind": "prime-or-special",
+          "represented_action": "238238QATA67",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3693T255KTAA",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)98798744TJQJ,P(K4JXQ5J5KQ66)",
+          "revolution": false,
+          "draw": "8",
+          "action": "98798744TJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98798744TJQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K4JXQ5J5KQ66",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)A729[RR]",
+          "revolution": false,
+          "draw": "2",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)X444|X=A,P(9XK4)",
+          "revolution": false,
+          "draw": "7",
+          "action": "X444",
+          "action_kind": "prime-or-special",
+          "represented_action": "A444",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "9XK4",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(A)6TTQTK",
+          "revolution": false,
+          "draw": "A",
+          "action": "6TTQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "6TTQTK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "467479",
+          "revolution": false,
+          "draw": null,
+          "action": "467479",
+          "action_kind": "prime-or-special",
+          "represented_action": "467479",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(2)X729|X=A[RR]",
+          "revolution": false,
+          "draw": "2",
+          "action": "X729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "8765=33*22AAAA23358,P(96TTQTK467479)",
+          "revolution": false,
+          "draw": null,
+          "action": "8765=33*22AAAA23358",
+          "action_kind": "composite",
+          "represented_action": "8765",
+          "play_count": 4,
+          "consumed_count": 17,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "96TTQTK467479",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(X)886549",
+          "revolution": false,
+          "draw": "X",
+          "action": "886549",
+          "action_kind": "prime-or-special",
+          "represented_action": "886549",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)6TA2A3",
+          "revolution": false,
+          "draw": "7",
+          "action": "6TA2A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6TA2A3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "QQTJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QQTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQTJJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "KKQKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "5X|X=7[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "4X|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "4X",
+          "action_kind": "prime-or-special",
+          "represented_action": "4A",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "dilsh",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "238238QATA67",
+          "represented_action": "238238QATA67",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "3693T255KTAA",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 23823812110167,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "dilsh",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "6TTQTK",
+          "represented_action": "6TTQTK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 21,
+          "hand_after_draw": 22,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 61010121013,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "dilsh",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "dilsh",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "238238QATA67",
+            "represented_action": "238238QATA67",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "3693T255KTAA",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 23823812110167,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-005",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 6 | dilsh vs mickey | start=spreadsheet\ndilsh:(3KKJJA75AX2)\nmickey:(67J4KQ942T8)\ndilsh:57[GC]\ndilsh:KKA3JXA2J|X=T#",
+      "initial_hands": {
+        "dilsh": "3KKJJA75AX2",
+        "mickey": "67J4KQ942T8"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "KKA3JXA2J|X=T#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKA3JXA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKA3JTA2J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 2,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "KKA3JXA2J",
+          "represented_action": "KKA3JTA2J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 9,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJJ",
+          "numeric_value": 13131311101211,
+          "digit_count": 14,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "57",
+            "represented_action": "57",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 57,
+            "digit_count": 2,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 2,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "KKA3JXA2J",
+            "represented_action": "KKA3JTA2J",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 9,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJJ",
+            "numeric_value": 13131311101211,
+            "digit_count": 14,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-006",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 7 | mickey vs dilsh | start=spreadsheet\nmickey:(27K6J378Q98)\ndilsh:(4TA5QAKATT9)\nmickey:D(Q)Q8Q8J7K72369,P(T7K6J339963J)\ndilsh:D(6)9645ATTAATQK,P(X2248AQ5K827)\nmickey:D(X)998866733\ndilsh:D(5)98QTQTKTK,P(J445)\nmickey:9776323\ndilsh:D(9)KKXTTTJ|X=K\nmickey:D(9)KKXJTQJ|X=K\ndilsh:D(8)%\nmickey:D(8)Q8J9#",
+      "initial_hands": {
+        "mickey": "27K6J378Q98",
+        "dilsh": "4TA5QAKATT9"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)Q8Q8J7K72369,P(T7K6J339963J)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "Q8Q8J7K72369",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q8Q8J7K72369",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T7K6J339963J",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(6)9645ATTAATQK,P(X2248AQ5K827)",
+          "revolution": false,
+          "draw": "6",
+          "action": "9645ATTAATQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9645ATTAATQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X2248AQ5K827",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)998866733",
+          "revolution": false,
+          "draw": "X",
+          "action": "998866733",
+          "action_kind": "prime-or-special",
+          "represented_action": "998866733",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(5)98QTQTKTK,P(J445)",
+          "revolution": false,
+          "draw": "5",
+          "action": "98QTQTKTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "98QTQTKTK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J445",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9776323",
+          "revolution": false,
+          "draw": null,
+          "action": "9776323",
+          "action_kind": "prime-or-special",
+          "represented_action": "9776323",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(9)KKXTTTJ|X=K",
+          "revolution": false,
+          "draw": "9",
+          "action": "KKXTTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)KKXJTQJ|X=K",
+          "revolution": false,
+          "draw": "9",
+          "action": "KKXJTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKJTQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)Q8J9#",
+          "revolution": false,
+          "draw": "8",
+          "action": "Q8J9",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q8J9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q8Q8J7K72369",
+          "represented_action": "Q8Q8J7K72369",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "T7K6J339963J",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1281281171372369,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "998866733",
+          "represented_action": "998866733",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "X",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 998866733,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 7,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKXJTQJ",
+          "represented_action": "KKKJTQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 9,
+          "hand_after_draw": 10,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131311101211,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q8Q8J7K72369",
+            "represented_action": "Q8Q8J7K72369",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "T7K6J339963J",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1281281171372369,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-007",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 8 | dilsh vs mickey | start=spreadsheet\ndilsh:(6XKTKA93447)\nmickey:(QKQ46AA5259)\ndilsh:D(Q)Q7\nmickey:KQ=2^5*4A\ndilsh:KK=A3*TX|X=A\nmickey:D(J)%\ndilsh:4649#",
+      "initial_hands": {
+        "dilsh": "6XKTKA93447",
+        "mickey": "QKQ46AA5259"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(Q)Q7",
+          "revolution": false,
+          "draw": "Q",
+          "action": "Q7",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q7",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KQ=2^5*4A",
+          "revolution": false,
+          "draw": null,
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "KK=A3*TX|X=A",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=A3*TX",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "4649#",
+          "revolution": false,
+          "draw": null,
+          "action": "4649",
+          "action_kind": "prime-or-special",
+          "represented_action": "4649",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "two-kk-factor",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKK合成数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 3,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "two-kk-factor"
+          ],
+          "contexts": [],
+          "action": "KK=A3*TX",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "two-kk-factor",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "Q7",
+            "represented_action": "Q7",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "Q",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 127,
+            "digit_count": 3,
+            "digit_gain": 1
+          },
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 3,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "two-kk-factor"
+            ],
+            "contexts": [],
+            "action": "KK=A3*TX",
+            "represented_action": "KK",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-008",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 9 | mickey vs dilsh | start=spreadsheet\nmickey:(82KT552K9T9)\ndilsh:(86J2TAA64AX)\nmickey:D(3)T2T2K5K59839,P(954QK68876QX)\ndilsh:D(2)6A628A24TJAX|X=J,P(J3Q453A3KQ7J)\nmickey:D(9)T354688=79*2^9*2^8\ndilsh:D(T)KXQJQTJ|X=K\nmickey:KKKQQTX|X=K\ndilsh:D(7)%\nmickey:95569#",
+      "initial_hands": {
+        "mickey": "82KT552K9T9",
+        "dilsh": "86J2TAA64AX"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(3)T2T2K5K59839,P(954QK68876QX)",
+          "revolution": false,
+          "draw": "3",
+          "action": "T2T2K5K59839",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2T2K5K59839",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "954QK68876QX",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(2)6A628A24TJAX|X=J,P(J3Q453A3KQ7J)",
+          "revolution": false,
+          "draw": "2",
+          "action": "6A628A24TJAX",
+          "action_kind": "prime-or-special",
+          "represented_action": "6A628A24TJAJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "J3Q453A3KQ7J",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)T354688=79*2^9*2^8",
+          "revolution": false,
+          "draw": "9",
+          "action": "T354688=79*2^9*2^8",
+          "action_kind": "composite",
+          "represented_action": "T354688",
+          "play_count": 7,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(T)KXQJQTJ|X=K",
+          "revolution": false,
+          "draw": "T",
+          "action": "KXQJQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQJQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKQQTX|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "95569#",
+          "revolution": false,
+          "draw": null,
+          "action": "95569",
+          "action_kind": "prime-or-special",
+          "represented_action": "95569",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T2T2K5K59839",
+          "represented_action": "T2T2K5K59839",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "954QK68876QX",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1021021351359839,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQTX",
+          "represented_action": "KKKQQTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 12,
+          "hand_after_draw": 12,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121013,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T2T2K5K59839",
+            "represented_action": "T2T2K5K59839",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "954QK68876QX",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1021021351359839,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-009",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 10 | dilsh vs mickey | start=spreadsheet\ndilsh:(K3726A85AJQ)\nmickey:(K398TA8485X)\ndilsh:D(2)5232A67A8JQK,P(776X5K3Q6254)\nmickey:D(7)K8A38T4X5789|X=A,P(TKAQ92994J3J)\ndilsh:D(Q)57[GC]\ndilsh:D(4)57[GC]\ndilsh:D(6)57[GC]\ndilsh:D(T)6664323,P(JT57575)\nmickey:89\ndilsh:D(7)KQ=2^5*4A\nmickey:D(2)KK=TA*A3\ndilsh:D(5)%\nmickey:98X48J9QTJ|X=6\ndilsh:D(4)X8643QJQTK|X=9,P(ATAA389KQK)\nmickey:57[GC]\nmickey:92243#",
+      "initial_hands": {
+        "dilsh": "K3726A85AJQ",
+        "mickey": "K398TA8485X"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(2)5232A67A8JQK,P(776X5K3Q6254)",
+          "revolution": false,
+          "draw": "2",
+          "action": "5232A67A8JQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "5232A67A8JQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "776X5K3Q6254",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)K8A38T4X5789|X=A,P(TKAQ92994J3J)",
+          "revolution": false,
+          "draw": "7",
+          "action": "K8A38T4X5789",
+          "action_kind": "prime-or-special",
+          "represented_action": "K8A38T4A5789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "TKAQ92994J3J",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(T)6664323,P(JT57575)",
+          "revolution": false,
+          "draw": "T",
+          "action": "6664323",
+          "action_kind": "prime-or-special",
+          "represented_action": "6664323",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "JT57575",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "89",
+          "revolution": false,
+          "draw": null,
+          "action": "89",
+          "action_kind": "prime-or-special",
+          "represented_action": "89",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)KQ=2^5*4A",
+          "revolution": false,
+          "draw": "7",
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)KK=TA*A3",
+          "revolution": false,
+          "draw": "2",
+          "action": "KK=TA*A3",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98X48J9QTJ|X=6",
+          "revolution": false,
+          "draw": null,
+          "action": "98X48J9QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98648J9QTJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(4)X8643QJQTK|X=9,P(ATAA389KQK)",
+          "revolution": false,
+          "draw": "4",
+          "action": "X8643QJQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "98643QJQTK",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "ATAA389KQK",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "92243#",
+          "revolution": false,
+          "draw": null,
+          "action": "92243",
+          "action_kind": "prime-or-special",
+          "represented_action": "92243",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "5232A67A8JQK",
+          "represented_action": "5232A67A8JQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "776X5K3Q6254",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 523216718111213,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 8,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KQ=2^5*4A",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 29,
+          "hand_after_draw": 30,
+          "draw": "7",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 12,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "X8643QJQTK",
+          "represented_action": "98643QJQTK",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 25,
+          "hand_after_draw": 26,
+          "draw": "4",
+          "penalty": "ATAA389KQK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 986431211121013,
+          "digit_count": 15,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "5232A67A8JQK",
+            "represented_action": "5232A67A8JQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "776X5K3Q6254",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 523216718111213,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-010",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 11 | mickey vs dilsh | start=spreadsheet\nmickey:(466J4QAJ77A)\ndilsh:(954573KQ827)\nmickey:D(K)J4J4AA6Q6K77#",
+      "initial_hands": {
+        "mickey": "466J4QAJ77A",
+        "dilsh": "954573KQ827"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(K)J4J4AA6Q6K77#",
+          "revolution": false,
+          "draw": "K",
+          "action": "J4J4AA6Q6K77",
+          "action_kind": "prime-or-special",
+          "represented_action": "J4J4AA6Q6K77",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "J4J4AA6Q6K77",
+          "represented_action": "J4J4AA6Q6K77",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 1141141161261377,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "dual-wield-inferred",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "J4J4AA6Q6K77",
+            "represented_action": "J4J4AA6Q6K77",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 1141141161261377,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-011",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 12 | dilsh vs mickey | start=spreadsheet\ndilsh:(J997AAXQTTQ)\nmickey:(7JJ543255KA)\ndilsh:9QQTTJ\nmickey:D(Q)%\ndilsh:9A=7*AX|X=3#",
+      "initial_hands": {
+        "dilsh": "J997AAXQTTQ",
+        "mickey": "7JJ543255KA"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "9QQTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9QQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "9A=7*AX|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "9A=7*AX",
+          "action_kind": "composite",
+          "represented_action": "9A",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "9QQTTJ",
+          "represented_action": "9QQTTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 91212101011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "9QQTTJ",
+            "represented_action": "9QQTTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91212101011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "JJKQ",
+          "face_count": 4,
+          "next_draw": "Q",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-012",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 13 | mickey vs dilsh | start=spreadsheet\nmickey:(8JK32A8Q845)\ndilsh:(QK86J2592TK)\nmickey:D(T)T8J8Q52A348K#",
+      "initial_hands": {
+        "mickey": "8JK32A8Q845",
+        "dilsh": "QK86J2592TK"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(T)T8J8Q52A348K#",
+          "revolution": false,
+          "draw": "T",
+          "action": "T8J8Q52A348K",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8J8Q52A348K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T8J8Q52A348K",
+          "represented_action": "T8J8Q52A348K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 1081181252134813,
+          "digit_count": 16,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "dual-wield-inferred",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T8J8Q52A348K",
+            "represented_action": "T8J8Q52A348K",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 1081181252134813,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-013",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 14 | dilsh vs mickey | start=spreadsheet\ndilsh:(K5689A93AAQ)\nmickey:(8472J6K67A2)\ndilsh:D(4)96KQAAA34589,P(3J4559T2T8TJ)\nmickey:D(6)267267864JKA,P(7X42Q9Q7QJ83)\ndilsh:D(5)545535623A4889A99TTATJJQK,P(KKT3X)\nmickey:X[IN]\nmickey:D(X)X7|X=5[GC]\nmickey:D(X)986437JQK\ndilsh:D(7)73895JTJK\nmickey:%\ndilsh:5334526A849AT5TQ9TAKKX|X=A,P(986437JQK73895JTJK)\nmickey:X[IN]\nmickey:D(X)X[IN]\nmickey:D(X)X7|X=5[GC]\nmickey:D(X)X7|X=5[GC]\nmickey:D(7)Q2Q2A26J4687#",
+      "initial_hands": {
+        "dilsh": "K5689A93AAQ",
+        "mickey": "8472J6K67A2"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(4)96KQAAA34589,P(3J4559T2T8TJ)",
+          "revolution": false,
+          "draw": "4",
+          "action": "96KQAAA34589",
+          "action_kind": "prime-or-special",
+          "represented_action": "96KQAAA34589",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3J4559T2T8TJ",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)267267864JKA,P(7X42Q9Q7QJ83)",
+          "revolution": false,
+          "draw": "6",
+          "action": "267267864JKA",
+          "action_kind": "prime-or-special",
+          "represented_action": "267267864JKA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7X42Q9Q7QJ83",
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(5)545535623A4889A99TTATJJQK,P(KKT3X)",
+          "revolution": false,
+          "draw": "5",
+          "action": "545535623A4889A99TTATJJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "545535623A4889A99TTATJJQK",
+          "play_count": 25,
+          "consumed_count": 25,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KKT3X",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)X7|X=5[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)986437JQK",
+          "revolution": false,
+          "draw": "X",
+          "action": "986437JQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "986437JQK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(7)73895JTJK",
+          "revolution": false,
+          "draw": "7",
+          "action": "73895JTJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "73895JTJK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "5334526A849AT5TQ9TAKKX|X=A,P(986437JQK73895JTJK)",
+          "revolution": false,
+          "draw": null,
+          "action": "5334526A849AT5TQ9TAKKX",
+          "action_kind": "prime-or-special",
+          "represented_action": "5334526A849AT5TQ9TAKKA",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "986437JQK73895JTJK",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)X[IN]",
+          "revolution": false,
+          "draw": "X",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)X7|X=5[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)X7|X=5[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)Q2Q2A26J4687#",
+          "revolution": false,
+          "draw": "7",
+          "action": "Q2Q2A26J4687",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q2Q2A26J4687",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "96KQAAA34589",
+          "represented_action": "96KQAAA34589",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "3J4559T2T8TJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 96131211134589,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "545535623A4889A99TTATJJQK",
+          "represented_action": "545535623A4889A99TTATJJQK",
+          "play_count": 25,
+          "consumed_count": 25,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "5",
+          "penalty": "KKT3X",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 54553562314889199101011011111213,
+          "digit_count": 32,
+          "digit_gain": 7
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 7,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "73895JTJK",
+          "represented_action": "73895JTJK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 30,
+          "hand_after_draw": 31,
+          "draw": "7",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 7389511101113,
+          "digit_count": 13,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 9,
+          "player": "dilsh",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "5334526A849AT5TQ9TAKKX",
+          "represented_action": "5334526A849AT5TQ9TAKKA",
+          "play_count": 22,
+          "consumed_count": 22,
+          "hand_before": 22,
+          "hand_after_draw": 22,
+          "draw": null,
+          "penalty": "986437JQK73895JTJK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 5334526184911051012910113131,
+          "digit_count": 28,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "96KQAAA34589",
+            "represented_action": "96KQAAA34589",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "3J4559T2T8TJ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 96131211134589,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-014",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "mickey",
+      "second_player": "dilsh",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 15 | mickey vs dilsh | start=spreadsheet\nmickey:(2TAKQ5992X6)\ndilsh:(ATA37K737A4)\nmickey:D(9)9A26QXTK|X=J\ndilsh:D(X)%\nmickey:D(6)96259#",
+      "initial_hands": {
+        "mickey": "2TAKQ5992X6",
+        "dilsh": "ATA37K737A4"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(9)9A26QXTK|X=J",
+          "revolution": false,
+          "draw": "9",
+          "action": "9A26QXTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A26QJTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(X)%",
+          "revolution": false,
+          "draw": "X",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)96259#",
+          "revolution": false,
+          "draw": "6",
+          "action": "96259",
+          "action_kind": "prime-or-special",
+          "represented_action": "96259",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-015",
+      "players": [
+        "mickey",
+        "dilsh"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "dilsh",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第38試合 260313金剛戦数譜.docx | game 16 | dilsh vs mickey | start=spreadsheet\ndilsh:(328X5J94938)\nmickey:(358AJ6QKQX7)\ndilsh:D(2)349\nmickey:8Q3\ndilsh:D(K)KXJ|X=K\nmickey:%\ndilsh:2382859#",
+      "initial_hands": {
+        "dilsh": "328X5J94938",
+        "mickey": "358AJ6QKQX7"
+      },
+      "events": [
+        {
+          "player": "dilsh",
+          "raw": "D(2)349",
+          "revolution": false,
+          "draw": "2",
+          "action": "349",
+          "action_kind": "prime-or-special",
+          "represented_action": "349",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "8Q3",
+          "revolution": false,
+          "draw": null,
+          "action": "8Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8Q3",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "D(K)KXJ|X=K",
+          "revolution": false,
+          "draw": "K",
+          "action": "KXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "dilsh",
+          "raw": "2382859#",
+          "revolution": false,
+          "draw": null,
+          "action": "2382859",
+          "action_kind": "prime-or-special",
+          "represented_action": "2382859",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "dilsh",
+      "opening_label": "three-kkj",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKKJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 3,
+          "player": "dilsh",
+          "winner": "dilsh",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "three-kkj"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KXJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 9,
+          "hand_after_draw": 10,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "three-kkj",
+        "reason": "最初に明確になった先手戦術",
+        "player": "dilsh",
+        "winner": "dilsh",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "349",
+            "represented_action": "349",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 349,
+            "digit_count": 3,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第38試合 260313金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 3,
+            "player": "dilsh",
+            "winner": "dilsh",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "three-kkj"
+            ],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "KXJ",
+            "represented_action": "KKJ",
+            "play_count": 3,
+            "consumed_count": 3,
+            "hand_before": 9,
+            "hand_after_draw": 10,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 131311,
+            "digit_count": 6,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第38試合-260313金剛戦数譜-docx-016",
+      "players": [
+        "dilsh",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-038",
+      "match_no": 38,
+      "match_label": "第38試合",
+      "match_players": [
+        "dilsh",
+        "mickey"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

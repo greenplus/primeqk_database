@@ -1,0 +1,3532 @@
+{
+  "match_id": "金剛戦-第2期-match-033",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 33,
+  "match_label": "第33試合",
+  "players": [
+    "nishimura",
+    "もりしー"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 1 | もりしー vs nishimura | start=spreadsheet\nもりしー:(QT5936A7Q48)\nnishimura:(X6273TTAJ48)\nもりしー:D(3)Q345678QT9\nnishimura:D(K)X8467A2TTK|X=9\nもりしー:%\nnishimura:3J#",
+      "initial_hands": {
+        "もりしー": "QT5936A7Q48",
+        "nishimura": "X6273TTAJ48"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(3)Q345678QT9",
+          "revolution": false,
+          "draw": "3",
+          "action": "Q345678QT9",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q345678QT9",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(K)X8467A2TTK|X=9",
+          "revolution": false,
+          "draw": "K",
+          "action": "X8467A2TTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "98467A2TTK",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "3J#",
+          "revolution": false,
+          "draw": null,
+          "action": "3J",
+          "action_kind": "prime-or-special",
+          "represented_action": "3J",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が10枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q345678QT9",
+          "represented_action": "Q345678QT9",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1234567812109,
+          "digit_count": 13,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q345678QT9",
+            "represented_action": "Q345678QT9",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1234567812109,
+            "digit_count": 13,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-001",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 2 | nishimura vs もりしー | start=spreadsheet\nnishimura:(44J7A827AJA)\nもりしー:(AKQKX64765T)\nnishimura:D(8)JJAAA2447887#",
+      "initial_hands": {
+        "nishimura": "44J7A827AJA",
+        "もりしー": "AKQKX64765T"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(8)JJAAA2447887#",
+          "revolution": false,
+          "draw": "8",
+          "action": "JJAAA2447887",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJAAA2447887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JJAAA2447887",
+          "represented_action": "JJAAA2447887",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 11111112447887,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JJAAA2447887",
+            "represented_action": "JJAAA2447887",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 11111112447887,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-002",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 3 | もりしー vs nishimura | start=spreadsheet\nもりしー:(TK9AJA3J58Q)\nnishimura:(642X23KX378)\nもりしー:8KQJTJ\nnishimura:D(A)%\nもりしー:9AA53#",
+      "initial_hands": {
+        "もりしー": "TK9AJA3J58Q",
+        "nishimura": "642X23KX378"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "8KQJTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "8KQJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KQJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "9AA53#",
+          "revolution": false,
+          "draw": null,
+          "action": "9AA53",
+          "action_kind": "prime-or-special",
+          "represented_action": "9AA53",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "8KQJTJ",
+          "represented_action": "8KQJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81312111011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8KQJTJ",
+            "represented_action": "8KQJTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 81312111011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "nishimura",
+          "face_cards": "XKX",
+          "face_count": 3,
+          "next_draw": "A",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-003",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 4 | nishimura vs もりしー | start=spreadsheet\nnishimura:(67X8Q2T9X44)\nもりしー:(JAQ8K64958A)\nnishimura:984TQX24X|X=A|X=J\nもりしー:D(3)9863JQKAA\nnishimura:%\nもりしー:D(6)5\nnishimura:D(2)7\nもりしー:D(T)8=4*6T,P(KQK6)\nnishimura:D(T)T=2*6,P(549)\nもりしー:D(3)8TKQK\nnishimura:D(2)%\nもりしー:4663#",
+      "initial_hands": {
+        "nishimura": "67X8Q2T9X44",
+        "もりしー": "JAQ8K64958A"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "984TQX24X|X=A|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "984TQX24X",
+          "action_kind": "prime-or-special",
+          "represented_action": "984TQA24J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "A",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)9863JQKAA",
+          "revolution": false,
+          "draw": "3",
+          "action": "9863JQKAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "9863JQKAA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(6)5",
+          "revolution": false,
+          "draw": "6",
+          "action": "5",
+          "action_kind": "prime-or-special",
+          "represented_action": "5",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)7",
+          "revolution": false,
+          "draw": "2",
+          "action": "7",
+          "action_kind": "prime-or-special",
+          "represented_action": "7",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(T)8=4*6T,P(KQK6)",
+          "revolution": false,
+          "draw": "T",
+          "action": "8=4*6T",
+          "action_kind": "composite",
+          "represented_action": "8",
+          "play_count": 1,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "KQK6",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(T)T=2*6,P(549)",
+          "revolution": false,
+          "draw": "T",
+          "action": "T=2*6",
+          "action_kind": "composite",
+          "represented_action": "T",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "549",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)8TKQK",
+          "revolution": false,
+          "draw": "3",
+          "action": "8TKQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8TKQK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "4663#",
+          "revolution": false,
+          "draw": null,
+          "action": "4663",
+          "action_kind": "prime-or-special",
+          "represented_action": "4663",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "984TQX24X",
+          "represented_action": "984TQA24J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 984101212411,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "もりしー",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "もりしー",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "984TQX24X",
+            "represented_action": "984TQA24J",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 984101212411,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-004",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 5 | もりしー vs nishimura | start=spreadsheet\nもりしー:(JA9329TXKQQ)\nnishimura:(T8524XQ4JTJ)\nもりしー:99QJQTK\nnishimura:D(4)4XQTTJJ|X=Q\nもりしー:%\nnishimura:D(8)5\nもりしー:D(7)X[IN]\nもりしー:A237#",
+      "initial_hands": {
+        "もりしー": "JA9329TXKQQ",
+        "nishimura": "T8524XQ4JTJ"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "99QJQTK",
+          "revolution": false,
+          "draw": null,
+          "action": "99QJQTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "99QJQTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(4)4XQTTJJ|X=Q",
+          "revolution": false,
+          "draw": "4",
+          "action": "4XQTTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "4QQTTJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(8)5",
+          "revolution": false,
+          "draw": "8",
+          "action": "5",
+          "action_kind": "prime-or-special",
+          "represented_action": "5",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)X[IN]",
+          "revolution": false,
+          "draw": "7",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "A237#",
+          "revolution": false,
+          "draw": null,
+          "action": "A237",
+          "action_kind": "prime-or-special",
+          "represented_action": "A237",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "99QJQTK",
+          "represented_action": "99QJQTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 991211121013,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "99QJQTK",
+            "represented_action": "99QJQTK",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 991211121013,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "nishimura",
+          "face_cards": "TXQJTJ",
+          "face_count": 6,
+          "next_draw": "4",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-005",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 6 | nishimura vs もりしー | start=spreadsheet\nnishimura:(3A69TJ49J76)\nもりしー:(7K65X48X9Q3)\nnishimura:D(5)963A457TJ\nもりしー:D(9)6789XXQ4K|X=T|X=J\nnishimura:D(J)%\nもりしー:593#",
+      "initial_hands": {
+        "nishimura": "3A69TJ49J76",
+        "もりしー": "7K65X48X9Q3"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(5)963A457TJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "963A457TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "963A457TJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)6789XXQ4K|X=T|X=J",
+          "revolution": false,
+          "draw": "9",
+          "action": "6789XXQ4K",
+          "action_kind": "prime-or-special",
+          "represented_action": "6789TJQ4K",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "T",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "593#",
+          "revolution": false,
+          "draw": null,
+          "action": "593",
+          "action_kind": "prime-or-special",
+          "represented_action": "593",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "963A457TJ",
+          "represented_action": "963A457TJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 96314571011,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "もりしー",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "もりしー",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "963A457TJ",
+            "represented_action": "963A457TJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 96314571011,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-006",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 7 | もりしー vs nishimura | start=spreadsheet\nもりしー:(9T4QAA3K877)\nnishimura:(5K685Q8Q3X5)\nもりしー:D(6)6789TAAQ4K\nnishimura:D(2)%\nもりしー:37#",
+      "initial_hands": {
+        "もりしー": "9T4QAA3K877",
+        "nishimura": "5K685Q8Q3X5"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(6)6789TAAQ4K",
+          "revolution": false,
+          "draw": "6",
+          "action": "6789TAAQ4K",
+          "action_kind": "prime-or-special",
+          "represented_action": "6789TAAQ4K",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "37#",
+          "revolution": false,
+          "draw": null,
+          "action": "37",
+          "action_kind": "prime-or-special",
+          "represented_action": "37",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が10枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "6789TAAQ4K",
+          "represented_action": "6789TAAQ4K",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 6789101112413,
+          "digit_count": 13,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "6789TAAQ4K",
+            "represented_action": "6789TAAQ4K",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 6789101112413,
+            "digit_count": 13,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-007",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 8 | nishimura vs もりしー | start=spreadsheet\nnishimura:(AAK62TJ42QJ)\nもりしー:(8TATQJX2K8T)\nnishimura:D(Q)AA2246TJJQQK,P(X9K9799Q537A)\nもりしー:D(2)T8T8T2X2AJQK|X=T,P(647658384435)\nnishimura:D(7)A729[RR]\nもりしー:D(J)AX24=2^T|X=0\nnishimura:AXA3|X=0\nもりしー:D(3)%\nnishimura:245677999TJJQQQKK,P(K562TA729AX24AXA3)\nもりしー:T8T8843843366Q5J5J7K,P()\nnishimura:KKQQTJ\nもりしー:KJTQTJ\nnishimura:6Q4KTJ\nもりしー:886453\nnishimura:223549\nもりしー:%\nnishimura:997\nもりしー:883\nnishimura:A27\nもりしー:%\nnishimura:269\nもりしー:D(K)%\nnishimura:AXA|X=0\nもりしー:%\nnishimura:57[GC]\nnishimura:AX|X=A#",
+      "initial_hands": {
+        "nishimura": "AAK62TJ42QJ",
+        "もりしー": "8TATQJX2K8T"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(Q)AA2246TJJQQK,P(X9K9799Q537A)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "AA2246TJJQQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA2246TJJQQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X9K9799Q537A",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(2)T8T8T2X2AJQK|X=T,P(647658384435)",
+          "revolution": false,
+          "draw": "2",
+          "action": "T8T8T2X2AJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8T8T2T2AJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": "647658384435",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(7)A729[RR]",
+          "revolution": false,
+          "draw": "7",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(J)AX24=2^T|X=0",
+          "revolution": false,
+          "draw": "J",
+          "action": "AX24=2^T",
+          "action_kind": "composite",
+          "represented_action": "A024",
+          "play_count": 4,
+          "consumed_count": 6,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "AXA3|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "245677999TJJQQQKK,P(K562TA729AX24AXA3)",
+          "revolution": false,
+          "draw": null,
+          "action": "245677999TJJQQQKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "245677999TJJQQQKK",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K562TA729AX24AXA3",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "T8T8843843366Q5J5J7K,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "T8T8843843366Q5J5J7K",
+          "action_kind": "prime-or-special",
+          "represented_action": "T8T8843843366Q5J5J7K",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKQQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "KJTQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "6Q4KTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "6Q4KTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6Q4KTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "886453",
+          "revolution": false,
+          "draw": null,
+          "action": "886453",
+          "action_kind": "prime-or-special",
+          "represented_action": "886453",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "223549",
+          "revolution": false,
+          "draw": null,
+          "action": "223549",
+          "action_kind": "prime-or-special",
+          "represented_action": "223549",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "997",
+          "revolution": false,
+          "draw": null,
+          "action": "997",
+          "action_kind": "prime-or-special",
+          "represented_action": "997",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "883",
+          "revolution": false,
+          "draw": null,
+          "action": "883",
+          "action_kind": "prime-or-special",
+          "represented_action": "883",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "A27",
+          "revolution": false,
+          "draw": null,
+          "action": "A27",
+          "action_kind": "prime-or-special",
+          "represented_action": "A27",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "269",
+          "revolution": false,
+          "draw": null,
+          "action": "269",
+          "action_kind": "prime-or-special",
+          "represented_action": "269",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "AXA|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "AX|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "AX",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "AA2246TJJQQK",
+          "represented_action": "AA2246TJJQQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "X9K9799Q537A",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 112246101111121213,
+          "digit_count": 18,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 7,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "245677999TJJQQQKK",
+          "represented_action": "245677999TJJQQQKK",
+          "play_count": 17,
+          "consumed_count": 17,
+          "hand_before": 17,
+          "hand_after_draw": 17,
+          "draw": null,
+          "penalty": "K562TA729AX24AXA3",
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 2456779991011111212121313,
+          "digit_count": 25,
+          "digit_gain": 8
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 9,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQQTJ",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 34,
+          "hand_after_draw": 34,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131312121011,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "AA2246TJJQQK",
+            "represented_action": "AA2246TJJQQK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "X9K9799Q537A",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 112246101111121213,
+            "digit_count": 18,
+            "digit_gain": 6
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-008",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 9 | もりしー vs nishimura | start=spreadsheet\nもりしー:(AXKQ38X73Q2)\nnishimura:(58472J4787J)\nもりしー:3Q3A\nnishimura:D(3)778J=445*2378J,P(5K5KK9T6TQA4)\nもりしー:278KXQX|X=J|X=J#",
+      "initial_hands": {
+        "もりしー": "AXKQ38X73Q2",
+        "nishimura": "58472J4787J"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "3Q3A",
+          "revolution": false,
+          "draw": null,
+          "action": "3Q3A",
+          "action_kind": "prime-or-special",
+          "represented_action": "3Q3A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(3)778J=445*2378J,P(5K5KK9T6TQA4)",
+          "revolution": false,
+          "draw": "3",
+          "action": "778J=445*2378J",
+          "action_kind": "composite",
+          "represented_action": "778J",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5K5KK9T6TQA4",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "278KXQX|X=J|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "278KXQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "278KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "J",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "278KXQX",
+          "represented_action": "278KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 27813111211,
+          "digit_count": 11,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "3Q3A",
+            "represented_action": "3Q3A",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 31231,
+            "digit_count": 5,
+            "digit_gain": 1
+          },
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 3,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "278KXQX",
+            "represented_action": "278KJQJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 27813111211,
+            "digit_count": 11,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-009",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 10 | nishimura vs もりしー | start=spreadsheet\nnishimura:(8945935Q968)\nもりしー:(T36T2A7KTAQ)\nnishimura:D(4)Q34455688999,P(2J4X64QA7A3K)\nもりしー:D(K)KKA3TAQTT267,P(T8J5QJ2J59K7)\nnishimura:998844752366XJAAQQK|X=T\nもりしー:D(2)77552862AATTTTJQKJK,P(836X7)\nnishimura:95443#",
+      "initial_hands": {
+        "nishimura": "8945935Q968",
+        "もりしー": "T36T2A7KTAQ"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(4)Q34455688999,P(2J4X64QA7A3K)",
+          "revolution": false,
+          "draw": "4",
+          "action": "Q34455688999",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q34455688999",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2J4X64QA7A3K",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)KKA3TAQTT267,P(T8J5QJ2J59K7)",
+          "revolution": false,
+          "draw": "K",
+          "action": "KKA3TAQTT267",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKA3TAQTT267",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T8J5QJ2J59K7",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "998844752366XJAAQQK|X=T",
+          "revolution": false,
+          "draw": null,
+          "action": "998844752366XJAAQQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "998844752366TJAAQQK",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(2)77552862AATTTTJQKJK,P(836X7)",
+          "revolution": false,
+          "draw": "2",
+          "action": "77552862AATTTTJQKJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "77552862AATTTTJQKJK",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "836X7",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "95443#",
+          "revolution": false,
+          "draw": null,
+          "action": "95443",
+          "action_kind": "prime-or-special",
+          "represented_action": "95443",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q34455688999",
+          "represented_action": "Q34455688999",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "2J4X64QA7A3K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1234455688999,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "998844752366XJAAQQK",
+          "represented_action": "998844752366TJAAQQK",
+          "play_count": 19,
+          "consumed_count": 19,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 998844752366101111121213,
+          "digit_count": 24,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q34455688999",
+            "represented_action": "Q34455688999",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "2J4X64QA7A3K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1234455688999,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-010",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 11 | もりしー vs nishimura | start=spreadsheet\nもりしー:(K2J2527T7X2)\nnishimura:(7ATJ9Q58TQK)\nもりしー:D(A)57[GC]\nもりしー:D(A)222KTAXA2J|X=0\nnishimura:D(9)TTJQA57899,P(3684635638)\nもりしー:7#",
+      "initial_hands": {
+        "もりしー": "K2J2527T7X2",
+        "nishimura": "7ATJ9Q58TQK"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(A)222KTAXA2J|X=0",
+          "revolution": false,
+          "draw": "A",
+          "action": "222KTAXA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "222KTA0A2J",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)TTJQA57899,P(3684635638)",
+          "revolution": false,
+          "draw": "9",
+          "action": "TTJQA57899",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJQA57899",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3684635638",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "7#",
+          "revolution": false,
+          "draw": null,
+          "action": "7",
+          "action_kind": "prime-or-special",
+          "represented_action": "7",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 2,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "222KTAXA2J",
+          "represented_action": "222KTA0A2J",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2221310101211,
+          "digit_count": 13,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 2,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "222KTAXA2J",
+            "represented_action": "222KTA0A2J",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "A",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 2221310101211,
+            "digit_count": 13,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-011",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 12 | nishimura vs もりしー | start=spreadsheet\nnishimura:(A8QQJ535996)\nもりしー:(279K2T486K4)\nnishimura:D(3)JQQA33556899,P(5KA54AQ39288)\nもりしー:D(J)K4K4286279TJ,P(6J2XXQ74K3TJ)\nnishimura:D(6)JAAAQQQK23334555566888999,P(T7AT7)\nもりしー:987672X43|X=9\nnishimura:998865257,P()\nもりしー:4=2*2\nnishimura:D(9)K\nもりしー:D(8)X[IN]\nもりしー:D(7)KKKQTTJJJ\nnishimura:D(6)%\nもりしー:8647#",
+      "initial_hands": {
+        "nishimura": "A8QQJ535996",
+        "もりしー": "279K2T486K4"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "D(3)JQQA33556899,P(5KA54AQ39288)",
+          "revolution": false,
+          "draw": "3",
+          "action": "JQQA33556899",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQQA33556899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "5KA54AQ39288",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(J)K4K4286279TJ,P(6J2XXQ74K3TJ)",
+          "revolution": false,
+          "draw": "J",
+          "action": "K4K4286279TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "K4K4286279TJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6J2XXQ74K3TJ",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)JAAAQQQK23334555566888999,P(T7AT7)",
+          "revolution": false,
+          "draw": "6",
+          "action": "JAAAQQQK23334555566888999",
+          "action_kind": "prime-or-special",
+          "represented_action": "JAAAQQQK23334555566888999",
+          "play_count": 25,
+          "consumed_count": 25,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T7AT7",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "987672X43|X=9",
+          "revolution": false,
+          "draw": null,
+          "action": "987672X43",
+          "action_kind": "prime-or-special",
+          "represented_action": "987672943",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "998865257,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "998865257",
+          "action_kind": "prime-or-special",
+          "represented_action": "998865257",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "4=2*2",
+          "revolution": false,
+          "draw": null,
+          "action": "4=2*2",
+          "action_kind": "composite",
+          "represented_action": "4",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)K",
+          "revolution": false,
+          "draw": "9",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)X[IN]",
+          "revolution": false,
+          "draw": "8",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)KKKQTTJJJ",
+          "revolution": false,
+          "draw": "7",
+          "action": "KKKQTTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQTTJJJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "8647#",
+          "revolution": false,
+          "draw": null,
+          "action": "8647",
+          "action_kind": "prime-or-special",
+          "represented_action": "8647",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JQQA33556899",
+          "represented_action": "JQQA33556899",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "5KA54AQ39288",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111212133556899,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 3,
+          "player": "nishimura",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "JAAAQQQK23334555566888999",
+          "represented_action": "JAAAQQQK23334555566888999",
+          "play_count": 25,
+          "consumed_count": 25,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "6",
+          "penalty": "T7AT7",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 111111212121323334555566888999,
+          "digit_count": 30,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 5,
+          "player": "nishimura",
+          "winner": "もりしー",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "998865257",
+          "represented_action": "998865257",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 30,
+          "hand_after_draw": 30,
+          "draw": null,
+          "penalty": "",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 998865257,
+          "digit_count": 9,
+          "digit_gain": 0
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "もりしー",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "もりしー",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JQQA33556899",
+            "represented_action": "JQQA33556899",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "5KA54AQ39288",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 111212133556899,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-012",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 13 | もりしー vs nishimura | start=spreadsheet\nもりしー:(297JAKQXT58)\nnishimura:(KA33T424764)\nもりしー:8QTJK9A2X57|X=4#",
+      "initial_hands": {
+        "もりしー": "297JAKQXT58",
+        "nishimura": "KA33T424764"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "8QTJK9A2X57|X=4#",
+          "revolution": false,
+          "draw": null,
+          "action": "8QTJK9A2X57",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJK9A2457",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "dual-wield-inferred",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "8QTJK9A2X57",
+          "represented_action": "8QTJK9A2457",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 812101113912457,
+          "digit_count": 15,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "dual-wield-inferred",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8QTJK9A2X57",
+            "represented_action": "8QTJK9A2457",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 812101113912457,
+            "digit_count": 15,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-013",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 14 | nishimura vs もりしー | start=spreadsheet\nnishimura:(K9J3QKAJA25)\nもりしー:(K366JA248Q9)\nnishimura:A3KKQA2JJ\nもりしー:%\nnishimura:59#",
+      "initial_hands": {
+        "nishimura": "K9J3QKAJA25",
+        "もりしー": "K366JA248Q9"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "A3KKQA2JJ",
+          "revolution": false,
+          "draw": null,
+          "action": "A3KKQA2JJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3KKQA2JJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "59#",
+          "revolution": false,
+          "draw": null,
+          "action": "59",
+          "action_kind": "prime-or-special",
+          "represented_action": "59",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "A3KKQA2JJ",
+          "represented_action": "A3KKQA2JJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13131312121111,
+          "digit_count": 14,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "A3KKQA2JJ",
+            "represented_action": "A3KKQA2JJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13131312121111,
+            "digit_count": 14,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "KJQ",
+          "face_count": 3,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-014",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "もりしー",
+      "second_player": "nishimura",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 15 | もりしー vs nishimura | start=spreadsheet\nもりしー:(99Q6QJT8TA9)\nnishimura:(4X7AQKX2348)\nもりしー:D(4)99864A,P(A7823J)\nnishimura:D(3)43\nもりしー:D(5)57[GC]\nもりしー:D(9)982643\nnishimura:D(Q)7QQK34=2A*X8X|X=A|X=0,P(57TKKA52378)\nもりしー:D(2)QTQTJJ99982AA,P(T6J5K6J464357)\nnishimura:D(9)29\nもりしー:D(8)57[GC]\nもりしー:D(2)2866998244A\nnishimura:D(6)8874236ATA3\nもりしー:D(4)96KQQTTJTJJ,P(32957)\nnishimura:KKKQQXX|X=Q|X=J\nもりしー:%\nnishimura:57[GC]\nnishimura:57[GC]#",
+      "initial_hands": {
+        "もりしー": "99Q6QJT8TA9",
+        "nishimura": "4X7AQKX2348"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(4)99864A,P(A7823J)",
+          "revolution": false,
+          "draw": "4",
+          "action": "99864A",
+          "action_kind": "prime-or-special",
+          "represented_action": "99864A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A7823J",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(3)43",
+          "revolution": false,
+          "draw": "3",
+          "action": "43",
+          "action_kind": "prime-or-special",
+          "represented_action": "43",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)982643",
+          "revolution": false,
+          "draw": "9",
+          "action": "982643",
+          "action_kind": "prime-or-special",
+          "represented_action": "982643",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(Q)7QQK34=2A*X8X|X=A|X=0,P(57TKKA52378)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "7QQK34=2A*X8X",
+          "action_kind": "composite",
+          "represented_action": "7QQK34",
+          "play_count": 6,
+          "consumed_count": 11,
+          "joker_values": [
+            "A",
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "57TKKA52378",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(2)QTQTJJ99982AA,P(T6J5K6J464357)",
+          "revolution": false,
+          "draw": "2",
+          "action": "QTQTJJ99982AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTJJ99982AA",
+          "play_count": 13,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T6J5K6J464357",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(9)29",
+          "revolution": false,
+          "draw": "9",
+          "action": "29",
+          "action_kind": "prime-or-special",
+          "represented_action": "29",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(8)57[GC]",
+          "revolution": false,
+          "draw": "8",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(2)2866998244A",
+          "revolution": false,
+          "draw": "2",
+          "action": "2866998244A",
+          "action_kind": "prime-or-special",
+          "represented_action": "2866998244A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "D(6)8874236ATA3",
+          "revolution": false,
+          "draw": "6",
+          "action": "8874236ATA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "8874236ATA3",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(4)96KQQTTJTJJ,P(32957)",
+          "revolution": false,
+          "draw": "4",
+          "action": "96KQQTTJTJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "96KQQTTJTJJ",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "32957",
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "KKKQQXX|X=Q|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]#",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 6,
+          "player": "もりしー",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "QTQTJJ99982AA",
+          "represented_action": "QTQTJJ99982AA",
+          "play_count": 13,
+          "consumed_count": 13,
+          "hand_before": 12,
+          "hand_after_draw": 13,
+          "draw": "2",
+          "penalty": "T6J5K6J464357",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1210121011119998211,
+          "digit_count": 19,
+          "digit_gain": 6
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 9,
+          "player": "もりしー",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "2866998244A",
+          "represented_action": "2866998244A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 25,
+          "hand_after_draw": 26,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 28669982441,
+          "digit_count": 11,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 11,
+          "player": "もりしー",
+          "winner": "nishimura",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "96KQQTTJTJJ",
+          "represented_action": "96KQQTTJTJJ",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 15,
+          "hand_after_draw": 16,
+          "draw": "4",
+          "penalty": "32957",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 96131212101011101111,
+          "digit_count": 20,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "nishimura",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "nishimura",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "99864A",
+            "represented_action": "99864A",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "A7823J",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 998641,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-015",
+      "players": [
+        "もりしー",
+        "nishimura"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "nishimura",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第33試合 251227金剛戦数譜.docx | game 16 | nishimura vs もりしー | start=spreadsheet\nnishimura:(T5X7AK524JK)\nもりしー:(836954J8T9Q)\nnishimura:KJTK\nもりしー:D(T)%\nnishimura:5X|X=7[GC]\nnishimura:57[GC]\nnishimura:42A#",
+      "initial_hands": {
+        "nishimura": "T5X7AK524JK",
+        "もりしー": "836954J8T9Q"
+      },
+      "events": [
+        {
+          "player": "nishimura",
+          "raw": "KJTK",
+          "revolution": false,
+          "draw": null,
+          "action": "KJTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "5X|X=7[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "5X",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "nishimura",
+          "raw": "42A#",
+          "revolution": false,
+          "draw": null,
+          "action": "42A",
+          "action_kind": "prime-or-special",
+          "represented_action": "42A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "nishimura",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJTK",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "nishimura",
+          "winner": "nishimura",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJTK",
+          "represented_action": "KJTK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111013,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "nishimura",
+        "winner": "nishimura",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第33試合 251227金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "nishimura",
+            "winner": "nishimura",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJTK",
+            "represented_action": "KJTK",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111013,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第33試合-251227金剛戦数譜-docx-016",
+      "players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-033",
+      "match_no": 33,
+      "match_label": "第33試合",
+      "match_players": [
+        "nishimura",
+        "もりしー"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

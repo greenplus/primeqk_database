@@ -1,0 +1,3110 @@
+{
+  "match_id": "金剛戦-第2期-match-037",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 37,
+  "match_label": "第37試合",
+  "players": [
+    "3TK",
+    "mickey"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 1 | 3TK vs mickey | start=spreadsheet\n3TK:(TA6852JQ4K4)\nmickey:(2KKT9879435)\n3TK:D(2)KQ=2^5*4A\nmickey:D(X)KK=245798*TX93|X=6,P(JQT7X89672TQ)\n3TK:2468TJ,P(K93657)\nmickey:98776422X|X=A\n3TK:D(A)8T64392KA\nmickey:KKXTQTQTJ|X=K\n3TK:D(Q)%\nmickey:57[GC]\nmickey:9839#",
+      "initial_hands": {
+        "3TK": "TA6852JQ4K4",
+        "mickey": "2KKT9879435"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(2)KQ=2^5*4A",
+          "revolution": false,
+          "draw": "2",
+          "action": "KQ=2^5*4A",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)KK=245798*TX93|X=6,P(JQT7X89672TQ)",
+          "revolution": false,
+          "draw": "X",
+          "action": "KK=245798*TX93",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "JQT7X89672TQ",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "2468TJ,P(K93657)",
+          "revolution": false,
+          "draw": null,
+          "action": "2468TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "2468TJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K93657",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98776422X|X=A",
+          "revolution": false,
+          "draw": null,
+          "action": "98776422X",
+          "action_kind": "prime-or-special",
+          "represented_action": "98776422A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(A)8T64392KA",
+          "revolution": false,
+          "draw": "A",
+          "action": "8T64392KA",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T64392KA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKXTQTQTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKXTQTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKTQTQTJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9839#",
+          "revolution": false,
+          "draw": null,
+          "action": "9839",
+          "action_kind": "prime-or-special",
+          "represented_action": "9839",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "trumps",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が合成数切り札 KQ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KQ=2^5*4A",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 5,
+          "player": "3TK",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "8T64392KA",
+          "represented_action": "8T64392KA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 12,
+          "hand_after_draw": 13,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81064392131,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KQ=2^5*4A",
+            "represented_action": "KQ",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-001",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 2 | mickey vs 3TK | start=spreadsheet\nmickey:(8TAK7Q37J54)\n3TK:(3J78A47365K)\nmickey:D(X)KXQTJ|X=K\n3TK:D(J)%\nmickey:57[GC]\nmickey:847A3#",
+      "initial_hands": {
+        "mickey": "8TAK7Q37J54",
+        "3TK": "3J78A47365K"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(X)KXQTJ|X=K",
+          "revolution": false,
+          "draw": "X",
+          "action": "KXQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "847A3#",
+          "revolution": false,
+          "draw": null,
+          "action": "847A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "847A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KXQTJ",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "X",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KXQTJ",
+            "represented_action": "KKQTJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "X",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121011,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "3TK",
+          "face_cards": "JKJ",
+          "face_count": 3,
+          "next_draw": "J",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-002",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 3 | 3TK vs mickey | start=spreadsheet\n3TK:(7558Q983T79)\nmickey:(45A3JTTA72A)\n3TK:D(4)39TQ85479\nmickey:D(X)4A2TJTXA3|X=J\n3TK:D(6)%\nmickey:A57#",
+      "initial_hands": {
+        "3TK": "7558Q983T79",
+        "mickey": "45A3JTTA72A"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(4)39TQ85479",
+          "revolution": false,
+          "draw": "4",
+          "action": "39TQ85479",
+          "action_kind": "prime-or-special",
+          "represented_action": "39TQ85479",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)4A2TJTXA3|X=J",
+          "revolution": false,
+          "draw": "X",
+          "action": "4A2TJTXA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "4A2TJTJA3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A57#",
+          "revolution": false,
+          "draw": null,
+          "action": "A57",
+          "action_kind": "prime-or-special",
+          "represented_action": "A57",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "39TQ85479",
+          "represented_action": "39TQ85479",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 39101285479,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "39TQ85479",
+            "represented_action": "39TQ85479",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 39101285479,
+            "digit_count": 11,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-003",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 4 | mickey vs 3TK | start=spreadsheet\nmickey:(AT578TJ2K84)\n3TK:(2AA7J9A6J8Q)\nmickey:D(Q)57[GC]\nmickey:D(3)K8A38TTQ24J,P(QK724Q4954T)\n3TK:D(J)AJAJA28Q6J97,P(66998XX5K753)\nmickey:D(2)57[GC]\nmickey:D(6)248248T4T4Q3QA269TJQKK,P(T3K35757)\n3TK:X[IN]\n3TK:D(X)A729[RR]\nmickey:%\n3TK:D(A)89KJQJ\nmickey:D(7)842423\n3TK:AX6669|X=0\nmickey:%\n3TK:853\nmickey:D(2)A27=9T8T*3324455677TTJQQQKKK,P(989KJQJ842423AX6669)\n3TK:AXA|X=0\nmickey:%\n3TK:57J#",
+      "initial_hands": {
+        "mickey": "AT578TJ2K84",
+        "3TK": "2AA7J9A6J8Q"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)K8A38TTQ24J,P(QK724Q4954T)",
+          "revolution": false,
+          "draw": "3",
+          "action": "K8A38TTQ24J",
+          "action_kind": "prime-or-special",
+          "represented_action": "K8A38TTQ24J",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QK724Q4954T",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(J)AJAJA28Q6J97,P(66998XX5K753)",
+          "revolution": false,
+          "draw": "J",
+          "action": "AJAJA28Q6J97",
+          "action_kind": "prime-or-special",
+          "represented_action": "AJAJA28Q6J97",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "66998XX5K753",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)57[GC]",
+          "revolution": false,
+          "draw": "2",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)248248T4T4Q3QA269TJQKK,P(T3K35757)",
+          "revolution": false,
+          "draw": "6",
+          "action": "248248T4T4Q3QA269TJQKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "248248T4T4Q3QA269TJQKK",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T3K35757",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(X)A729[RR]",
+          "revolution": false,
+          "draw": "X",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(A)89KJQJ",
+          "revolution": false,
+          "draw": "A",
+          "action": "89KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "89KJQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)842423",
+          "revolution": false,
+          "draw": "7",
+          "action": "842423",
+          "action_kind": "prime-or-special",
+          "represented_action": "842423",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "AX6669|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX6669",
+          "action_kind": "prime-or-special",
+          "represented_action": "A06669",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "853",
+          "revolution": false,
+          "draw": null,
+          "action": "853",
+          "action_kind": "prime-or-special",
+          "represented_action": "853",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)A27=9T8T*3324455677TTJQQQKKK,P(989KJQJ842423AX6669)",
+          "revolution": false,
+          "draw": "2",
+          "action": "A27=9T8T*3324455677TTJQQQKKK",
+          "action_kind": "composite",
+          "represented_action": "A27",
+          "play_count": 3,
+          "consumed_count": 26,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "989KJQJ842423AX6669",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "AXA|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AXA",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "57J#",
+          "revolution": false,
+          "draw": null,
+          "action": "57J",
+          "action_kind": "prime-or-special",
+          "represented_action": "57J",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "3TK",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "K8A38TTQ24J",
+          "represented_action": "K8A38TTQ24J",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "3",
+          "penalty": "QK724Q4954T",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1381381010122411,
+          "digit_count": 16,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "3TK",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "248248T4T4Q3QA269TJQKK",
+          "represented_action": "248248T4T4Q3QA269TJQKK",
+          "play_count": 22,
+          "consumed_count": 22,
+          "hand_before": 21,
+          "hand_after_draw": 22,
+          "draw": "6",
+          "penalty": "T3K35757",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2482481041041231212691011121313,
+          "digit_count": 31,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "mickey",
+        "winner": "3TK",
+        "player_won": false,
+        "turn_index": 2,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "3TK",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "K8A38TTQ24J",
+            "represented_action": "K8A38TTQ24J",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "3",
+            "penalty": "QK724Q4954T",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1381381010122411,
+            "digit_count": 16,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-004",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 5 | 3TK vs mickey | start=spreadsheet\n3TK:(854T9KTTJ7J)\nmickey:(AK48627XA46)\n3TK:D(6)57[GC]\n3TK:D(Q)4TJQTTK\nmickey:D(J)%\n3TK:896J#",
+      "initial_hands": {
+        "3TK": "854T9KTTJ7J",
+        "mickey": "AK48627XA46"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(Q)4TJQTTK",
+          "revolution": false,
+          "draw": "Q",
+          "action": "4TJQTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "4TJQTTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "896J#",
+          "revolution": false,
+          "draw": null,
+          "action": "896J",
+          "action_kind": "prime-or-special",
+          "represented_action": "896J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 2,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "4TJQTTK",
+          "represented_action": "4TJQTTK",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 4101112101013,
+          "digit_count": 13,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 2,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "4TJQTTK",
+            "represented_action": "4TJQTTK",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "Q",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 4101112101013,
+            "digit_count": 13,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "KXJ",
+          "face_count": 3,
+          "next_draw": "J",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-005",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 6 | mickey vs 3TK | start=spreadsheet\nmickey:(K6J8Q878T35)\n3TK:(7A4QT367398)\nmickey:D(T)8TQTKJ\n3TK:D(9)%\nmickey:57[GC]\nmickey:8863#",
+      "initial_hands": {
+        "mickey": "K6J8Q878T35",
+        "3TK": "7A4QT367398"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(T)8TQTKJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "8TQTKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8TQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "8863#",
+          "revolution": false,
+          "draw": null,
+          "action": "8863",
+          "action_kind": "prime-or-special",
+          "represented_action": "8863",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "8TQTKJ",
+          "represented_action": "8TQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81012101311,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "8TQTKJ",
+            "represented_action": "8TQTKJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 81012101311,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "3TK",
+          "face_cards": "QT",
+          "face_count": 2,
+          "next_draw": "9",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-006",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 7 | 3TK vs mickey | start=spreadsheet\n3TK:(K94678363A4)\nmickey:(K8TX7AA6KKT)\n3TK:D(A)A34K4386A769#",
+      "initial_hands": {
+        "3TK": "K94678363A4",
+        "mickey": "K8TX7AA6KKT"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(A)A34K4386A769#",
+          "revolution": false,
+          "draw": "A",
+          "action": "A34K4386A769",
+          "action_kind": "prime-or-special",
+          "represented_action": "A34K4386A769",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A34K4386A769",
+          "represented_action": "A34K4386A769",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 1341343861769,
+          "digit_count": 13,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A34K4386A769",
+            "represented_action": "A34K4386A769",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 1341343861769,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-007",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 8 | mickey vs 3TK | start=spreadsheet\nmickey:(K99Q6T2J377)\n3TK:(4282K549A32)\nmickey:D(6)9372QJTK\n3TK:D(Q)%\nmickey:7669#",
+      "initial_hands": {
+        "mickey": "K99Q6T2J377",
+        "3TK": "4282K549A32"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(6)9372QJTK",
+          "revolution": false,
+          "draw": "6",
+          "action": "9372QJTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9372QJTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "7669#",
+          "revolution": false,
+          "draw": null,
+          "action": "7669",
+          "action_kind": "prime-or-special",
+          "represented_action": "7669",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-008",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 9 | 3TK vs mickey | start=spreadsheet\n3TK:(A95AA477TK5)\nmickey:(5KTJ853TK6Q)\n3TK:D(7)A57A579K4TA7,P(8QJ686XT26XQ)\nmickey:D(9)T5T5K6K8JQ93,P(4J323A29J3K2)\n3TK:D(4)A729[RR]\nmickey:A233,P(74Q9)\n3TK:QTQTKJ\nmickey:994323,P(8A729)\n3TK:AX666A|X=0\nmickey:D(Q)%\n3TK:57[GC]\n3TK:57[GC]\n3TK:8448X|X=A#",
+      "initial_hands": {
+        "3TK": "A95AA477TK5",
+        "mickey": "5KTJ853TK6Q"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(7)A57A579K4TA7,P(8QJ686XT26XQ)",
+          "revolution": false,
+          "draw": "7",
+          "action": "A57A579K4TA7",
+          "action_kind": "prime-or-special",
+          "represented_action": "A57A579K4TA7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8QJ686XT26XQ",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)T5T5K6K8JQ93,P(4J323A29J3K2)",
+          "revolution": false,
+          "draw": "9",
+          "action": "T5T5K6K8JQ93",
+          "action_kind": "prime-or-special",
+          "represented_action": "T5T5K6K8JQ93",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4J323A29J3K2",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(4)A729[RR]",
+          "revolution": false,
+          "draw": "4",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A233,P(74Q9)",
+          "revolution": false,
+          "draw": null,
+          "action": "A233",
+          "action_kind": "prime-or-special",
+          "represented_action": "A233",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "74Q9",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "QTQTKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QTQTKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "994323,P(8A729)",
+          "revolution": false,
+          "draw": null,
+          "action": "994323",
+          "action_kind": "prime-or-special",
+          "represented_action": "994323",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8A729",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "AX666A|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX666A",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0666A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "8448X|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "8448X",
+          "action_kind": "prime-or-special",
+          "represented_action": "8448A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A57A579K4TA7",
+          "represented_action": "A57A579K4TA7",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "8QJ686XT26XQ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 15715791341017,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 5,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "QTQTKJ",
+          "represented_action": "QTQTKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 21,
+          "hand_after_draw": 21,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 121012101311,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A57A579K4TA7",
+            "represented_action": "A57A579K4TA7",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "8QJ686XT26XQ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 15715791341017,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-009",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 10 | mickey vs 3TK | start=spreadsheet\nmickey:(K7933A3TQ54)\n3TK:(Q5TA249XKAT)\nmickey:D(X)57[GC]\nmickey:D(6)964QKA3TX3|X=A\n3TK:D(J)952TQTAXKJ|X=3,P(JK25K98867)\nmickey:3#",
+      "initial_hands": {
+        "mickey": "K7933A3TQ54",
+        "3TK": "Q5TA249XKAT"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)964QKA3TX3|X=A",
+          "revolution": false,
+          "draw": "6",
+          "action": "964QKA3TX3",
+          "action_kind": "prime-or-special",
+          "represented_action": "964QKA3TA3",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(J)952TQTAXKJ|X=3,P(JK25K98867)",
+          "revolution": false,
+          "draw": "J",
+          "action": "952TQTAXKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "952TQTA3KJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "JK25K98867",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "3#",
+          "revolution": false,
+          "draw": null,
+          "action": "3",
+          "action_kind": "prime-or-special",
+          "represented_action": "3",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "964QKA3TX3",
+          "represented_action": "964QKA3TA3",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "6",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9641213131013,
+          "digit_count": 13,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "964QKA3TX3",
+            "represented_action": "964QKA3TA3",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "6",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9641213131013,
+            "digit_count": 13,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-010",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 11 | 3TK vs mickey | start=spreadsheet\n3TK:(8263465X45Q)\nmickey:(76AT5AATJK9)\n3TK:D(9)44682X5Q9|X=2\nmickey:D(K)TATAK5K7J,P(JQT8A4953)\n3TK:653#",
+      "initial_hands": {
+        "3TK": "8263465X45Q",
+        "mickey": "76AT5AATJK9"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(9)44682X5Q9|X=2",
+          "revolution": false,
+          "draw": "9",
+          "action": "44682X5Q9",
+          "action_kind": "prime-or-special",
+          "represented_action": "4468225Q9",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)TATAK5K7J,P(JQT8A4953)",
+          "revolution": false,
+          "draw": "K",
+          "action": "TATAK5K7J",
+          "action_kind": "prime-or-special",
+          "represented_action": "TATAK5K7J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "JQT8A4953",
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "653#",
+          "revolution": false,
+          "draw": null,
+          "action": "653",
+          "action_kind": "prime-or-special",
+          "represented_action": "653",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "3TK",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "44682X5Q9",
+          "represented_action": "4468225Q9",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 4468225129,
+          "digit_count": 10,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "3TK",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "3TK",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "44682X5Q9",
+            "represented_action": "4468225Q9",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 4468225129,
+            "digit_count": 10,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-011",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 12 | mickey vs 3TK | start=spreadsheet\nmickey:(273K4869A3J)\n3TK:(3K6259T48QA)\nmickey:986437JA2K\n3TK:D(Q)986QQ543TK\nmickey:%\n3TK:D(8)82A#",
+      "initial_hands": {
+        "mickey": "273K4869A3J",
+        "3TK": "3K6259T48QA"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "986437JA2K",
+          "revolution": false,
+          "draw": null,
+          "action": "986437JA2K",
+          "action_kind": "prime-or-special",
+          "represented_action": "986437JA2K",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(Q)986QQ543TK",
+          "revolution": false,
+          "draw": "Q",
+          "action": "986QQ543TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "986QQ543TK",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(8)82A#",
+          "revolution": false,
+          "draw": "8",
+          "action": "82A",
+          "action_kind": "prime-or-special",
+          "represented_action": "82A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "3TK",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が10枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "3TK",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "986437JA2K",
+          "represented_action": "986437JA2K",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 986437111213,
+          "digit_count": 12,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "3TK",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "3TK",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "986437JA2K",
+            "represented_action": "986437JA2K",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 986437111213,
+            "digit_count": 12,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-012",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 13 | 3TK vs mickey | start=spreadsheet\n3TK:(88J34A4AQTJ)\nmickey:(6XXK9AA5K87)\n3TK:D(2)848QJTA2J\nmickey:986KKAAXX|X=Q|X=J\n3TK:%\nmickey:57[GC]#",
+      "initial_hands": {
+        "3TK": "88J34A4AQTJ",
+        "mickey": "6XXK9AA5K87"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(2)848QJTA2J",
+          "revolution": false,
+          "draw": "2",
+          "action": "848QJTA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "848QJTA2J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "986KKAAXX|X=Q|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "986KKAAXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "986KKAAQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "Q",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]#",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "848QJTA2J",
+          "represented_action": "848QJTA2J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 8481211101211,
+          "digit_count": 13,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "3TK",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "848QJTA2J",
+            "represented_action": "848QJTA2J",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8481211101211,
+            "digit_count": 13,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-013",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 14 | mickey vs 3TK | start=spreadsheet\nmickey:(93TA2KT5AK6)\n3TK:(Q3QKAJ59TQ3)\nmickey:D(K)T9\n3TK:D(7)QK\nmickey:KK=TA*A3\n3TK:%\nmickey:652K#",
+      "initial_hands": {
+        "mickey": "93TA2KT5AK6",
+        "3TK": "Q3QKAJ59TQ3"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(K)T9",
+          "revolution": false,
+          "draw": "K",
+          "action": "T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "T9",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(7)QK",
+          "revolution": false,
+          "draw": "7",
+          "action": "QK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KK=TA*A3",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=TA*A3",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "652K#",
+          "revolution": false,
+          "draw": null,
+          "action": "652K",
+          "action_kind": "prime-or-special",
+          "represented_action": "652K",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "two-kk-factor",
+      "opening_confidence": "medium",
+      "opening_reason": "先手の次行動がKK合成数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "two-kk-factor"
+          ],
+          "contexts": [],
+          "action": "KK=TA*A3",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "two-kk-factor",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "T9",
+            "represented_action": "T9",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "K",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 109,
+            "digit_count": 3,
+            "digit_gain": 1
+          },
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "two-kk-factor"
+            ],
+            "contexts": [],
+            "action": "KK=TA*A3",
+            "represented_action": "KK",
+            "play_count": 2,
+            "consumed_count": 6,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-014",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "3TK",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 15 | 3TK vs mickey | start=spreadsheet\n3TK:(J82554J96A9)\nmickey:(45TK858JX7K)\n3TK:D(Q)6854A2JQJ,P(X6T4776JQ)\nmickey:KKJ\n3TK:D(2)%\nmickey:57[GC]\nmickey:885T4X|X=3#",
+      "initial_hands": {
+        "3TK": "J82554J96A9",
+        "mickey": "45TK858JX7K"
+      },
+      "events": [
+        {
+          "player": "3TK",
+          "raw": "D(Q)6854A2JQJ,P(X6T4776JQ)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "6854A2JQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6854A2JQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X6T4776JQ",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "3TK",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "885T4X|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "885T4X",
+          "action_kind": "prime-or-special",
+          "represented_action": "885T43",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "3TK",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "6854A2JQJ",
+          "represented_action": "6854A2JQJ",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "X6T4776JQ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 685412111211,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "3TK",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "3TK",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "6854A2JQJ",
+            "represented_action": "6854A2JQJ",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "X6T4776JQ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 685412111211,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-015",
+      "players": [
+        "3TK",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "mickey",
+      "second_player": "3TK",
+      "raw_block": "### 第2期金剛戦 第37試合 260311金剛戦数譜.docx | game 16 | mickey vs 3TK | start=spreadsheet\nmickey:(Q6XATT28K54)\n3TK:(8346AKK9642)\nmickey:D(7)57[GC]\nmickey:864TTXQA2K|X=T#",
+      "initial_hands": {
+        "mickey": "Q6XATT28K54",
+        "3TK": "8346AKK9642"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "864TTXQA2K|X=T#",
+          "revolution": false,
+          "draw": null,
+          "action": "864TTXQA2K",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TTTQA2K",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 2,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "864TTXQA2K",
+          "represented_action": "864TTTQA2K",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 10,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 864101010121213,
+          "digit_count": 15,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第37試合 260311金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 2,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "nine-plus",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-57"
+            ],
+            "action": "864TTXQA2K",
+            "represented_action": "864TTTQA2K",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 10,
+            "hand_after_draw": 10,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 864101010121213,
+            "digit_count": 15,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "3TK",
+          "face_cards": "KK",
+          "face_count": 2,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第37試合-260311金剛戦数譜-docx-016",
+      "players": [
+        "mickey",
+        "3TK"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-037",
+      "match_no": 37,
+      "match_label": "第37試合",
+      "match_players": [
+        "3TK",
+        "mickey"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

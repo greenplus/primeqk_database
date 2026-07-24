@@ -1,0 +1,3358 @@
+{
+  "match_id": "金剛戦-第2期-match-041",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 41,
+  "match_label": "第41試合",
+  "players": [
+    "mickey",
+    "カステラ"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 1,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 1 | カステラ vs mickey | start=spreadsheet\nカステラ:(J52Q6K389J6)\nmickey:(8475T3K2854)\nカステラ:8623\nmickey:D(A)84TK\nカステラ:KJQJ\nmickey:%\nカステラ:569#",
+      "initial_hands": {
+        "カステラ": "J52Q6K389J6",
+        "mickey": "8475T3K2854"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "8623",
+          "revolution": false,
+          "draw": null,
+          "action": "8623",
+          "action_kind": "prime-or-special",
+          "represented_action": "8623",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(A)84TK",
+          "revolution": false,
+          "draw": "A",
+          "action": "84TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "84TK",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "569#",
+          "revolution": false,
+          "draw": null,
+          "action": "569",
+          "action_kind": "prime-or-special",
+          "represented_action": "569",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 1,
+          "turn_index": 3,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "8623",
+            "represented_action": "8623",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8623,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 1,
+            "turn_index": 3,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-001",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 2,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 2 | mickey vs カステラ | start=spreadsheet\nmickey:(94689942TT8)\nカステラ:(34379A6KX5X)\nmickey:D(J)984984T6T9J,P(QJJTK6A75K8)\nカステラ:K\nmickey:D(8)%\nカステラ:9=3*3\nmickey:D(3)K\nカステラ:X[IN]\nカステラ:57[GC]\nカステラ:X[IN]\nカステラ:46A#",
+      "initial_hands": {
+        "mickey": "94689942TT8",
+        "カステラ": "34379A6KX5X"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)984984T6T9J,P(QJJTK6A75K8)",
+          "revolution": false,
+          "draw": "J",
+          "action": "984984T6T9J",
+          "action_kind": "prime-or-special",
+          "represented_action": "984984T6T9J",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QJJTK6A75K8",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(8)%",
+          "revolution": false,
+          "draw": "8",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "9=3*3",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3*3",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)K",
+          "revolution": false,
+          "draw": "3",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "46A#",
+          "revolution": false,
+          "draw": null,
+          "action": "46A",
+          "action_kind": "prime-or-special",
+          "represented_action": "46A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "984984T6T9J",
+          "represented_action": "984984T6T9J",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "QJJTK6A75K8",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 98498410610911,
+          "digit_count": 14,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "mickey",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "984984T6T9J",
+            "represented_action": "984984T6T9J",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "QJJTK6A75K8",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 98498410610911,
+            "digit_count": 14,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-002",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 3,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 3 | カステラ vs mickey | start=spreadsheet\nカステラ:(Q45J2298Q49)\nmickey:(3A865KTKT9A)\nカステラ:D(4)Q2494Q24958J,P(TK7753JJ2X86)\nmickey:KK=TA*A3\nカステラ:%\nmickey:86T59#",
+      "initial_hands": {
+        "カステラ": "Q45J2298Q49",
+        "mickey": "3A865KTKT9A"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(4)Q2494Q24958J,P(TK7753JJ2X86)",
+          "revolution": false,
+          "draw": "4",
+          "action": "Q2494Q24958J",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q2494Q24958J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TK7753JJ2X86",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KK=TA*A3",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=TA*A3",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "86T59#",
+          "revolution": false,
+          "draw": null,
+          "action": "86T59",
+          "action_kind": "prime-or-special",
+          "represented_action": "86T59",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "Q2494Q24958J",
+          "represented_action": "Q2494Q24958J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "TK7753JJ2X86",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 122494122495811,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "Q2494Q24958J",
+            "represented_action": "Q2494Q24958J",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "4",
+            "penalty": "TK7753JJ2X86",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 122494122495811,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-003",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 4,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 4 | mickey vs カステラ | start=spreadsheet\nmickey:(97524X4578Q)\nカステラ:(J2AA58T4X9K)\nmickey:D(T)457457T2QX89|X=6,P(889243J69Q37)\nカステラ:D(T)TTKA2AJ458X9|X=6,P(AJ2AQ3TKK663)\nmickey:D(Q)57[GC]\nmickey:D(5)57[GC]\nmickey:D(7)57[GC]\nmickey:D(J)9876X432TQQQJJ|X=5\nカステラ:D(6)%\nmickey:23489489#",
+      "initial_hands": {
+        "mickey": "97524X4578Q",
+        "カステラ": "J2AA58T4X9K"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(T)457457T2QX89|X=6,P(889243J69Q37)",
+          "revolution": false,
+          "draw": "T",
+          "action": "457457T2QX89",
+          "action_kind": "prime-or-special",
+          "represented_action": "457457T2Q689",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "889243J69Q37",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)TTKA2AJ458X9|X=6,P(AJ2AQ3TKK663)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TTKA2AJ458X9",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTKA2AJ45869",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "6"
+          ],
+          "judgments": [],
+          "penalty": "AJ2AQ3TKK663",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)9876X432TQQQJJ|X=5",
+          "revolution": false,
+          "draw": "J",
+          "action": "9876X432TQQQJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98765432TQQQJJ",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "23489489#",
+          "revolution": false,
+          "draw": null,
+          "action": "23489489",
+          "action_kind": "prime-or-special",
+          "represented_action": "23489489",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "457457T2QX89",
+          "represented_action": "457457T2Q689",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "889243J69Q37",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 45745710212689,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 4,
+          "turn_index": 6,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "9876X432TQQQJJ",
+          "represented_action": "98765432TQQQJJ",
+          "play_count": 14,
+          "consumed_count": 14,
+          "hand_before": 21,
+          "hand_after_draw": 22,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 98765432101212121111,
+          "digit_count": 20,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "457457T2QX89",
+            "represented_action": "457457T2Q689",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "889243J69Q37",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 45745710212689,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-004",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 5,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 5 | カステラ vs mickey | start=spreadsheet\nカステラ:(7T63Q6A65J8)\nmickey:(T4K9X7K5374)\nカステラ:D(T)666587,P(92A2JK)\nmickey:D(2)K4K4T23577X9|X=8,P(T8A8599Q42J4)\nカステラ:D(Q)57[GC]\nカステラ:TJQA26TJQA263K869,P(3583XKQA7J657)\nmickey:998877554432KKQTTJA2X|X=J\nカステラ:%\nmickey:449#",
+      "initial_hands": {
+        "カステラ": "7T63Q6A65J8",
+        "mickey": "T4K9X7K5374"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(T)666587,P(92A2JK)",
+          "revolution": false,
+          "draw": "T",
+          "action": "666587",
+          "action_kind": "prime-or-special",
+          "represented_action": "666587",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "92A2JK",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)K4K4T23577X9|X=8,P(T8A8599Q42J4)",
+          "revolution": false,
+          "draw": "2",
+          "action": "K4K4T23577X9",
+          "action_kind": "prime-or-special",
+          "represented_action": "K4K4T2357789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": "T8A8599Q42J4",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "TJQA26TJQA263K869,P(3583XKQA7J657)",
+          "revolution": false,
+          "draw": null,
+          "action": "TJQA26TJQA263K869",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJQA26TJQA263K869",
+          "play_count": 17,
+          "consumed_count": 17,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "3583XKQA7J657",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "998877554432KKQTTJA2X|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "998877554432KKQTTJA2X",
+          "action_kind": "prime-or-special",
+          "represented_action": "998877554432KKQTTJA2J",
+          "play_count": 21,
+          "consumed_count": 21,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "449#",
+          "revolution": false,
+          "draw": null,
+          "action": "449",
+          "action_kind": "prime-or-special",
+          "represented_action": "449",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 5,
+          "turn_index": 4,
+          "player": "カステラ",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "TJQA26TJQA263K869",
+          "represented_action": "TJQA26TJQA263K869",
+          "play_count": 17,
+          "consumed_count": 17,
+          "hand_before": 17,
+          "hand_after_draw": 17,
+          "draw": null,
+          "penalty": "3583XKQA7J657",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101112126101112126313869,
+          "digit_count": 24,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "カステラ",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "666587",
+            "represented_action": "666587",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "92A2JK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 666587,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-005",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 6,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 6 | mickey vs カステラ | start=spreadsheet\nmickey:(QTX53J7J68K)\nカステラ:(4AQ9Q45829K)\nmickey:KJQJ\nカステラ:%\nmickey:57[GC]\nmickey:86XT3|X=4#",
+      "initial_hands": {
+        "mickey": "QTX53J7J68K",
+        "カステラ": "4AQ9Q45829K"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "86XT3|X=4#",
+          "revolution": false,
+          "draw": null,
+          "action": "86XT3",
+          "action_kind": "prime-or-special",
+          "represented_action": "864T3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJQJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-006",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 7,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 7 | カステラ vs mickey | start=spreadsheet\nカステラ:(KJ4TJJA9948)\nmickey:(AQQ8746TAT7)\nカステラ:D(2)94KA2JTJ\nmickey:D(5)%\nカステラ:984J#",
+      "initial_hands": {
+        "カステラ": "KJ4TJJA9948",
+        "mickey": "AQQ8746TAT7"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(2)94KA2JTJ",
+          "revolution": false,
+          "draw": "2",
+          "action": "94KA2JTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "94KA2JTJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "984J#",
+          "revolution": false,
+          "draw": null,
+          "action": "984J",
+          "action_kind": "prime-or-special",
+          "represented_action": "984J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-007",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 8,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 8 | mickey vs カステラ | start=spreadsheet\nmickey:(6X88J399A36)\nカステラ:(TK45KJJ87KK)\nmickey:D(3)368368J9A39X|X=7,P(975Q56QQAT72)\nカステラ:D(2)KKKKTJ\nmickey:D(9)%\nカステラ:57[GC]\nカステラ:482J,P(XT2J)\nmickey:D(4)57[GC]\nmickey:D(2)998876654X32A3JQTQQA3|X=4\nカステラ:%\nmickey:9629#",
+      "initial_hands": {
+        "mickey": "6X88J399A36",
+        "カステラ": "TK45KJJ87KK"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(3)368368J9A39X|X=7,P(975Q56QQAT72)",
+          "revolution": false,
+          "draw": "3",
+          "action": "368368J9A39X",
+          "action_kind": "prime-or-special",
+          "represented_action": "368368J9A397",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": "975Q56QQAT72",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)KKKKTJ",
+          "revolution": false,
+          "draw": "2",
+          "action": "KKKKTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKKTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "482J,P(XT2J)",
+          "revolution": false,
+          "draw": null,
+          "action": "482J",
+          "action_kind": "prime-or-special",
+          "represented_action": "482J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XT2J",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)998876654X32A3JQTQQA3|X=4",
+          "revolution": false,
+          "draw": "2",
+          "action": "998876654X32A3JQTQQA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "998876654432A3JQTQQA3",
+          "play_count": 21,
+          "consumed_count": 21,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9629#",
+          "revolution": false,
+          "draw": null,
+          "action": "9629",
+          "action_kind": "prime-or-special",
+          "represented_action": "9629",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "368368J9A39X",
+          "represented_action": "368368J9A397",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": "975Q56QQAT72",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 3683681191397,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 8,
+          "turn_index": 7,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "998876654X32A3JQTQQA3",
+          "represented_action": "998876654432A3JQTQQA3",
+          "play_count": 21,
+          "consumed_count": 21,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 99887665443213111210121213,
+          "digit_count": 26,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "368368J9A39X",
+            "represented_action": "368368J9A397",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": "975Q56QQAT72",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 3683681191397,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-008",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 9,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 9 | カステラ vs mickey | start=spreadsheet\nカステラ:(9QA93K784XX)\nmickey:(9563897KJAJ)\nカステラ:QK\nmickey:D(Q)KQ=JJ*876959*A3,P(4TTA67834J72)\nカステラ:9=3*X|X=3\nmickey:D(Q)K\nカステラ:X[IN]\nカステラ:9784A#",
+      "initial_hands": {
+        "カステラ": "9QA93K784XX",
+        "mickey": "9563897KJAJ"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "QK",
+          "revolution": false,
+          "draw": null,
+          "action": "QK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)KQ=JJ*876959*A3,P(4TTA67834J72)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KQ=JJ*876959*A3",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "4TTA67834J72",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "9=3*X|X=3",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3*X",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)K",
+          "revolution": false,
+          "draw": "Q",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "9784A#",
+          "revolution": false,
+          "draw": null,
+          "action": "9784A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9784A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 QK",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "QK",
+          "represented_action": "QK",
+          "play_count": 2,
+          "consumed_count": 2,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1213,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "QK",
+            "represented_action": "QK",
+            "play_count": 2,
+            "consumed_count": 2,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1213,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-009",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 10,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 10 | mickey vs カステラ | start=spreadsheet\nmickey:(5637J53K274)\nカステラ:(T22TA62KA33)\nmickey:D(T)57[GC]\nmickey:D(5)57[GC]\nmickey:D(A)6354A2JTK\nカステラ:D(K)6A2KTA2TK\nmickey:D(J)%\nカステラ:233#",
+      "initial_hands": {
+        "mickey": "5637J53K274",
+        "カステラ": "T22TA62KA33"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(T)57[GC]",
+          "revolution": false,
+          "draw": "T",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)57[GC]",
+          "revolution": false,
+          "draw": "5",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(A)6354A2JTK",
+          "revolution": false,
+          "draw": "A",
+          "action": "6354A2JTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "6354A2JTK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(K)6A2KTA2TK",
+          "revolution": false,
+          "draw": "K",
+          "action": "6A2KTA2TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "6A2KTA2TK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "233#",
+          "revolution": false,
+          "draw": null,
+          "action": "233",
+          "action_kind": "prime-or-special",
+          "represented_action": "233",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 10,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "6354A2JTK",
+          "represented_action": "6354A2JTK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 9,
+          "hand_after_draw": 10,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 635412111013,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 3,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 10,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "6354A2JTK",
+            "represented_action": "6354A2JTK",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 9,
+            "hand_after_draw": 10,
+            "draw": "A",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 635412111013,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-010",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 11,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 11 | カステラ vs mickey | start=spreadsheet\nカステラ:(AJ9576JQ389)\nmickey:(T47ATQ85J22)\nカステラ:D(6)9JQ8A3J67\nmickey:D(3)T2T2Q348J,P(8AXQJ8449)\nカステラ:569#",
+      "initial_hands": {
+        "カステラ": "AJ9576JQ389",
+        "mickey": "T47ATQ85J22"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(6)9JQ8A3J67",
+          "revolution": false,
+          "draw": "6",
+          "action": "9JQ8A3J67",
+          "action_kind": "prime-or-special",
+          "represented_action": "9JQ8A3J67",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)T2T2Q348J,P(8AXQJ8449)",
+          "revolution": false,
+          "draw": "3",
+          "action": "T2T2Q348J",
+          "action_kind": "prime-or-special",
+          "represented_action": "T2T2Q348J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "8AXQJ8449",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "569#",
+          "revolution": false,
+          "draw": null,
+          "action": "569",
+          "action_kind": "prime-or-special",
+          "represented_action": "569",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 11,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "9JQ8A3J67",
+          "represented_action": "9JQ8A3J67",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 911128131167,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "9JQ8A3J67",
+            "represented_action": "9JQ8A3J67",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 911128131167,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-011",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 12,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 12 | mickey vs カステラ | start=spreadsheet\nmickey:(5496T7936X6)\nカステラ:(3T23A498QJ3)\nmickey:D(Q)T6Q6X3456799|X=3,P(K68A7AA8Q4Q5)\nカステラ:D(J)TJJQA2333489,P(K7872242JT5T)\nmickey:D(X)57[GC]\nmickey:D(9)99887665443XKAAQTQQX|X=2|X=K\nカステラ:D(J)TTTJJJJ2223334577889,P(K5K57)\nmickey:966A#",
+      "initial_hands": {
+        "mickey": "5496T7936X6",
+        "カステラ": "3T23A498QJ3"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(Q)T6Q6X3456799|X=3,P(K68A7AA8Q4Q5)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "T6Q6X3456799",
+          "action_kind": "prime-or-special",
+          "represented_action": "T6Q633456799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "K68A7AA8Q4Q5",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(J)TJJQA2333489,P(K7872242JT5T)",
+          "revolution": false,
+          "draw": "J",
+          "action": "TJJQA2333489",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJJQA2333489",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K7872242JT5T",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)99887665443XKAAQTQQX|X=2|X=K",
+          "revolution": false,
+          "draw": "9",
+          "action": "99887665443XKAAQTQQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "998876654432KAAQTQQK",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [
+            "2",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(J)TTTJJJJ2223334577889,P(K5K57)",
+          "revolution": false,
+          "draw": "J",
+          "action": "TTTJJJJ2223334577889",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTTJJJJ2223334577889",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K5K57",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "966A#",
+          "revolution": false,
+          "draw": null,
+          "action": "966A",
+          "action_kind": "prime-or-special",
+          "represented_action": "966A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T6Q6X3456799",
+          "represented_action": "T6Q633456799",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": "K68A7AA8Q4Q5",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10612633456799,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 12,
+          "turn_index": 4,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "99887665443XKAAQTQQX",
+          "represented_action": "998876654432KAAQTQQK",
+          "play_count": 20,
+          "consumed_count": 20,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 99887665443213111210121213,
+          "digit_count": 26,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T6Q6X3456799",
+            "represented_action": "T6Q633456799",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "K68A7AA8Q4Q5",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10612633456799,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-012",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 13,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 13 | カステラ vs mickey | start=spreadsheet\nカステラ:(J92437X5JK4)\nmickey:(A28A778KTTT)\nカステラ:2579\nmickey:D(6)8TT8=TK7*672AA,P(Q665A899263T)\nカステラ:443KJXJ|X=Q#",
+      "initial_hands": {
+        "カステラ": "J92437X5JK4",
+        "mickey": "A28A778KTTT"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "2579",
+          "revolution": false,
+          "draw": null,
+          "action": "2579",
+          "action_kind": "prime-or-special",
+          "represented_action": "2579",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(6)8TT8=TK7*672AA,P(Q665A899263T)",
+          "revolution": false,
+          "draw": "6",
+          "action": "8TT8=TK7*672AA",
+          "action_kind": "composite",
+          "represented_action": "8TT8",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q665A899263T",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "443KJXJ|X=Q#",
+          "revolution": false,
+          "draw": null,
+          "action": "443KJXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "443KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 13,
+          "turn_index": 3,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "443KJXJ",
+          "represented_action": "443KJQJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 44313111211,
+          "digit_count": 11,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "2579",
+            "represented_action": "2579",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 2579,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 13,
+            "turn_index": 3,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "443KJXJ",
+            "represented_action": "443KJQJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 44313111211,
+            "digit_count": 11,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-013",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 14,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 14 | mickey vs カステラ | start=spreadsheet\nmickey:(75ATKJ43KQX)\nカステラ:(7K8K67Q938J)\nmickey:D(8)KKQXJ|X=K\nカステラ:%\nmickey:57[GC]\nmickey:84TA3#",
+      "initial_hands": {
+        "mickey": "75ATKJ43KQX",
+        "カステラ": "7K8K67Q938J"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(8)KKQXJ|X=K",
+          "revolution": false,
+          "draw": "8",
+          "action": "KKQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "84TA3#",
+          "revolution": false,
+          "draw": null,
+          "action": "84TA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "84TA3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KKQXJ",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121311,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KKQXJ",
+            "represented_action": "KKQKJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121311,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "カステラ",
+          "face_cards": "KKQJ",
+          "face_count": 4,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-014",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 15,
+      "first_player": "カステラ",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 15 | カステラ vs mickey | start=spreadsheet\nカステラ:(K292JX4TQ23)\nmickey:(8A37K4Q578J)\nカステラ:D(7)KQ=2^3*2*2*4X|X=A\nmickey:D(K)KK=QJ8*5743A78,P(29K3AXJ55685)\nカステラ:97TJ,P(6JA4)\nmickey:A889568=2^5*3^5*3^5\nカステラ:D(8)TJJ6789,P(T9QQ379)\nmickey:KKKQXJJ|X=Q\nカステラ:%\nmickey:774A#",
+      "initial_hands": {
+        "カステラ": "K292JX4TQ23",
+        "mickey": "8A37K4Q578J"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(7)KQ=2^3*2*2*4X|X=A",
+          "revolution": false,
+          "draw": "7",
+          "action": "KQ=2^3*2*2*4X",
+          "action_kind": "composite",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 8,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(K)KK=QJ8*5743A78,P(29K3AXJ55685)",
+          "revolution": false,
+          "draw": "K",
+          "action": "KK=QJ8*5743A78",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "29K3AXJ55685",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "97TJ,P(6JA4)",
+          "revolution": false,
+          "draw": null,
+          "action": "97TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "97TJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6JA4",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "A889568=2^5*3^5*3^5",
+          "revolution": false,
+          "draw": null,
+          "action": "A889568=2^5*3^5*3^5",
+          "action_kind": "composite",
+          "represented_action": "A889568",
+          "play_count": 7,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)TJJ6789,P(T9QQ379)",
+          "revolution": false,
+          "draw": "8",
+          "action": "TJJ6789",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJJ6789",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T9QQ379",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKQXJJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQXJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "774A#",
+          "revolution": false,
+          "draw": null,
+          "action": "774A",
+          "action_kind": "prime-or-special",
+          "represented_action": "774A",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "trumps",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が合成数切り札 KQ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KQ=2^3*2*2*4X",
+          "represented_action": "KQ",
+          "play_count": 2,
+          "consumed_count": 8,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1312,
+          "digit_count": 4,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KQ=2^3*2*2*4X",
+            "represented_action": "KQ",
+            "play_count": 2,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1312,
+            "digit_count": 4,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-015",
+      "players": [
+        "カステラ",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+      "game_no": 16,
+      "first_player": "mickey",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt | game 16 | mickey vs カステラ | start=spreadsheet\nmickey:(AA9K4455J79)\nカステラ:(2XK22TT3J48)\nmickey:D(7)J4AA4795759K,P(Q638J6AQ8KQ6)\nカステラ:D(5)TTJK2223458X|X=3,P(TQT89KJ56732)\nmickey:D(9)57[GC]\nmickey:D(X)57[GC]\nmickey:D(3)9864386AAQA3\nカステラ:D(A)848KKTTQJA2J\nmickey:D(4)9J9J4Q4QK6XK|X=Q,P(75757)\nカステラ:D(9)57[GC]\nカステラ:D(8)T69\nmickey:4Q9\nカステラ:89T=2*3^2*3^2*5*X|X=J#",
+      "initial_hands": {
+        "mickey": "AA9K4455J79",
+        "カステラ": "2XK22TT3J48"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(7)J4AA4795759K,P(Q638J6AQ8KQ6)",
+          "revolution": false,
+          "draw": "7",
+          "action": "J4AA4795759K",
+          "action_kind": "prime-or-special",
+          "represented_action": "J4AA4795759K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q638J6AQ8KQ6",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)TTJK2223458X|X=3,P(TQT89KJ56732)",
+          "revolution": false,
+          "draw": "5",
+          "action": "TTJK2223458X",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJK22234583",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": "TQT89KJ56732",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(3)9864386AAQA3",
+          "revolution": false,
+          "draw": "3",
+          "action": "9864386AAQA3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9864386AAQA3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)848KKTTQJA2J",
+          "revolution": false,
+          "draw": "A",
+          "action": "848KKTTQJA2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "848KKTTQJA2J",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(4)9J9J4Q4QK6XK|X=Q,P(75757)",
+          "revolution": false,
+          "draw": "4",
+          "action": "9J9J4Q4QK6XK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9J9J4Q4QK6QK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": "75757",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)T69",
+          "revolution": false,
+          "draw": "8",
+          "action": "T69",
+          "action_kind": "prime-or-special",
+          "represented_action": "T69",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "4Q9",
+          "revolution": false,
+          "draw": null,
+          "action": "4Q9",
+          "action_kind": "prime-or-special",
+          "represented_action": "4Q9",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "89T=2*3^2*3^2*5*X|X=J#",
+          "revolution": false,
+          "draw": null,
+          "action": "89T=2*3^2*3^2*5*X",
+          "action_kind": "composite",
+          "represented_action": "89T",
+          "play_count": 3,
+          "consumed_count": 10,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 16,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "J4AA4795759K",
+          "represented_action": "J4AA4795759K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "Q638J6AQ8KQ6",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11411479575913,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 16,
+          "turn_index": 5,
+          "player": "mickey",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "9864386AAQA3",
+          "represented_action": "9864386AAQA3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9864386111213,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+          "game_no": 16,
+          "turn_index": 7,
+          "player": "mickey",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "9J9J4Q4QK6XK",
+          "represented_action": "9J9J4Q4QK6QK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "4",
+          "penalty": "75757",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9119114124121361213,
+          "digit_count": 19,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第41試合 第2期金剛戦_20260314_カステラ-mickey.txt",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "J4AA4795759K",
+            "represented_action": "J4AA4795759K",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "Q638J6AQ8KQ6",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 11411479575913,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第41試合-第2期金剛戦_20260314_カステラ-mickey-txt-016",
+      "players": [
+        "mickey",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-041",
+      "match_no": 41,
+      "match_label": "第41試合",
+      "match_players": [
+        "mickey",
+        "カステラ"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

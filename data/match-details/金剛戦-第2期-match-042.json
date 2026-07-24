@@ -1,0 +1,4048 @@
+{
+  "match_id": "金剛戦-第2期-match-042",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 42,
+  "match_label": "第42試合",
+  "players": [
+    "さしみ",
+    "カステラ"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 1 | さしみ vs カステラ | start=spreadsheet\nさしみ:(8A2X583639Q)\nカステラ:(JAKJT698Q49)\nさしみ:D(8)986Q5X32A|X=4\nカステラ:D(3)98QK4JT69\nさしみ:D(J)%\nカステラ:D(K)KA3J#",
+      "initial_hands": {
+        "さしみ": "8A2X583639Q",
+        "カステラ": "JAKJT698Q49"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(8)986Q5X32A|X=4",
+          "revolution": false,
+          "draw": "8",
+          "action": "986Q5X32A",
+          "action_kind": "prime-or-special",
+          "represented_action": "986Q5432A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "4"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(3)98QK4JT69",
+          "revolution": false,
+          "draw": "3",
+          "action": "98QK4JT69",
+          "action_kind": "prime-or-special",
+          "represented_action": "98QK4JT69",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(J)%",
+          "revolution": false,
+          "draw": "J",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(K)KA3J#",
+          "revolution": false,
+          "draw": "K",
+          "action": "KA3J",
+          "action_kind": "prime-or-special",
+          "represented_action": "KA3J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "986Q5X32A",
+          "represented_action": "986Q5432A",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9861254321,
+          "digit_count": 10,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "986Q5X32A",
+            "represented_action": "986Q5432A",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9861254321,
+            "digit_count": 10,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-001",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 2 | カステラ vs さしみ | start=spreadsheet\nカステラ:(36AT9Q63X33)\nさしみ:(6A45Q2TJ296)\nカステラ:D(7)T3XA336679Q3|X=A,P(KA8K297J858X)\nさしみ:D(7)TJQA26426579,P(9QT5T5744QAJ)\nカステラ:D(K)%\nさしみ:D(K)57[GC]\nさしみ:D(4)57[GC]\nさしみ:D(2)T4T4J6J6Q4Q4Q2A229T9A5K,P(J85757)\nカステラ:859\nさしみ:6QJ\nカステラ:7TJ\nさしみ:QTK\nカステラ:%\nさしみ:A729[RR]\nカステラ:A663\nさしみ:D(8)A249\nカステラ:A237\nさしみ:%\nカステラ:QKK\nさしみ:257\nカステラ:D(5)X89=3^3*X|X=A|X=7\nさしみ:D(9)%\nカステラ:58K#",
+      "initial_hands": {
+        "カステラ": "36AT9Q63X33",
+        "さしみ": "6A45Q2TJ296"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(7)T3XA336679Q3|X=A,P(KA8K297J858X)",
+          "revolution": false,
+          "draw": "7",
+          "action": "T3XA336679Q3",
+          "action_kind": "prime-or-special",
+          "represented_action": "T3AA336679Q3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "KA8K297J858X",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)TJQA26426579,P(9QT5T5744QAJ)",
+          "revolution": false,
+          "draw": "7",
+          "action": "TJQA26426579",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJQA26426579",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9QT5T5744QAJ",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)57[GC]",
+          "revolution": false,
+          "draw": "K",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(2)T4T4J6J6Q4Q4Q2A229T9A5K,P(J85757)",
+          "revolution": false,
+          "draw": "2",
+          "action": "T4T4J6J6Q4Q4Q2A229T9A5K",
+          "action_kind": "prime-or-special",
+          "represented_action": "T4T4J6J6Q4Q4Q2A229T9A5K",
+          "play_count": 23,
+          "consumed_count": 23,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J85757",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "859",
+          "revolution": false,
+          "draw": null,
+          "action": "859",
+          "action_kind": "prime-or-special",
+          "represented_action": "859",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "6QJ",
+          "revolution": false,
+          "draw": null,
+          "action": "6QJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "6QJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "7TJ",
+          "revolution": false,
+          "draw": null,
+          "action": "7TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "7TJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "QTK",
+          "revolution": false,
+          "draw": null,
+          "action": "QTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QTK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "A729[RR]",
+          "revolution": false,
+          "draw": null,
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "A663",
+          "revolution": false,
+          "draw": null,
+          "action": "A663",
+          "action_kind": "prime-or-special",
+          "represented_action": "A663",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)A249",
+          "revolution": false,
+          "draw": "8",
+          "action": "A249",
+          "action_kind": "prime-or-special",
+          "represented_action": "A249",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "A237",
+          "revolution": false,
+          "draw": null,
+          "action": "A237",
+          "action_kind": "prime-or-special",
+          "represented_action": "A237",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "QKK",
+          "revolution": false,
+          "draw": null,
+          "action": "QKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "QKK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "257",
+          "revolution": false,
+          "draw": null,
+          "action": "257",
+          "action_kind": "prime-or-special",
+          "represented_action": "257",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)X89=3^3*X|X=A|X=7",
+          "revolution": false,
+          "draw": "5",
+          "action": "X89=3^3*X",
+          "action_kind": "composite",
+          "represented_action": "A89",
+          "play_count": 3,
+          "consumed_count": 6,
+          "joker_values": [
+            "A",
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "58K#",
+          "revolution": false,
+          "draw": null,
+          "action": "58K",
+          "action_kind": "prime-or-special",
+          "represented_action": "58K",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "T3XA336679Q3",
+          "represented_action": "T3AA336679Q3",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "7",
+          "penalty": "KA8K297J858X",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10311336679123,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "T3XA336679Q3",
+            "represented_action": "T3AA336679Q3",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "7",
+            "penalty": "KA8K297J858X",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10311336679123,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-002",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 3 | さしみ vs カステラ | start=spreadsheet\nさしみ:(3T93K349Q2A)\nカステラ:(483Q2J6J46K)\nさしみ:D(X)TQKA2333499X|X=A,P(A2KJ594J7QTK)\nカステラ:D(2)22344668JJQK,P(TA8856XT57Q7)\nさしみ:9A2343\nカステラ:D(6)6688T3\nさしみ:9TA2TJ\nカステラ:D(A)KXQQTJ|X=K\nさしみ:KKKQQJ\nカステラ:%\nさしみ:57[GC]\nさしみ:X[IN]\nさしみ:349#",
+      "initial_hands": {
+        "さしみ": "3T93K349Q2A",
+        "カステラ": "483Q2J6J46K"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(X)TQKA2333499X|X=A,P(A2KJ594J7QTK)",
+          "revolution": false,
+          "draw": "X",
+          "action": "TQKA2333499X",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQKA2333499A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "A2KJ594J7QTK",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)22344668JJQK,P(TA8856XT57Q7)",
+          "revolution": false,
+          "draw": "2",
+          "action": "22344668JJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "22344668JJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "TA8856XT57Q7",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9A2343",
+          "revolution": false,
+          "draw": null,
+          "action": "9A2343",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A2343",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)6688T3",
+          "revolution": false,
+          "draw": "6",
+          "action": "6688T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "6688T3",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9TA2TJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9TA2TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TA2TJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)KXQQTJ|X=K",
+          "revolution": false,
+          "draw": "A",
+          "action": "KXQQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKKQQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "349#",
+          "revolution": false,
+          "draw": null,
+          "action": "349",
+          "action_kind": "prime-or-special",
+          "represented_action": "349",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TQKA2333499X",
+          "represented_action": "TQKA2333499A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "X",
+          "penalty": "A2KJ594J7QTK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101213123334991,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 7,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKKQQJ",
+          "represented_action": "KKKQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 12,
+          "hand_after_draw": 12,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TQKA2333499X",
+            "represented_action": "TQKA2333499A",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "X",
+            "penalty": "A2KJ594J7QTK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101213123334991,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-003",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 4 | カステラ vs さしみ | start=spreadsheet\nカステラ:(K5456A95T32)\nさしみ:(Q3KJ72JT2AT)\nカステラ:D(A)TA2A3K455569,P(XX7483JJ289K)\nさしみ:D(5)TTJJQA2K2357,P(679Q6484Q68A)\nカステラ:D(3)KKJ\nさしみ:D(T)%\nカステラ:D(K)K\nさしみ:D(Q)%\nカステラ:D(7)57[GC]\nカステラ:D(9)A729[RR]\nさしみ:D(K)%\nカステラ:864T3\nさしみ:D(K)24683\nカステラ:AX459|X=0\nさしみ:%\nカステラ:9=3*3\nさしみ:2\nカステラ:X[IN]\nカステラ:582J#",
+      "initial_hands": {
+        "カステラ": "K5456A95T32",
+        "さしみ": "Q3KJ72JT2AT"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(A)TA2A3K455569,P(XX7483JJ289K)",
+          "revolution": false,
+          "draw": "A",
+          "action": "TA2A3K455569",
+          "action_kind": "prime-or-special",
+          "represented_action": "TA2A3K455569",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XX7483JJ289K",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)TTJJQA2K2357,P(679Q6484Q68A)",
+          "revolution": false,
+          "draw": "5",
+          "action": "TTJJQA2K2357",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJJQA2K2357",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "679Q6484Q68A",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(3)KKJ",
+          "revolution": false,
+          "draw": "3",
+          "action": "KKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(T)%",
+          "revolution": false,
+          "draw": "T",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(K)K",
+          "revolution": false,
+          "draw": "K",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(Q)%",
+          "revolution": false,
+          "draw": "Q",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)A729[RR]",
+          "revolution": false,
+          "draw": "9",
+          "action": "A729",
+          "action_kind": "prime-or-special",
+          "represented_action": "A729",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [
+            "RR"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)%",
+          "revolution": false,
+          "draw": "K",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "864T3",
+          "revolution": false,
+          "draw": null,
+          "action": "864T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "864T3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(K)24683",
+          "revolution": false,
+          "draw": "K",
+          "action": "24683",
+          "action_kind": "prime-or-special",
+          "represented_action": "24683",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "AX459|X=0",
+          "revolution": false,
+          "draw": null,
+          "action": "AX459",
+          "action_kind": "prime-or-special",
+          "represented_action": "A0459",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "9=3*3",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3*3",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "2",
+          "revolution": false,
+          "draw": null,
+          "action": "2",
+          "action_kind": "prime-or-special",
+          "represented_action": "2",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "582J#",
+          "revolution": false,
+          "draw": null,
+          "action": "582J",
+          "action_kind": "prime-or-special",
+          "represented_action": "582J",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TA2A3K455569",
+          "represented_action": "TA2A3K455569",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": "XX7483JJ289K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 10121313455569,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 3,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "KKJ",
+          "represented_action": "KKJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131311,
+          "digit_count": 6,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TA2A3K455569",
+            "represented_action": "TA2A3K455569",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": "XX7483JJ289K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 10121313455569,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-004",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 5 | さしみ vs カステラ | start=spreadsheet\nさしみ:(J6J4238QK4T)\nカステラ:(387AQ374X2K)\nさしみ:8KQJTJ\nカステラ:%\nさしみ:44623#",
+      "initial_hands": {
+        "さしみ": "J6J4238QK4T",
+        "カステラ": "387AQ374X2K"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "8KQJTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "8KQJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8KQJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "44623#",
+          "revolution": false,
+          "draw": null,
+          "action": "44623",
+          "action_kind": "prime-or-special",
+          "represented_action": "44623",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "8KQJTJ",
+          "represented_action": "8KQJTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81312111011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8KQJTJ",
+            "represented_action": "8KQJTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 81312111011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "カステラ",
+          "face_cards": "QXK",
+          "face_count": 3,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-005",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 6 | カステラ vs さしみ | start=spreadsheet\nカステラ:(X32533T8A7Q)\nさしみ:(6QJ9A7JT669)\nカステラ:D(X)57[GC]\nカステラ:8=2^3\nさしみ:D(5)J=A5^666799TJQ,P(K28JTK847975)\nカステラ:X[IN]\nカステラ:X[IN]\nカステラ:A3TQ3#",
+      "initial_hands": {
+        "カステラ": "X32533T8A7Q",
+        "さしみ": "6QJ9A7JT669"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "8=2^3",
+          "revolution": false,
+          "draw": null,
+          "action": "8=2^3",
+          "action_kind": "composite",
+          "represented_action": "8",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)J=A5^666799TJQ,P(K28JTK847975)",
+          "revolution": false,
+          "draw": "5",
+          "action": "J=A5^666799TJQ",
+          "action_kind": "composite",
+          "represented_action": "J",
+          "play_count": 1,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K28JTK847975",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "A3TQ3#",
+          "revolution": false,
+          "draw": null,
+          "action": "A3TQ3",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3TQ3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-006",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 7 | さしみ vs カステラ | start=spreadsheet\nさしみ:(AQK522J3JK4)\nカステラ:(2948QT546QX)\nさしみ:A35K\nカステラ:D(8)8QQ9\nさしみ:KJQJ\nカステラ:%\nさしみ:4=2*2#",
+      "initial_hands": {
+        "さしみ": "AQK522J3JK4",
+        "カステラ": "2948QT546QX"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "A35K",
+          "revolution": false,
+          "draw": null,
+          "action": "A35K",
+          "action_kind": "prime-or-special",
+          "represented_action": "A35K",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)8QQ9",
+          "revolution": false,
+          "draw": "8",
+          "action": "8QQ9",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QQ9",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "4=2*2#",
+          "revolution": false,
+          "draw": null,
+          "action": "4=2*2",
+          "action_kind": "composite",
+          "represented_action": "4",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 3,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 7,
+          "hand_after_draw": 7,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "A35K",
+            "represented_action": "A35K",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13513,
+            "digit_count": 5,
+            "digit_gain": 1
+          },
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 3,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "trumps",
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 7,
+            "hand_after_draw": 7,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-007",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 8 | カステラ vs さしみ | start=spreadsheet\nカステラ:(75K4AQ35A76)\nさしみ:(2T3TKJT297J)\nカステラ:D(X)K674AAQX3|X=J\nさしみ:D(8)TTJJK78T9,P(92899KT3X)\nカステラ:557#",
+      "initial_hands": {
+        "カステラ": "75K4AQ35A76",
+        "さしみ": "2T3TKJT297J"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(X)K674AAQX3|X=J",
+          "revolution": false,
+          "draw": "X",
+          "action": "K674AAQX3",
+          "action_kind": "prime-or-special",
+          "represented_action": "K674AAQJ3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)TTJJK78T9,P(92899KT3X)",
+          "revolution": false,
+          "draw": "8",
+          "action": "TTJJK78T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJJK78T9",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "92899KT3X",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "557#",
+          "revolution": false,
+          "draw": null,
+          "action": "557",
+          "action_kind": "prime-or-special",
+          "represented_action": "557",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が9枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "K674AAQX3",
+          "represented_action": "K674AAQJ3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "X",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 136741112113,
+          "digit_count": 12,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "K674AAQX3",
+            "represented_action": "K674AAQJ3",
+            "play_count": 9,
+            "consumed_count": 9,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "X",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 136741112113,
+            "digit_count": 12,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-008",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 9 | さしみ vs カステラ | start=spreadsheet\nさしみ:(9356KA2A854)\nカステラ:(6KTQ42J6J9A)\nさしみ:D(K)K5K5A38A4629,P(T74384Q83J32)\nカステラ:D(T)TTJJQA2K4669,P(6TAX7J2895K5)\nさしみ:D(7)8423\nカステラ:D(Q)8QTJ\nさしみ:KKJQ=2^3*A64A389\nカステラ:D(Q)KKQQ,P(97X2)\nさしみ:57[GC]\nさしみ:57[GC]\nさしみ:8T43#",
+      "initial_hands": {
+        "さしみ": "9356KA2A854",
+        "カステラ": "6KTQ42J6J9A"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(K)K5K5A38A4629,P(T74384Q83J32)",
+          "revolution": false,
+          "draw": "K",
+          "action": "K5K5A38A4629",
+          "action_kind": "prime-or-special",
+          "represented_action": "K5K5A38A4629",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T74384Q83J32",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)TTJJQA2K4669,P(6TAX7J2895K5)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TTJJQA2K4669",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJJQA2K4669",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6TAX7J2895K5",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)8423",
+          "revolution": false,
+          "draw": "7",
+          "action": "8423",
+          "action_kind": "prime-or-special",
+          "represented_action": "8423",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)8QTJ",
+          "revolution": false,
+          "draw": "Q",
+          "action": "8QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKJQ=2^3*A64A389",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQ=2^3*A64A389",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 13,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)KKQQ,P(97X2)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "KKQQ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "97X2",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "8T43#",
+          "revolution": false,
+          "draw": null,
+          "action": "8T43",
+          "action_kind": "prime-or-special",
+          "represented_action": "8T43",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "K5K5A38A4629",
+          "represented_action": "K5K5A38A4629",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "K",
+          "penalty": "T74384Q83J32",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13513513814629,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "K5K5A38A4629",
+            "represented_action": "K5K5A38A4629",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "K",
+            "penalty": "T74384Q83J32",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13513513814629,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-009",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 10 | カステラ vs さしみ | start=spreadsheet\nカステラ:(9TKJ34T6QA6)\nさしみ:(639K3327TQQ)\nカステラ:96TQTKJ\nさしみ:D(4)%\nカステラ:6A43#",
+      "initial_hands": {
+        "カステラ": "9TKJ34T6QA6",
+        "さしみ": "639K3327TQQ"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "96TQTKJ",
+          "revolution": false,
+          "draw": null,
+          "action": "96TQTKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "96TQTKJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "6A43#",
+          "revolution": false,
+          "draw": null,
+          "action": "6A43",
+          "action_kind": "prime-or-special",
+          "represented_action": "6A43",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "96TQTKJ",
+          "represented_action": "96TQTKJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 961012101311,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "96TQTKJ",
+            "represented_action": "96TQTKJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 961012101311,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "KTQQ",
+          "face_count": 4,
+          "next_draw": "4",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-010",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 11 | さしみ vs カステラ | start=spreadsheet\nさしみ:(4A357KATTK4)\nカステラ:(9548X9J7QQA)\nさしみ:D(Q)57[GC]\nさしみ:AA443\nカステラ:D(5)8QQXJ|X=K\nさしみ:KQTTK#",
+      "initial_hands": {
+        "さしみ": "4A357KATTK4",
+        "カステラ": "9548X9J7QQA"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "AA443",
+          "revolution": false,
+          "draw": null,
+          "action": "AA443",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA443",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)8QQXJ|X=K",
+          "revolution": false,
+          "draw": "5",
+          "action": "8QQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KQTTK#",
+          "revolution": false,
+          "draw": null,
+          "action": "KQTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQTTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 4,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KQTTK",
+          "represented_action": "KQTTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 5,
+          "hand_after_draw": 5,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 1312101013,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 2,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "AA443",
+            "represented_action": "AA443",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 11443,
+            "digit_count": 5,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 4,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "KQTTK",
+            "represented_action": "KQTTK",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 5,
+            "hand_after_draw": 5,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 1312101013,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-011",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 12 | カステラ vs さしみ | start=spreadsheet\nカステラ:(2986Q58Q42K)\nさしみ:(X54Q7TK358A)\nカステラ:D(J)JQQK22456889,P(A3T64378KTJ2)\nさしみ:D(7)K5A357Q7T48X|X=A,P(6QK9A9576J39)\nカステラ:D(T)57[GC]\nカステラ:D(X)988664422A,P(2A4J57)\nさしみ:X[IN]\nさしみ:D(X)T9Q69\nカステラ:9TQTJ\nさしみ:%\nカステラ:D(T)67A8464=3^8*2^5*2^4*2\nさしみ:D(9)9987775=45^AA3356,P(Q699TQTJ3825242)\nカステラ:82ATJ\nさしみ:D(6)KKQXJ|X=K\nカステラ:D(7)KKXJQ=T^73|X=K,P(A8464)\nさしみ:D(8)22335556778999,P(2ATJKKQXJ)\nカステラ:84467\nさしみ:86869\nカステラ:KKQXJ|X=K\nさしみ:KKQXQ=3A*A9*2^5*3^2*774A|X=K\nカステラ:D(3)%\nさしみ:D(A)987655423\nカステラ:D(A)%\nさしみ:JQJ\nカステラ:D(9)%\nさしみ:9TTTJ\nカステラ:D(2)%\nさしみ:52A#",
+      "initial_hands": {
+        "カステラ": "2986Q58Q42K",
+        "さしみ": "X54Q7TK358A"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(J)JQQK22456889,P(A3T64378KTJ2)",
+          "revolution": false,
+          "draw": "J",
+          "action": "JQQK22456889",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQQK22456889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A3T64378KTJ2",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(7)K5A357Q7T48X|X=A,P(6QK9A9576J39)",
+          "revolution": false,
+          "draw": "7",
+          "action": "K5A357Q7T48X",
+          "action_kind": "prime-or-special",
+          "represented_action": "K5A357Q7T48A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "6QK9A9576J39",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)57[GC]",
+          "revolution": false,
+          "draw": "T",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(X)988664422A,P(2A4J57)",
+          "revolution": false,
+          "draw": "X",
+          "action": "988664422A",
+          "action_kind": "prime-or-special",
+          "represented_action": "988664422A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2A4J57",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)T9Q69",
+          "revolution": false,
+          "draw": "X",
+          "action": "T9Q69",
+          "action_kind": "prime-or-special",
+          "represented_action": "T9Q69",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "9TQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9TQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)67A8464=3^8*2^5*2^4*2",
+          "revolution": false,
+          "draw": "T",
+          "action": "67A8464=3^8*2^5*2^4*2",
+          "action_kind": "composite",
+          "represented_action": "67A8464",
+          "play_count": 7,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(9)9987775=45^AA3356,P(Q699TQTJ3825242)",
+          "revolution": false,
+          "draw": "9",
+          "action": "9987775=45^AA3356",
+          "action_kind": "composite",
+          "represented_action": "9987775",
+          "play_count": 7,
+          "consumed_count": 15,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "Q699TQTJ3825242",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "82ATJ",
+          "revolution": false,
+          "draw": null,
+          "action": "82ATJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "82ATJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(6)KKQXJ|X=K",
+          "revolution": false,
+          "draw": "6",
+          "action": "KKQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)KKXJQ=T^73|X=K,P(A8464)",
+          "revolution": false,
+          "draw": "7",
+          "action": "KKXJQ=T^73",
+          "action_kind": "composite",
+          "represented_action": "KKKJQ",
+          "play_count": 5,
+          "consumed_count": 8,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "A8464",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(8)22335556778999,P(2ATJKKQXJ)",
+          "revolution": false,
+          "draw": "8",
+          "action": "22335556778999",
+          "action_kind": "prime-or-special",
+          "represented_action": "22335556778999",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2ATJKKQXJ",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "84467",
+          "revolution": false,
+          "draw": null,
+          "action": "84467",
+          "action_kind": "prime-or-special",
+          "represented_action": "84467",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "86869",
+          "revolution": false,
+          "draw": null,
+          "action": "86869",
+          "action_kind": "prime-or-special",
+          "represented_action": "86869",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "KKQXJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQXJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KKQXQ=3A*A9*2^5*3^2*774A|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQXQ=3A*A9*2^5*3^2*774A",
+          "action_kind": "composite",
+          "represented_action": "KKQKQ",
+          "play_count": 5,
+          "consumed_count": 17,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(A)987655423",
+          "revolution": false,
+          "draw": "A",
+          "action": "987655423",
+          "action_kind": "prime-or-special",
+          "represented_action": "987655423",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)%",
+          "revolution": false,
+          "draw": "A",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "JQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "JQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "JQJ",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9TTTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9TTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "52A#",
+          "revolution": false,
+          "draw": null,
+          "action": "52A",
+          "action_kind": "prime-or-special",
+          "represented_action": "52A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "JQQK22456889",
+          "represented_action": "JQQK22456889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "A3T64378KTJ2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1112121322456889,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 4,
+          "player": "カステラ",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "988664422A",
+          "represented_action": "988664422A",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "X",
+          "penalty": "2A4J57",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 9886644221,
+          "digit_count": 10,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 17,
+          "player": "カステラ",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQXJ",
+          "represented_action": "KKQKJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121311,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "JQQK22456889",
+            "represented_action": "JQQK22456889",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "A3T64378KTJ2",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1112121322456889,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-012",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 13 | さしみ vs カステラ | start=spreadsheet\nさしみ:(89JQJQJ25T5)\nカステラ:(XQ34J287K99)\nさしみ:QQTJJJ\nカステラ:%\nさしみ:55829#",
+      "initial_hands": {
+        "さしみ": "89JQJQJ25T5",
+        "カステラ": "XQ34J287K99"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "QQTJJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "QQTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQTJJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "55829#",
+          "revolution": false,
+          "draw": null,
+          "action": "55829",
+          "action_kind": "prime-or-special",
+          "represented_action": "55829",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "QQTJJJ",
+          "represented_action": "QQTJJJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 121210111111,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "QQTJJJ",
+            "represented_action": "QQTJJJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 121210111111,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "カステラ",
+          "face_cards": "XQJK",
+          "face_count": 4,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-013",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 14 | カステラ vs さしみ | start=spreadsheet\nカステラ:(A836TQ2K453)\nさしみ:(QXKQ99A27AT)\nカステラ:D(6)TQA2K3456683,P(644AJT53J2XJ)\nさしみ:D(4)Q4Q79K9TAX2A|X=0,P(79T882KK8Q97)\nカステラ:D(7)8J\nさしみ:D(5)KK=TA*X|X=K\nカステラ:D(3)%\nさしみ:Q8Q8Q8K7799792T2A459,P(56JTAX8JKK)\nカステラ:43364336J\nさしみ:96TA85587\nカステラ:65A2A2Q4J\nさしみ:9874J2TQK\nカステラ:%\nさしみ:D(4)9784A\nカステラ:7KTTX|X=K\nさしみ:KQKQJ\nカステラ:%\nさしみ:9=X^2|X=3#",
+      "initial_hands": {
+        "カステラ": "A836TQ2K453",
+        "さしみ": "QXKQ99A27AT"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(6)TQA2K3456683,P(644AJT53J2XJ)",
+          "revolution": false,
+          "draw": "6",
+          "action": "TQA2K3456683",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQA2K3456683",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "644AJT53J2XJ",
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)Q4Q79K9TAX2A|X=0,P(79T882KK8Q97)",
+          "revolution": false,
+          "draw": "4",
+          "action": "Q4Q79K9TAX2A",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q4Q79K9TA02A",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "0"
+          ],
+          "judgments": [],
+          "penalty": "79T882KK8Q97",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)8J",
+          "revolution": false,
+          "draw": "7",
+          "action": "8J",
+          "action_kind": "prime-or-special",
+          "represented_action": "8J",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(5)KK=TA*X|X=K",
+          "revolution": false,
+          "draw": "5",
+          "action": "KK=TA*X",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "Q8Q8Q8K7799792T2A459,P(56JTAX8JKK)",
+          "revolution": false,
+          "draw": null,
+          "action": "Q8Q8Q8K7799792T2A459",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q8Q8Q8K7799792T2A459",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "56JTAX8JKK",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "43364336J",
+          "revolution": false,
+          "draw": null,
+          "action": "43364336J",
+          "action_kind": "prime-or-special",
+          "represented_action": "43364336J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "96TA85587",
+          "revolution": false,
+          "draw": null,
+          "action": "96TA85587",
+          "action_kind": "prime-or-special",
+          "represented_action": "96TA85587",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "65A2A2Q4J",
+          "revolution": false,
+          "draw": null,
+          "action": "65A2A2Q4J",
+          "action_kind": "prime-or-special",
+          "represented_action": "65A2A2Q4J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9874J2TQK",
+          "revolution": false,
+          "draw": null,
+          "action": "9874J2TQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9874J2TQK",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(4)9784A",
+          "revolution": false,
+          "draw": "4",
+          "action": "9784A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9784A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "7KTTX|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "7KTTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "7KTTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "KQKQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KQKQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQKQJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "9=X^2|X=3#",
+          "revolution": false,
+          "draw": null,
+          "action": "9=X^2",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [
+            "3"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "TQA2K3456683",
+          "represented_action": "TQA2K3456683",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "644AJT53J2XJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101212133456683,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 7,
+          "player": "カステラ",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "43364336J",
+          "represented_action": "43364336J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 24,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 4336433611,
+          "digit_count": 10,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 9,
+          "player": "カステラ",
+          "winner": "さしみ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [],
+          "action": "65A2A2Q4J",
+          "represented_action": "65A2A2Q4J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 15,
+          "hand_after_draw": 15,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 65121212411,
+          "digit_count": 11,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "さしみ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "さしみ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "TQA2K3456683",
+            "represented_action": "TQA2K3456683",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "644AJT53J2XJ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 101212133456683,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-014",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "さしみ",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 15 | さしみ vs カステラ | start=spreadsheet\nさしみ:(T2Q4J73AQK9)\nカステラ:(9A74Q427768)\nさしみ:9QKQTJ\nカステラ:%\nさしみ:47A23#",
+      "initial_hands": {
+        "さしみ": "T2Q4J73AQK9",
+        "カステラ": "9A74Q427768"
+      },
+      "events": [
+        {
+          "player": "さしみ",
+          "raw": "9QKQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9QKQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9QKQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "47A23#",
+          "revolution": false,
+          "draw": null,
+          "action": "47A23",
+          "action_kind": "prime-or-special",
+          "represented_action": "47A23",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "さしみ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "さしみ",
+          "winner": "さしみ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "9QKQTJ",
+          "represented_action": "9QKQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 91213121011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "さしみ",
+        "winner": "さしみ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "さしみ",
+            "winner": "さしみ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "9QKQTJ",
+            "represented_action": "9QKQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91213121011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "カステラ",
+          "face_cards": "Q",
+          "face_count": 1,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-015",
+      "players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "カステラ",
+      "second_player": "さしみ",
+      "raw_block": "### 第2期金剛戦 第42試合 260314金剛戦数譜.docx | game 16 | カステラ vs さしみ | start=spreadsheet\nカステラ:(ATT4295Q83X)\nさしみ:(QT43K9A6T68)\nカステラ:D(6)%\nさしみ:D(J)A66843\nカステラ:D(J)9XTQTJ|X=K\nさしみ:D(X)9KQJTT,P(A7586K)\nカステラ:A245863#",
+      "initial_hands": {
+        "カステラ": "ATT4295Q83X",
+        "さしみ": "QT43K9A6T68"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(J)A66843",
+          "revolution": false,
+          "draw": "J",
+          "action": "A66843",
+          "action_kind": "prime-or-special",
+          "represented_action": "A66843",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(J)9XTQTJ|X=K",
+          "revolution": false,
+          "draw": "J",
+          "action": "9XTQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "さしみ",
+          "raw": "D(X)9KQJTT,P(A7586K)",
+          "revolution": false,
+          "draw": "X",
+          "action": "9KQJTT",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KQJTT",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A7586K",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "A245863#",
+          "revolution": false,
+          "draw": null,
+          "action": "A245863",
+          "action_kind": "prime-or-special",
+          "represented_action": "A245863",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "draw-pass",
+      "opening_confidence": "high",
+      "opening_reason": "初手がパス",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 3,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "9XTQTJ",
+          "represented_action": "9KTQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 12,
+          "hand_after_draw": 13,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 91310121011,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第42試合 260314金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 3,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "9XTQTJ",
+            "represented_action": "9KTQTJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 12,
+            "hand_after_draw": 13,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 91310121011,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "さしみ",
+          "face_cards": "QTKTJX",
+          "face_count": 6,
+          "next_draw": "X",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第42試合-260314金剛戦数譜-docx-016",
+      "players": [
+        "カステラ",
+        "さしみ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-042",
+      "match_no": 42,
+      "match_label": "第42試合",
+      "match_players": [
+        "さしみ",
+        "カステラ"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

@@ -1,0 +1,3939 @@
+{
+  "match_id": "金剛戦-第2期-match-035",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 35,
+  "match_label": "第35試合",
+  "players": [
+    "y",
+    "カステラ"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 1 | カステラ vs y | start=spreadsheet\nカステラ:(943A57T7336)\ny:(4JTJ48Q5565)\nカステラ:D(6)57[GC]\nカステラ:D(2)4336A236T9\ny:Q4455568TJ,P(929XK9JA7A)\nカステラ:7#",
+      "initial_hands": {
+        "カステラ": "943A57T7336",
+        "y": "4JTJ48Q5565"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)4336A236T9",
+          "revolution": false,
+          "draw": "2",
+          "action": "4336A236T9",
+          "action_kind": "prime-or-special",
+          "represented_action": "4336A236T9",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "Q4455568TJ,P(929XK9JA7A)",
+          "revolution": false,
+          "draw": null,
+          "action": "Q4455568TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q4455568TJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "929XK9JA7A",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "7#",
+          "revolution": false,
+          "draw": null,
+          "action": "7",
+          "action_kind": "prime-or-special",
+          "represented_action": "7",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 2,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "4336A236T9",
+          "represented_action": "4336A236T9",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 10,
+          "hand_after_draw": 11,
+          "draw": "2",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 43361236109,
+          "digit_count": 11,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 2,
+        "contexts": [
+          "after-draw",
+          "after-57"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 2,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "after-draw",
+              "after-57"
+            ],
+            "action": "4336A236T9",
+            "represented_action": "4336A236T9",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 10,
+            "hand_after_draw": 11,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 43361236109,
+            "digit_count": 11,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-001",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 2 | y vs カステラ | start=spreadsheet\ny:(2T4X35TA257)\nカステラ:(A99TT4QJ5AQ)\ny:D(X)57[GC]\ny:D(A)T=2*5\nカステラ:D(7)J\ny:X[IN]\ny:D(K)2\nカステラ:D(9)7\ny:K\nカステラ:D(7)%\ny:3\nカステラ:D(K)K\ny:X[IN]\ny:4TAA#",
+      "initial_hands": {
+        "y": "2T4X35TA257",
+        "カステラ": "A99TT4QJ5AQ"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(X)57[GC]",
+          "revolution": false,
+          "draw": "X",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(A)T=2*5",
+          "revolution": false,
+          "draw": "A",
+          "action": "T=2*5",
+          "action_kind": "composite",
+          "represented_action": "T",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)J",
+          "revolution": false,
+          "draw": "7",
+          "action": "J",
+          "action_kind": "prime-or-special",
+          "represented_action": "J",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(K)2",
+          "revolution": false,
+          "draw": "K",
+          "action": "2",
+          "action_kind": "prime-or-special",
+          "represented_action": "2",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)7",
+          "revolution": false,
+          "draw": "9",
+          "action": "7",
+          "action_kind": "prime-or-special",
+          "represented_action": "7",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "K",
+          "revolution": false,
+          "draw": null,
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "3",
+          "revolution": false,
+          "draw": null,
+          "action": "3",
+          "action_kind": "prime-or-special",
+          "represented_action": "3",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(K)K",
+          "revolution": false,
+          "draw": "K",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "4TAA#",
+          "revolution": false,
+          "draw": null,
+          "action": "4TAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "4TAA",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "y",
+        "winner": "y",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-002",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 3 | カステラ vs y | start=spreadsheet\nカステラ:(KQJ285K2T36)\ny:(8TKJ999XAQ2)\nカステラ:D(8)865238TJQK2K,P(T74733Q37A2A)\ny:D(9)A29Q99J9X8TK|X=J,P(AK6676X54T54)\nカステラ:D(Q)57[GC]\nカステラ:D(J)TJQK3378TJQK337846A2Q22A,P(J85457)\ny:X[IN]\ny:D(X)9996A\nカステラ:4QQJJ\ny:9TQTJ\nカステラ:%\ny:KK=XA*X|X=T|X=K\nカステラ:D(9)%\ny:826546547#",
+      "initial_hands": {
+        "カステラ": "KQJ285K2T36",
+        "y": "8TKJ999XAQ2"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(8)865238TJQK2K,P(T74733Q37A2A)",
+          "revolution": false,
+          "draw": "8",
+          "action": "865238TJQK2K",
+          "action_kind": "prime-or-special",
+          "represented_action": "865238TJQK2K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "T74733Q37A2A",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(9)A29Q99J9X8TK|X=J,P(AK6676X54T54)",
+          "revolution": false,
+          "draw": "9",
+          "action": "A29Q99J9X8TK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A29Q99J9J8TK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": "AK6676X54T54",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(Q)57[GC]",
+          "revolution": false,
+          "draw": "Q",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(J)TJQK3378TJQK337846A2Q22A,P(J85457)",
+          "revolution": false,
+          "draw": "J",
+          "action": "TJQK3378TJQK337846A2Q22A",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJQK3378TJQK337846A2Q22A",
+          "play_count": 24,
+          "consumed_count": 24,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J85457",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(X)9996A",
+          "revolution": false,
+          "draw": "X",
+          "action": "9996A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9996A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "4QQJJ",
+          "revolution": false,
+          "draw": null,
+          "action": "4QQJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "4QQJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "9TQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "9TQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KK=XA*X|X=T|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=XA*X",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "T",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "826546547#",
+          "revolution": false,
+          "draw": null,
+          "action": "826546547",
+          "action_kind": "prime-or-special",
+          "represented_action": "826546547",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "y",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "865238TJQK2K",
+          "represented_action": "865238TJQK2K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "T74733Q37A2A",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 86523810111213213,
+          "digit_count": 17,
+          "digit_gain": 5
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 4,
+          "player": "カステラ",
+          "winner": "y",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "TJQK3378TJQK337846A2Q22A",
+          "represented_action": "TJQK3378TJQK337846A2Q22A",
+          "play_count": 24,
+          "consumed_count": 24,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "J",
+          "penalty": "J85457",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 101112133378101112133378461212221,
+          "digit_count": 33,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "y",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "y",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "865238TJQK2K",
+            "represented_action": "865238TJQK2K",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "T74733Q37A2A",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 86523810111213213,
+            "digit_count": 17,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-003",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 4 | y vs カステラ | start=spreadsheet\ny:(Q36Q4KKJJ8Q)\nカステラ:(47987AXA2J4)\ny:D(2)86432J\nカステラ:D(T)9TA2XJ|X=J\ny:KKQQQJ#",
+      "initial_hands": {
+        "y": "Q36Q4KKJJ8Q",
+        "カステラ": "47987AXA2J4"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(2)86432J",
+          "revolution": false,
+          "draw": "2",
+          "action": "86432J",
+          "action_kind": "prime-or-special",
+          "represented_action": "86432J",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)9TA2XJ|X=J",
+          "revolution": false,
+          "draw": "T",
+          "action": "9TA2XJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TA2JJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KKQQQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQQQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 3,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQQQJ",
+          "represented_action": "KKQQQJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KQK",
+          "numeric_value": 131312121211,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "y",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "y",
+            "winner": "y",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "86432J",
+            "represented_action": "86432J",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "2",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8643211,
+            "digit_count": 7,
+            "digit_gain": 1
+          },
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 3,
+            "player": "y",
+            "winner": "y",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "KKQQQJ",
+            "represented_action": "KKQQQJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KQK",
+            "numeric_value": 131312121211,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-004",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 5 | カステラ vs y | start=spreadsheet\nカステラ:(X8T52K5J3J3)\ny:(87A9445XT29)\nカステラ:D(Q)83KQJTJ\ny:D(6)%\nカステラ:X5=3*5^2|X=7#",
+      "initial_hands": {
+        "カステラ": "X8T52K5J3J3",
+        "y": "87A9445XT29"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(Q)83KQJTJ",
+          "revolution": false,
+          "draw": "Q",
+          "action": "83KQJTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "83KQJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "X5=3*5^2|X=7#",
+          "revolution": false,
+          "draw": null,
+          "action": "X5=3*5^2",
+          "action_kind": "composite",
+          "represented_action": "75",
+          "play_count": 2,
+          "consumed_count": 5,
+          "joker_values": [
+            "7"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "83KQJTJ",
+          "represented_action": "83KQJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 831312111011,
+          "digit_count": 12,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "83KQJTJ",
+            "represented_action": "83KQJTJ",
+            "play_count": 7,
+            "consumed_count": 7,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 831312111011,
+            "digit_count": 12,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "y",
+          "face_cards": "XT",
+          "face_count": 2,
+          "next_draw": "6",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-005",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 6 | y vs カステラ | start=spreadsheet\ny:(T368889K427)\nカステラ:(9A65AQA5QQK)\ny:D(J)234678889TJK,P(J42JKX6443Q9)\nカステラ:D(6)Q56AAQ56QA9K,P(7X378TK235T7)\ny:D(A)864624289\nカステラ:D(5)9877652A3,P(2T9J)\ny:KKA3QTJXJJ|X=Q\nカステラ:D(8)KKA3QQTTQJ\ny:%\nカステラ:57[GC]\nカステラ:D(6)57[GC]\nカステラ:D(4)57[GC]\nカステラ:D(6)3586298629\ny:%\nカステラ:D(2)64A2TX|X=J\ny:%\nカステラ:6A#",
+      "initial_hands": {
+        "y": "T368889K427",
+        "カステラ": "9A65AQA5QQK"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(J)234678889TJK,P(J42JKX6443Q9)",
+          "revolution": false,
+          "draw": "J",
+          "action": "234678889TJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "234678889TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J42JKX6443Q9",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)Q56AAQ56QA9K,P(7X378TK235T7)",
+          "revolution": false,
+          "draw": "6",
+          "action": "Q56AAQ56QA9K",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q56AAQ56QA9K",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "7X378TK235T7",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(A)864624289",
+          "revolution": false,
+          "draw": "A",
+          "action": "864624289",
+          "action_kind": "prime-or-special",
+          "represented_action": "864624289",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)9877652A3,P(2T9J)",
+          "revolution": false,
+          "draw": "5",
+          "action": "9877652A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9877652A3",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2T9J",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KKA3QTJXJJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "KKA3QTJXJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKA3QTJQJJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)KKA3QQTTQJ",
+          "revolution": false,
+          "draw": "8",
+          "action": "KKA3QQTTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKA3QQTTQJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)57[GC]",
+          "revolution": false,
+          "draw": "4",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(6)3586298629",
+          "revolution": false,
+          "draw": "6",
+          "action": "3586298629",
+          "action_kind": "prime-or-special",
+          "represented_action": "3586298629",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)64A2TX|X=J",
+          "revolution": false,
+          "draw": "2",
+          "action": "64A2TX",
+          "action_kind": "prime-or-special",
+          "represented_action": "64A2TJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "6A#",
+          "revolution": false,
+          "draw": null,
+          "action": "6A",
+          "action_kind": "prime-or-special",
+          "represented_action": "6A",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "234678889TJK",
+          "represented_action": "234678889TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": "J42JKX6443Q9",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 234678889101113,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 3,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "864624289",
+          "represented_action": "864624289",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "A",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 864624289,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 5,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKA3QTJXJJ",
+          "represented_action": "KKA3QTJQJJ",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 131313121011121111,
+          "digit_count": 18,
+          "digit_gain": 8
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "y",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "234678889TJK",
+            "represented_action": "234678889TJK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": "J42JKX6443Q9",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 234678889101113,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-006",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 7 | カステラ vs y | start=spreadsheet\nカステラ:(46AA227JT35)\ny:(7J6Q8K5KA4Q)\nカステラ:D(8)423A5678A2TJ,P(9J73589T7J29)\ny:D(3)57[GC]\ny:864A3\nカステラ:D(8)TTJJJ\ny:KQKQJ#",
+      "initial_hands": {
+        "カステラ": "46AA227JT35",
+        "y": "7J6Q8K5KA4Q"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(8)423A5678A2TJ,P(9J73589T7J29)",
+          "revolution": false,
+          "draw": "8",
+          "action": "423A5678A2TJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "423A5678A2TJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9J73589T7J29",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(3)57[GC]",
+          "revolution": false,
+          "draw": "3",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "864A3",
+          "revolution": false,
+          "draw": null,
+          "action": "864A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "864A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)TTJJJ",
+          "revolution": false,
+          "draw": "8",
+          "action": "TTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KQKQJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KQKQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQKQJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "y",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "423A5678A2TJ",
+          "represented_action": "423A5678A2TJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "8",
+          "penalty": "9J73589T7J29",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 42315678121011,
+          "digit_count": 14,
+          "digit_gain": 2
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 7,
+          "turn_index": 4,
+          "player": "カステラ",
+          "winner": "y",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "TTJJJ",
+          "represented_action": "TTJJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "8",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1010111111,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "y",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 7,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "y",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "423A5678A2TJ",
+            "represented_action": "423A5678A2TJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "8",
+            "penalty": "9J73589T7J29",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 42315678121011,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-007",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 8 | y vs カステラ | start=spreadsheet\ny:(43Q38936485)\nカステラ:(T97J8KQT2QA)\ny:D(A)QA3334456889,P(K4AJT5J664TK)\nカステラ:D(5)TQA2TQKJ5789,P(X929J2QA2853)\ny:D(K)455668483\nカステラ:D(X)998822359,P(6777)\ny:4649\nカステラ:D(4)8QTJ\ny:KJQJ\nカステラ:D(5)KXJQ=A64A389*2^2^2|X=K,P(5668483)\ny:KK=TA*A3\nカステラ:%\ny:T3#",
+      "initial_hands": {
+        "y": "43Q38936485",
+        "カステラ": "T97J8KQT2QA"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(A)QA3334456889,P(K4AJT5J664TK)",
+          "revolution": false,
+          "draw": "A",
+          "action": "QA3334456889",
+          "action_kind": "prime-or-special",
+          "represented_action": "QA3334456889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "K4AJT5J664TK",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)TQA2TQKJ5789,P(X929J2QA2853)",
+          "revolution": false,
+          "draw": "5",
+          "action": "TQA2TQKJ5789",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQA2TQKJ5789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X929J2QA2853",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(K)455668483",
+          "revolution": false,
+          "draw": "K",
+          "action": "455668483",
+          "action_kind": "prime-or-special",
+          "represented_action": "455668483",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(X)998822359,P(6777)",
+          "revolution": false,
+          "draw": "X",
+          "action": "998822359",
+          "action_kind": "prime-or-special",
+          "represented_action": "998822359",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6777",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "4649",
+          "revolution": false,
+          "draw": null,
+          "action": "4649",
+          "action_kind": "prime-or-special",
+          "represented_action": "4649",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)8QTJ",
+          "revolution": false,
+          "draw": "4",
+          "action": "8QTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QTJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(5)KXJQ=A64A389*2^2^2|X=K,P(5668483)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KXJQ=A64A389*2^2^2",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 14,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "5668483",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KK=TA*A3",
+          "revolution": false,
+          "draw": null,
+          "action": "KK=TA*A3",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "T3#",
+          "revolution": false,
+          "draw": null,
+          "action": "T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "T3",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "QA3334456889",
+          "represented_action": "QA3334456889",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": "K4AJT5J664TK",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1213334456889,
+          "digit_count": 13,
+          "digit_gain": 1
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 3,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "455668483",
+          "represented_action": "455668483",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "K",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 455668483,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 7,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "trumps",
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 12,
+          "hand_after_draw": 12,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "y",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "y",
+            "winner": "y",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "QA3334456889",
+            "represented_action": "QA3334456889",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": "K4AJT5J664TK",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1213334456889,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-008",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 9 | カステラ vs y | start=spreadsheet\nカステラ:(69693Q7885T)\ny:(KJ75QTJA24K)\nカステラ:D(J)356678899TQJ#",
+      "initial_hands": {
+        "カステラ": "69693Q7885T",
+        "y": "KJ75QTJA24K"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(J)356678899TQJ#",
+          "revolution": false,
+          "draw": "J",
+          "action": "356678899TQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "356678899TQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 9,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "356678899TQJ",
+          "represented_action": "356678899TQJ",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 356678899101211,
+          "digit_count": 15,
+          "digit_gain": 3
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 9,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "356678899TQJ",
+            "represented_action": "356678899TQJ",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 356678899101211,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-009",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 10 | y vs カステラ | start=spreadsheet\ny:(332KQ423595)\nカステラ:(ATK255AX738)\ny:D(6)2233345569QK,P(94TJ4AA7QT29)\nカステラ:D(7)KX=A3*TA|X=K\ny:D(6)%\nカステラ:57[GC]\nカステラ:8527#",
+      "initial_hands": {
+        "y": "332KQ423595",
+        "カステラ": "ATK255AX738"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(6)2233345569QK,P(94TJ4AA7QT29)",
+          "revolution": false,
+          "draw": "6",
+          "action": "2233345569QK",
+          "action_kind": "prime-or-special",
+          "represented_action": "2233345569QK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "94TJ4AA7QT29",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)KX=A3*TA|X=K",
+          "revolution": false,
+          "draw": "7",
+          "action": "KX=A3*TA",
+          "action_kind": "composite",
+          "represented_action": "KK",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "8527#",
+          "revolution": false,
+          "draw": null,
+          "action": "8527",
+          "action_kind": "prime-or-special",
+          "represented_action": "8527",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "2233345569QK",
+          "represented_action": "2233345569QK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "6",
+          "penalty": "94TJ4AA7QT29",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 22333455691213,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "y",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "2233345569QK",
+            "represented_action": "2233345569QK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "6",
+            "penalty": "94TJ4AA7QT29",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 22333455691213,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-010",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 11 | カステラ vs y | start=spreadsheet\nカステラ:(T5865J3AX7J)\ny:(KXQA584269T)\nカステラ:8A3JT6XJ|X=Q\ny:D(4)86KQXT59|X=K,P(Q8KT442Q)\nカステラ:557#",
+      "initial_hands": {
+        "カステラ": "T5865J3AX7J",
+        "y": "KXQA584269T"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "8A3JT6XJ|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "8A3JT6XJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8A3JT6QJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(4)86KQXT59|X=K,P(Q8KT442Q)",
+          "revolution": false,
+          "draw": "4",
+          "action": "86KQXT59",
+          "action_kind": "prime-or-special",
+          "represented_action": "86KQKT59",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": "Q8KT442Q",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "557#",
+          "revolution": false,
+          "draw": null,
+          "action": "557",
+          "action_kind": "prime-or-special",
+          "represented_action": "557",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-011",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 12 | y vs カステラ | start=spreadsheet\ny:(27KX93238J8)\nカステラ:(5Q83J524TTJ)\ny:D(T)X22337889TJK|X=A,P(7Q7445KA97KJ)\nカステラ:D(T)TJTTJQ245583,P(AQK466X26A83)\ny:D(6)57[GC]\ny:D(Q)4278A9967\nカステラ:D(9)954264883,P(95A57)\ny:D(4)34843\nカステラ:D(2)KTTQJ\ny:KKQTJ\nカステラ:D(7)%\ny:2\nカステラ:D(8)X[IN]\nカステラ:D(A)57[GC]\nカステラ:892645A\ny:D(9)%\nカステラ:98765432A3AQTJ\ny:D(9)%\nカステラ:8562A#",
+      "initial_hands": {
+        "y": "27KX93238J8",
+        "カステラ": "5Q83J524TTJ"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(T)X22337889TJK|X=A,P(7Q7445KA97KJ)",
+          "revolution": false,
+          "draw": "T",
+          "action": "X22337889TJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A22337889TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "7Q7445KA97KJ",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)TJTTJQ245583,P(AQK466X26A83)",
+          "revolution": false,
+          "draw": "T",
+          "action": "TJTTJQ245583",
+          "action_kind": "prime-or-special",
+          "represented_action": "TJTTJQ245583",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "AQK466X26A83",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(6)57[GC]",
+          "revolution": false,
+          "draw": "6",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(Q)4278A9967",
+          "revolution": false,
+          "draw": "Q",
+          "action": "4278A9967",
+          "action_kind": "prime-or-special",
+          "represented_action": "4278A9967",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(9)954264883,P(95A57)",
+          "revolution": false,
+          "draw": "9",
+          "action": "954264883",
+          "action_kind": "prime-or-special",
+          "represented_action": "954264883",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "95A57",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(4)34843",
+          "revolution": false,
+          "draw": "4",
+          "action": "34843",
+          "action_kind": "prime-or-special",
+          "represented_action": "34843",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)KTTQJ",
+          "revolution": false,
+          "draw": "2",
+          "action": "KTTQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTTQJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KKQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KKQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "2",
+          "revolution": false,
+          "draw": null,
+          "action": "2",
+          "action_kind": "prime-or-special",
+          "represented_action": "2",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(8)X[IN]",
+          "revolution": false,
+          "draw": "8",
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "892645A",
+          "revolution": false,
+          "draw": null,
+          "action": "892645A",
+          "action_kind": "prime-or-special",
+          "represented_action": "892645A",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "98765432A3AQTJ",
+          "revolution": false,
+          "draw": null,
+          "action": "98765432A3AQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "98765432A3AQTJ",
+          "play_count": 14,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(9)%",
+          "revolution": false,
+          "draw": "9",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "8562A#",
+          "revolution": false,
+          "draw": null,
+          "action": "8562A",
+          "action_kind": "prime-or-special",
+          "represented_action": "8562A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 1,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "X22337889TJK",
+          "represented_action": "A22337889TJK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "T",
+          "penalty": "7Q7445KA97KJ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 122337889101113,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 4,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "4278A9967",
+          "represented_action": "4278A9967",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 23,
+          "hand_after_draw": 24,
+          "draw": "Q",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 427819967,
+          "digit_count": 9,
+          "digit_gain": 0
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 8,
+          "player": "y",
+          "winner": "カステラ",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKQTJ",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "カステラ",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "y",
+            "winner": "カステラ",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "X22337889TJK",
+            "represented_action": "A22337889TJK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "T",
+            "penalty": "7Q7445KA97KJ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 122337889101113,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-012",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 13 | カステラ vs y | start=spreadsheet\nカステラ:(3Q849K73J8J)\ny:(4Q7KT32A239)\nカステラ:D(Q)348387,P(55JJA2)\ny:D(X)XA2233479TQK|X=A,P(4K7KT24AQ9X7)\nカステラ:57[GC]\nカステラ:JJQK8JJQA3894253,P(86569T6A68T557)\ny:X[IN]\ny:D(X)A4474=7237*2\nカステラ:D(7)TTJJJ\ny:KQTTK\nカステラ:D(2)%\ny:KQX|X=K\nカステラ:D(3)%\ny:99=3^2*AX|X=A#",
+      "initial_hands": {
+        "カステラ": "3Q849K73J8J",
+        "y": "4Q7KT32A239"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(Q)348387,P(55JJA2)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "348387",
+          "action_kind": "prime-or-special",
+          "represented_action": "348387",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "55JJA2",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(X)XA2233479TQK|X=A,P(4K7KT24AQ9X7)",
+          "revolution": false,
+          "draw": "X",
+          "action": "XA2233479TQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "AA2233479TQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "4K7KT24AQ9X7",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "JJQK8JJQA3894253,P(86569T6A68T557)",
+          "revolution": false,
+          "draw": null,
+          "action": "JJQK8JJQA3894253",
+          "action_kind": "prime-or-special",
+          "represented_action": "JJQK8JJQA3894253",
+          "play_count": 16,
+          "consumed_count": 16,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "86569T6A68T557",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(X)A4474=7237*2",
+          "revolution": false,
+          "draw": "X",
+          "action": "A4474=7237*2",
+          "action_kind": "composite",
+          "represented_action": "A4474",
+          "play_count": 5,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)TTJJJ",
+          "revolution": false,
+          "draw": "7",
+          "action": "TTJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TTJJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KQTTK",
+          "revolution": false,
+          "draw": null,
+          "action": "KQTTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQTTK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "KQX|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KQX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KQK",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "99=3^2*AX|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "99=3^2*AX",
+          "action_kind": "composite",
+          "represented_action": "99",
+          "play_count": 2,
+          "consumed_count": 6,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 4,
+          "player": "カステラ",
+          "winner": "y",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-57"
+          ],
+          "action": "JJQK8JJQA3894253",
+          "represented_action": "JJQK8JJQA3894253",
+          "play_count": 16,
+          "consumed_count": 16,
+          "hand_before": 16,
+          "hand_after_draw": 16,
+          "draw": null,
+          "penalty": "86569T6A68T557",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11111213811111213894253,
+          "digit_count": 23,
+          "digit_gain": 7
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 7,
+          "player": "カステラ",
+          "winner": "y",
+          "player_won": false,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "TTJJJ",
+          "represented_action": "TTJJJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 30,
+          "hand_after_draw": 31,
+          "draw": "7",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1010111111,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "カステラ",
+        "winner": "y",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "y",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "348387",
+            "represented_action": "348387",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "Q",
+            "penalty": "55JJA2",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 348387,
+            "digit_count": 6,
+            "digit_gain": 0
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-013",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 14 | y vs カステラ | start=spreadsheet\ny:(7TK7QK58643)\nカステラ:(T97AQT6J2A3)\ny:D(A)A3456778TQKK,P(9249JT5JK6XQ)\nカステラ:D(4)TQJTA2A34679,P(A83852J9Q7K8)\ny:D(X)987654A23KX6JJQQTTKK|X=2\nカステラ:D(4)%\ny:57[GC]\ny:X49|X=A#",
+      "initial_hands": {
+        "y": "7TK7QK58643",
+        "カステラ": "T97AQT6J2A3"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(A)A3456778TQKK,P(9249JT5JK6XQ)",
+          "revolution": false,
+          "draw": "A",
+          "action": "A3456778TQKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "A3456778TQKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "9249JT5JK6XQ",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)TQJTA2A34679,P(A83852J9Q7K8)",
+          "revolution": false,
+          "draw": "4",
+          "action": "TQJTA2A34679",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQJTA2A34679",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "A83852J9Q7K8",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(X)987654A23KX6JJQQTTKK|X=2",
+          "revolution": false,
+          "draw": "X",
+          "action": "987654A23KX6JJQQTTKK",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654A23K26JJQQTTKK",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(4)%",
+          "revolution": false,
+          "draw": "4",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "X49|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "X49",
+          "action_kind": "prime-or-special",
+          "represented_action": "A49",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 1,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "A3456778TQKK",
+          "represented_action": "A3456778TQKK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "A",
+          "penalty": "9249JT5JK6XQ",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1345677810121313,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "nine-plus",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "987654A23KX6JJQQTTKK",
+          "represented_action": "987654A23K26JJQQTTKK",
+          "play_count": 20,
+          "consumed_count": 20,
+          "hand_before": 24,
+          "hand_after_draw": 25,
+          "draw": "X",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 98765412313261111121210101313,
+          "digit_count": 29,
+          "digit_gain": 9
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "y",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "y",
+            "winner": "y",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "A3456778TQKK",
+            "represented_action": "A3456778TQKK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "A",
+            "penalty": "9249JT5JK6XQ",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1345677810121313,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-014",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "カステラ",
+      "second_player": "y",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 15 | カステラ vs y | start=spreadsheet\nカステラ:(3XKAK42Q4TA)\ny:(4967T5Q4JK6)\nカステラ:D(5)KKXT3A2445QA|X=A,P(AJ98J529KQQ2)\ny:D(3)34456679TJQK,P(XJ736388T7A8)\nカステラ:D(7)985A2A3,P(652T9)\ny:57[GC]\ny:D(5)KJQJ\nカステラ:D(7)%\ny:9887665443X86A37TT3|X=2,P(KJQJ)\nカステラ:57[GC]\nカステラ:4259\ny:D(5)KJQJ\nカステラ:KKJQ=2*2*2*A64A389\ny:%\nカステラ:KTQQJTX|X=J\ny:%\nカステラ:A597#",
+      "initial_hands": {
+        "カステラ": "3XKAK42Q4TA",
+        "y": "4967T5Q4JK6"
+      },
+      "events": [
+        {
+          "player": "カステラ",
+          "raw": "D(5)KKXT3A2445QA|X=A,P(AJ98J529KQQ2)",
+          "revolution": false,
+          "draw": "5",
+          "action": "KKXT3A2445QA",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKAT3A2445QA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": "AJ98J529KQQ2",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(3)34456679TJQK,P(XJ736388T7A8)",
+          "revolution": false,
+          "draw": "3",
+          "action": "34456679TJQK",
+          "action_kind": "prime-or-special",
+          "represented_action": "34456679TJQK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XJ736388T7A8",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)985A2A3,P(652T9)",
+          "revolution": false,
+          "draw": "7",
+          "action": "985A2A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "985A2A3",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "652T9",
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(5)KJQJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "9887665443X86A37TT3|X=2,P(KJQJ)",
+          "revolution": false,
+          "draw": null,
+          "action": "9887665443X86A37TT3",
+          "action_kind": "prime-or-special",
+          "represented_action": "9887665443286A37TT3",
+          "play_count": 19,
+          "consumed_count": 19,
+          "joker_values": [
+            "2"
+          ],
+          "judgments": [],
+          "penalty": "KJQJ",
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "4259",
+          "revolution": false,
+          "draw": null,
+          "action": "4259",
+          "action_kind": "prime-or-special",
+          "represented_action": "4259",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "D(5)KJQJ",
+          "revolution": false,
+          "draw": "5",
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "KKJQ=2*2*2*A64A389",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQ=2*2*2*A64A389",
+          "action_kind": "composite",
+          "represented_action": "KKJQ",
+          "play_count": 4,
+          "consumed_count": 14,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "KTQQJTX|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KTQQJTX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KTQQJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "A597#",
+          "revolution": false,
+          "draw": null,
+          "action": "A597",
+          "action_kind": "prime-or-special",
+          "represented_action": "A597",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "カステラ",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "KKXT3A2445QA",
+          "represented_action": "KKAT3A2445QA",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "AJ98J529KQQ2",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313110312445121,
+          "digit_count": 16,
+          "digit_gain": 4
+        },
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 13,
+          "player": "カステラ",
+          "winner": "カステラ",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KTQQJTX",
+          "represented_action": "KTQQJTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 13101212111011,
+          "digit_count": 14,
+          "digit_gain": 7
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "カステラ",
+        "winner": "カステラ",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "カステラ",
+            "winner": "カステラ",
+            "player_won": true,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "KKXT3A2445QA",
+            "represented_action": "KKAT3A2445QA",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "AJ98J529KQQ2",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313110312445121,
+            "digit_count": 16,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-015",
+      "players": [
+        "カステラ",
+        "y"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "y",
+      "second_player": "カステラ",
+      "raw_block": "### 第2期金剛戦 第35試合 260131金剛戦数譜.docx | game 16 | y vs カステラ | start=spreadsheet\ny:(TJT582Q8T34)\nカステラ:(X93K76323XA)\ny:D(7)57[GC]\ny:88423\nカステラ:D(T)9KTXX|X=K|X=K\ny:TQTTJ#",
+      "initial_hands": {
+        "y": "TJT582Q8T34",
+        "カステラ": "X93K76323XA"
+      },
+      "events": [
+        {
+          "player": "y",
+          "raw": "D(7)57[GC]",
+          "revolution": false,
+          "draw": "7",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "88423",
+          "revolution": false,
+          "draw": null,
+          "action": "88423",
+          "action_kind": "prime-or-special",
+          "represented_action": "88423",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "カステラ",
+          "raw": "D(T)9KTXX|X=K|X=K",
+          "revolution": false,
+          "draw": "T",
+          "action": "9KTXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "9KTKK",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "y",
+          "raw": "TQTTJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "TQTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "y",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 4,
+          "player": "y",
+          "winner": "y",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "TQTTJ",
+          "represented_action": "TQTTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 5,
+          "hand_after_draw": 5,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 1012101011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "y",
+        "winner": "y",
+        "player_won": true,
+        "turn_index": 4,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第35試合 260131金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 4,
+            "player": "y",
+            "winner": "y",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "TQTTJ",
+            "represented_action": "TQTTJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 5,
+            "hand_after_draw": 5,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 1012101011,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "カステラ",
+          "face_cards": "",
+          "face_count": 0,
+          "next_draw": null,
+          "included_next_draw": false,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第35試合-260131金剛戦数譜-docx-016",
+      "players": [
+        "y",
+        "カステラ"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-035",
+      "match_no": 35,
+      "match_label": "第35試合",
+      "match_players": [
+        "y",
+        "カステラ"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}

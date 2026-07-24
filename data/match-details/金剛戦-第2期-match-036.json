@@ -1,0 +1,2699 @@
+{
+  "match_id": "金剛戦-第2期-match-036",
+  "tournament": "金剛戦",
+  "season": "第2期",
+  "stage": null,
+  "stage_order": 0,
+  "match_no": 36,
+  "match_label": "第36試合",
+  "players": [
+    "mickey",
+    "もりしー"
+  ],
+  "games": [
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 1,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 1 | もりしー vs mickey | start=spreadsheet\nもりしー:(694396K2327)\nmickey:(TJ3AT856J47)\nもりしー:D(2)2K2623469793,P(6QJT7AKX5X3Q)\nmickey:57[GC]\nmickey:864TJTA3J#",
+      "initial_hands": {
+        "もりしー": "694396K2327",
+        "mickey": "TJ3AT856J47"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(2)2K2623469793,P(6QJT7AKX5X3Q)",
+          "revolution": false,
+          "draw": "2",
+          "action": "2K2623469793",
+          "action_kind": "prime-or-special",
+          "represented_action": "2K2623469793",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "6QJT7AKX5X3Q",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "864TJTA3J#",
+          "revolution": false,
+          "draw": null,
+          "action": "864TJTA3J",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TJTA3J",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 1,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "2K2623469793",
+          "represented_action": "2K2623469793",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "2",
+          "penalty": "6QJT7AKX5X3Q",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 2132623469793,
+          "digit_count": 13,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 1,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "2K2623469793",
+            "represented_action": "2K2623469793",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "2",
+            "penalty": "6QJT7AKX5X3Q",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 2132623469793,
+            "digit_count": 13,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-001",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 1
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 2,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 2 | mickey vs もりしー | start=spreadsheet\nmickey:(4XJQ53KT97T)\nもりしー:(AQ64Q7TKJT8)\nmickey:KXQTJ|X=K\nもりしー:D(6)%\nmickey:57[GC]\nmickey:49T3#",
+      "initial_hands": {
+        "mickey": "4XJQ53KT97T",
+        "もりしー": "AQ64Q7TKJT8"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KXQTJ|X=K",
+          "revolution": false,
+          "draw": null,
+          "action": "KXQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(6)%",
+          "revolution": false,
+          "draw": "6",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "49T3#",
+          "revolution": false,
+          "draw": null,
+          "action": "49T3",
+          "action_kind": "prime-or-special",
+          "represented_action": "49T3",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 2,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KXQTJ",
+          "represented_action": "KKQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 1313121011,
+          "digit_count": 10,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 2,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KXQTJ",
+            "represented_action": "KKQTJ",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 1313121011,
+            "digit_count": 10,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "もりしー",
+          "face_cards": "QQTKJT",
+          "face_count": 6,
+          "next_draw": "6",
+          "included_next_draw": true,
+          "status": "opponent-face-enough"
+        }
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-002",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 2
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 3,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 3 | もりしー vs mickey | start=spreadsheet\nもりしー:(824A86826A5)\nmickey:(33Q965X9377)\nもりしー:D(J)8866524A2J\nmickey:D(Q)Q9Q9736733,P(2QKAK5QJ7T)\nもりしー:D(A)8AA#",
+      "initial_hands": {
+        "もりしー": "824A86826A5",
+        "mickey": "33Q965X9377"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(J)8866524A2J",
+          "revolution": false,
+          "draw": "J",
+          "action": "8866524A2J",
+          "action_kind": "prime-or-special",
+          "represented_action": "8866524A2J",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(Q)Q9Q9736733,P(2QKAK5QJ7T)",
+          "revolution": false,
+          "draw": "Q",
+          "action": "Q9Q9736733",
+          "action_kind": "prime-or-special",
+          "represented_action": "Q9Q9736733",
+          "play_count": 10,
+          "consumed_count": 10,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "2QKAK5QJ7T",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(A)8AA#",
+          "revolution": false,
+          "draw": "A",
+          "action": "8AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "8AA",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が10枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 3,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "8866524A2J",
+          "represented_action": "8866524A2J",
+          "play_count": 10,
+          "consumed_count": 10,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "J",
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 88665241211,
+          "digit_count": 11,
+          "digit_gain": 1
+        }
+      ],
+      "primary_strategy": {
+        "label": "nine-plus",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 3,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "8866524A2J",
+            "represented_action": "8866524A2J",
+            "play_count": 10,
+            "consumed_count": 10,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 88665241211,
+            "digit_count": 11,
+            "digit_gain": 1
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-003",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 3
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 4,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 4 | mickey vs もりしー | start=spreadsheet\nmickey:(87XT56358Q2)\nもりしー:(AA77Q3A49X5)\nmickey:D(3)358358T2Q6X7|X=8#",
+      "initial_hands": {
+        "mickey": "87XT56358Q2",
+        "もりしー": "AA77Q3A49X5"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(3)358358T2Q6X7|X=8#",
+          "revolution": false,
+          "draw": "3",
+          "action": "358358T2Q6X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "358358T2Q687",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "8"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 4,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "358358T2Q6X7",
+          "represented_action": "358358T2Q687",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "3",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 35835810212687,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 4,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "358358T2Q6X7",
+            "represented_action": "358358T2Q687",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "3",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 35835810212687,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-004",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 4
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 5,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 5 | もりしー vs mickey | start=spreadsheet\nもりしー:(ATQK72X8Q55)\nmickey:(485J84K3Q7J)\nもりしー:8TQQXK|X=Q\nmickey:D(2)%\nもりしー:57[GC]\nもりしー:52A#",
+      "initial_hands": {
+        "もりしー": "ATQK72X8Q55",
+        "mickey": "485J84K3Q7J"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "8TQQXK|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "8TQQXK",
+          "action_kind": "prime-or-special",
+          "represented_action": "8TQQQK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)%",
+          "revolution": false,
+          "draw": "2",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "52A#",
+          "revolution": false,
+          "draw": null,
+          "action": "52A",
+          "action_kind": "prime-or-special",
+          "represented_action": "52A",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "face-five-prime",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が桁増加5以上の素数",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 5,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "もりしー",
+          "player_won": true,
+          "labels": [
+            "face-five-prime"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "8TQQXK",
+          "represented_action": "8TQQQK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 81012121213,
+          "digit_count": 11,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "face-five-prime",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 5,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "もりしー",
+            "player_won": true,
+            "labels": [
+              "face-five-prime"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8TQQXK",
+            "represented_action": "8TQQQK",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 81012121213,
+            "digit_count": 11,
+            "digit_gain": 5
+          }
+        ],
+        "opponent_face_info": {
+          "opponent": "mickey",
+          "face_cards": "JKQJ",
+          "face_count": 4,
+          "next_draw": "2",
+          "included_next_draw": true,
+          "status": "opponent-face-short"
+        }
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-005",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 5
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 6,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 6 | mickey vs もりしー | start=spreadsheet\nmickey:(J4QK2AT9XXJ)\nもりしー:(89T42483547)\nmickey:KJQJ\nもりしー:D(3)%\nmickey:9XT4A2X|X=8|X=K#",
+      "initial_hands": {
+        "mickey": "J4QK2AT9XXJ",
+        "もりしー": "89T42483547"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)%",
+          "revolution": false,
+          "draw": "3",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9XT4A2X|X=8|X=K#",
+          "revolution": false,
+          "draw": null,
+          "action": "9XT4A2X",
+          "action_kind": "prime-or-special",
+          "represented_action": "98T4A2K",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "8",
+            "K"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJQJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 6,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 6,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-006",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 6
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 7,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 7 | もりしー vs mickey | start=spreadsheet\nもりしー:(TQA427AQAJ7)\nmickey:(28KT6582436)\nもりしー:D(2)7A2A2A\nmickey:D(J)864TJK\nもりしー:74QQTJ#",
+      "initial_hands": {
+        "もりしー": "TQA427AQAJ7",
+        "mickey": "28KT6582436"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(2)7A2A2A",
+          "revolution": false,
+          "draw": "2",
+          "action": "7A2A2A",
+          "action_kind": "prime-or-special",
+          "represented_action": "7A2A2A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(J)864TJK",
+          "revolution": false,
+          "draw": "J",
+          "action": "864TJK",
+          "action_kind": "prime-or-special",
+          "represented_action": "864TJK",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "74QQTJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "74QQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "74QQTJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-007",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 7
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 8,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 8 | mickey vs もりしー | start=spreadsheet\nmickey:(JX2K9JAQ79A)\nもりしー:(4TX8T938Q62)\nmickey:KJQJ\nもりしー:D(7)%\nmickey:X7|X=5[GC]\nmickey:9A29A#",
+      "initial_hands": {
+        "mickey": "JX2K9JAQ79A",
+        "もりしー": "4TX8T938Q62"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "KJQJ",
+          "revolution": false,
+          "draw": null,
+          "action": "KJQJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(7)%",
+          "revolution": false,
+          "draw": "7",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X7|X=5[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "X7",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [
+            "5"
+          ],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9A29A#",
+          "revolution": false,
+          "draw": null,
+          "action": "9A29A",
+          "action_kind": "prime-or-special",
+          "represented_action": "9A29A",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "trumps",
+      "opening_confidence": "high",
+      "opening_reason": "初手が切り札 KJQJ",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 8,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "trumps"
+          ],
+          "contexts": [
+            "game-first-action"
+          ],
+          "action": "KJQJ",
+          "represented_action": "KJQJ",
+          "play_count": 4,
+          "consumed_count": 4,
+          "hand_before": 11,
+          "hand_after_draw": 11,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 13111211,
+          "digit_count": 8,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "trumps",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 8,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "trumps"
+            ],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "KJQJ",
+            "represented_action": "KJQJ",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 13111211,
+            "digit_count": 8,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-008",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 8
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 9,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 9 | もりしー vs mickey | start=spreadsheet\nもりしー:(TJ7922Q3695)\nmickey:(58K278QQ84X)\nもりしー:D(T)9TQTJ\nmickey:D(5)%\nもりしー:57[GC]\nもりしー:96223#",
+      "initial_hands": {
+        "もりしー": "TJ7922Q3695",
+        "mickey": "58K278QQ84X"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(T)9TQTJ",
+          "revolution": false,
+          "draw": "T",
+          "action": "9TQTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "9TQTJ",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "96223#",
+          "revolution": false,
+          "draw": null,
+          "action": "96223",
+          "action_kind": "prime-or-special",
+          "represented_action": "96223",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "もりしー",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "明確な対象先手戦術なし",
+        "player": "もりしー",
+        "winner": "もりしー",
+        "player_won": true,
+        "turn_index": null,
+        "contexts": [],
+        "subtype": null,
+        "core_events": []
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-009",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 9
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 10,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 10 | mickey vs もりしー | start=spreadsheet\nmickey:(9973T6J2538)\nもりしー:(TQAT8538J8K)\nmickey:D(9)395396T2J789#",
+      "initial_hands": {
+        "mickey": "9973T6J2538",
+        "もりしー": "TQAT8538J8K"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(9)395396T2J789#",
+          "revolution": false,
+          "draw": "9",
+          "action": "395396T2J789",
+          "action_kind": "prime-or-special",
+          "represented_action": "395396T2J789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "all-out",
+      "opening_confidence": "medium",
+      "opening_reason": "初回行動で上がり",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 10,
+          "turn_index": 1,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "all-out-success",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "395396T2J789",
+          "represented_action": "395396T2J789",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "9",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": null,
+          "numeric_value": 39539610211789,
+          "digit_count": 14,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-success",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 10,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "all-out-success",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "395396T2J789",
+            "represented_action": "395396T2J789",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "9",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": null,
+            "numeric_value": 39539610211789,
+            "digit_count": 14,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-010",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 10
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 11,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 11 | もりしー vs mickey | start=spreadsheet\nもりしー:(J2AJJ82T7Q5)\nmickey:(48467XQ6A9K)\nもりしー:8QA2TJJJ,P(472A3J99)\nmickey:D(7)467467Q8K9AX|X=9,P(65X5KK52938K)\nもりしー:D(A)AAA222345789JJJTJQ97,P(QT3Q648T3T)\nmickey:X[IN]\nmickey:D(X)5234689\nもりしー:QQQJTTJ,P()\nmickey:KKKKQXX|X=T|X=J\nもりしー:D(5)%\nmickey:57[GC]\nmickey:57[GC]\nmickey:98664A#",
+      "initial_hands": {
+        "もりしー": "J2AJJ82T7Q5",
+        "mickey": "48467XQ6A9K"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "8QA2TJJJ,P(472A3J99)",
+          "revolution": false,
+          "draw": null,
+          "action": "8QA2TJJJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "8QA2TJJJ",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "472A3J99",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(7)467467Q8K9AX|X=9,P(65X5KK52938K)",
+          "revolution": false,
+          "draw": "7",
+          "action": "467467Q8K9AX",
+          "action_kind": "prime-or-special",
+          "represented_action": "467467Q8K9A9",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [
+            "9"
+          ],
+          "judgments": [],
+          "penalty": "65X5KK52938K",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(A)AAA222345789JJJTJQ97,P(QT3Q648T3T)",
+          "revolution": false,
+          "draw": "A",
+          "action": "AAA222345789JJJTJQ97",
+          "action_kind": "prime-or-special",
+          "represented_action": "AAA222345789JJJTJQ97",
+          "play_count": 20,
+          "consumed_count": 20,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QT3Q648T3T",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(X)5234689",
+          "revolution": false,
+          "draw": "X",
+          "action": "5234689",
+          "action_kind": "prime-or-special",
+          "represented_action": "5234689",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "QQQJTTJ,P()",
+          "revolution": false,
+          "draw": null,
+          "action": "QQQJTTJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "QQQJTTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKKKQXX|X=T|X=J",
+          "revolution": false,
+          "draw": null,
+          "action": "KKKKQXX",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKKKQTJ",
+          "play_count": 7,
+          "consumed_count": 7,
+          "joker_values": [
+            "T",
+            "J"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)%",
+          "revolution": false,
+          "draw": "5",
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "98664A#",
+          "revolution": false,
+          "draw": null,
+          "action": "98664A",
+          "action_kind": "prime-or-special",
+          "represented_action": "98664A",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 11,
+          "turn_index": 3,
+          "player": "もりしー",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "AAA222345789JJJTJQ97",
+          "represented_action": "AAA222345789JJJTJQ97",
+          "play_count": 20,
+          "consumed_count": 20,
+          "hand_before": 19,
+          "hand_after_draw": 20,
+          "draw": "A",
+          "penalty": "QT3Q648T3T",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 11122234578911111110111297,
+          "digit_count": 26,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 11,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [],
+            "contexts": [
+              "game-first-action"
+            ],
+            "action": "8QA2TJJJ",
+            "represented_action": "8QA2TJJJ",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 11,
+            "hand_after_draw": 11,
+            "draw": null,
+            "penalty": "472A3J99",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8121210111111,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-011",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 11
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 12,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 12 | mickey vs もりしー | start=spreadsheet\nmickey:(94Q2K8AAJ8J)\nもりしー:(74T2AK853Q3)\nmickey:8849\nもりしー:D(3)8TKQ=2^A333457,P(264JKQ68926X)\nmickey:D(T)2KJJQTAA#",
+      "initial_hands": {
+        "mickey": "94Q2K8AAJ8J",
+        "もりしー": "74T2AK853Q3"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "8849",
+          "revolution": false,
+          "draw": null,
+          "action": "8849",
+          "action_kind": "prime-or-special",
+          "represented_action": "8849",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(3)8TKQ=2^A333457,P(264JKQ68926X)",
+          "revolution": false,
+          "draw": "3",
+          "action": "8TKQ=2^A333457",
+          "action_kind": "composite",
+          "represented_action": "8TKQ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "264JKQ68926X",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(T)2KJJQTAA#",
+          "revolution": false,
+          "draw": "T",
+          "action": "2KJJQTAA",
+          "action_kind": "prime-or-special",
+          "represented_action": "2KJJQTAA",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 12,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [
+            "after-draw"
+          ],
+          "action": "2KJJQTAA",
+          "represented_action": "2KJJQTAA",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 7,
+          "hand_after_draw": 8,
+          "draw": "T",
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 2131111121011,
+          "digit_count": 13,
+          "digit_gain": 5
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "8849",
+            "represented_action": "8849",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 8849,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 12,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [
+              "after-draw"
+            ],
+            "action": "2KJJQTAA",
+            "represented_action": "2KJJQTAA",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 7,
+            "hand_after_draw": 8,
+            "draw": "T",
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 2131111121011,
+            "digit_count": 13,
+            "digit_gain": 5
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-012",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 12
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 13,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 13 | もりしー vs mickey | start=spreadsheet\nもりしー:(942Q8749AT4)\nmickey:(729XJ353XJ2)\nもりしー:D(5)599TQ84442A,P(789QTQ5J84K)\nmickey:9=3^2\nもりしー:D(J)K\nmickey:X[IN]\nmickey:57[GC]\nmickey:2JX3J|X=A#",
+      "initial_hands": {
+        "もりしー": "942Q8749AT4",
+        "mickey": "729XJ353XJ2"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(5)599TQ84442A,P(789QTQ5J84K)",
+          "revolution": false,
+          "draw": "5",
+          "action": "599TQ84442A",
+          "action_kind": "prime-or-special",
+          "represented_action": "599TQ84442A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "789QTQ5J84K",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9=3^2",
+          "revolution": false,
+          "draw": null,
+          "action": "9=3^2",
+          "action_kind": "composite",
+          "represented_action": "9",
+          "play_count": 1,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(J)K",
+          "revolution": false,
+          "draw": "J",
+          "action": "K",
+          "action_kind": "prime-or-special",
+          "represented_action": "K",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "X[IN]",
+          "revolution": false,
+          "draw": null,
+          "action": "X",
+          "action_kind": "single-joker",
+          "represented_action": "X",
+          "play_count": 1,
+          "consumed_count": 1,
+          "joker_values": [],
+          "judgments": [
+            "IN"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "57[GC]",
+          "revolution": false,
+          "draw": null,
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "2JX3J|X=A#",
+          "revolution": false,
+          "draw": null,
+          "action": "2JX3J",
+          "action_kind": "prime-or-special",
+          "represented_action": "2JA3J",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [
+            "A"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が11枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 13,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "599TQ84442A",
+          "represented_action": "599TQ84442A",
+          "play_count": 11,
+          "consumed_count": 11,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "789QTQ5J84K",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 5991012844421,
+          "digit_count": 13,
+          "digit_gain": 2
+        }
+      ],
+      "primary_strategy": {
+        "label": "other",
+        "reason": "先手戦術確定前にペナルティで手札が不明瞭に増加",
+        "player": "もりしー",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 13,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "599TQ84442A",
+            "represented_action": "599TQ84442A",
+            "play_count": 11,
+            "consumed_count": 11,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "789QTQ5J84K",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 5991012844421,
+            "digit_count": 13,
+            "digit_gain": 2
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-013",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 13
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 14,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 14 | mickey vs もりしー | start=spreadsheet\nmickey:(958Q5XK3993)\nもりしー:(AJK8Q8T6972)\nmickey:D(J)9539\nもりしー:D(5)85KQ=2^6*7*J89TA,P(X7A76J4383Q4)\nmickey:9853QJXK|X=T#",
+      "initial_hands": {
+        "mickey": "958Q5XK3993",
+        "もりしー": "AJK8Q8T6972"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "D(J)9539",
+          "revolution": false,
+          "draw": "J",
+          "action": "9539",
+          "action_kind": "prime-or-special",
+          "represented_action": "9539",
+          "play_count": 4,
+          "consumed_count": 4,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)85KQ=2^6*7*J89TA,P(X7A76J4383Q4)",
+          "revolution": false,
+          "draw": "5",
+          "action": "85KQ=2^6*7*J89TA",
+          "action_kind": "composite",
+          "represented_action": "85KQ",
+          "play_count": 4,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "X7A76J4383Q4",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "9853QJXK|X=T#",
+          "revolution": false,
+          "draw": null,
+          "action": "9853QJXK",
+          "action_kind": "prime-or-special",
+          "represented_action": "9853QJTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "joker_values": [
+            "T"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "draw-other",
+      "opening_confidence": "low",
+      "opening_reason": "初手にドローして別行動",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 14,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred"
+          ],
+          "contexts": [],
+          "action": "9853QJXK",
+          "represented_action": "9853QJTK",
+          "play_count": 8,
+          "consumed_count": 8,
+          "hand_before": 8,
+          "hand_after_draw": 8,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KTQJ",
+          "numeric_value": 985312111013,
+          "digit_count": 12,
+          "digit_gain": 4
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "9539",
+            "represented_action": "9539",
+            "play_count": 4,
+            "consumed_count": 4,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": "J",
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 9539,
+            "digit_count": 4,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 14,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred"
+            ],
+            "contexts": [],
+            "action": "9853QJXK",
+            "represented_action": "9853QJTK",
+            "play_count": 8,
+            "consumed_count": 8,
+            "hand_before": 8,
+            "hand_after_draw": 8,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KTQJ",
+            "numeric_value": 985312111013,
+            "digit_count": 12,
+            "digit_gain": 4
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-014",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 14
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 15,
+      "first_player": "もりしー",
+      "second_player": "mickey",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 15 | もりしー vs mickey | start=spreadsheet\nもりしー:(6J3T45774KA)\nmickey:(858A5TJJ6Q2)\nもりしー:D(5)575744A36JTK,P(QX79686K4QQ3)\nmickey:D(2)J2TJQA255688,P(J2873TAK349X)\nもりしー:D(A)57[GC]\nもりしー:D(9)57[GC]\nもりしー:D(K)6664448AA,P(29T5757)\nmickey:987654A2Q8TJ2J2XTKA3J3|X=Q\nもりしー:%\nmickey:D(9)859#",
+      "initial_hands": {
+        "もりしー": "6J3T45774KA",
+        "mickey": "858A5TJJ6Q2"
+      },
+      "events": [
+        {
+          "player": "もりしー",
+          "raw": "D(5)575744A36JTK,P(QX79686K4QQ3)",
+          "revolution": false,
+          "draw": "5",
+          "action": "575744A36JTK",
+          "action_kind": "prime-or-special",
+          "represented_action": "575744A36JTK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "QX79686K4QQ3",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(2)J2TJQA255688,P(J2873TAK349X)",
+          "revolution": false,
+          "draw": "2",
+          "action": "J2TJQA255688",
+          "action_kind": "prime-or-special",
+          "represented_action": "J2TJQA255688",
+          "play_count": 12,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "J2873TAK349X",
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(A)57[GC]",
+          "revolution": false,
+          "draw": "A",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(9)57[GC]",
+          "revolution": false,
+          "draw": "9",
+          "action": "57",
+          "action_kind": "prime-or-special",
+          "represented_action": "57",
+          "play_count": 2,
+          "consumed_count": 2,
+          "joker_values": [],
+          "judgments": [
+            "GC"
+          ],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(K)6664448AA,P(29T5757)",
+          "revolution": false,
+          "draw": "K",
+          "action": "6664448AA",
+          "action_kind": "prime-or-special",
+          "represented_action": "6664448AA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "29T5757",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "987654A2Q8TJ2J2XTKA3J3|X=Q",
+          "revolution": false,
+          "draw": null,
+          "action": "987654A2Q8TJ2J2XTKA3J3",
+          "action_kind": "prime-or-special",
+          "represented_action": "987654A2Q8TJ2J2QTKA3J3",
+          "play_count": 22,
+          "consumed_count": 22,
+          "joker_values": [
+            "Q"
+          ],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "%",
+          "revolution": false,
+          "draw": null,
+          "action": "%",
+          "action_kind": "pass",
+          "represented_action": "",
+          "play_count": 0,
+          "consumed_count": 0,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "D(9)859#",
+          "revolution": false,
+          "draw": "9",
+          "action": "859",
+          "action_kind": "prime-or-special",
+          "represented_action": "859",
+          "play_count": 3,
+          "consumed_count": 3,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "nine-plus",
+      "opening_confidence": "medium",
+      "opening_reason": "初手が12枚出し",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 1,
+          "player": "もりしー",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "all-out-fail",
+            "nine-plus"
+          ],
+          "contexts": [
+            "game-first-action",
+            "after-draw"
+          ],
+          "action": "575744A36JTK",
+          "represented_action": "575744A36JTK",
+          "play_count": 12,
+          "consumed_count": 12,
+          "hand_before": 11,
+          "hand_after_draw": 12,
+          "draw": "5",
+          "penalty": "QX79686K4QQ3",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 575744136111013,
+          "digit_count": 15,
+          "digit_gain": 3
+        },
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 15,
+          "turn_index": 5,
+          "player": "もりしー",
+          "winner": "mickey",
+          "player_won": false,
+          "labels": [
+            "nine-plus"
+          ],
+          "contexts": [
+            "after-draw",
+            "after-57"
+          ],
+          "action": "6664448AA",
+          "represented_action": "6664448AA",
+          "play_count": 9,
+          "consumed_count": 9,
+          "hand_before": 22,
+          "hand_after_draw": 23,
+          "draw": "K",
+          "penalty": "29T5757",
+          "immediate_win": false,
+          "inferred_dual_trump": null,
+          "numeric_value": 666444811,
+          "digit_count": 9,
+          "digit_gain": 0
+        }
+      ],
+      "primary_strategy": {
+        "label": "all-out-fail",
+        "reason": "最初に明確になった先手戦術",
+        "player": "もりしー",
+        "winner": "mickey",
+        "player_won": false,
+        "turn_index": 1,
+        "contexts": [
+          "game-first-action",
+          "after-draw"
+        ],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 15,
+            "turn_index": 1,
+            "player": "もりしー",
+            "winner": "mickey",
+            "player_won": false,
+            "labels": [
+              "all-out-fail",
+              "nine-plus"
+            ],
+            "contexts": [
+              "game-first-action",
+              "after-draw"
+            ],
+            "action": "575744A36JTK",
+            "represented_action": "575744A36JTK",
+            "play_count": 12,
+            "consumed_count": 12,
+            "hand_before": 11,
+            "hand_after_draw": 12,
+            "draw": "5",
+            "penalty": "QX79686K4QQ3",
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 575744136111013,
+            "digit_count": 15,
+            "digit_gain": 3
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-015",
+      "players": [
+        "もりしー",
+        "mickey"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 15
+    },
+    {
+      "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+      "game_no": 16,
+      "first_player": "mickey",
+      "second_player": "もりしー",
+      "raw_block": "### 第2期金剛戦 第36試合 260309金剛戦数譜.docx | game 16 | mickey vs もりしー | start=spreadsheet\nmickey:(A3JKKKQ6J73)\nもりしー:(725A4J6639J)\nmickey:736A3\nもりしー:D(5)JJ976=A234*556,P(XT8XQ4882949)\nmickey:KKJQKJ#",
+      "initial_hands": {
+        "mickey": "A3JKKKQ6J73",
+        "もりしー": "725A4J6639J"
+      },
+      "events": [
+        {
+          "player": "mickey",
+          "raw": "736A3",
+          "revolution": false,
+          "draw": null,
+          "action": "736A3",
+          "action_kind": "prime-or-special",
+          "represented_action": "736A3",
+          "play_count": 5,
+          "consumed_count": 5,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": false
+        },
+        {
+          "player": "もりしー",
+          "raw": "D(5)JJ976=A234*556,P(XT8XQ4882949)",
+          "revolution": false,
+          "draw": "5",
+          "action": "JJ976=A234*556",
+          "action_kind": "composite",
+          "represented_action": "JJ976",
+          "play_count": 5,
+          "consumed_count": 12,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": "XT8XQ4882949",
+          "winner": false
+        },
+        {
+          "player": "mickey",
+          "raw": "KKJQKJ#",
+          "revolution": false,
+          "draw": null,
+          "action": "KKJQKJ",
+          "action_kind": "prime-or-special",
+          "represented_action": "KKJQKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "joker_values": [],
+          "judgments": [],
+          "penalty": null,
+          "winner": true
+        }
+      ],
+      "winner": "mickey",
+      "opening_label": "other",
+      "opening_confidence": "low",
+      "opening_reason": "既存の粗分類に一致しない",
+      "tactical_events": [
+        {
+          "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+          "game_no": 16,
+          "turn_index": 3,
+          "player": "mickey",
+          "winner": "mickey",
+          "player_won": true,
+          "labels": [
+            "dual-wield-inferred",
+            "face-five-prime"
+          ],
+          "contexts": [],
+          "action": "KKJQKJ",
+          "represented_action": "KKJQKJ",
+          "play_count": 6,
+          "consumed_count": 6,
+          "hand_before": 6,
+          "hand_after_draw": 6,
+          "draw": null,
+          "penalty": null,
+          "immediate_win": true,
+          "inferred_dual_trump": "KJQJ",
+          "numeric_value": 131311121311,
+          "digit_count": 12,
+          "digit_gain": 6
+        }
+      ],
+      "primary_strategy": {
+        "label": "dual-wield-inferred",
+        "reason": "最初に明確になった先手戦術",
+        "player": "mickey",
+        "winner": "mickey",
+        "player_won": true,
+        "turn_index": 3,
+        "contexts": [],
+        "subtype": null,
+        "core_events": [
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 1,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [],
+            "contexts": [
+              "setup"
+            ],
+            "action": "736A3",
+            "represented_action": "736A3",
+            "play_count": 5,
+            "consumed_count": 5,
+            "hand_before": 0,
+            "hand_after_draw": 0,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": false,
+            "inferred_dual_trump": null,
+            "numeric_value": 73613,
+            "digit_count": 5,
+            "digit_gain": 0
+          },
+          {
+            "source": "第2期金剛戦 第36試合 260309金剛戦数譜.docx",
+            "game_no": 16,
+            "turn_index": 3,
+            "player": "mickey",
+            "winner": "mickey",
+            "player_won": true,
+            "labels": [
+              "dual-wield-inferred",
+              "face-five-prime"
+            ],
+            "contexts": [],
+            "action": "KKJQKJ",
+            "represented_action": "KKJQKJ",
+            "play_count": 6,
+            "consumed_count": 6,
+            "hand_before": 6,
+            "hand_after_draw": 6,
+            "draw": null,
+            "penalty": null,
+            "immediate_win": true,
+            "inferred_dual_trump": "KJQJ",
+            "numeric_value": 131311121311,
+            "digit_count": 12,
+            "digit_gain": 6
+          }
+        ]
+      },
+      "id": "第2期金剛戦-第36試合-260309金剛戦数譜-docx-016",
+      "players": [
+        "mickey",
+        "もりしー"
+      ],
+      "tournament": "金剛戦",
+      "season": "第2期",
+      "stage": null,
+      "stage_order": 0,
+      "match_id": "金剛戦-第2期-match-036",
+      "match_no": 36,
+      "match_label": "第36試合",
+      "match_players": [
+        "mickey",
+        "もりしー"
+      ],
+      "match_game_no": 16
+    }
+  ]
+}
